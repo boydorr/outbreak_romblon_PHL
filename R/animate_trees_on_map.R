@@ -85,9 +85,9 @@ animate_trees_on_map <- function(links_consensus, case_data, map,
   top_chain_hist$chain_id <- top_chain_hist[[colour_by]]
   
   #Colours for plotting
-  cols_chains <- c("grey50",
-                   "#ebac23", "#b80058", "#008cf9", "#006e00", "#00bbad",
-                   "#d163e6", "#b24502", "#ff9287", "#5954d6", "#00c6f8",
+  cols_chains <- c("#CACACA",
+                   "#008CF9", "#B80058", "#EBAC23", "#006E00", "#00BBAD",
+                   "#D163E6", "#B24502", "#FF9287", "#5954D6", "#00C6F8",
                    "#878500")
   names(cols_chains) <- c(0:9)
   cols_chains <- cols_chains[2:(max(as.numeric(links_consensus[[colour_by]])) + 1)]
