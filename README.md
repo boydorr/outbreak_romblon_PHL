@@ -17,7 +17,7 @@ Rabies is a viral zoonotic disease that kills 160 people daily in low/middle-inc
 This paper combines epidemiological and genomic analyses briefly described below:
 
 1. Trees were generated from publicly available data downloaded from [RABV-GLUE](http://rabv-glue.cvr.gla.ac.uk/#/home) including new sequences generated as part of this study
-2. Epidemiological data is saved as a csv in the data folder and was analysed with data in the R folder, specifically we used:
+2. Epidemiological data is saved as a csv in the data folder and was analysed with scripts in the R folder, specifically we used:
    - process_outbreak_dat.R for basic epidemiological analysis and description, as well as the files in the R/epi folder
    - process_outbreak_dat_for_Romblon_tm_trees.R to process data and run_treerabid.R for generating transmission trees, including animate_trees_on_map.R for the animation
    - simulate_to_first_case.R for case detection simulations, which uses helper functions defined in simulate_helper_fun.R
