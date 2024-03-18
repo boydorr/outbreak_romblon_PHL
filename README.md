@@ -1,6 +1,7 @@
 # Combining genomics and epidemiology to investigate a zoonotic outbreak: rabies in Romblon Province, Philippines
 Public repository for manuscript by: 
 Mirava Yuson*, Criselda T Bautista*, Eleanor M Rees, Carlijn Bogaardt, Van Denn D Cruz, Rowan Durrant, Anna Formstone, Daria L Manalo, Duane R Manzanilla, Leilanie Nacion, Hannaniah Aloyon, Jude Karlo Bolivar, Jeromir Bondoc, Christina Cobbold, Mikolaj Kundergorski, Efraim Panganiban, Shynie Vee M Telmo, Jobin Maestro, Mary Elizabeth G Miranda, Nai Rui Chng, Kirstyn Brunker*, Katie Hampson*
+
 *Equal contributions
 
 This repository contains all the code and de-identified data in this study.
@@ -12,6 +13,7 @@ Additional details on genetic data and alignments etc undertaken outside of R ar
 ## About
 Rabies is a viral zoonotic disease that kills 160 people daily in low/middle-income countries in Africa and Asia where domestic dogs serve as the main vector. ‘Zero by 30’, the global strategy to eliminate human deaths from dog-mediated rabies, promotes a One Health approach underpinned by mass dog vaccination and post-exposure vaccination of bite victims. Using Integrated Bite Case Management (IBCM) and whole genome sequencing (WGS) we enhanced rabies surveillance to detect an outbreak in a formerly rabies-free island province in the Philippines. We inferred that the outbreak was seeded by at least three independent introductions that were identified as coming from nearby rabies-endemic provinces. Considerable transmission went undetected, and two human rabies deaths occurred within 6 months of outbreak detection. We conclude that suspension of routine dog vaccination due to COVID-19 restrictions facilitated rabies spread from these introductions. Emergency response comprising awareness measures and dog vaccination were performed, but swifter and more widespread implementation of these measures are needed to contain and eliminate the outbreak. Strengthened surveillance making use of new tools such as IBCM, WGS  and rapid diagnostic tests can support One Health in action and progress towards the ‘Zero by 30’ goal.
 
+## Methods
 This paper combines epidemiological and genomic analyses briefly described below:
 
 1. Trees were generated from publicly available data downloaded from [RABV-GLUE](http://rabv-glue.cvr.gla.ac.uk/#/home) including new sequences generated as part of this study
