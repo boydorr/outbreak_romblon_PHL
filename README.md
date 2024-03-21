@@ -57,7 +57,7 @@ g) Subset tree to WGS only with gotree prune
 gotree prune -i processed_data/trees/ph_all_581_ft.nwk -f processed_data/wgs_alignment/wgs.names.txt -r -o processed_data/wgs_alignment/ph_wgs_ft.nwk
 ```
 
-h) Perform tree dating using R wrapper for lsd2
+h) Perform tree dating using R wrapper for lsd2  
 7_tree_dating_lsd.R  
 
 i) Use pastml to perform ancestral date reconstruction
