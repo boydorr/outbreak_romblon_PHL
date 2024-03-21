@@ -21,55 +21,56 @@ This paper combines epidemiological and genomic analyses briefly described below
 2. Data were processed as follows:
     a) New WGS and Davao WGS (publicly available) combined and aligned:
 
-```
+```bash
 cat raw_data/phd_data/ph_wg_ctb_29.fasta raw_data/pgc_data/pgcM_wg_49.fasta > processed_data/data_prep/sequences/ph_concat_wgs_78.fasta 
+
 mafft processed_data/data_prep/sequences/ph_concat_wgs_78.fasta > processed_data/data_prep/sequences/ph_concat_wgs_78.aln.fasta
 ```
 
-    b) Custom R scipts to curate, clean and deduplicate sequences and metadata
+b) Custom R scipts to curate, clean and deduplicate sequences and metadata
 1-curate_sequence_metadata.R
 2_clean_sequence_metadata.R
 3_convert_to_isolateID.R
 4_dedup_seq_data.R
 
-    c) Genome sequences added to existing rabv-glue alignment using mafft -add function
+c) Genome sequences added to existing rabv-glue alignment using mafft -add function
 
-```
+```bash
  mafft --keeplength --add processed_data/data_prep/sequences/ph_concat_wgs_78.aln.fasta processed_data/data_prep/sequences/ph_rabv_glue_wg_isolateIds_dedup.fasta > processed_data/concatenated_alignment/ph_all_combined_690.aln.fasta 
  ```
  
-    d) Custom R script to merge sequences from the same sample (but submitted as separate GenBank records). Reduced data to 581 sequences.
+d) Custom R script to merge sequences from the same sample (but submitted as separate GenBank records). Reduced data to 581 sequences.
 5_merge_sequences.R
 
-    e) Reconstruct phylogeny using fasttree on 581 sequence dataset
+e) Reconstruct phylogeny using fasttree on 581 sequence dataset
 
-```
+```bash
 fasttree -gtr -gamma -nt processed_data/concatenated_alignment/ph_all_merged_by_id_581.fasta > processed_data/trees/ph_all_581_ft.nwk
 ```
 
-    f) Custom R scripts to extract WGS data and root trees (WGS only and all data) by time 
+f) Custom R scripts to extract WGS data and root trees (WGS only and all data) by time 
 6_wgs_tree.R
 
-    g) Subset tree to WGS only with gotree prune
+g) Subset tree to WGS only with gotree prune
     
-```
+```bash
 gotree prune -i processed_data/trees/ph_all_581_ft.nwk -f processed_data/wgs_alignment/wgs.names.txt -r -o processed_data/wgs_alignment/ph_wgs_ft.nwk
 ```
 
-    h) Perform tree dating using R wrapper for lsd2
+h) Perform tree dating using R wrapper for lsd2
 7_tree_dating_lsd.R
 
-    i) Use pastml to perform ancestral date reconstruction
+i) Use pastml to perform ancestral date reconstruction
 
 Using Philippines administrative level region as state
 
-```
+```bash
 pastml -t processed_data/dated_trees/all_wgsrate_lsd_CI.date.nexus -d processed_data/concatenated_alignment/ph_metadata_merged_by_id_581_pastml.csv -s ',' -c Region --prediction_method MPPA --root_date 1909.37 --html_compressed processed_data/pastml_analysis/HTML_compressed_all_mppa_region.html --html processed_data/pastml_analysis/HTML_all_mppa_region.html --upload_to_itol -o processed_data/pastml_analysis/all_mppa_region_pastml --work_dir processed_data/pastml_analysis/all_mppa_region --tip_size_threshold 100
 ```
 
 Using Philippines administrative level 
 
-```
+```bash
 pastml -t processed_data/dated_trees/all_wgsrate_lsd_CI.date.nexus -d processed_data/concatenated_alignment/ph_metadata_merged_by_id_581_pastml.csv -s ',' -c Province --prediction_method MPPA --root_date 1909.37 --html_compressed processed_data/pastml_analysis/HTML_compressed_all_mppa_province.html --html processed_data/pastml_analysis/HTML_all_mppa_province.html --upload_to_itol -o processed_data/pastml_analysis/all_mppa_province_pastml --work_dir processed_data/pastml_analysis/all_mppa_province --tip_size_threshold 100
 ```
 
