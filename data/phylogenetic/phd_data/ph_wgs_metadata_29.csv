@@ -1,0 +1,30 @@
+ID,country,year,lineage,brgy,place,province,region,latitude,longitude,species,date
+4A-22-203,Philippines,2022,Asian SEA4_A1.1.2,Guiang-Guiang,Lucena ,Quezon,Calabarzon,13.93834754,121.6153593,Canis familiaris,11-Feb-22
+4B-22-37,Philippines,2022,Asian SEA4_A1.2,San Isidro,Alcantara,Romblon,Southwestern Tagalog Region,12.29784708,122.054934,Canis familiaris,1-Oct-22
+4B-22-39,Philippines,2022,Asian SEA4_A1.2,San Isidro,Alcantara,Romblon,Southwestern Tagalog Region,12.29784708,122.054934,Canis familiaris,21-Oct-22
+4B-22-41,Philippines,2022,Asian SEA4_A1.2,Dapawan,Odiongan,Romblon,Southwestern Tagalog Region,12.39865996,122.0177701,Canis familiaris,24-Nov-22
+4B-22-42,Philippines,2022,Asian SEA4_A1.2,Bonlao,Alcantara,Romblon,Southwestern Tagalog Region,12.29784708,122.054934,Canis familiaris,26-Nov-22
+4B-22-44,Philippines,2022,Asian SEA4_A1.2,Dapawan,Odiongan,Romblon,Southwestern Tagalog Region,12.39865996,122.0177701,Canis familiaris,11-Dec-22
+4B-22-45,Philippines,2022,Asian SEA4_A1.2,Concepcion Sur,Santa Maria,Romblon,Southwestern Tagalog Region,12.40310216,122.0836566,Canis familiaris,12-Dec-22
+4B-23-01,Philippines,2023,Asian SEA4_A1.2,Concepcion Norte,Santa Maria,Romblon,Southwestern Tagalog Region,12.40310216,122.0836566,Canis familiaris,20-Jan-23
+4B-23-02,Philippines,2023,Asian SEA4_A1.2,Dapawan,Odiongan,Romblon,Southwestern Tagalog Region,12.39865996,122.0177701,Canis familiaris,13-Jan-23
+4B-23-03,Philippines,2023,Asian SEA4_A1.1.2,Sugod,San Agustin,Romblon,Southwestern Tagalog Region,12.55403552,122.1124048,Canis familiaris,22-Jan-23
+4B-23-04,Philippines,2023,Asian SEA4_A1.1.2,Carmen,San Agustin,Romblon,Southwestern Tagalog Region,12.55403552,122.1124048,Canis familiaris,31-Jan-23
+4B-23-05,Philippines,2023,Asian SEA4_A1.2,Sugod,San Agustin,Romblon,Southwestern Tagalog Region,12.55403552,122.1124048,Canis familiaris,20-Jan-23
+4B-23-06,Philippines,2023,Asian SEA4_A1.2,Concepcion Norte,Santa Maria,Romblon,Southwestern Tagalog Region,12.40310216,122.0836566,Canis familiaris,2-Feb-23
+4B-23-07,Philippines,2023,Asian SEA4_A1.2,Concepcion Sur,Santa Maria,Romblon,Southwestern Tagalog Region,12.40310216,122.0836566,Canis familiaris,7-Feb-23
+4B-23-11,Philippines,2023,Asian SEA4_A1.2,Jun Carlo,San Andres,Romblon,Southwestern Tagalog Region,12.53642104,122.0469478,Canis familiaris,7-Feb-23
+4B-23-12,Philippines,2023,,Concepcion Norte,Santa Maria,Romblon,Southwestern Tagalog Region,,,Canis familiaris,14-Feb-23
+4B-23-13,Philippines,2023,Asian SEA4_A1.2,Rizal,Odiongan,Romblon,Southwestern Tagalog Region,12.39865996,122.0177701,Canis familiaris,9-Feb-23
+4B-23-15,Philippines,2023,Asian SEA4_A1.2,Poctoy,Odiongan,Romblon,Southwestern Tagalog Region,12.39865996,122.0177701,Canis familiaris,16-Feb-23
+4B-23-16,Philippines,2023,Asian SEA4_A1.2,Dapawan,Odiongan,Romblon,Southwestern Tagalog Region,12.39865996,122.0177701,Canis familiaris,28-Feb-23
+4B-23-17,Philippines,2023,Asian SEA4_A1.2,Poctoy,Odiongan,Romblon,Southwestern Tagalog Region,12.39865996,122.0177701,Canis familiaris,1-Mar-23
+4B-23-19,Philippines,2023,Asian SEA4_A1.2,Mahabang Baybay,San Agustin,Romblon,Southwestern Tagalog Region,12.55403552,122.1124048,Canis familiaris,1-Mar-23
+H-23-011Sk12,Philippines,2023,Asian SEA4_B1,Concepcion Sur,Santa Maria,Romblon,Southwestern Tagalog Region,12.40310216,122.0836566,Homo sapiens,2-Feb-23
+Z-14-098,Philippines,2014,Asian SEA4_A1.1.2,Dita,Cuenca,Batangas,Calabarzon,13.90952328,121.0537657,Canis familiaris,29-Apr-14
+Z-16-082,Philippines,2016,Asian SEA4_A1.1.2,Caingin,Sta. Rosa  ,Laguna,Calabarzon,14.27260264,121.0895167,Canis familiaris,24-May-16
+Z-17-046,Philippines,2017,Asian SEA4_A1.1.2,Bgy. San Fernando,Sto. Tomas,Batangas,Calabarzon,14.07637376,121.1824598,Canis familiaris,6-Mar-17
+Z-18-224,Philippines,2018,Asian SEA4_A1.2,Camarin Rd.,Caloocan  ,Metro Manila,National Capital Region,14.74647256,121.0486805,Canis familiaris,28-Oct-18
+Z-22-103,Philippines,2022,Asian SEA4_A1.2,Paroyhog,Santa Maria,Romblon,Southwestern Tagalog Region,12.40310216,122.0836566,Canis familiaris,21-Nov-22
+Z-22-119,Philippines,2022,,Tulay,Odiongan,Romblon,,,,Canis familiaris,28-Dec-22
+Z-22-121,Philippines,2022,Asian SEA4_A1.1.2,Carmen,San Agustin,Romblon,Southwestern Tagalog Region,12.55403552,122.1124048,Canis familiaris,19-Dec-22

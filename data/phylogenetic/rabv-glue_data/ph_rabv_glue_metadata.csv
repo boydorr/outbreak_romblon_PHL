@@ -1,0 +1,748 @@
+sequence.sequenceID,alignment.displayName,sequence.m49_country.display_name,sequence.collection_year,sequence.earliest_collection_year,brgy,place,province,region,,latitude,longitude,sequence.latest_collection_year,sequence.gb_length,sequence.gb_create_date,sequence.gb_update_date,sequence.host,sequence.gb_pubmed_id,sequence.isolate,seq
+R11-21-61,Asian SEA4,Philippines,,,,Midsayap,Cotabato,Bangsamoro,BARRM,7.136249451,124.5166062,11/08/2021,11872,,,Canis familiaris,,R11-21-61,R11-21-61
+AB563973,Asian SEA4,Philippines,2009,2009,,Tadian,Mountain Province,Cordillera Administrative Region,CAR,,,13/07/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/CAR.PHL/2009/TRa-198,RV/CAR.PHL/2009/TRa-198
+AB563992,Asian SEA4,Philippines,2009,2009,,Besao,Mountain Province,Cordillera Administrative Region,CAR,,,13/08/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/CAR.PHL/2009/TRa-222,RV/CAR.PHL/2009/TRa-222
+AB563993,Asian SEA4,Philippines,2009,2009,,Banaue,Ifugao,Cordillera Administrative Region,CAR,,,26/08/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/CAR.PHL/2009/TRa-224,RV/CAR.PHL/2009/TRa-224
+AB564000,Asian SEA4,Philippines,2009,2009,,Bontoc,Mountain Province,Cordillera Administrative Region,CAR,,,17/09/2009,1575,03-Apr-13,25-Jun-13,-,23593515,RV/CAR.PHL/2009/TRa-234,RV/CAR.PHL/2009/TRa-234
+AB683593,Asian SEA4,Philippines,2009,2009,,,Mountain Province,Cordillera Administrative Region,CAR,,,14/07/2009,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/CAR.PHL/2009/TRa-199,RV/CAR.PHL/2009/TRa-199
+AB683594,Asian SEA4,Philippines,2009,2009,,,Mountain Province,Cordillera Administrative Region,CAR,,,28/07/2009,1124,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/CAR.PHL/2009/TRa-200,RV/CAR.PHL/2009/TRa-200
+AB733961,Asian SEA4,Philippines,2009,2009,,Bontoc,Mountain Province,Cordillera Administrative Region,CAR,,,24/10/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/CAR.PHL/2009/TRa-285,RV/CAR.PHL/2009/TRa-285
+AB733962,Asian SEA4,Philippines,2010,2010,,Alfonso,ifugao,Cordillera Administrative Region,CAR,,,25/01/2010,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/CAR.PHL/2010/TRa-289,RV/CAR.PHL/2010/TRa-289
+AB771910,Asian SEA4,Philippines,2010,2010,,Tabuk,Kalinga Apayao,Cordillera Administrative Region,CAR,,,01/01/2010,698,29-May-13,29-May-13,Canis lupus familiaris,23593515,RV/CAR.PHL/2010/TRa-291,RV/CAR.PHL/2010/TRa-291
+LC018525,Asian SEA4,Philippines,2013,2013,,Tabuk,Kalinga Apayao,Cordillera Administrative Region,CAR,,,25/02/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/CAR.PHL/2013/TRa-370,RV/CAR.PHL/2013/TRa-370
+LC018545,Asian SEA4,Philippines,2013,2013,,Lamut,Ifugao,Cordillera Administrative Region,CAR,,,26/04/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/CAR.PHL/2013/TRa-405,RV/CAR.PHL/2013/TRa-405
+LC018547,Asian SEA4,Philippines,2013,2013,,Lamut,Ifugao,Cordillera Administrative Region,CAR,,,05/04/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/CAR.PHL/2013/TRa-407,RV/CAR.PHL/2013/TRa-407
+LC018548,Asian SEA4,Philippines,2013,2013,,La Trinidad,Benguet,Cordillera Administrative Region,CAR,,,18/02/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/CAR.PHL/2013/TRa-409,RV/CAR.PHL/2013/TRa-409
+LC018586,Asian SEA4,Philippines,2013,2013,,Paracelis,Mountain Province,Cordillera Administrative Region,CAR,,,14/08/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/CAR.PHL/2013/TRa-500,RV/CAR.PHL/2013/TRa-500
+LC018591,Asian SEA4,Philippines,2013,2013,,Tabuk,Kalinga Apayao,Cordillera Administrative Region,CAR,,,19/09/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R2.PHL/2013/TRa-507,RV/R2.PHL/2013/TRa-507
+LC068918,Asian SEA4,Philippines,2013,2013,,,Ifugao,Cordillera Administrative Region,CAR,,,01/10/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/CAR.PHL/2013/TRa-510,RV/CAR.PHL/2013/TRa-510
+LC068941,Asian SEA4,Philippines,2013,2013,,,Mountain Province,Cordillera Administrative Region,CAR,,,07/11/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/CAR.PHL/2013/TRa-571,RV/CAR.PHL/2013/TRa-571
+AB563796,Asian SEA4,Philippines,2004,2004,,,Metro Manila,National Capital Region,NCR,,,07/07/2004,712,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2004/Z-04-421,RV/NCR.PHL/2004/Z-04-421
+AB563799,Asian SEA4,Philippines,2004,2004,,,Metro Manila,National Capital Region,NCR,,,01/09/2004,706,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2004/Z-04-534,RV/NCR.PHL/2004/Z-04-534
+AB563800,Asian SEA4,Philippines,2005,2005,,Quezon City,Metro Manila,National Capital Region,NCR,14.67428047,121.0574986,07/01/2005,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2005/Z-05-009,RV/NCR.PHL/2005/Z-05-009
+AB563803,Asian SEA4,Philippines,2005,2005,,Pasig City,Metro Manila,National Capital Region,NCR,,,15/02/2005,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2005/Z-05-090,RV/NCR.PHL/2005/Z-05-090
+AB563805,Asian SEA4,Philippines,2005,2005,,Pasay City,Metro Manila,National Capital Region,NCR,14.53080944,121.0041508,16/03/2005,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2005/Z-05-149,RV/NCR.PHL/2005/Z-05-149
+AB563806,Asian SEA4,Philippines,2005,2005,,Taguig City,Metro Manila,National Capital Region,NCR,,,29/03/2005,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2005/Z-05-168,RV/NCR.PHL/2005/Z-05-168
+AB563808,Asian SEA4,Philippines,2005,2005,,,Metro Manila,National Capital Region,NCR,,,02/04/2005,659,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2005/Z-05-187,RV/NCR.PHL/2005/Z-05-187
+AB563810,Asian SEA4,Philippines,2005,2005,,,Metro Manila,National Capital Region,NCR,,,01/05/2005,840,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2005/Z-05-285,RV/NCR.PHL/2005/Z-05-285
+AB563811,Asian SEA4,Philippines,2005,2005,,,Metro Manila,National Capital Region,NCR,,,01/06/2005,659,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2005/Z-05-299,RV/NCR.PHL/2005/Z-05-299
+AB563812,Asian SEA4,Philippines,2005,2005,,Parañaque City,Metro Manila,National Capital Region,NCR,14.48357034,121.0147858,18/07/2005,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2005/Z-05-373,RV/NCR.PHL/2005/Z-05-373
+AB563813,Asian SEA4,Philippines,2005,2005,,Las Pinas  ,Metro Manila,National Capital Region,NCR,14.4423825,120.9940879,28/07/2005,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2005/Z-05-396,RV/NCR.PHL/2005/Z-05-396
+AB563814,Asian SEA4,Philippines,2005,2005,,,Metro Manila,National Capital Region,NCR,,,01/08/2005,712,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2005/Z-05-424,RV/NCR.PHL/2005/Z-05-424
+AB563815,Asian SEA4,Philippines,2005,2005,,Pasig City,Metro Manila,National Capital Region,NCR,,,17/09/2005,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2005/Z-05-465,RV/NCR.PHL/2005/Z-05-465
+AB563816,Asian SEA4,Philippines,2005,2005,,Parañaque City,Metro Manila,National Capital Region,NCR,14.48357034,121.0147858,19/09/2005,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2005/Z-05-466,RV/NCR.PHL/2005/Z-05-466
+AB683584,Asian SEA4,Philippines,2004,2004,,Parañaque City,Metro Manila,National Capital Region,NCR,14.48357034,121.0147858,09/09/2004,1575,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2004/Z-04-522,RV/NCR.PHL/2004/Z-04-522
+AB733963,Asian SEA4,Philippines,2004,2004,,Parañaque City,Metro Manila,National Capital Region,NCR,14.48357034,121.0147858,06/12/2004,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/NCR.PHL/2004/Z-04-646,RV/NCR.PHL/2004/Z-04-646
+MN726836,Asian SEA4,Philippines,2013,2013,,BF International,Metro Manila,National Capital Region,NCR,,,02/01/2013,11863,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-13-002,Z-13-002
+MN726840,Asian SEA4,Philippines,2015,2015,,Upper Bicutan,Metro Manila,National Capital Region,NCR,,,04/08/2015,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-15-148,Z-15-148
+MN726843,Asian SEA4,Philippines,2012,2012,,TS Cruz Subd.,Metro Manila,National Capital Region,NCR,,,29/03/2012,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-12-088,Z-12-088
+MN726849,Asian SEA4,Philippines,2015,2015,,Villamor Air Base,Metro Manila,National Capital Region,NCR,,,19/06/2015,10725,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-15-119,Z-15-119
+MN726854,Asian SEA4,Philippines,2015,2015,,San Dionisio,Metro Manila,National Capital Region,NCR,,,18/10/2015,11737,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z15-185,Z15-185
+MN726861,Asian SEA4,Philippines,2015,2015,,Multinational Vill.,Metro Manila,National Capital Region,NCR,,,28/01/2015,11791,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-15-019,Z-15-019
+MN726866,Asian SEA4,Philippines,2014,2014,,"Seacom Compd., Sucat",Metro Manila,National Capital Region,NCR,,,16/06/2014,11765,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-14-138,Z-14-138
+MN726873,Asian SEA4,Philippines,2014,2014,,Tipas,Metro Manila,National Capital Region,NCR,,,02/07/2014,11863,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z14-152,Z14-152
+MN857167,Asian SEA4,Philippines,2019,2019,,Caloocan  ,Metro Manila,National Capital Region,NCR,14.74647256,121.0486805,26/06/2019,11922,16-Mar-20,16-Mar-20,Canis familiaris,-,BAI/BAINCR/2019-01/can,BAI/BAINCR/2019-01/can
+MN857168,Asian SEA4,Philippines,2019,2019,,Quezon City,Metro Manila,National Capital Region,NCR,,,28/05/2019,11922,16-Mar-20,16-Mar-20,Canis familiaris,-,BAI/BAINCR/2019-02/can,BAI/BAINCR/2019-02/can
+MN857169,Asian SEA4,Philippines,2019,2019,,Pasay City,Metro Manila,National Capital Region,NCR,,,31/05/2019,11922,16-Mar-20,16-Mar-20,Canis familiaris,-,BAI/BAINCR/2019-03/can,BAI/BAINCR/2019-03/can
+Z-04-664,Asian SEA4,Philippines,,,Lower Bicutan,Taguig,Metro Manila,National Capital Region,NCR,14.51469695,121.0660524,15/12/2004,11872,,,Canis familiaris,,Z-04-664,Z-04-664
+Z-05-102,Asian SEA4,Philippines,,,,Muntinlupa  ,Metro Manila,National Capital Region,NCR,14.40197636,121.0327847,21/02/2005,11872,,,Canis familiaris,,Z-05-102,Z-05-102
+Z-05-191,Asian SEA4,Philippines,,,Lower Bicutan,Taguig,Metro Manila,National Capital Region,NCR,14.51469695,121.0660524,10/04/2005,11872,,,Canis familiaris,,Z-05-191,Z-05-191
+Z-05-557,Asian SEA4,Philippines,,,Rizal,Makati,Metro Manila,National Capital Region,NCR,14.54943127,121.0335906,03/12/2005,11872,,,Canis familiaris,,Z-05-557,Z-05-557
+Z-05-96,Asian SEA4,Philippines,,,Maywood Sucat,Parañaque City,Metro Manila,National Capital Region,NCR,14.48357034,121.0147858,17/02/2005,11872,,,Canis familiaris,,Z-05-96,Z-05-96
+Z-07-351,Asian SEA4,Philippines,,,-,Taguig  ,Metro Manila,National Capital Region,NCR,14.51469695,121.0660524,25/10/2007,11872,,,Canis familiaris,,Z-07-351,Z-07-351
+Z-07-407,Asian SEA4,Philippines,,,Southland Talon 1,Las Pinas,Metro Manila,National Capital Region,NCR,14.4423825,120.9940879,26/12/2007,11872,,,Canis familiaris,,Z-07-407,Z-07-407
+Z-09-94,Asian SEA4,Philippines,,,Brgy 191,Pasay City,Metro Manila,National Capital Region,NCR,14.53080944,121.0041508,08/04/2009,11872,,,Canis familiaris,,Z-09-94,Z-09-94
+Z-12-029,Asian SEA4,Philippines,,,Sss Village,Marikina  ,Metro Manila,National Capital Region,NCR,14.64718362,121.1030131,03/02/2012,11872,,,Canis familiaris,,Z-12-029,Z-12-029
+Z-12-208,Asian SEA4,Philippines,,,De Paro St.,Caloocan  ,Metro Manila,National Capital Region,NCR,14.74647256,121.0486805,02/10/2012,11872,,,Canis familiaris,,Z-12-208,Z-12-208
+Z-13-020,Asian SEA4,Philippines,,,Sucat,Muntinlupa  ,Metro Manila,National Capital Region,NCR,14.40197636,121.0327847,02/02/2013,11872,,,Canis familiaris,,Z-13-020,Z-13-020
+Z-13-036,Asian SEA4,Philippines,,,Upper Bicutan,Taguig  ,Metro Manila,National Capital Region,NCR,14.51469695,121.0660524,25/02/2013,11872,,,Canis familiaris,,Z-13-036,Z-13-036
+Z-13-073,Asian SEA4,Philippines,,,Bf Homes,Parañaque City,Metro Manila,National Capital Region,NCR,14.48357034,121.0147858,12/04/2013,11872,,,Canis familiaris,,Z-13-073,Z-13-073
+Z-13-096,Asian SEA4,Philippines,,,Bf International,Las Pinas  ,Metro Manila,National Capital Region,NCR,14.4423825,120.9940879,12/05/2013,11872,,,Felis catus,,Z-13-096,Z-13-096
+Z-13-098,Asian SEA4,Philippines,,,-,San Juan  ,Metro Manila,National Capital Region,NCR,14.60295528,121.0338172,13/05/2013,11872,,,Canis familiaris,,Z-13-098,Z-13-098
+Z-13-134,Asian SEA4,Philippines,,,"Sto. Nino Vill.,Tunasan",Muntinlupa  ,Metro Manila,National Capital Region,NCR,14.40197636,121.0327847,10/06/2013,11872,,,Canis familiaris,,Z-13-134,Z-13-134
+Z-14-101,Asian SEA4,Philippines,,,Upper Bicutan,Taguig  ,Metro Manila,National Capital Region,NCR,14.51469695,121.0660524,04/05/2014,11872,,,Canis familiaris,,Z-14-101,Z-14-101
+Z-14-126,Asian SEA4,Philippines,,,Talon 5,Las Pinas  ,Metro Manila,National Capital Region,NCR,14.4423825,120.9940879,31/05/2014,11872,,,Canis familiaris,,Z-14-126,Z-14-126
+Z-15-009,Asian SEA4,Philippines,,,South Triangle,Quezon City,Metro Manila,National Capital Region,NCR,14.67428047,121.0574986,16/01/2015,11872,,,Canis familiaris,,Z-15-009,Z-15-009
+Z-16-150,Asian SEA4,Philippines,,,Putatan,Muntinlupa  ,Metro Manila,National Capital Region,NCR,14.40197636,121.0327847,05/09/2016,11872,,,Canis familiaris,,Z-16-150,Z-16-150
+Z-16-210,Asian SEA4,Philippines,,,Almanza 2,Las Pinas  ,Metro Manila,National Capital Region,NCR,14.4423825,120.9940879,16/12/2016,11872,,,Canis familiaris,,Z-16-210,Z-16-210
+Z-17-174,Asian SEA4,Philippines,,,Poblacion,Muntinlupa ,Metro Manila,National Capital Region,NCR,14.40197636,121.0327847,23/09/2017,11872,,,Canis familiaris,,Z-17-174,Z-17-174
+Z-18-224,Asian SEA4,Philippines,,,Camarin Rd.,Caloocan  ,Metro Manila,National Capital Region,NCR,14.74647256,121.0486805,28/10/2018,11872,,,Canis familiaris,,Z-18-224,Z-18-224
+Z-20-24,Asian SEA4,Philippines,,,Bayanan,Muntinlupa  ,Metro Manila,National Capital Region,NCR,14.40197636,121.0327847,14/02/2020,11872,,,Canis familiaris,,Z-20-24,Z-20-24
+Z-20-33,Asian SEA4,Philippines,,,F.B. Harizon Edsa,Pasay City,Metro Manila,National Capital Region,NCR,14.53080944,121.0041508,18/02/2020,11872,,,Canis familiaris,,Z-20-33,Z-20-33
+Z-98-454,Asian SEA4,Philippines,,,Betterliving Subd,Parañaque City,Metro Manila,National Capital Region,NCR,14.48357034,121.0147858,04/05/1998,11872,,,Canis familiaris,,Z-98-454,Z-98-454
+Z-98-515,Asian SEA4,Philippines,,,Cupang,Muntinlupa,Metro Manila,National Capital Region,NCR,14.40197636,121.0327847,20/05/1998,11872,,,Canis familiaris,,Z-98-515,Z-98-515
+Z-98-838,Asian SEA4,Philippines,,,Upper Bicutan,Taguig,Metro Manila,National Capital Region,NCR,14.51469695,121.0660524,09/08/1998,11872,,,Canis familiaris,,Z-98-838,Z-98-838
+AB563909,Asian SEA4,Philippines,2008,2008,,Lingayen,Pangasinan,Ilocos Region,Region I,,,03/12/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2008/TRa-094,RV/R1.PHL/2008/TRa-094
+AB563951,Asian SEA4,Philippines,2009,2009,,Asingan,Pangasinan,Ilocos Region,Region I,,,05/03/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-150,RV/R1.PHL/2009/TRa-150
+AB563952,Asian SEA4,Philippines,2009,2009,,Asingan,Pangasinan,Ilocos Region,Region I,,,05/03/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-151,RV/R1.PHL/2009/TRa-151
+AB563956,Asian SEA4,Philippines,2009,2009,,San Jacinto,Pangasinan,Ilocos Region,Region I,,,02/04/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-159,RV/R1.PHL/2009/TRa-159
+AB563981,Asian SEA4,Philippines,2009,2009,,San Carlos City,Pangasinan,Ilocos Region,Region I,,,27/04/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-208,RV/R1.PHL/2009/TRa-208
+AB563982,Asian SEA4,Philippines,2009,2009,,Pozorrubio,Pangasinan,Ilocos Region,Region I,,,11/05/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-209,RV/R1.PHL/2009/TRa-209
+AB563983,Asian SEA4,Philippines,2009,2009,,Urdaneta,Pangasinan,Ilocos Region,Region I,,,25/05/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-210,RV/R1.PHL/2009/TRa-210
+AB563984,Asian SEA4,Philippines,2009,2009,,Binmaley,Pangasinan,Ilocos Region,Region I,,,10/06/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-213,RV/R1.PHL/2009/TRa-213
+AB563985,Asian SEA4,Philippines,2009,2009,,Bani,Pangasinan,Ilocos Region,Region I,,,15/06/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-214,RV/R1.PHL/2009/TRa-214
+AB563986,Asian SEA4,Philippines,2009,2009,,Manaoag,Pangasinan,Ilocos Region,Region I,,,17/06/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-215,RV/R1.PHL/2009/TRa-215
+AB563987,Asian SEA4,Philippines,2009,2009,,Aringay,La Union,Ilocos Region,Region I,,,29/06/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-216,RV/R1.PHL/2009/TRa-216
+AB563988,Asian SEA4,Philippines,2009,2009,,San Fernando,La Union,Ilocos Region,Region I,,,13/07/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-218,RV/R1.PHL/2009/TRa-218
+AB563989,Asian SEA4,Philippines,2009,2009,,Urbiztondo,Pangasinan,Ilocos Region,Region I,,,20/07/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-219,RV/R1.PHL/2009/TRa-219
+AB563991,Asian SEA4,Philippines,2009,2009,,San Carlos City,Pangasinan,Ilocos Region,Region I,,,23/07/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-221,RV/R1.PHL/2009/TRa-221
+AB563999,Asian SEA4,Philippines,2009,2009,,Bontoc,IlocosSur,Ilocos Region,Region I,,,16/09/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-233,RV/R1.PHL/2009/TRa-233
+AB683599,Asian SEA4,Philippines,2009,2009,,,Pangasinan,Ilocos Region,Region I,,,11/03/2009,1124,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-153,RV/R1.PHL/2009/TRa-153
+AB683600,Asian SEA4,Philippines,2009,2009,,,Pangasinan,Ilocos Region,Region I,,,13/03/2009,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-154,RV/R1.PHL/2009/TRa-154
+AB683601,Asian SEA4,Philippines,2009,2009,,,Pangasinan,Ilocos Region,Region I,,,23/03/2009,1124,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-156,RV/R1.PHL/2009/TRa-156
+AB683602,Asian SEA4,Philippines,2009,2009,,,Pangasinan,Ilocos Region,Region I,,,31/03/2009,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-157,RV/R1.PHL/2009/TRa-157
+AB683604,Asian SEA4,Philippines,2009,2009,,,Pangasinan,Ilocos Region,Region I,,,13/04/2009,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-161,RV/R1.PHL/2009/TRa-161
+AB683607,Asian SEA4,Philippines,2009,2009,,,Pangasinan,Ilocos Region,Region I,,,22/07/2009,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-220,RV/R1.PHL/2009/TRa-220
+AB733964,Asian SEA4,Philippines,2009,2009,,San Manuel,Pangasinan,Ilocos Region,Region I,,,03/08/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-256,RV/R1.PHL/2009/TRa-256
+AB733965,Asian SEA4,Philippines,2009,2009,,Bani,Pangasinan,Ilocos Region,Region I,,,11/08/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-257,RV/R1.PHL/2009/TRa-257
+AB733966,Asian SEA4,Philippines,2009,2009,,Agno,Pangasinan,Ilocos Region,Region I,,,18/08/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-258,RV/R1.PHL/2009/TRa-258
+AB733967,Asian SEA4,Philippines,2009,2009,,San Carlos City,Pangasinan,Ilocos Region,Region I,,,14/08/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-259,RV/R1.PHL/2009/TRa-259
+AB733968,Asian SEA4,Philippines,2009,2009,,Alcala,Pangasinan,Ilocos Region,Region I,,,17/08/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-260,RV/R1.PHL/2009/TRa-260
+AB733969,Asian SEA4,Philippines,2009,2009,,Dagupan City,Pangasinan,Ilocos Region,Region I,,,14/10/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-263,RV/R1.PHL/2009/TRa-263
+AB733970,Asian SEA4,Philippines,2009,2009,,Tagudin,IlocosSur,Ilocos Region,Region I,,,21/10/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-265,RV/R1.PHL/2009/TRa-265
+AB733971,Asian SEA4,Philippines,2010,2010,,Suyo,IlocosSur,Ilocos Region,Region I,,,04/01/2010,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2010/TRa-286,RV/R1.PHL/2010/TRa-286
+AB733972,Asian SEA4,Philippines,2010,2010,,San Carlos City,Pangasinan,Ilocos Region,Region I,,,11/01/2010,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2010/TRa-299,RV/R1.PHL/2010/TRa-299
+AB733973,Asian SEA4,Philippines,2010,2010,,Alcala,Pangasinan,Ilocos Region,Region I,,,15/02/2010,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R1.PHL/2010/TRa-300,RV/R1.PHL/2010/TRa-300
+AB771911,Asian SEA4,Philippines,2009,2009,,Dagupan City,Pangasinan,Ilocos Region,Region I,,,01/09/2009,698,29-May-13,29-May-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-262,RV/R1.PHL/2009/TRa-262
+AB771912,Asian SEA4,Philippines,2009,2009,,Urdaneta,Pangasinan,Ilocos Region,Region I,,,01/11/2009,698,29-May-13,29-May-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-266,RV/R1.PHL/2009/TRa-266
+AB771913,Asian SEA4,Philippines,2009,2009,,San Manuel,Pangasinan,Ilocos Region,Region I,,,01/12/2009,698,29-May-13,29-May-13,Canis lupus familiaris,23593515,RV/R1.PHL/2009/TRa-267,RV/R1.PHL/2009/TRa-267
+AB771914,Asian SEA4,Philippines,2010,2010,,Vigan ,IlocosSur,Ilocos Region,Region I,,,02/01/2010,698,29-May-13,29-May-13,Canis lupus familiaris,23593515,RV/R1.PHL/2010/TRa-287,RV/R1.PHL/2010/TRa-287
+AB771915,Asian SEA4,Philippines,2010,2010,,Laoac,Pangasinan,Ilocos Region,Region I,,,03/01/2010,698,29-May-13,29-May-13,Canis lupus familiaris,23593515,RV/R1.PHL/2010/TRa-298,RV/R1.PHL/2010/TRa-298
+LC018497,Asian SEA4,Philippines,2012,2012,,Bolinao,Pangasinan,Ilocos Region,Region I,,,06/01/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-320,RV/R1.PHL/2012/TRa-320
+LC018498,Asian SEA4,Philippines,2012,2012,,Alaminos,Pangasinan,Ilocos Region,Region I,14.04459696,121.2475488,17/02/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-323,RV/R1.PHL/2012/TRa-323
+LC018499,Asian SEA4,Philippines,2012,2012,,Bolinao,Pangasinan,Ilocos Region,Region I,,,11/03/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-324,RV/R1.PHL/2012/TRa-324
+LC018500,Asian SEA4,Philippines,2012,2012,,Alaminos,Pangasinan,Ilocos Region,Region I,14.04459696,121.2475488,12/03/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-325,RV/R1.PHL/2012/TRa-325
+LC018501,Asian SEA4,Philippines,2012,2012,,Mangatarem,Pangasinan,Ilocos Region,Region I,,,10/04/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-327,RV/R1.PHL/2012/TRa-327
+LC018526,Asian SEA4,Philippines,2012,2012,,San Carlos City,Pangasinan,Ilocos Region,Region I,,,08/05/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-375,RV/R1.PHL/2012/TRa-375
+LC018527,Asian SEA4,Philippines,2012,2012,,Alcala,Pangasinan,Ilocos Region,Region I,,,08/05/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-376,RV/R1.PHL/2012/TRa-376
+LC018528,Asian SEA4,Philippines,2012,2012,,Santa Barabara,Pangasinan,Ilocos Region,Region I,,,15/05/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-377,RV/R1.PHL/2012/TRa-377
+LC018529,Asian SEA4,Philippines,2012,2012,,Santa Barabara,Pangasinan,Ilocos Region,Region I,,,29/05/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-378,RV/R1.PHL/2012/TRa-378
+LC018530,Asian SEA4,Philippines,2012,2012,,San Jacinto,Pangasinan,Ilocos Region,Region I,,,07/06/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-379,RV/R1.PHL/2012/TRa-379
+LC018531,Asian SEA4,Philippines,2012,2012,,Manaoag,Pangasinan,Ilocos Region,Region I,,,13/06/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-381,RV/R1.PHL/2012/TRa-381
+LC018532,Asian SEA4,Philippines,2012,2012,,Aringay,La Union,Ilocos Region,Region I,,,05/11/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-382,RV/R1.PHL/2012/TRa-382
+LC018533,Asian SEA4,Philippines,2012,2012,,Sual,Pangasinan,Ilocos Region,Region I,,,14/11/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-383,RV/R1.PHL/2012/TRa-383
+LC018534,Asian SEA4,Philippines,2012,2012,,San Jacinto,Pangasinan,Ilocos Region,Region I,,,19/12/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2012/TRa-384,RV/R1.PHL/2012/TRa-384
+LC018546,Asian SEA4,Philippines,2013,2013,,Santa Cruz,IlocosSur,Ilocos Region,Region I,,,14/04/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R1.PHL/2013/TRa-406,RV/R1.PHL/2013/TRa-406
+LC068932,Asian SEA4,Philippines,2013,2013,,,Bulacan,Ilocos Region,Region I,,,05/10/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-548,RV/R3.PHL/2013/TRa-548
+LC068940,Asian SEA4,Philippines,2013,2013,,,IlocosSur,Ilocos Region,Region I,,,06/11/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R1.PHL/2013/TRa-569,RV/R1.PHL/2013/TRa-569
+LC068942,Asian SEA4,Philippines,2013,2013,,,La Union,Ilocos Region,Region I,,,08/11/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R1.PHL/2013/TRa-572,RV/R1.PHL/2013/TRa-572
+LC068943,Asian SEA4,Philippines,2013,2013,,,La Union,Ilocos Region,Region I,,,09/11/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R1.PHL/2013/TRa-573,RV/R1.PHL/2013/TRa-573
+MN726857,Asian SEA4,Philippines,2016,2016,,"Torac, Malay",Pangasinan,Ilocos Region,Region I,,,21/07/2016,11553,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,RADDL1-16-154,RADDL1-16-154
+R1-21-148,Asian SEA4,Philippines,,,Malibong,Urbiztondo,Pangasinan,Ilocos Region,Region I,15.82353439,120.3636915,10/04/2021,11872,,,Canis familiaris,,R1-21-148,R1-21-148
+RADDL1-16-153,Asian SEA4,Philippines,,,Real,Urbiztondo,Pangasinan,Ilocos Region,Region I,15.82353439,120.3636915,18/07/2016,11872,,,Canis familiaris,,RADDL1-16-153,RADDL1-16-153
+RADDL1-16-166,Asian SEA4,Philippines,,,West,Pabling,Pangasinan,Ilocos Region,Region I,,,09/08/2016,11872,,,Canis familiaris,,RADDL1-16-166,RADDL1-16-166
+AB683616,Asian SEA4,Philippines,2009,2009,,,Cagayan,Cagayan Valley,Region II,,,26/02/2009,1124,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R2.PHL/2009/TRa-142,RV/R2.PHL/2009/TRa-142
+AB733974,Asian SEA4,Philippines,2009,2009,,San Mateo,Isabela City,Cagayan Valley,Region II,,,03/07/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R2.PHL/2009/TRa-279,RV/R2.PHL/2009/TRa-279
+AB733975,Asian SEA4,Philippines,2009,2009,,Santiago City,Isabela City,Cagayan Valley,Region II,,,25/11/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R2.PHL/2009/TRa-283,RV/R2.PHL/2009/TRa-283
+AB733976,Asian SEA4,Philippines,2009,2009,,San Agustin,Isabela,Cagayan Valley,Region II,,,25/11/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R2.PHL/2009/TRa-284,RV/R2.PHL/2009/TRa-284
+LC018555,Asian SEA4,Philippines,2013,2013,,Piat,Cagayan,Cagayan Valley,Region II,,,02/05/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R2.PHL/2013/TRa-435,RV/R2.PHL/2013/TRa-435
+LC018556,Asian SEA4,Philippines,2013,2013,,Bayombong,Nueva Vizcaya,Cagayan Valley,Region II,,,15/05/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R2.PHL/2013/TRa-437,RV/R2.PHL/2013/TRa-437
+LC018557,Asian SEA4,Philippines,2013,2013,,Lasam,Cagayan,Cagayan Valley,Region II,,,17/05/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R2.PHL/2013/TRa-439,RV/R2.PHL/2013/TRa-439
+LC018587,Asian SEA4,Philippines,2013,2013,,Kasilbu,Nueva Vizcaya,Cagayan Valley,Region II,,,05/07/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R2.PHL/2013/TRa-503,RV/R2.PHL/2013/TRa-503
+LC018588,Asian SEA4,Philippines,2013,2013,,Bagabag,Nueva Vizcaya,Cagayan Valley,Region II,,,30/07/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R2.PHL/2013/TRa-504,RV/R2.PHL/2013/TRa-504
+LC018589,Asian SEA4,Philippines,2013,2013,,San Mateo,Isabela City,Cagayan Valley,Region II,,,08/08/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R2.PHL/2013/TRa-505,RV/R2.PHL/2013/TRa-505
+LC018590,Asian SEA4,Philippines,2013,2013,,Peñablanca,Cagayan,Cagayan Valley,Region II,,,17/09/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R2.PHL/2013/TRa-506,RV/R2.PHL/2013/TRa-506
+R2-081,Asian SEA4,Philippines,,,Ugac Norte,Tuguegarao  ,Cagayan,Cagayan Valley,Region II,17.60612446,121.7593619,31/08/2020,11872,,,Canis familiaris,,R2-081,R2-081
+AB563798,Asian SEA4,Philippines,2004,2004,,Baler,Aurora,Central Luzon,Region III,,,18/09/2004,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2004/Z-04-519,RV/R3.PHL/2004/Z-04-519
+AB563809,Asian SEA4,Philippines,2005,2005,,Palayan,Nueva Ecija,Central Luzon,Region III,,,13/04/2005,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2005/Z-05-198,RV/R3.PHL/2005/Z-05-198
+AB563817,Asian SEA4,Philippines,2005,2005,,Norzagaray,Bulacan,Central Luzon,Region III,,,27/10/2005,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2005/Z-05-507,RV/R3.PHL/2005/Z-05-507
+AB563838,Asian SEA4,Philippines,2008,2008,,San Simon,Pampanga,Central Luzon,Region III,,,12/06/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-002,RV/R3.PHL/2008/TRa-002
+AB563840,Asian SEA4,Philippines,2008,2008,,Minalin,Pampanga,Central Luzon,Region III,,,19/06/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-006,RV/R3.PHL/2008/TRa-006
+AB563841,Asian SEA4,Philippines,2008,2008,,Lupao,Nueva Ecija,Central Luzon,Region III,,,24/06/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-009,RV/R3.PHL/2008/TRa-009
+AB563842,Asian SEA4,Philippines,2008,2008,,Santa Ana,Pampanga,Central Luzon,Region III,,,30/06/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-010,RV/R3.PHL/2008/TRa-010
+AB563843,Asian SEA4,Philippines,2008,2008,,Subic,Zambales,Central Luzon,Region III,,,02/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-011,RV/R3.PHL/2008/TRa-011
+AB563844,Asian SEA4,Philippines,2008,2008,,Concepcion,Tarlac,Central Luzon,Region III,,,09/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-013,RV/R3.PHL/2008/TRa-013
+AB563846,Asian SEA4,Philippines,2008,2008,,San Antonio,Zambales,Central Luzon,Region III,,,21/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-016,RV/R3.PHL/2008/TRa-016
+AB563847,Asian SEA4,Philippines,2008,2008,,San Antonio,Zambales,Central Luzon,Region III,,,28/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-018,RV/R3.PHL/2008/TRa-018
+AB563848,Asian SEA4,Philippines,2008,2008,,Mabalacat,Pampanga,Central Luzon,Region III,,,28/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-019,RV/R3.PHL/2008/TRa-019
+AB563849,Asian SEA4,Philippines,2008,2008,,Santa Rita,Pampanga,Central Luzon,Region III,,,28/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-020,RV/R3.PHL/2008/TRa-020
+AB563850,Asian SEA4,Philippines,2008,2008,,Quezon,Nueva Ecija,Central Luzon,Region III,,,28/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-021,RV/R3.PHL/2008/TRa-021
+AB563851,Asian SEA4,Philippines,2008,2008,,Mabalacat,Pampanga,Central Luzon,Region III,,,28/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-022,RV/R3.PHL/2008/TRa-022
+AB563863,Asian SEA4,Philippines,2008,2008,,San Fernando,Pampanga,Central Luzon,Region III,,,04/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-038,RV/R3.PHL/2008/TRa-038
+AB563864,Asian SEA4,Philippines,2008,2008,,San Felipe,Zambales,Central Luzon,Region III,,,08/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-040,RV/R3.PHL/2008/TRa-040
+AB563865,Asian SEA4,Philippines,2008,2008,,Moncada,Tarlac,Central Luzon,Region III,,,11/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-041,RV/R3.PHL/2008/TRa-041
+AB563866,Asian SEA4,Philippines,2008,2008,,,Pampanga,Central Luzon,Region III,,,01/08/2008,710,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-045,RV/R3.PHL/2008/TRa-045
+AB563867,Asian SEA4,Philippines,2008,2008,,San Narciso,Zambales,Central Luzon,Region III,,,26/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-047,RV/R3.PHL/2008/TRa-047
+AB563868,Asian SEA4,Philippines,2008,2008,,San Narciso,Zambales,Central Luzon,Region III,,,27/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-048,RV/R3.PHL/2008/TRa-048
+AB563869,Asian SEA4,Philippines,2008,2008,,Candaba,Pampanga,Central Luzon,Region III,,,29/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-049,RV/R3.PHL/2008/TRa-049
+AB563870,Asian SEA4,Philippines,2008,2008,,Magalang,Pampanga,Central Luzon,Region III,,,09/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-051,RV/R3.PHL/2008/TRa-051
+AB563878,Asian SEA4,Philippines,2008,2008,,Mexico,Pampanga,Central Luzon,Region III,,,10/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-059,RV/R3.PHL/2008/TRa-059
+AB563879,Asian SEA4,Philippines,2008,2008,,Magalang,Pampanga,Central Luzon,Region III,,,15/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-060,RV/R3.PHL/2008/TRa-060
+AB563880,Asian SEA4,Philippines,2008,2008,,Mabalacat,Pampanga,Central Luzon,Region III,,,23/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-061,RV/R3.PHL/2008/TRa-061
+AB563881,Asian SEA4,Philippines,2008,2008,,Licab,Nueva Ecija,Central Luzon,Region III,,,24/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-062,RV/R3.PHL/2008/TRa-062
+AB563882,Asian SEA4,Philippines,2008,2008,,Rizal,Nueva Ecija,Central Luzon,Region III,,,25/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-063,RV/R3.PHL/2008/TRa-063
+AB563883,Asian SEA4,Philippines,2008,2008,,Masantol,Pampanga,Central Luzon,Region III,,,29/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-064,RV/R3.PHL/2008/TRa-064
+AB563884,Asian SEA4,Philippines,2008,2008,,San Jose City,Nueva Ecija,Central Luzon,Region III,15.78462183,120.9975839,10/10/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-065,RV/R3.PHL/2008/TRa-065
+AB563885,Asian SEA4,Philippines,2008,2008,,San Simon,Pampanga,Central Luzon,Region III,,,13/10/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-066,RV/R3.PHL/2008/TRa-066
+AB563901,Asian SEA4,Philippines,2008,2008,,Candaba,Pampanga,Central Luzon,Region III,,,20/10/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-086,RV/R3.PHL/2008/TRa-086
+AB563902,Asian SEA4,Philippines,2008,2008,,Santa Rita,Pampanga,Central Luzon,Region III,,,03/11/2008,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-087,RV/R3.PHL/2008/TRa-087
+AB563903,Asian SEA4,Philippines,2008,2008,,Minalin,Pampanga,Central Luzon,Region III,,,04/11/2008,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-088,RV/R3.PHL/2008/TRa-088
+AB563904,Asian SEA4,Philippines,2008,2008,,Laur,Nueva Ecija,Central Luzon,Region III,,,10/11/2008,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-089,RV/R3.PHL/2008/TRa-089
+AB563905,Asian SEA4,Philippines,2008,2008,,Macabebe,Pampanga,Central Luzon,Region III,,,12/11/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-090,RV/R3.PHL/2008/TRa-090
+AB563906,Asian SEA4,Philippines,2008,2008,,San Luis,Pampanga,Central Luzon,Region III,,,19/11/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-091,RV/R3.PHL/2008/TRa-091
+AB563907,Asian SEA4,Philippines,2008,2008,,Santa Rita,Pampanga,Central Luzon,Region III,,,25/11/2008,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-092,RV/R3.PHL/2008/TRa-092
+AB563908,Asian SEA4,Philippines,2008,2008,,Angeles  ,Pampanga,Central Luzon,Region III,15.14555779,120.5862479,02/12/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-093,RV/R3.PHL/2008/TRa-093
+AB563910,Asian SEA4,Philippines,2008,2008,,Laur,Nueva Ecija,Central Luzon,Region III,,,05/12/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-095,RV/R3.PHL/2008/TRa-095
+AB563924,Asian SEA4,Philippines,2008,2008,,Mabalacat,Pampanga,Central Luzon,Region III,,,09/12/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-111,RV/R3.PHL/2008/TRa-111
+AB563925,Asian SEA4,Philippines,2008,2008,,Castillejos,Pampanga,Central Luzon,Region III,,,17/12/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-112,RV/R3.PHL/2008/TRa-112
+AB563926,Asian SEA4,Philippines,2009,2009,,Munoz,Zambales,Central Luzon,Region III,,,05/01/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-113,RV/R3.PHL/2009/TRa-113
+AB563927,Asian SEA4,Philippines,2009,2009,,San Marcelino,Zambales,Central Luzon,Region III,,,06/01/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-114,RV/R3.PHL/2009/TRa-114
+AB563928,Asian SEA4,Philippines,2009,2009,,Santa Ana,Pampanga,Central Luzon,Region III,,,29/01/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-115,RV/R3.PHL/2009/TRa-115
+AB563929,Asian SEA4,Philippines,2009,2009,,San Felipe,Zambales,Central Luzon,Region III,,,14/01/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-116,RV/R3.PHL/2009/TRa-116
+AB563930,Asian SEA4,Philippines,2009,2009,,Candaba,Pampanga,Central Luzon,Region III,,,19/01/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-117,RV/R3.PHL/2009/TRa-117
+AB563931,Asian SEA4,Philippines,2009,2009,,San Luis,Pampanga,Central Luzon,Region III,,,26/01/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-118,RV/R3.PHL/2009/TRa-118
+AB563932,Asian SEA4,Philippines,2008,2008,,,Zambales,Central Luzon,Region III,,,01/12/2008,743,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-119,RV/R3.PHL/2008/TRa-119
+AB563937,Asian SEA4,Philippines,2009,2009,,Masantol,Pampanga,Central Luzon,Region III,,,02/02/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-127,RV/R3.PHL/2009/TRa-127
+AB563938,Asian SEA4,Philippines,2009,2009,,Palayan,Nueva Ecija,Central Luzon,Region III,,,02/02/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-128,RV/R3.PHL/2009/TRa-128
+AB563939,Asian SEA4,Philippines,2009,2009,,San Luis,Pampanga,Central Luzon,Region III,,,01/02/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-129,RV/R3.PHL/2009/TRa-129
+AB563940,Asian SEA4,Philippines,2009,2009,,Angeles  ,Pampanga,Central Luzon,Region III,15.14555779,120.5862479,13/02/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-130,RV/R3.PHL/2009/TRa-130
+AB563941,Asian SEA4,Philippines,2009,2009,,,Pampanga,Central Luzon,Region III,,,01/02/2009,805,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-131,RV/R3.PHL/2009/TRa-131
+AB563942,Asian SEA4,Philippines,2009,2009,,Santo Tomas,Pampanga,Central Luzon,Region III,,,23/02/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-133,RV/R3.PHL/2009/TRa-133
+AB563943,Asian SEA4,Philippines,2009,2009,,Pantabangan,Nueva Ecija,Central Luzon,Region III,,,26/02/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-134,RV/R3.PHL/2009/TRa-134
+AB563944,Asian SEA4,Philippines,2009,2009,,Santa Ana,Pampanga,Central Luzon,Region III,,,05/03/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-135,RV/R3.PHL/2009/TRa-135
+AB563945,Asian SEA4,Philippines,2009,2009,,San Antonio,Nueva Ecija,Central Luzon,Region III,,,29/03/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-136,RV/R3.PHL/2009/TRa-136
+AB563976,Asian SEA4,Philippines,2009,2009,,San Leonardo,Nueva Ecija,Central Luzon,Region III,,,12/05/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-201,RV/R3.PHL/2009/TRa-201
+AB563977,Asian SEA4,Philippines,2009,2009,,Masinloc,Zambales,Central Luzon,Region III,,,13/05/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-202,RV/R3.PHL/2009/TRa-202
+AB563978,Asian SEA4,Philippines,2009,2009,,San Luis,Pampanga,Central Luzon,Region III,,,22/05/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-204,RV/R3.PHL/2009/TRa-204
+AB563979,Asian SEA4,Philippines,2009,2009,,San Jose City,Nueva Ecija,Central Luzon,Region III,15.78462183,120.9975839,25/05/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-205,RV/R3.PHL/2009/TRa-205
+AB563980,Asian SEA4,Philippines,2009,2009,,Porac,Pampanga,Central Luzon,Region III,,,07/07/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-206,RV/R3.PHL/2009/TRa-206
+AB683585,Asian SEA4,Philippines,2008,2008,,Mexico,Pampanga,Central Luzon,Region III,,,23/07/2008,1575,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R3.PHL/2008/TRa-017,RV/R3.PHL/2008/TRa-017
+AB683623,Asian SEA4,Philippines,2009,2009,,,Nueva Ecija,Central Luzon,Region III,,,20/02/2009,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R3.PHL/2009/TRa-132,RV/R3.PHL/2009/TRa-132
+LC018482,Asian SEA4,Philippines,2012,2012,,Capas,Tarlac,Central Luzon,Region III,,,16/02/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-302,RV/R3.PHL/2012/TRa-302
+LC018483,Asian SEA4,Philippines,2012,2012,,Hagonoy,Bulacan,Central Luzon,Region III,,,23/04/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-303,RV/R3.PHL/2012/TRa-303
+LC018484,Asian SEA4,Philippines,2012,2012,,Candaba,Pampanga,Central Luzon,Region III,,,25/04/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-305,RV/R3.PHL/2012/TRa-305
+LC018485,Asian SEA4,Philippines,2012,2012,,Guimba,Nueva Ecija,Central Luzon,Region III,,,15/05/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-306,RV/R3.PHL/2012/TRa-306
+LC018486,Asian SEA4,Philippines,2012,2012,,Bamban,Tarlac,Central Luzon,Region III,,,22/05/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-307,RV/R3.PHL/2012/TRa-307
+LC018487,Asian SEA4,Philippines,2012,2012,,Santa Maria,Bulacan,Central Luzon,Region III,,,07/06/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-308,RV/R3.PHL/2012/TRa-308
+LC018488,Asian SEA4,Philippines,2012,2012,,Capas,Tarlac,Central Luzon,Region III,,,09/07/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-309,RV/R3.PHL/2012/TRa-309
+LC018489,Asian SEA4,Philippines,2012,2012,,Santa Maria,Bulacan,Central Luzon,Region III,,,26/07/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-310,RV/R3.PHL/2012/TRa-310
+LC018491,Asian SEA4,Philippines,2012,2012,,Zaragosa,Nueva Ecija,Central Luzon,Region III,,,30/07/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-312,RV/R3.PHL/2012/TRa-312
+LC018492,Asian SEA4,Philippines,2012,2012,,Hagonoy,Bulacan,Central Luzon,Region III,,,18/09/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-313,RV/R3.PHL/2012/TRa-313
+LC018493,Asian SEA4,Philippines,2012,2012,,Concepcion,Tarlac,Central Luzon,Region III,,,19/09/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-314,RV/R3.PHL/2012/TRa-314
+LC018494,Asian SEA4,Philippines,2012,2012,,San Jose del Monte,Bulacan,Central Luzon,Region III,,,16/12/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-315,RV/R3.PHL/2012/TRa-315
+LC018496,Asian SEA4,Philippines,2012,2012,,Marilao,Bulacan,Central Luzon,Region III,,,28/12/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-318,RV/R3.PHL/2012/TRa-318
+LC018508,Asian SEA4,Philippines,2013,2013,,San Simon,Pampanga,Central Luzon,Region III,,,16/01/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-346,RV/R3.PHL/2013/TRa-346
+LC018509,Asian SEA4,Philippines,2013,2013,,Licab,Nueva Ecija,Central Luzon,Region III,,,23/01/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-347,RV/R3.PHL/2013/TRa-347
+LC018510,Asian SEA4,Philippines,2013,2013,,San Antonio,Nueva Ecija,Central Luzon,Region III,,,23/01/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-348,RV/R3.PHL/2013/TRa-348
+LC018511,Asian SEA4,Philippines,2013,2013,,San Antonio,Nueva Ecija,Central Luzon,Region III,,,23/01/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-349,RV/R3.PHL/2013/TRa-349
+LC018512,Asian SEA4,Philippines,2013,2013,,Malolos,Bulacan,Central Luzon,Region III,14.82958643,120.8367451,05/02/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-350,RV/R3.PHL/2013/TRa-350
+LC018514,Asian SEA4,Philippines,2013,2013,,San Jose del Monte,Bulacan,Central Luzon,Region III,,,05/02/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-352,RV/R3.PHL/2013/TRa-352
+LC018516,Asian SEA4,Philippines,2013,2013,,Baliuag,Bulacan,Central Luzon,Region III,,,05/02/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-354,RV/R3.PHL/2013/TRa-354
+LC018559,Asian SEA4,Philippines,2013,2013,,San Jose del Monte,Bulacan,Central Luzon,Region III,,,21/02/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-442,RV/R3.PHL/2013/TRa-442
+LC018561,Asian SEA4,Philippines,2013,2013,,San Jose del Monte,Bulacan,Central Luzon,Region III,,,14/02/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-444,RV/R3.PHL/2013/TRa-444
+LC018563,Asian SEA4,Philippines,2013,2013,,Concepcion,Tarlac,Central Luzon,Region III,,,05/03/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-446,RV/R3.PHL/2013/TRa-446
+LC018564,Asian SEA4,Philippines,2013,2013,,Santa Maria,Bulacan,Central Luzon,Region III,,,04/03/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-447,RV/R3.PHL/2013/TRa-447
+LC018565,Asian SEA4,Philippines,2013,2013,,San Antonio,Nueva Ecija,Central Luzon,Region III,,,11/03/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-448,RV/R3.PHL/2013/TRa-448
+LC018566,Asian SEA4,Philippines,2013,2013,,Guiguinto,Bulacan,Central Luzon,Region III,,,18/03/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-449,RV/R3.PHL/2013/TRa-449
+LC018568,Asian SEA4,Philippines,2013,2013,,Santa Maria,Bulacan,Central Luzon,Region III,,,18/03/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-451,RV/R3.PHL/2013/TRa-451
+LC018570,Asian SEA4,Philippines,2013,2013,,Arayat,Pampanga,Central Luzon,Region III,,,12/04/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-453,RV/R3.PHL/2013/TRa-453
+LC018572,Asian SEA4,Philippines,2013,2013,,Hagonoy,Bulacan,Central Luzon,Region III,,,16/04/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-455,RV/R3.PHL/2013/TRa-455
+LC018574,Asian SEA4,Philippines,2013,2013,,Macabebe,Pampanga,Central Luzon,Region III,,,18/04/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-457,RV/R3.PHL/2013/TRa-457
+LC018575,Asian SEA4,Philippines,2013,2013,,San Fernando,Pampanga,Central Luzon,Region III,,,25/04/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-458,RV/R3.PHL/2013/TRa-458
+LC018576,Asian SEA4,Philippines,2013,2013,,Candaba,Pampanga,Central Luzon,Region III,,,29/04/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-459,RV/R3.PHL/2013/TRa-459
+LC018577,Asian SEA4,Philippines,2013,2013,,San Antonio,Nueva Ecija,Central Luzon,Region III,,,30/04/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-460,RV/R3.PHL/2013/TRa-460
+LC018578,Asian SEA4,Philippines,2013,2013,,Candaba,Pampanga,Central Luzon,Region III,,,02/05/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-461,RV/R3.PHL/2013/TRa-461
+LC018579,Asian SEA4,Philippines,2013,2013,,San Jose City,Nueva Ecija,Central Luzon,Region III,15.78462183,120.9975839,20/05/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-462,RV/R3.PHL/2013/TRa-462
+LC018580,Asian SEA4,Philippines,2013,2013,,Candaba,Pampanga,Central Luzon,Region III,,,23/05/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-463,RV/R3.PHL/2013/TRa-463
+LC018582,Asian SEA4,Philippines,2013,2013,,Zaragosa,Nueva Ecija,Central Luzon,Region III,,,05/06/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-465,RV/R3.PHL/2013/TRa-465
+LC018583,Asian SEA4,Philippines,2013,2013,,Talavera,Nueva Ecija,Central Luzon,Region III,,,17/06/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-466,RV/R3.PHL/2013/TRa-466
+LC018595,Asian SEA4,Philippines,2012,2012,,,Bulacan,Central Luzon,Region III,,,26/07/2012,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-311,RV/R3.PHL/2012/TRa-311
+LC018596,Asian SEA4,Philippines,2012,2012,,,Bulacan,Central Luzon,Region III,,,01/09/2012,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-313,RV/R3.PHL/2013/TRa-313
+LC018598,Asian SEA4,Philippines,2012,2012,,,Bulacan,Central Luzon,Region III,,,14/12/2012,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2012/TRa-317,RV/R3.PHL/2012/TRa-317
+LC018602,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,05/02/2013,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-351,RV/R3.PHL/2013/TRa-351
+LC018604,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,05/02/2013,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-353,RV/R3.PHL/2013/TRa-353
+LC018612,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,18/02/2013,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-441,RV/R3.PHL/2013/TRa-441
+LC018614,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,18/02/2013,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-443,RV/R3.PHL/2013/TRa-443
+LC018616,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,13/02/2013,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-445,RV/R3.PHL/2013/TRa-445
+LC018619,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,14/03/2013,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-450,RV/R3.PHL/2013/TRa-450
+LC018621,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,19/03/2013,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-452,RV/R3.PHL/2013/TRa-452
+LC018623,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,16/04/2013,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-454,RV/R3.PHL/2013/TRa-454
+LC018625,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,16/04/2013,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-456,RV/R3.PHL/2013/TRa-456
+LC018630,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,17/05/2013,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R3.PHL/2013/TRa-464,RV/R3.PHL/2013/TRa-464
+LC068917,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,01/09/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-509,RV/R3.PHL/2013/TRa-509
+LC068919,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,01/07/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-533,RV/R3.PHL/2013/TRa-533
+LC068920,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,02/07/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-534,RV/R3.PHL/2013/TRa-534
+LC068921,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,03/07/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-535,RV/R3.PHL/2013/TRa-535
+LC068922,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,04/07/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-536,RV/R3.PHL/2013/TRa-536
+LC068923,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,01/08/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-537,RV/R3.PHL/2013/TRa-537
+LC068924,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,05/07/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-538,RV/R3.PHL/2013/TRa-538
+LC068925,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,02/08/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-540,RV/R3.PHL/2013/TRa-540
+LC068926,Asian SEA4,Philippines,2013,2013,,,Nueva Ecija,Central Luzon,Region III,,,02/09/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-541,RV/R3.PHL/2013/TRa-541
+LC068927,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,03/09/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-542,RV/R3.PHL/2013/TRa-542
+LC068928,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,01/10/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-543,RV/R3.PHL/2013/TRa-543
+LC068929,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,02/10/2013,1575,13-Jul-18,13-Jul-18,Felis catus,-,RV/R3.PHL/2013/TRa-544,RV/R3.PHL/2013/TRa-544
+LC068930,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,03/10/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-545,RV/R3.PHL/2013/TRa-545
+LC068931,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,04/10/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-547,RV/R3.PHL/2013/TRa-547
+LC068933,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,06/10/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-549,RV/R3.PHL/2013/TRa-549
+LC068934,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,07/10/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-550,RV/R3.PHL/2013/TRa-550
+LC068935,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,01/11/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-551,RV/R3.PHL/2013/TRa-551
+LC068936,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,02/11/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-552,RV/R3.PHL/2013/TRa-552
+LC068937,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,03/11/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-554,RV/R3.PHL/2013/TRa-554
+LC068938,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,04/11/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-556,RV/R3.PHL/2013/TRa-556
+LC068939,Asian SEA4,Philippines,2013,2013,,,Bulacan,Central Luzon,Region III,,,05/11/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-557,RV/R3.PHL/2013/TRa-557
+LC068944,Asian SEA4,Philippines,2013,2013,,,Tarlac,Central Luzon,Region III,,,10/11/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-581,RV/R3.PHL/2013/TRa-581
+LC068945,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,01/12/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-582,RV/R3.PHL/2013/TRa-582
+LC068946,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,02/12/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-583,RV/R3.PHL/2013/TRa-583
+LC068947,Asian SEA4,Philippines,2013,2013,,,Nueva Ecija,Central Luzon,Region III,,,03/12/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-584,RV/R3.PHL/2013/TRa-584
+LC068948,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,04/12/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-586,RV/R3.PHL/2013/TRa-586
+LC068949,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,05/12/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-587,RV/R3.PHL/2013/TRa-587
+LC068950,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,06/12/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-588,RV/R3.PHL/2013/TRa-588
+LC068951,Asian SEA4,Philippines,2013,2013,,,Pampanga,Central Luzon,Region III,,,07/12/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R3.PHL/2013/TRa-589,RV/R3.PHL/2013/TRa-589
+LC550018,Asian SEA4,Philippines,2019,2019,,,Zambales,Central Luzon,Region III,,,24/10/2019,1353,13-Oct-20,13-Oct-20,Canis lupus familiaris,-,140,140
+LC550019,Asian SEA4,Philippines,2019,2019,,,Bulacan,Central Luzon,Region III,,,18/10/2019,1353,13-Oct-20,13-Oct-20,Canis lupus familiaris,-,132,132
+LC550020,Asian SEA4,Philippines,2019,2019,,,Bulacan,Central Luzon,Region III,,,18/10/2019,1353,13-Oct-20,13-Oct-20,Canis lupus familiaris,-,131,131
+LC550021,Asian SEA4,Philippines,2019,2019,,,Bulacan,Central Luzon,Region III,,,18/10/2019,1353,13-Oct-20,13-Oct-20,Canis lupus familiaris,-,130,130
+LC550022,Asian SEA4,Philippines,2019,2019,,,Bulacan,Central Luzon,Region III,,,03/10/2019,1353,13-Oct-20,13-Oct-20,Canis lupus familiaris,-,121,121
+LC550023,Asian SEA4,Philippines,2019,2019,,,Nueva Ecija,Central Luzon,Region III,,,03/10/2019,1353,13-Oct-20,13-Oct-20,Canis lupus familiaris,-,120,120
+LC550024,Asian SEA4,Philippines,2019,2019,,,Pampanga,Central Luzon,Region III,,,13/08/2019,1353,13-Oct-20,13-Oct-20,Canis lupus familiaris,-,93,93
+LC550025,Asian SEA4,Philippines,2019,2019,,,Pampanga,Central Luzon,Region III,,,05/08/2019,1353,13-Oct-20,13-Oct-20,Canis lupus familiaris,-,87,87
+LC550026,Asian SEA4,Philippines,2019,2019,,,Pampanga,Central Luzon,Region III,,,05/07/2019,1353,13-Oct-20,13-Oct-20,Canis lupus familiaris,-,66,66
+LC550027,Asian SEA4,Philippines,2019,2019,,,Pampanga,Central Luzon,Region III,,,21/06/2019,1353,13-Oct-20,13-Oct-20,Canis lupus familiaris,-,55,55
+MN726850,Asian SEA4,Philippines,2015,2015,,CM Recto,Pampanga,Central Luzon,Region III,,,22/10/2015,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,RADDL3-1038,RADDL3-1038
+MN857171,Asian SEA4,Philippines,2019,2019,,San Miguel,Bulacan,Central Luzon,Region III,15.17310142,121.0401182,06/05/2019,11922,16-Mar-20,16-Mar-20,Felis catus,-,BAI/BAI3/2019-01/fel,BAI/BAI3/2019-01/fel
+R3-731,Asian SEA4,Philippines,,,Sangitan,Cabanatuan,Nueva Ecija,Central Luzon,Region III,15.49243695,120.9899426,09/12/2021,11872,,,Canis familiaris,,R3-731,R3-731
+RADDL3-15-172,Asian SEA4,Philippines,,,Cvo,San Jose City,Nueva Ecija,Central Luzon,Region III,15.78462183,120.9975839,12/02/2015,11872,,,Canis familiaris,,RADDL3-15-172,RADDL3-15-172
+RADDL3-16-1008,Asian SEA4,Philippines,,,Pamaldan,Cabanatuan ,Nueva Ecija,Central Luzon,Region III,15.49243695,120.9899426,27/10/2016,11872,,,Canis familiaris,,RADDL3-16-1008,RADDL3-16-1008
+RADDL3-16-468,Asian SEA4,Philippines,,,Sta Teresita,Angeles  ,Pampanga,Central Luzon,Region III,15.14555779,120.5862479,01/06/2016,11872,,,Canis familiaris,,RADDL3-16-468,RADDL3-16-468
+RADDL3-16-521,Asian SEA4,Philippines,,,Bulihan,Malolos,Bulacan,Central Luzon,Region III,14.82958643,120.8367451,15/06/2016,11872,,,Canis familiaris,,RADDL3-16-521,RADDL3-16-521
+RADDL3-16-627,Asian SEA4,Philippines,,,Ligas,Malolos,Bulacan,Central Luzon,Region III,14.82958643,120.8367451,27/07/2016,11872,,,Canis familiaris,,RADDL3-16-627,RADDL3-16-627
+Z-14-182,Asian SEA4,Philippines,,,San Francisco,Pulilan,Bulacan,Central Luzon,Region III,14.91386664,120.8556301,20/08/2014,11872,,,Canis familiaris,,Z-14-182,Z-14-182
+Z-18-159,Asian SEA4,Philippines,,,Sta. Cruz,Guiginto,Bulacan,Central Luzon,Region III,14.83746463,120.8923363,19/07/2018,11872,,,Canis familiaris,,Z-18-159,Z-18-159
+Z-98-616,Asian SEA4,Philippines,,,-,San Miguel,Bulacan,Central Luzon,Region III,15.17310142,121.0401182,18/06/1998,11872,,,Canis familiaris,,Z-98-616,Z-98-616
+4A-22-104,Asian SEA4,Philippines,,,Sabang,Lipa,Batangas,Calabarzon,Region IV-A,13.94086577,121.1746864,25/01/2022,11872,,,Canis familiaris,,4A-22-104,4A-22-104
+4A-22-171,Asian SEA4,Philippines,,,Buenavista,General Trias,Cavite,Calabarzon,Region IV-A,14.32966619,120.8999068,06/02/2022,11872,,,Canis familiaris,,4A-22-171,4A-22-171
+4A-22-203,Asian SEA4,Philippines,,,Guiang-Guiang,Lucena City,Quezon,Calabarzon,Region IV-A,13.93834754,121.6153593,11/02/2022,11872,,,Canis familiaris,,4A-22-203,4A-22-203
+4A-22-40,Asian SEA4,Philippines,,,-,Batangas  ,Batangas,Calabarzon,Region IV-A,13.7207195,121.103796,10/01/2022,11872,,,Canis familiaris,,4A-22-40,4A-22-40
+4A-22-98,Asian SEA4,Philippines,,,Baguio,Tayabas,Quezon,Calabarzon,Region IV-A,14.04055469,121.6122459,22/01/2022,11872,,,Canis familiaris,,4A-22-98,4A-22-98
+AB563791,Asian SEA4,Philippines,2004,2004,,Dasmarinas,Cavite,Calabarzon,Region IV-A,14.31850325,120.9657797,22/01/2004,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2004/Z-04-042,RV/R4A.PHL/2004/Z-04-042
+AB563792,Asian SEA4,Philippines,2004,2004,,,Laguna,Calabarzon,Region IV-A,,,01/04/2004,699,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2004/Z-04-211,RV/R4A.PHL/2004/Z-04-211
+AB563793,Asian SEA4,Philippines,2004,2004,,,Cavite,Calabarzon,Region IV-A,,,01/07/2004,715,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2004/Z-04-389,RV/R4A.PHL/2004/Z-04-389
+AB563794,Asian SEA4,Philippines,2004,2004,,Taytay,Rizal,Calabarzon,Region IV-A,14.56080116,121.1315174,05/07/2004,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2004/Z-04-401,RV/R4A.PHL/2004/Z-04-401
+AB563795,Asian SEA4,Philippines,2004,2004,,,Cavite,Calabarzon,Region IV-A,,,06/07/2004,715,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2004/Z-04-420,RV/R4A.PHL/2004/Z-04-420
+AB563797,Asian SEA4,Philippines,2004,2004,,San Pedro,Laguna,Calabarzon,Region IV-A,14.34936983,121.0384844,22/08/2004,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2004/Z-04-480,RV/R4A.PHL/2004/Z-04-480
+AB563801,Asian SEA4,Philippines,2005,2005,,,Laguna,Calabarzon,Region IV-A,,,08/01/2005,840,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2005/Z-05-012,RV/R4A.PHL/2005/Z-05-012
+AB563802,Asian SEA4,Philippines,2005,2005,,,Cavite,Calabarzon,Region IV-A,,,09/01/2005,707,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2005/Z-05-017,RV/R4A.PHL/2005/Z-05-017
+AB563804,Asian SEA4,Philippines,2005,2005,,,Laguna,Calabarzon,Region IV-A,,,01/03/2005,700,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2005/Z-05-123,RV/R4A.PHL/2005/Z-05-123
+AB563818,Asian SEA4,Philippines,2006,2006,,,Batangas,Calabarzon,Region IV-A,,,01/01/2006,807,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2006/Z-06-039,RV/R4A.PHL/2006/Z-06-039
+AB563819,Asian SEA4,Philippines,2006,2006,,Calamba,Laguna,Calabarzon,Region IV-A,14.18862277,121.1242055,02/05/2006,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2006/Z-06-163,RV/R4A.PHL/2006/Z-06-163
+AB563820,Asian SEA4,Philippines,2006,2006,,Tanauan,Batangas,Calabarzon,Region IV-A,,,21/05/2006,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2006/Z-06-197,RV/R4A.PHL/2006/Z-06-197
+AB563823,Asian SEA4,Philippines,2006,2006,,Cavite  ,Cavite,Calabarzon,Region IV-A,14.48021461,120.8978023,06/06/2006,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2006/Z-06-231,RV/R4A.PHL/2006/Z-06-231
+AB563824,Asian SEA4,Philippines,2006,2006,,Santa Rosa,Laguna,Calabarzon,Region IV-A,,,01/09/2006,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2006/Z-06-342,RV/R4A.PHL/2006/Z-06-342
+AB563825,Asian SEA4,Philippines,2006,2006,,,Batangas,Calabarzon,Region IV-A,,,01/09/2006,1549,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2006/Z-06-345,RV/R4A.PHL/2006/Z-06-345
+AB563826,Asian SEA4,Philippines,2006,2006,,Dasmarinas,Cavite,Calabarzon,Region IV-A,14.31850325,120.9657797,08/09/2006,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2006/Z-06-348,RV/R4A.PHL/2006/Z-06-348
+AB563827,Asian SEA4,Philippines,2006,2006,,Calatagan,Batangas,Calabarzon,Region IV-A,13.86384068,120.6585868,14/09/2006,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2006/Z-06-357,RV/R4A.PHL/2006/Z-06-357
+AB563828,Asian SEA4,Philippines,2006,2006,,Calamba,Laguna,Calabarzon,Region IV-A,14.18862277,121.1242055,18/09/2006,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2006/Z-06-361,RV/R4A.PHL/2006/Z-06-361
+AB563829,Asian SEA4,Philippines,2006,2006,,Calatagan,Batangas,Calabarzon,Region IV-A,13.86384068,120.6585868,18/09/2006,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2006/Z-06-362,RV/R4A.PHL/2006/Z-06-362
+AB563830,Asian SEA4,Philippines,2006,2006,,General Trias,Cavite,Calabarzon,Region IV-A,14.32966619,120.8999068,20/09/2006,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2006/Z-06-365,RV/R4A.PHL/2006/Z-06-365
+AB563832,Asian SEA4,Philippines,2007,2007,,,Cavite,Calabarzon,Region IV-A,,,01/06/2007,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2007/Z-07-189,RV/R4A.PHL/2007/Z-07-189
+AB563835,Asian SEA4,Philippines,2007,2007,,,Cavite,Calabarzon,Region IV-A,,,01/09/2007,789,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2007/Z-07-307,RV/R4A.PHL/2007/Z-07-307
+AB563836,Asian SEA4,Philippines,2007,2007,,Bacoor,Cavite,Calabarzon,Region IV-A,14.41614393,120.9704734,28/09/2007,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2007/Z-07-317,RV/R4A.PHL/2007/Z-07-317
+AB563837,Asian SEA4,Philippines,2007,2007,,Bacoor,Cavite,Calabarzon,Region IV-A,14.41614393,120.9704734,05/10/2007,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2007/Z-07-330,RV/R4A.PHL/2007/Z-07-330
+AB683587,Asian SEA4,Philippines,2004,2004,,Santa Rosa,Laguna,Calabarzon,Region IV-A,,,12/08/2004,1575,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2004/Z-04-470,RV/R4A.PHL/2004/Z-04-470
+AB683629,Asian SEA4,Philippines,2007,2007,,,Cavite,Calabarzon,Region IV-A,,,01/07/2007,1124,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2007/Z-07-189,RV/R4A.PHL/2007/Z-07-243
+AB683631,Asian SEA4,Philippines,2007,2007,,,Quezon,Calabarzon,Region IV-A,,,02/07/2007,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2007/Z-07-252,RV/R4A.PHL/2007/Z-07-252
+AB698023,Asian SEA4,Philippines,2006,2006,,,Batangas,Calabarzon,Region IV-A,,,01/05/2006,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4B.PHL/2006/Z-06-197,RV/R4B.PHL/2006/Z-06-197
+AB738089,Asian SEA4,Philippines,2006,2006,,,Cavite,Calabarzon,Region IV-A,,,31/05/2006,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4A.PHL/2006/Z-06-222,RV/R4A.PHL/2006/Z-06-222
+LC018536,Asian SEA4,Philippines,2011,2011,,Calamba,Laguna,Calabarzon,Region IV-A,14.18862277,121.1242055,27/07/2011,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R4A.PHL/2011/TRa-393,RV/R4A.PHL/2011/TRa-393
+LC018540,Asian SEA4,Philippines,2012,2012,,Lucena City,Quezon,Calabarzon,Region IV-A,13.93834754,121.6153593,11/05/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R4A.PHL/2012/TRa-398,RV/R4A.PHL/2012/TRa-398
+LC018542,Asian SEA4,Philippines,2012,2012,,San Nicolas,Batangas,Calabarzon,Region IV-A,,,22/06/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R4A.PHL/2012/TRa-401,RV/R4A.PHL/2012/TRa-401
+LC018544,Asian SEA4,Philippines,2012,2012,,Tanauan,Batangas,Calabarzon,Region IV-A,,,31/08/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R4A.PHL/2012/TRa-404,RV/R4A.PHL/2012/TRa-404
+LC068916,Asian SEA4,Philippines,2013,2013,,,Batangas,Calabarzon,Region IV-A,,,01/02/2013,1575,13-Jul-18,13-Jul-18,Canis lupus familiaris,-,RV/R4A.PHL/2013/TRa-485,RV/R4A.PHL/2013/TRa-485
+MN726837,Asian SEA4,Philippines,2013,2013,,Paradahan I,Cavite,Calabarzon,Region IV-A,,,19/01/2013,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-13-009,Z-13-009
+MN726839,Asian SEA4,Philippines,2015,2015,,"Purok 6, Landayan",Laguna,Calabarzon,Region IV-A,,,17/06/2015,11863,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-15-116,Z-15-116
+MN726841,Asian SEA4,Philippines,2014,2014,,Sampaga Centro,Batangas,Calabarzon,Region IV-A,,,26/06/2014,11863,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-14-146,Z-14-146
+MN726845,Asian SEA4,Philippines,2012,2012,,Sinalhan,Laguna,Calabarzon,Region IV-A,,,01/01/2012,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-12-001,Z-12-001
+MN726848,Asian SEA4,Philippines,2016,2016,,"PEA 2A, Langgam",Laguna,Calabarzon,Region IV-A,,,16/01/2016,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-16-013,Z-16-013
+MN726855,Asian SEA4,Philippines,2016,2016,,Capipisa,Cavite,Calabarzon,Region IV-A,,,12/09/2016,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-16-159,Z-16-159
+MN726856,Asian SEA4,Philippines,2012,2012,,Bacao 2,Cavite,Calabarzon,Region IV-A,,,31/05/2012,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-12-118,Z-12-118
+MN726858,Asian SEA4,Philippines,2016,2016,,"Woodrow Subd.,Bgy. Pasig",Rizal,Calabarzon,Region IV-A,,,03/11/2016,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-16-186,Z-16-186
+MN726870,Asian SEA4,Philippines,2014,2014,,San Rafael,Laguna,Calabarzon,Region IV-A,,,28/06/2014,11863,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-14-149,Z-14-149
+MN726874,Asian SEA4,Philippines,2012,2012,,Pag-asa,Cavite,Calabarzon,Region IV-A,,,18/06/2012,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-12-134,Z-12-134
+MN726879,Asian SEA4,Philippines,2012,2012,,Sulpoc,Batangas,Calabarzon,Region IV-A,,,16/01/2012,11863,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-12-212,Z-12-212
+MN726881,Asian SEA4,Philippines,2015,2015,,Pinagtipunan,Cavite,Calabarzon,Region IV-A,,,06/07/2015,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-15-130,Z-15-130
+MN857170,Asian SEA4,Philippines,2019,2019,,Angono,Rizal,Calabarzon,Region IV-A,,,27/05/2019,11922,16-Mar-20,16-Mar-20,Canis familiaris,-,BAI/BAI4A/2019-01/can,BAI/BAI4A/2019-01/can
+Z-06-150,Asian SEA4,Philippines,,,Balete,Batangas  ,Batangas,Calabarzon,Region IV-A,13.7207195,121.103796,24/04/2006,11872,,,Canis familiaris,,Z-06-150,Z-06-150
+Z-06-295,Asian SEA4,Philippines,,,Lucsuhin,Calatagan,Batangas,Calabarzon,Region IV-A,13.86384068,120.6585868,22/07/2006,11872,,,Canis familiaris,,Z-06-295,Z-06-295
+Z-06-39,Asian SEA4,Philippines,,,Ambulong,Tanauan  ,Batangas,Calabarzon,Region IV-A,14.09625533,121.0970452,26/01/2006,11872,,,Canis familiaris,,Z-06-39,Z-06-39
+Z-07-07,Asian SEA4,Philippines,,,Molino 6,General Trias,Cavite,Calabarzon,Region IV-A,14.32966619,120.8999068,08/01/2007,11872,,,Canis familiaris,,Z-07-07,Z-07-07
+Z-07-22,Asian SEA4,Philippines,,,Tierra Nevada,Amadeo,Cavite,Calabarzon,Region IV-A,14.187281,120.9251442,23/01/2007,11872,,,Canis familiaris,,Z-07-22,Z-07-22
+Z-07-222,Asian SEA4,Philippines,,,Dagatan,General Trias,Cavite,Calabarzon,Region IV-A,14.32966619,120.8999068,30/06/2007,11872,,,Canis familiaris,,Z-07-222,Z-07-222
+Z-07-366,Asian SEA4,Philippines,,,Wawa,Lipa  ,Batangas,Calabarzon,Region IV-A,13.94086577,121.1746864,12/11/2007,11872,,,Canis familiaris,,Z-07-366,Z-07-366
+Z-07-38,Asian SEA4,Philippines,,,Timbol,Bacoor,Cavite,Calabarzon,Region IV-A,14.41614393,120.9704734,02/05/2007,11872,,,Canis familiaris,,Z-07-38,Z-07-38
+Z-07-387,Asian SEA4,Philippines,,,Bagong Liing,San Antonio,Quezon,Calabarzon,Region IV-A,13.89985141,121.2980234,07/12/2007,11872,,,Canis familiaris,,Z-07-387,Z-07-387
+Z-07-398,Asian SEA4,Philippines,,,Paciano Rizal,Calamba,Laguna,Calabarzon,Region IV-A,14.18862277,121.1242055,19/12/2007,11872,,,Canis familiaris,,Z-07-398,Z-07-398
+Z-07-403,Asian SEA4,Philippines,,,Sampagutia Exit,Lucena City,Quezon,Calabarzon,Region IV-A,13.93834754,121.6153593,22/12/2007,11872,,,Canis familiaris,,Z-07-403,Z-07-403
+Z-08-351,Asian SEA4,Philippines,,,-,GMA,Cavite,Calabarzon,Region IV-A,14.30698662,121.0184177,12/12/2008,11872,,,Canis familiaris,,Z-08-351,Z-08-351
+Z-08-359,Asian SEA4,Philippines,,,San Lucas II,San Pablo  ,Laguna,Calabarzon,Region IV-A,14.05146733,121.3315598,25/12/2008,11872,,,Canis familiaris,,Z-08-359,Z-08-359
+Z-12-012,Asian SEA4,Philippines,,,Sulpoc,Tanauan  ,Batangas,Calabarzon,Region IV-A,14.09625533,121.0970452,16/01/2012,11872,,,Canis familiaris,,Z-12-012,Z-12-012
+Z-12-034,Asian SEA4,Philippines,,,Bgy. Santo Anghel,San Pablo  ,Laguna,Calabarzon,Region IV-A,14.05146733,121.3315598,06/02/2012,11872,,,Canis familiaris,,Z-12-034,Z-12-034
+Z-12-060,Asian SEA4,Philippines,,,F.De Castro,GMA,Cavite,Calabarzon,Region IV-A,14.30698662,121.0184177,25/02/2012,11872,,,Canis familiaris,,Z-12-060,Z-12-060
+Z-13-037,Asian SEA4,Philippines,,,-,Cavinti,Laguna,Calabarzon,Region IV-A,14.24291032,121.5551642,25/02/2013,11872,,,Canis familiaris,,Z-13-037,Z-13-037
+Z-13-065,Asian SEA4,Philippines,,,Dumuclay North,Batangas  ,Batangas,Calabarzon,Region IV-A,13.7207195,121.103796,04/04/2013,11872,,,Canis familiaris,,Z-13-065,Z-13-065
+Z-13-066,Asian SEA4,Philippines,,,Bayan Luma,Imus  ,Cavite,Calabarzon,Region IV-A,14.39822975,120.9319992,05/04/2013,11872,,,Canis familiaris,,Z-13-066,Z-13-066
+Z-13-081,Asian SEA4,Philippines,,,Sto. Angel Norte,Sta. Cruz,Laguna,Calabarzon,Region IV-A,14.26443013,121.4040122,25/04/2013,11872,,,Canis familiaris,,Z-13-081,Z-13-081
+Z-13-086,Asian SEA4,Philippines,,,San Carlos ,Binangonan,Rizal,Calabarzon,Region IV-A,14.49353136,121.1932147,03/05/2013,11872,,,Canis familiaris,,Z-13-086,Z-13-086
+Z-13-089,Asian SEA4,Philippines,,,Malainen Luma,Naic,Cavite,Calabarzon,Region IV-A,14.29182513,120.7960137,04/05/2013,11872,,,Canis familiaris,,Z-13-089,Z-13-089
+Z-13-135,Asian SEA4,Philippines,,,Alulod,Indang,Cavite,Calabarzon,Region IV-A,14.18917642,120.8713283,12/06/2013,11872,,,Canis familiaris,,Z-13-135,Z-13-135
+Z-13-161,Asian SEA4,Philippines,,,Pansol,Calamba  ,Laguna,Calabarzon,Region IV-A,14.18862277,121.1242055,20/07/2013,11872,,,Canis familiaris,,Z-13-161,Z-13-161
+Z-13-171,Asian SEA4,Philippines,,,Pinamocan Silangan,Batangas  ,Batangas,Calabarzon,Region IV-A,13.7207195,121.103796,05/08/2013,11872,,,Canis familiaris,,Z-13-171,Z-13-171
+Z-13-184,Asian SEA4,Philippines,,,Tabangaw,Batangas  ,Batangas,Calabarzon,Region IV-A,13.7207195,121.103796,29/08/2013,11872,,,Canis familiaris,,Z-13-184,Z-13-184
+Z-13-204,Asian SEA4,Philippines,,,Dayap,Calauan,Laguna,Calabarzon,Region IV-A,14.13318557,121.2951683,26/09/2013,11872,,,Canis familiaris,,Z-13-204,Z-13-204
+Z-13-234,Asian SEA4,Philippines,,,Mayapa,Calamba ,Laguna,Calabarzon,Region IV-A,14.18862277,121.1242055,15/11/2013,11872,,,Canis familiaris,,Z-13-234,Z-13-234
+Z-13-259,Asian SEA4,Philippines,,,  Pound,Cavite  ,Cavite,Calabarzon,Region IV-A,14.48021461,120.8978023,18/12/2013,11872,,,Canis familiaris,,Z-13-259,Z-13-259
+Z-14-023,Asian SEA4,Philippines,,,Poblacion I,Sta. Cruz,Laguna,Calabarzon,Region IV-A,14.26443013,121.4040122,31/01/2014,11872,,,Canis familiaris,,Z-14-023,Z-14-023
+Z-14-05,Asian SEA4,Philippines,,,Pasong Camachile,General Trias,Cavite,Calabarzon,Region IV-A,14.32966619,120.8999068,05/01/2014,11872,,,Canis familiaris,,Z-14-05,Z-14-05
+Z-14-058,Asian SEA4,Philippines,,,-,Taytay,Rizal,Calabarzon,Region IV-A,14.56080116,121.1315174,14/03/2014,11872,,,Canis familiaris,,Z-14-058,Z-14-058
+Z-14-098,Asian SEA4,Philippines,,,Dita,Cuenca,Batangas,Calabarzon,Region IV-A,13.90952328,121.0537657,29/04/2014,11872,,,Canis familiaris,,Z-14-098,Z-14-098
+Z-14-106,Asian SEA4,Philippines,,,Sta. Cruz,Cavite  ,Cavite,Calabarzon,Region IV-A,14.48021461,120.8978023,08/05/2014,11872,,,Felis catus,,Z-14-106,Z-14-106
+Z-14-142,Asian SEA4,Philippines,,,Mercedes Homes 3,Binan  ,Laguna,Calabarzon,Region IV-A,14.30526494,121.0647852,21/06/2014,11872,,,Canis familiaris,,Z-14-142,Z-14-142
+Z-14-243,Asian SEA4,Philippines,,,Bubukal St.,Sta. Cruz,Laguna,Calabarzon,Region IV-A,14.26443013,121.4040122,13/11/2014,11872,,,Canis familiaris,,Z-14-243,Z-14-243
+Z-15-163,Asian SEA4,Philippines,,,Panapaan 8,Bacoor  ,Cavite,Calabarzon,Region IV-A,14.41614393,120.9704734,05/09/2015,11872,,,Canis familiaris,,Z-15-163,Z-15-163
+Z-16-151,Asian SEA4,Philippines,,,-,Carmona,Cavite,Calabarzon,Region IV-A,14.29896527,121.0371349,05/09/2016,11872,,,Canis familiaris,,Z-16-151,Z-16-151
+Z-16-196,Asian SEA4,Philippines,,,Sampaloc,Dasmarinas  ,Cavite,Calabarzon,Region IV-A,14.31850325,120.9657797,23/11/2016,11872,,,Canis familiaris,,Z-16-196,Z-16-196
+Z-17-046,Asian SEA4,Philippines,,,Bgy. San Fernando,Sto. Tomas,Batangas,Calabarzon,Region IV-A,14.07637376,121.1824598,06/03/2017,11872,,,Canis familiaris,,Z-17-046,Z-17-046
+Z-17-177,Asian SEA4,Philippines,,,Bgy. Navarro,General Trias,Cavite,Calabarzon,Region IV-A,14.32966619,120.8999068,25/09/2017,11872,,,Canis familiaris,,Z-17-177,Z-17-177
+Z-17-193,Asian SEA4,Philippines,,,Binonoan,Infanta,Quezon,Calabarzon,Region IV-A,14.71657136,121.650984,13/10/2017,11872,,,Canis familiaris,,Z-17-193,Z-17-193
+Z-17-200,Asian SEA4,Philippines,,,Mamatid,Cabuyao,Laguna,Calabarzon,Region IV-A,14.24922952,121.121079,31/10/2017,11872,,,Canis familiaris,,Z-17-200,Z-17-200
+Z-17-217,Asian SEA4,Philippines,,,Paliko 4,Imus,Cavite,Calabarzon,Region IV-A,14.39822975,120.9319992,16/11/2017,11872,,,Canis familiaris,,Z-17-217,Z-17-217
+Z-17-221,Asian SEA4,Philippines,,,Bgy. Nawasa,Noveleta,Cavite,Calabarzon,Region IV-A,14.43119105,120.8796209,28/11/2017,11872,,,Canis familiaris,,Z-17-221,Z-17-221
+Z-18-001,Asian SEA4,Philippines,,,"Andrea Vill. I, Panapaan Vi",Bacoor  ,Cavite,Calabarzon,Region IV-A,14.41614393,120.9704734,02/01/2018,11872,,,Felis catus,,Z-18-001,Z-18-001
+Z-18-114,Asian SEA4,Philippines,,,Banay-Banay 1St,San Jose,Batangas,Calabarzon,Region IV-A,13.87787315,121.0901132,28/05/2018,11872,,,Canis familiaris,,Z-18-114,Z-18-114
+Z-18-251,Asian SEA4,Philippines,,,"Rpa Enterprises, Don Jose",Sta. Rosa  ,Laguna,Calabarzon,Region IV-A,14.27260264,121.0895167,07/12/2018,11872,,,Canis familiaris,,Z-18-251,Z-18-251
+Z-19-029,Asian SEA4,Philippines,,,Antipolo Del Sur,Lipa  ,Batangas,Calabarzon,Region IV-A,13.94086577,121.1746864,26/02/2019,11872,,,Canis familiaris,,Z-19-029,Z-19-029
+Z-19-123,Asian SEA4,Philippines,,,Anabu 2F,Imus,Cavite,Calabarzon,Region IV-A,14.39822975,120.9319992,11/08/2019,11872,,,Canis familiaris,,Z-19-123,Z-19-123
+Z-19-136,Asian SEA4,Philippines,,,Canlubang,Calamba  ,Laguna,Calabarzon,Region IV-A,14.18862277,121.1242055,05/09/2019,11872,,,Canis familiaris,,Z-19-136,Z-19-136
+Z-19-88,Asian SEA4,Philippines,,,San Isidro,Angono,Rizal,Calabarzon,Region IV-A,14.54362773,121.165434,31/05/2019,11872,,,Canis familiaris,,Z-19-88,Z-19-88
+Z-20-01,Asian SEA4,Philippines,,,"Meadowood Subd.,Panapaan 8",Bacoor  ,Cavite,Calabarzon,Region IV-A,14.41614393,120.9704734,03/01/2020,11872,,,Canis familiaris,,Z-20-01,Z-20-01
+Z-20-110,Asian SEA4,Philippines,,,"Pacita Complex 1, San Vicente",San Pedro,Laguna,Calabarzon,Region IV-A,14.34936983,121.0384844,23/10/2020,11872,,,Canis familiaris,,Z-20-110,Z-20-110
+Z-20-51,Asian SEA4,Philippines,,,Herald Village Subd.,Angono,Rizal,Calabarzon,Region IV-A,14.54362773,121.165434,02/03/2020,11872,,,Canis familiaris,,Z-20-51,Z-20-51
+Z-23-01,Asian SEA4,Philippines,,,Balibago,Sta. Rosa ,Laguna,Calabarzon,Region IV-A,14.27260264,121.0895167,03/01/2023,11872,,,Canis familiaris,,Z-23-01,Z-23-01
+Z-23-01Sa,Asian SEA4,Philippines,,,Balibago,Sta. Rosa ,Laguna,Calabarzon,Region IV-A,14.27260264,121.0895167,03/01/2023,11872,,,Canis familiaris,,Z-23-01Sa,Z-23-01Sa
+Z-98-1061,Asian SEA4,Philippines,,,Tejero,General Trias,Cavite,Calabarzon,Region IV-A,14.32966619,120.8999068,05/08/1998,11872,,,Canis familiaris,,Z-98-1061,Z-98-1061
+Z-98-134,Asian SEA4,Philippines,,,Sampaloc   Homes,Dasmarinas,Cavite,Calabarzon,Region IV-A,14.31850325,120.9657797,09/02/1998,11872,,,Canis familiaris,,Z-98-134,Z-98-134
+Z-98-206,Asian SEA4,Philippines,,,Bagongbayan,Sta Cruz,Laguna,Calabarzon,Region IV-A,14.26443013,121.4040122,02/03/1998,11872,,,Canis familiaris,,Z-98-206,Z-98-206
+Z-98-285,Asian SEA4,Philippines,,,-,San Pablo,Laguna,Calabarzon,Region IV-A,14.05146733,121.3315598,18/03/1998,11872,,,Canis familiaris,,Z-98-285,Z-98-285
+Z-98-286,Asian SEA4,Philippines,,,Tayuman,Mulanay,Quezon,Calabarzon,Region IV-A,13.52552491,122.4578973,19/03/1998,11872,,,Canis familiaris,,Z-98-286,Z-98-286
+Z-98-335,Asian SEA4,Philippines,,,-,Nagcarlan,Laguna,Calabarzon,Region IV-A,14.14027602,121.4032743,01/04/1998,11872,,,Canis familiaris,,Z-98-335,Z-98-335
+Z-98-433,Asian SEA4,Philippines,,,Palamitan,Kawit,Cavite,Calabarzon,Region IV-A,14.44475736,120.9012276,30/04/1998,11872,,,Canis familiaris,,Z-98-433,Z-98-433
+Z-98-667,Asian SEA4,Philippines,,,Mayapa,Calamba,Laguna,Calabarzon,Region IV-A,14.18862277,121.1242055,29/06/1998,11872,,,Canis familiaris,,Z-98-667,Z-98-667
+Z-98-712,Asian SEA4,Philippines,,,Macantod,Siniloan,Laguna,Calabarzon,Region IV-A,14.43714914,121.4867785,11/07/1998,11872,,,Canis familiaris,,Z-98-712,Z-98-712
+Z-98-718,Asian SEA4,Philippines,,,Maraykid,San Juan,Batangas,Calabarzon,Region IV-A,13.75727426,121.3908944,13/07/1998,11872,,,Canis familiaris,,Z-98-718,Z-98-718
+Z-98-780,Asian SEA4,Philippines,,,San Miguel,Alaminos,Laguna,Calabarzon,Region IV-A,14.04459696,121.2475488,25/07/1998,11872,,,Canis familiaris,,Z-98-780,Z-98-780
+Z-98-823,Asian SEA4,Philippines,,,Tejero,General Trias,Cavite,Calabarzon,Region IV-A,14.32966619,120.8999068,05/08/1998,11872,,,Canis familiaris,,Z-98-823,Z-98-823
+Z-98-860,Asian SEA4,Philippines,,,-,San Francisco,Quezon,Calabarzon,Region IV-A,13.29448721,122.5720534,14/08/1998,11872,,,Canis familiaris,,Z-98-860,Z-98-860
+4B-21-126,Asian SEA4,Philippines,,,Sapul,Calapan ,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.33178512,121.1780294,26/01/2021,11872,,,Canis familiaris,,4B-21-126,4B-21-126
+4B-21-29,Asian SEA4,Philippines,,,San Narciso ,Victoria ,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.14368391,121.2438544,09/02/2021,11872,,,Canis familiaris,,4B-21-29,4B-21-29
+4B-21-310,Asian SEA4,Philippines,,,Tabinay ,Puerto Galera,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.39217641,120.8953101,10/03/2021,11872,,,Canis familiaris,,4B-21-310,4B-21-310
+4B-21-35,Asian SEA4,Philippines,,,Tabinay ,Puerto Galera,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.39217641,120.8953101,05/03/2021,11872,,,Canis familiaris,,4B-21-35,4B-21-35
+4B-21-412,Asian SEA4,Philippines,,,Sto Nino,Puerto Galera,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.39217641,120.8953101,12/04/2021,11872,,,Canis familiaris,,4B-21-412,4B-21-412
+4B-21-421,Asian SEA4,Philippines,,,Malapad,Baco,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.29039427,121.066837,14/04/2021,11872,,,Canis familiaris,,4B-21-421,4B-21-421
+4B-21-423,Asian SEA4,Philippines,,,Camilmil,Calapan ,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.33178512,121.1780294,23/04/2021,11872,,,Canis familiaris,,4B-21-423,4B-21-423
+4B-21-528,Asian SEA4,Philippines,,,Aninuan,Puerto Galera,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.39217641,120.8953101,28/05/2021,11872,,,Canis familiaris,,4B-21-528,4B-21-528
+4B-21622,Asian SEA4,Philippines,,,Mangangan,Baco,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.29039427,121.066837,16/02/2022,11872,,,Canis familiaris,,4B-21622,4B-21622
+4B-22-114,Asian SEA4,Philippines,,,Mayabig,Baco,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.29039427,121.066837,14/01/2022,11872,,,Canis familiaris,,4B-22-114,4B-22-114
+4B-22-13,Asian SEA4,Philippines,,,Teresita,Mansalay,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,12.54836969,121.3482134,22/04/2022,11872,,,Canis familiaris,,4B-22-13,4B-22-13
+4B-22-15,Asian SEA4,Philippines,,,San Isidro,Puerto Galera,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.39217641,120.8953101,05/01/2022,11872,,,Canis familiaris,,4B-22-15,4B-22-15
+4B-22-16,Asian SEA4,Philippines,,,Orcenuma,Bongabong,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,12.71623574,121.3862303,28/04/2022,11872,,,Canis familiaris,,4B-22-16,4B-22-16
+4B-22-17,Asian SEA4,Philippines,,,Narra,Gloria,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,12.92166054,121.3754507,08/05/2022,11872,,,Canis familiaris,,4B-22-17,4B-22-17
+4B-22-20,Asian SEA4,Philippines,,,Don Pedro,Mansalay,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,12.54836969,121.3482134,19/05/2022,11872,,,Canis familiaris,,4B-22-20,4B-22-20
+4B-22-21,Asian SEA4,Philippines,,,Panggulayan,Pinamalayan,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.02301767,121.4031803,31/05/2022,11872,,,Canis familiaris,,4B-22-21,4B-22-21
+4B-22-28,Asian SEA4,Philippines,,,Mangangan,Baco,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.29039427,121.066837,27/07/2022,11872,,,Canis familiaris,,4B-22-28,4B-22-28
+4B-22-30,Asian SEA4,Philippines,,,Bangkatan,Baco,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.29039427,121.066837,12/08/2022,11872,,,Canis familiaris,,4B-22-30,4B-22-30
+4B-22-31,Asian SEA4,Philippines,,,Bayanan,Pola,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.13990357,121.4449478,18/08/2022,11872,,,Canis familiaris,,4B-22-31,4B-22-31
+4B-22-35,Asian SEA4,Philippines,,,Bagumbayan,Roxas,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,12.61737051,121.4554967,25/10/2022,11872,,,Canis familiaris,,4B-22-35,4B-22-35
+4B-22-37,Asian SEA4,Philippines,,,San Isidro,Alcantara,Romblon,Southwestern Tagalog Region,Region IV-B,12.29784708,122.054934,01/10/2022,11872,,,Canis familiaris,,4B-22-37,4B-22-37
+4B-22-39,Asian SEA4,Philippines,,,San Isidro,Alcantara,Romblon,Southwestern Tagalog Region,Region IV-B,12.29784708,122.054934,21/10/2022,11872,,,Canis familiaris,,4B-22-39,4B-22-39
+4B-22-40,Asian SEA4,Philippines,,,Balugo,Mansalay,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,12.54836969,121.3482134,02/12/2022,11872,,,Canis familiaris,,4B-22-40,4B-22-40
+4B-22-41,Asian SEA4,Philippines,,,Dapawan,Odiongan,Romblon,Southwestern Tagalog Region,Region IV-B,12.39865996,122.0177701,24/11/2022,11872,,,Canis familiaris,,4B-22-41,4B-22-41
+4B-22-42,Asian SEA4,Philippines,,,Bonlao,Alcantara,Romblon,Southwestern Tagalog Region,Region IV-B,12.29784708,122.054934,26/11/2022,11872,,,Canis familiaris,,4B-22-42,4B-22-42
+4B-22-44,Asian SEA4,Philippines,,,Dapawan,Odiongan,Romblon,Southwestern Tagalog Region,Region IV-B,12.39865996,122.0177701,11/12/2022,11872,,,Canis familiaris,,4B-22-44,4B-22-44
+4B-22-45,Asian SEA4,Philippines,,,Concepcion Sur,Santa Maria,Romblon,Southwestern Tagalog Region,Region IV-B,12.40310216,122.0836566,12/12/2022,11872,,,Canis familiaris,,4B-22-45,4B-22-45
+4B-23-01,Asian SEA4,Philippines,,,Concepcion Norte,Santa Maria,Romblon,Southwestern Tagalog Region,Region IV-B,12.40310216,122.0836566,20/01/2023,11872,,,Canis familiaris,,4B-23-01,4B-23-01
+4B-23-02,Asian SEA4,Philippines,,,Dapawan,Odiongan,Romblon,Southwestern Tagalog Region,Region IV-B,12.39865996,122.0177701,13/01/2023,11872,,,Canis familiaris,,4B-23-02,4B-23-02
+4B-23-03,Asian SEA4,Philippines,,,Sugod,San Agustin,Romblon,Southwestern Tagalog Region,Region IV-B,12.55403552,122.1124048,22/01/2023,11872,,,Canis familiaris,,4B-23-03,4B-23-03
+4B-23-04,Asian SEA4,Philippines,,,Carmen,San Agustin,Romblon,Southwestern Tagalog Region,Region IV-B,12.55403552,122.1124048,31/01/2023,11872,,,Canis familiaris,,4B-23-04,4B-23-04
+4B-23-05,Asian SEA4,Philippines,,,Sugod,San Agustin,Romblon,Southwestern Tagalog Region,Region IV-B,12.55403552,122.1124048,20/01/2023,11872,,,Canis familiaris,,4B-23-05,4B-23-05
+4B-23-06,Asian SEA4,Philippines,,,Concepcion Norte,Santa Maria,Romblon,Southwestern Tagalog Region,Region IV-B,12.40310216,122.0836566,02/02/2023,11872,,,Canis familiaris,,4B-23-06,4B-23-06
+4B-23-07,Asian SEA4,Philippines,,,Concepcion Sur,Santa Maria,Romblon,Southwestern Tagalog Region,Region IV-B,12.40310216,122.0836566,07/02/2023,11872,,,Canis familiaris,,4B-23-07,4B-23-07
+4B-23-11,Asian SEA4,Philippines,,,Jun Carlo,San Andres,Romblon,Southwestern Tagalog Region,Region IV-B,12.53642104,122.0469478,07/02/2023,11872,,,Canis familiaris,,4B-23-11,4B-23-11
+4B-23-12,Asian SEA4,Philippines,,,Concepcion Norte,Santa Maria,Romblon,Southwestern Tagalog Region,Region IV-B,12.40310216,122.0836566,14/02/2023,11872,,,Canis familiaris,,4B-23-12,4B-23-12
+4B-23-13,Asian SEA4,Philippines,,,Rizal,Odiongan,Romblon,Southwestern Tagalog Region,Region IV-B,12.39865996,122.0177701,09/02/2023,11872,,,Canis familiaris,,4B-23-13,4B-23-13
+4B-23-15,Asian SEA4,Philippines,,,Poctoy,Odiongan,Romblon,Southwestern Tagalog Region,Region IV-B,12.39865996,122.0177701,16/02/2023,11872,,,Canis familiaris,,4B-23-15,4B-23-15
+4B-23-16,Asian SEA4,Philippines,,,Dapawan,Odiongan,Romblon,Southwestern Tagalog Region,Region IV-B,12.39865996,122.0177701,28/02/2023,11872,,,Canis familiaris,,4B-23-16,4B-23-16
+4B-23-17,Asian SEA4,Philippines,,,Poctoy,Odiongan,Romblon,Southwestern Tagalog Region,Region IV-B,12.39865996,122.0177701,01/03/2023,11872,,,Canis familiaris,,4B-23-17,4B-23-17
+4B-23-19,Asian SEA4,Philippines,,,Mahabang Baybay,San Agustin,Romblon,Southwestern Tagalog Region,Region IV-B,12.55403552,122.1124048,01/03/2023,11872,,,Canis familiaris,,4B-23-19,4B-23-19
+4B-2422,Asian SEA4,Philippines,,,Concepcion,Calintaan,Occidental Mindoro,Southwestern Tagalog Region,Region IV-B,12.59217706,121.082659,04/02/2022,11872,,,Canis familiaris,,4B-2422,4B-2422
+4B-2922HM,Asian SEA4,Philippines,,,Mangangan,Baco,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,13.29039427,121.066837,09/02/2022,11872,,,Canis familiaris,,4B-2922HM,4B-2922HM
+4B-2922JG,Asian SEA4,Philippines,,,Anilao,Bongabong,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,12.71623574,121.3862303,09/02/2022,11872,,,Canis familiaris,,4B-2922JG,4B-2922JG
+AB563821,Asian SEA4,Philippines,2006,2006,,No data,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,,,24/05/2006,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R4B.PHL/2006/Z-06-203,RV/R4B.PHL/2006/Z-06-203
+AB698024,Asian SEA4,Philippines,2006,2006,,,Oriental Mindoro,Southwestern Tagalog Region,Region IV-B,,,01/10/2006,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R4B.PHL/2006/Z-06-408,RV/R4B.PHL/2006/Z-06-408
+H-23-011Sa11,Asian SEA4,Philippines,,,Concepcion Sur,Santa Maria,Romblon,Southwestern Tagalog Region,Region IV-B,12.40310216,122.0836566,02/02/2023,11872,,,Homo sapiens,,H-23-011Sa11,H-23-011Sa_11
+H-23-011Sk12,Asian SEA4,Philippines,,,Concepcion Sur,Santa Maria,Romblon,Southwestern Tagalog Region,Region IV-B,12.40310216,122.0836566,02/02/2023,11872,,,Homo sapiens,,H-23-011Sk12,H-23-011Sk_12
+LC018535,Asian SEA4,Philippines,2011,2011,,Odiongan,Romblon,Southwestern Tagalog Region,Region IV-B,12.39865996,122.0177701,31/05/2011,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R4B.PHL/2011/TRa-392,RV/R4B.PHL/2011/TRa-392
+LC018539,Asian SEA4,Philippines,2012,2012,,Odiongan,Romblon,Southwestern Tagalog Region,Region IV-B,12.39865996,122.0177701,07/02/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R4B.PHL/2012/TRa-397,RV/R4B.PHL/2012/TRa-397
+LC018543,Asian SEA4,Philippines,2012,2012,,Odiongan,Romblon,Southwestern Tagalog Region,Region IV-B,12.39865996,122.0177701,18/07/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R4B.PHL/2012/TRa-402,RV/R4B.PHL/2012/TRa-402
+LC018584,Asian SEA4,Philippines,2013,2013,,Puerto Princesa City,Palawan,Southwestern Tagalog Region,Region IV-B,,,18/05/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R4B.PHL/2013/TRa-486,RV/R4B.PHL/2013/TRa-486
+LC018585,Asian SEA4,Philippines,2013,2013,,Puerto Princesa City,Palawan,Southwestern Tagalog Region,Region IV-B,,,13/06/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R4B.PHL/2013/TRa-487,RV/R4B.PHL/2013/TRa-487
+LC018607,Asian SEA4,Philippines,2011,2011,,,Romblon,Southwestern Tagalog Region,Region IV-B,,,07/08/2011,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R4B.PHL/2011/TRa-394,RV/R4B.PHL/2011/TRa-394
+LC018608,Asian SEA4,Philippines,2011,2011,,,Romblon,Southwestern Tagalog Region,Region IV-B,,,28/10/2011,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R4B.PHL/2011/TRa-396,RV/R4B.PHL/2011/TRa-396
+LC018610,Asian SEA4,Philippines,2012,2012,,,Romblon,Southwestern Tagalog Region,Region IV-B,,,19/06/2012,894,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R4B.PHL/2012/TRa-400,RV/R4B.PHL/2012/TRa-400
+Z-13-216,Asian SEA4,Philippines,,,Bgy. 2,Mamburao,Occidental Mindoro,Southwestern Tagalog Region,Region IV-B,13.25401504,120.6612766,25/10/2013,11872,,,Canis familiaris,,Z-13-216,Z-13-216
+Z-17-57,Asian SEA4,Philippines,,,Magbag,San Jose,Occidental Mindoro,Southwestern Tagalog Region,Region IV-B,12.45581677,121.1219622,29/03/2017,11872,,,Canis familiaris,,Z-17-57,Z-17-57
+Z-22-103,Asian SEA4,Philippines,,,Paroyhog,Santa Maria,Romblon,Southwestern Tagalog Region,Region IV-B,12.40310216,122.0836566,21/11/2022,11872,,,Canis familiaris,,Z-22-103,Z-22-103
+Z-22-119,Asian SEA4,Philippines,,,Tulay,Odiongan,Romblon,Southwestern Tagalog Region,Region IV-B,12.39865996,122.0177701,28/12/2022,11872,,,Canis familiaris,,Z-22-119,Z-22-119
+Z-22-121,Asian SEA4,Philippines,,,Carmen,San Agustin,Romblon,Southwestern Tagalog Region,Region IV-B,12.55403552,122.1124048,19/12/2022,11872,,,Canis familiaris,,Z-22-121,Z-22-121
+R9-010,Asian SEA4,Philippines,,,San Roque,Zamboanga  ,Zamboanga Del Sur,Zamboanga Peninsula,Region IX,7.154200895,122.139348,27/01/2020,11872,,,Felis catus,,R9-010,R9-010
+R9-074,Asian SEA4,Philippines,,,Cogon,Sagun,Zamboanga Del Sur,Zamboanga Peninsula,Region IX,7.519657705,123.1738437,20/08/2021,11872,,,Canis familiaris,,R9-074,R9-074
+R9-089,Asian SEA4,Philippines,,,Pangi,Ipil,Zamboanga Sibugay,Zamboanga Peninsula,Region IX,7.780235248,122.5765115,07/10/2021,11872,,,Canis familiaris,,R9-089,R9-089
+R9-105,Asian SEA4,Philippines,,,Lopoc,Labason,Zamboanga Del Norte,Zamboanga Peninsula,Region IX,8.030135135,122.5303567,09/12/2021,11872,,,Canis familiaris,,R9-105,R9-105
+153,Asian SEA4,Philippines,,,Paulog,Ligao,Albay,Bicol Region,Region V,,,17/05/2018,11872,,,Canis familiaris,,153,153
+AB563839,Asian SEA4,Philippines,2008,2008,,Tabaco City,Albay,Bicol Region,Region V,13.32537797,123.668741,16/06/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-005,RV/R5.PHL/2008/TRa-005
+AB563858,Asian SEA4,Philippines,2008,2008,,Bacacay,Albay,Bicol Region,Region V,,,08/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-031,RV/R5.PHL/2008/TRa-031
+AB563859,Asian SEA4,Philippines,2008,2008,,Bacacay,Albay,Bicol Region,Region V,,,16/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-032,RV/R5.PHL/2008/TRa-032
+AB563860,Asian SEA4,Philippines,2008,2008,,,Albay,Bicol Region,Region V,,,01/07/2008,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-034,RV/R5.PHL/2008/TRa-034
+AB563861,Asian SEA4,Philippines,2008,2008,,Naga City,Camarines Sur,Bicol Region,Region V,,,14/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-036,RV/R5.PHL/2008/TRa-036
+AB563862,Asian SEA4,Philippines,2008,2008,,Gainza,Camarines Sur,Bicol Region,Region V,,,15/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-037,RV/R5.PHL/2008/TRa-037
+AB563886,Asian SEA4,Philippines,2008,2008,,Daraga (Locsin),Albay,Bicol Region,Region V,,,21/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-067,RV/R5.PHL/2008/TRa-067
+AB563933,Asian SEA4,Philippines,2008,2008,,,Catanduanes,Bicol Region,Region V,,,01/11/2008,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-120,RV/R5.PHL/2008/TRa-120
+AB563934,Asian SEA4,Philippines,2008,2008,,Naga City,Camarines Sur,Bicol Region,Region V,,,27/11/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-121,RV/R5.PHL/2008/TRa-121
+AB563935,Asian SEA4,Philippines,2008,2008,,,Albay,Bicol Region,Region V,,,01/12/2008,786,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-122,RV/R5.PHL/2008/TRa-122
+AB563969,Asian SEA4,Philippines,2009,2009,,Daraga (Locsin),Albay,Bicol Region,Region V,,,12/05/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R5.PHL/2009/TRa-183,RV/R5.PHL/2009/TRa-183
+AB563994,Asian SEA4,Philippines,2009,2009,,Daraga (Locsin),Albay,Bicol Region,Region V,,,18/05/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R5.PHL/2009/TRa-225,RV/R5.PHL/2009/TRa-225
+AB563995,Asian SEA4,Philippines,2009,2009,,Daraga (Locsin),Albay,Bicol Region,Region V,,,25/05/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R5.PHL/2009/TRa-226,RV/R5.PHL/2009/TRa-226
+AB563996,Asian SEA4,Philippines,2009,2009,,Tabaco City,Albay,Bicol Region,Region V,13.32537797,123.668741,22/06/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R5.PHL/2009/TRa-227,RV/R5.PHL/2009/TRa-227
+AB563997,Asian SEA4,Philippines,2009,2009,,Virac,Catanduanes,Bicol Region,Region V,,,24/07/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R5.PHL/2009/TRa-229,RV/R5.PHL/2009/TRa-229
+AB563998,Asian SEA4,Philippines,2009,2009,,Vinzons,Camarines Norte,Bicol Region,Region V,,,17/08/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R5.PHL/2009/TRa-231,RV/R5.PHL/2009/TRa-231
+AB683634,Asian SEA4,Philippines,2008,2008,,,Camarines Sur,Bicol Region,Region V,,,02/10/2008,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-071,RV/R5.PHL/2008/TRa-071
+AB683635,Asian SEA4,Philippines,2008,2008,,,Albay,Bicol Region,Region V,,,15/10/2008,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-072,RV/R5.PHL/2008/TRa-072
+AB683636,Asian SEA4,Philippines,2008,2008,,,Sorsogon,Bicol Region,Region V,,,21/10/2008,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-073,RV/R5.PHL/2008/TRa-073
+AB683639,Asian SEA4,Philippines,2008,2008,,,Catanduanes,Bicol Region,Region V,,,24/12/2008,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R5.PHL/2008/TRa-123,RV/R5.PHL/2008/TRa-123
+AB733977,Asian SEA4,Philippines,2009,2009,,Gubat,Sorsogon,Bicol Region,Region V,,,20/10/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R5.PHL/2009/TRa-268,RV/R5.PHL/2009/TRa-268
+AB733978,Asian SEA4,Philippines,2009,2009,,Daraga (Locsin),Albay,Bicol Region,Region V,,,18/11/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R5.PHL/2009/TRa-272,RV/R5.PHL/2009/TRa-272
+AB733979,Asian SEA4,Philippines,2009,2009,,Legaspi City,Albay,Bicol Region,Region V,,,26/11/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R5.PHL/2009/TRa-273,RV/R5.PHL/2009/TRa-273
+AB771916,Asian SEA4,Philippines,2009,2009,,Virac,Catanduanes,Bicol Region,Region V,,,01/10/2009,698,29-May-13,29-May-13,Canis lupus familiaris,23593515,RV/R5.PHL/2009/TRa-269,RV/R5.PHL/2009/TRa-269
+AB771917,Asian SEA4,Philippines,2009,2009,,Daet,Camarines Norte,Bicol Region,Region V,,,02/11/2009,698,29-May-13,29-May-13,Canis lupus familiaris,23593515,RV/R5.PHL/2009/TRa-271,RV/R5.PHL/2009/TRa-271
+LC018502,Asian SEA4,Philippines,2012,2012,,Naga City,Camarines Sur,Bicol Region,Region V,,,07/08/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2012/TRa-337,RV/R5.PHL/2012/TRa-337
+LC018503,Asian SEA4,Philippines,2012,2012,,Panganiban,Catanduanes,Bicol Region,Region V,,,09/08/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2012/TRa-338,RV/R5.PHL/2012/TRa-338
+LC018504,Asian SEA4,Philippines,2012,2012,,Oas,Albay,Bicol Region,Region V,,,13/08/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2012/TRa-339,RV/R5.PHL/2012/TRa-339
+LC018505,Asian SEA4,Philippines,2012,2012,,Daet,Camarines Norte,Bicol Region,Region V,,,15/08/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2012/TRa-340,RV/R5.PHL/2012/TRa-340
+LC018506,Asian SEA4,Philippines,2012,2012,,Labo,Camarines Norte,Bicol Region,Region V,,,06/11/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2012/TRa-343,RV/R5.PHL/2012/TRa-343
+LC018507,Asian SEA4,Philippines,2012,2012,,Naga City,Camarines Sur,Bicol Region,Region V,,,05/12/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2012/TRa-344,RV/R5.PHL/2012/TRa-344
+LC018517,Asian SEA4,Philippines,2012,2012,,Tiwi,Albay,Bicol Region,Region V,,,11/06/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2012/TRa-355,RV/R5.PHL/2012/TRa-355
+LC018518,Asian SEA4,Philippines,2012,2012,,Tabaco City,Albay,Bicol Region,Region V,13.32537797,123.668741,13/06/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2012/TRa-356,RV/R5.PHL/2012/TRa-356
+LC018519,Asian SEA4,Philippines,2012,2012,,Castilla,Sorsogon,Bicol Region,Region V,,,14/06/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2012/TRa-357,RV/R5.PHL/2012/TRa-357
+LC018520,Asian SEA4,Philippines,2012,2012,,Labo,Camarines Norte,Bicol Region,Region V,,,14/06/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2012/TRa-358,RV/R5.PHL/2012/TRa-358
+LC018521,Asian SEA4,Philippines,2012,2012,,Legaspi City,Albay,Bicol Region,Region V,,,18/06/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2012/TRa-360,RV/R5.PHL/2012/TRa-360
+LC018522,Asian SEA4,Philippines,2012,2012,,Oas,Albay,Bicol Region,Region V,,,19/07/2012,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2012/TRa-362,RV/R5.PHL/2012/TRa-362
+LC018523,Asian SEA4,Philippines,2013,2013,,Camalig,Albay,Bicol Region,Region V,,,15/01/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2013/TRa-364,RV/R5.PHL/2013/TRa-364
+LC018524,Asian SEA4,Philippines,2013,2013,,Tabaco City,Albay,Bicol Region,Region V,13.32537797,123.668741,04/02/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2013/TRa-365,RV/R5.PHL/2013/TRa-365
+LC018549,Asian SEA4,Philippines,2013,2013,,Camalig,Albay,Bicol Region,Region V,,,15/01/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2013/TRa-421,RV/R5.PHL/2013/TRa-421
+LC018550,Asian SEA4,Philippines,2013,2013,,Tabaco City,Albay,Bicol Region,Region V,13.32537797,123.668741,04/02/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2013/TRa-422,RV/R5.PHL/2013/TRa-422
+LC018551,Asian SEA4,Philippines,2013,2013,,Naga City,Camarines Sur,Bicol Region,Region V,,,15/03/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2013/TRa-425,RV/R5.PHL/2013/TRa-425
+LC018552,Asian SEA4,Philippines,2013,2013,,Bato,Camarines Sur,Bicol Region,Region V,,,18/03/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2013/TRa-426,RV/R5.PHL/2013/TRa-426
+LC018553,Asian SEA4,Philippines,2013,2013,,Jovellar,Albay,Bicol Region,Region V,,,15/04/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2013/TRa-427,RV/R5.PHL/2013/TRa-427
+LC018554,Asian SEA4,Philippines,2013,2013,,Daraga,Albay,Bicol Region,Region V,,,24/04/2013,1575,22-Dec-15,22-Dec-15,Canis lupus familiaris,26656835,RV/R5.PHL/2013/TRa-429,RV/R5.PHL/2013/TRa-429
+MN726842,Asian SEA4,Philippines,2019,2019,,Batang,Albay,Bicol Region,Region V,,,01/01/2019,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,REGION_5_2019-13,REGION_5_2019-13
+MN726852,Asian SEA4,Philippines,2018,2018,,Basag,Albay,Bicol Region,Region V,,,12/02/2018,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,REGION_5_2018-50,REGION_5_2018-50
+MN726860,Asian SEA4,Philippines,2018,2018,,Zone1,Albay,Bicol Region,Region V,,,27/03/2018,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,REGION_5_2018-100,REGION_5_2018-100
+MN726875,Asian SEA4,Philippines,2018,2018,,Misibis,Albay,Bicol Region,Region V,,,13/11/2018,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,REGION_5_2018-311,REGION_5_2018-311
+MN726876,Asian SEA4,Philippines,2018,2018,,Bariis,Albay,Bicol Region,Region V,,,25/10/2018,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,REGION_5_2018-304,REGION_5_2018-304
+MN726880,Asian SEA4,Philippines,2019,2019,,Panal,Albay,Bicol Region,Region V,,,01/01/2019,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,REGION_5_2019-1,REGION_5_2019-1
+R5-21-115,Asian SEA4,Philippines,,,Pob. III,Vinzons,Camarines Norte,Bicol Region,Region V,14.19277209,122.8889974,28/09/2021,11872,,,Canis familiaris,,R5-21-115,R5-21-115
+R5-21-119,Asian SEA4,Philippines,,,San Pedro,Irosin,Sorsogon,Bicol Region,Region V,12.71458793,124.0300037,15/10/2021,11872,,,Canis familiaris,,R5-21-119,R5-21-119
+R5-21-128,Asian SEA4,Philippines,,,Cararayan,Naga,Camarines Sur,Bicol Region,Region V,13.64368803,123.2594656,09/11/2021,11872,,,Canis familiaris,,R5-21-128,R5-21-128
+R5-21-132,Asian SEA4,Philippines,,,Labnig,Malinao,Albay,Bicol Region,Region V,13.3845747,123.6522757,15/11/2021,11872,,,Canis familiaris,,R5-21-132,R5-21-132
+R5-21-136,Asian SEA4,Philippines,,,-,Libon,Albay,Bicol Region,Region V,13.24707931,123.3705704,02/12/2021,11872,,,Canis familiaris,,R5-21-136,R5-21-136
+R5-21-140,Asian SEA4,Philippines,,,Calang Calawan,Vinzons,Camarines Norte,Bicol Region,Region V,14.19277209,122.8889974,10/12/2021,11872,,,Canis familiaris,,R5-21-140,R5-21-140
+R5-22-008,Asian SEA4,Philippines,,,Sto. Cristo,Tabaco City,Albay,Bicol Region,Region V,13.32537797,123.668741,02/02/2022,11872,,,Canis familiaris,,R5-22-008,R5-22-008
+R5-22-09,Asian SEA4,Philippines,,,Bauud,Malilipot,Albay,Bicol Region,Region V,13.30206264,123.724162,07/02/2022,11872,,,Felis catus,,R5-09,R5-09
+RADDL5-005,Asian SEA4,Philippines,,,San Nicolas,Iriga  ,Camarines Sur,Bicol Region,Region V,13.44838237,123.4332975,30/01/2015,11872,,,Canis familiaris,,RADDL5-005,RADDL5-005
+R6-21-4375,Asian SEA4,Philippines,,,Labigan,Sara,Iloilo,Western Visayas,Region VI,11.29863894,122.9983924,01/10/2021,11872,,,Canis familiaris,,R6-21-4375,R6-21-4375
+R6-21-4511,Asian SEA4,Philippines,,,San Isidro,Tibiao,Antique,Western Visayas,Region VI,11.31177392,122.0839795,08/10/2021,11872,,,Canis familiaris,,R6-21-4511,R6-21-4511
+R6-21-4600,Asian SEA4,Philippines,,,Jibao-An,Pavia,Iloilo,Western Visayas,Region VI,10.76834195,122.5361294,14/10/2021,11872,,,Canis familiaris,,R6-21-4600,R6-21-4600
+R6-4342,Asian SEA4,Philippines,,,Cabanban,Oton,Iloilo,Western Visayas,Region VI,10.72535873,122.4673796,30/09/2021,11872,,,Bos taurus,,R6-4342,R6-4342
+R6-4568,Asian SEA4,Philippines,,,Avila,Buenavista,Guimaras,Western Visayas,Region VI,10.69136331,122.6621626,13/10/2021,11872,,,Canis familiaris,,R6-4568,R6-4568
+AB563890,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,01/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-074,RV/R7.PHL/2008/TRa-074
+AB563891,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,02/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-075,RV/R7.PHL/2008/TRa-075
+AB563892,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,03/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-076,RV/R7.PHL/2008/TRa-076
+AB563893,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,04/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-077,RV/R7.PHL/2008/TRa-077
+AB563894,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,05/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-078,RV/R7.PHL/2008/TRa-078
+AB563895,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,06/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-079,RV/R7.PHL/2008/TRa-079
+AB563896,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,07/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-080,RV/R7.PHL/2008/TRa-080
+AB563897,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,08/09/2008,803,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-081,RV/R7.PHL/2008/TRa-081
+AB563898,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,01/10/2008,789,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-082,RV/R7.PHL/2008/TRa-082
+AB563899,Asian SEA4,Philippines,2008,2008,,,Negros Oriental,Central Visayas,Region VII,,,01/11/2008,769,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-083,RV/R7.PHL/2008/TRa-083
+AB563900,Asian SEA4,Philippines,2008,2008,,Valencia,Negros Oriental,Central Visayas,Region VII,,,02/10/2008,1575,03-Apr-13,25-Jun-13,-,23593515,RV/R7.PHL/2008/TRa-085,RV/R7.PHL/2008/TRa-085
+AB563911,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,01/10/2008,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-096,RV/R7.PHL/2008/TRa-096
+AB563912,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,01/11/2008,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-097,RV/R7.PHL/2008/TRa-097
+AB563913,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,02/11/2008,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-098,RV/R7.PHL/2008/TRa-098
+AB563914,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,03/11/2008,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-099,RV/R7.PHL/2008/TRa-099
+AB563915,Asian SEA4,Philippines,2008,2008,,,cebu,Central Visayas,Region VII,,,04/11/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-100,RV/R7.PHL/2008/TRa-100
+AB563916,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,05/11/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-101,RV/R7.PHL/2008/TRa-101
+AB563917,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,06/11/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-102,RV/R7.PHL/2008/TRa-102
+AB563918,Asian SEA4,Philippines,2008,2008,,,Cebu,Central Visayas,Region VII,,,07/11/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-103,RV/R7.PHL/2008/TRa-103
+AB563947,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,01/01/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-143,RV/R7.PHL/2009/TRa-143
+AB563948,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,01/02/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-144,RV/R7.PHL/2009/TRa-144
+AB563949,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,01/02/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-145,RV/R7.PHL/2009/TRa-145
+AB563950,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,01/03/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-147,RV/R7.PHL/2009/TRa-147
+AB563958,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,01/01/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-164,RV/R7.PHL/2009/TRa-164
+AB563959,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,02/01/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-165,RV/R7.PHL/2009/TRa-165
+AB563960,Asian SEA4,Philippines,2009,2009,,,Cebu,Central Visayas,Region VII,,,03/01/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-166,RV/R7.PHL/2009/TRa-166
+AB563961,Asian SEA4,Philippines,2009,2009,,,Cebu,Central Visayas,Region VII,,,01/02/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-167,RV/R7.PHL/2009/TRa-167
+AB563962,Asian SEA4,Philippines,2009,2009,,,Cebu,Central Visayas,Region VII,,,02/02/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-168,RV/R7.PHL/2009/TRa-168
+AB563963,Asian SEA4,Philippines,2009,2009,,,Cebu,Central Visayas,Region VII,,,03/02/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-170,RV/R7.PHL/2009/TRa-170
+AB563964,Asian SEA4,Philippines,2009,2009,,,Cebu,Central Visayas,Region VII,,,01/01/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-172,RV/R7.PHL/2009/TRa-172
+AB563965,Asian SEA4,Philippines,2009,2009,,,Cebu,Central Visayas,Region VII,,,01/03/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-173,RV/R7.PHL/2009/TRa-173
+AB563967,Asian SEA4,Philippines,2009,2009,,,Cebu,Central Visayas,Region VII,,,01/04/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-177,RV/R7.PHL/2009/TRa-177
+AB563968,Asian SEA4,Philippines,2009,2009,,,Cebu,Central Visayas,Region VII,,,02/04/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-178,RV/R7.PHL/2009/TRa-178
+AB564001,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,01/06/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-235,RV/R7.PHL/2009/TRa-235
+AB564002,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,01/07/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-236,RV/R7.PHL/2009/TRa-236
+AB564003,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,02/07/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-237,RV/R7.PHL/2009/TRa-237
+AB564004,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,01/08/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-238,RV/R7.PHL/2009/TRa-238
+AB564005,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,01/09/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-239,RV/R7.PHL/2009/TRa-239
+AB564006,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,01/04/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-240,RV/R7.PHL/2009/TRa-240
+AB564007,Asian SEA4,Philippines,2009,2009,,,Negros Oriental,Central Visayas,Region VII,,,01/05/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-241,RV/R7.PHL/2009/TRa-241
+AB683588,Asian SEA4,Philippines,2008,2008,,,Negros Oriental,Central Visayas,Region VII,,,01/10/2008,1575,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R7.PHL/2008/TRa-084,RV/R7.PHL/2008/TRa-084
+AB683646,Asian SEA4,Philippines,2009,2009,,,Cebu,Central Visayas,Region VII,,,02/03/2009,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-176,RV/R7.PHL/2009/TRa-176
+AB683652,Asian SEA4,Philippines,2009,2009,,,Cebu,Central Visayas,Region VII,,,01/04/2009,1124,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R7.PHL/2009/TRa-179,RV/R7.PHL/2009/TRa-179
+R7-21-161,Asian SEA4,Philippines,,,Pusok,Lapu Lapu City ,Cebu,Central Visayas,Region VII,10.29788925,123.9784138,18/10/2021,11872,,,Canis familiaris,,R7-21-161,R7-21-161
+AB563845,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,01/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-014,RV/R10.PHL/2008/TRa-014
+AB563852,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,02/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-024,RV/R10.PHL/2008/TRa-024
+AB563853,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,03/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-025,RV/R10.PHL/2008/TRa-025
+AB563854,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,04/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-026,RV/R10.PHL/2008/TRa-026
+AB563855,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,05/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-027,RV/R10.PHL/2008/TRa-027
+AB563856,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,06/07/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-028,RV/R10.PHL/2008/TRa-028
+AB563857,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,01/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-030,RV/R10.PHL/2008/TRa-030
+AB563871,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,02/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-052,RV/R10.PHL/2008/TRa-052
+AB563872,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,03/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-053,RV/R10.PHL/2008/TRa-053
+AB563873,Asian SEA4,Philippines,2008,2008,,,Lanao del Norte,Northern Mindanao,Region X,,,04/08/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-054,RV/R10.PHL/2008/TRa-054
+AB563874,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,01/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-055,RV/R10.PHL/2008/TRa-055
+AB563875,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,02/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-056,RV/R10.PHL/2008/TRa-056
+AB563876,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,03/09/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-057,RV/R10.PHL/2008/TRa-057
+AB563877,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,04/09/2008,769,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-058,RV/R10.PHL/2008/TRa-058
+AB563920,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,01/10/2008,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-107,RV/R10.PHL/2008/TRa-107
+AB563921,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,01/12/2008,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-108,RV/R10.PHL/2008/TRa-108
+AB563922,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,01/01/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-109,RV/R10.PHL/2009/TRa-109
+AB563923,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,02/01/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-110,RV/R10.PHL/2009/TRa-110
+AB563970,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,01/05/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-191,RV/R10.PHL/2009/TRa-191
+AB563971,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,01/06/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-196,RV/R10.PHL/2009/TRa-196
+AB563972,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,02/06/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-197,RV/R10.PHL/2009/TRa-197
+AB564008,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,01/07/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-242,RV/R10.PHL/2009/TRa-242
+AB564009,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,02/07/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-243,RV/R10.PHL/2009/TRa-243
+AB564010,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,03/07/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-244,RV/R10.PHL/2009/TRa-244
+AB564011,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,01/08/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-246,RV/R10.PHL/2009/TRa-246
+AB564012,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,01/09/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-248,RV/R10.PHL/2009/TRa-248
+AB564013,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,02/01/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-249,RV/R10.PHL/2009/TRa-249
+AB564014,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,03/09/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-250,RV/R10.PHL/2009/TRa-250
+AB564015,Asian SEA4,Philippines,2009,2009,,,Lanao del Norte,Northern Mindanao,Region X,,,01/10/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-251,RV/R10.PHL/2009/TRa-251
+AB564016,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,01/10/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-252,RV/R10.PHL/2009/TRa-252
+AB564017,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,02/10/2009,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-253,RV/R10.PHL/2009/TRa-253
+AB564018,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,01/07/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-254,RV/R10.PHL/2009/TRa-254
+AB564019,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,02/07/2009,1575,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-255,RV/R10.PHL/2009/TRa-255
+AB683589,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,01/02/2009,1575,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-184,RV/R10.PHL/2009/TRa-184
+AB683590,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,02/02/2009,1575,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-186,RV/R10.PHL/2009/TRa-186
+AB683591,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,01/04/2009,1575,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-189,RV/R10.PHL/2009/TRa-189
+AB683612,Asian SEA4,Philippines,2008,2008,,,Misamis Oriental,Northern Mindanao,Region X,,,01/09/2008,1124,03-Apr-13,25-Jun-13,Canis lupus familiaris,23593515,RV/R10.PHL/2008/TRa-104,RV/R10.PHL/2008/TRa-104
+AB683649,Asian SEA4,Philippines,2009,2009,,,Misamis Oriental,Northern Mindanao,Region X,,,01/06/2009,1124,03-Apr-13,29-May-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-195,RV/R10.PHL/2009/TRa-195
+AB771918,Asian SEA4,Philippines,2009,2009,,Cagayan De Oro,Misamis Oriental,Northern Mindanao,Region X,8.409218588,124.6235169,01/05/2009,698,29-May-13,29-May-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-194,RV/R10.PHL/2009/TRa-194
+AB771920,Asian SEA4,Philippines,2009,2009,,Cagayan De Oro,Misamis Oriental,Northern Mindanao,Region X,8.409218588,124.6235169,02/09/2009,698,29-May-13,29-May-13,Canis lupus familiaris,23593515,RV/R10.PHL/2009/TRa-247,RV/R10.PHL/2009/TRa-247
+R10-688,Asian SEA4,Philippines,,,,Malaybalay,Bukidnon,Northern Mindanao,Region X,8.160681669,125.1787735,02/07/2021,11872,,,Canis familiaris,,R10-688,R10-688
+R10-711,Asian SEA4,Philippines,,,Balulang,Cagayan de Oro,Misamis Oriental,Northern Mindanao,Region X,8.409218588,124.6235169,12/07/2021,11872,,,Canis familiaris,,R10-711,R10-711
+R10-714,Asian SEA4,Philippines,,,Bonbon,Opol,Misamis Oriental,Northern Mindanao,Region X,,,11/07/2021,11872,,,Canis familiaris,,R10-714,R10-714
+R10-824,Asian SEA4,Philippines,,,Bulua,Cagayan de Oro ,Misamis Oriental,Northern Mindanao,Region X,8.409218588,124.6235169,09/09/2021,11872,,,Canis familiaris,,R10-824,R10-824
+R10-856,Asian SEA4,Philippines,,,-,Manticao,Misamis Oriental,Northern Mindanao,Region X,8.374138099,124.3486702,27/09/2021,11872,,,Canis familiaris,,R10-856,R10-856
+R10-907,Asian SEA4,Philippines,,,Gango,Libona,Bukidnon,Northern Mindanao,Region X,8.327601426,124.7570432,25/10/2021,11872,,,Canis familiaris,,R10-907,R10-907
+R10-920,Asian SEA4,Philippines,,,Agusan,Cagayan de Oro,Misamis Oriental,Northern Mindanao,Region X,8.409218588,124.6235169,26/10/2021,11872,,,Canis familiaris,,R10-920,R10-920
+R10-989,Asian SEA4,Philippines,,,Barangay 1,Gingoog ,Misamis Oriental,Northern Mindanao,Region X,8.776382452,125.0898786,25/11/2021,11872,,,Canis familiaris,,R10-989,R10-989
+R10-990,Asian SEA4,Philippines,,,Agay-Ayan,Gingoog ,Misamis Oriental,Northern Mindanao,Region X,8.776382452,125.0898786,25/11/2021,11872,,,Canis familiaris,,R10-990,R10-990
+AB563807,Asian SEA4,Philippines,2005,2005,,,Davaodel Sur,Davao Region,Region XI,,,01/04/2005,1575,03-Apr-13,30-Jul-13,Canis lupus familiaris,23593515,RV/R11.PHL/2005/Z-05-186,RV/R11.PHL/2005/Z-05-186
+OQ326736,Asian SEA4,Philippines,,,Tugbok,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,05/10/2018,,,,Canis familiaris,,18-199,18-199
+OQ326737,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,01/09/2018,,,,Canis familiaris,,18-172,18-172
+OQ326738,Asian SEA4,Philippines,,,Digos,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,06/08/2018,,,,Canis familiaris,,18-164,18-164
+OQ326739,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,03/01/2019,,,,Canis familiaris,,19-015,19-015
+OQ326740,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,01/01/2019,,,,Canis familiaris,,19-004,19-004
+OQ326741,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,02/01/2019,,,,Canis familiaris,,19-011,19-011
+OQ326742,Asian SEA4,Philippines,,,Poblacion,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,03/11/2018,,,,Canis familiaris,,18-216,18-216
+OQ326743,Asian SEA4,Philippines,,,Toril,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,02/09/2018,,,,Canis familiaris,,18-174,18-174
+OQ326744,Asian SEA4,Philippines,,,Samal,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,04/08/2018,,,,Canis familiaris,,18-162,18-162
+OQ326745,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,02/11/2018,,,,Canis familiaris,,18-214,18-214
+OQ326746,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,01/10/2018,,,,Canis familiaris,,18-188,18-188
+OQ326747,Asian SEA4,Philippines,,,Toril,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,05/08/2018,,,,Canis familiaris,,18-163,18-163
+OQ326748,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,06/07/2018,,,,Canis familiaris,,18-138,18-138
+OQ326749,Asian SEA4,Philippines,,,Compostela Valley,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,09/06/2018,,,,Canis familiaris,,18-107,18-107
+OQ326750,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,04/06/2018,,,,Canis familiaris,,18-099,18-099
+OQ326751,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,08/06/2018,,,,Canis familiaris,,18-106,18-106
+OQ326752,Asian SEA4,Philippines,,,Tugbok,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,06/06/2018,,,,Canis familiaris,,18-102,18-102
+OQ326753,Asian SEA4,Philippines,,,Tugbok,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,11/06/2018,,,,Canis familiaris,,18-116,18-116
+OQ326754,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,07/06/2018,,,,Canis familiaris,,18-103,18-103
+OQ326755,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,05/06/2018,,,,Canis familiaris,,18-101,18-101
+OQ326756,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,10/06/2018,,,,Canis familiaris,,18-114,18-114
+OQ326757,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,01/06/2018,,,,Canis familiaris,,18-092,18-092
+OQ326758,Asian SEA4,Philippines,,,Digos Cogon,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,12/06/2018,,,,Canis familiaris,,18-118,18-118
+OQ326759,Asian SEA4,Philippines,,,Poblacion,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,03/07/2018,,,,Canis familiaris,,18-130,18-130
+OQ326760,Asian SEA4,Philippines,,,Tagum,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,04/07/2018,,,,Canis familiaris,,18-133,18-133
+OQ326761,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,02/06/2018,,,,Canis familiaris,,18-094,18-094
+OQ326762,Asian SEA4,Philippines,,,Tugbok,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,01/07/2018,,,,Canis familiaris,,18-120,18-120
+OQ326763,Asian SEA4,Philippines,,,Poblacion,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,05/01/2019,,,,Canis familiaris,,19-045,19-045
+OQ326764,Asian SEA4,Philippines,,,Buhangin,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,03/06/2018,,,,Canis familiaris,,18-096,18-096
+OQ326765,Asian SEA4,Philippines,,,Panabo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,06/01/2019,,,,Canis familiaris,,19-050,19-050
+OQ326766,Asian SEA4,Philippines,,,Tugbok,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,02/07/2018,,,,Canis familiaris,,18-121,18-121
+OQ326767,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,05/07/2018,,,,Canis familiaris,,18-135,18-135
+OQ326768,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,02/10/2018,,,,Canis familiaris,,18-191,18-191
+OQ326769,Asian SEA4,Philippines,,,Poblacion,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,02/12/2018,,,,Canis familiaris,,18-224,18-224
+OQ326770,Asian SEA4,Philippines,,,Buhangin,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,04/01/2019,,,,Canis familiaris,,19-022,19-022
+OQ326771,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,03/12/2018,,,,Canis familiaris,,18-225,18-225
+OQ326772,Asian SEA4,Philippines,,,Buhangin,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,01/08/2018,,,,Canis familiaris,,18-147,18-147
+OQ326773,Asian SEA4,Philippines,,,Tugbok,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,03/08/2018,,,,Canis familiaris,,18-153,18-153
+OQ326774,Asian SEA4,Philippines,,,Buhangin,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,02/08/2018,,,,Canis familiaris,,18-151,18-151
+OQ326775,Asian SEA4,Philippines,,,Cotabato,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,03/09/2018,,,,Canis familiaris,,18-179,18-179
+OQ326776,Asian SEA4,Philippines,,,Buhangin,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,08/07/2018,,,,Canis familiaris,,18-144,18-144
+OQ326777,Asian SEA4,Philippines,,,Tugbok,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,05/09/2018,,,,Canis familiaris,,18-183,18-183
+OQ326778,Asian SEA4,Philippines,,,Buhangin,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,01/12/2018,,,,Canis familiaris,,18-223,18-223
+OQ326779,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,04/10/2018,,,,Canis familiaris,,18-196,18-196
+OQ326780,Asian SEA4,Philippines,,,Calinan,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,03/10/2018,,,,Canis familiaris,,18-194,18-194
+OQ326781,Asian SEA4,Philippines,,,Toril,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,01/11/2018,,,,Canis familiaris,,18-209,18-209
+OQ326782,Asian SEA4,Philippines,,,Toril,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,04/11/2018,,,,Canis familiaris,,18-221,18-221
+OQ326783,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,04/09/2018,,,,Canis familiaris,,18-181,18-181
+OQ326784,Asian SEA4,Philippines,,,Nabunturan,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,07/07/2018,,,,Canis familiaris,,18-142,18-142
+R11-21-63,Asian SEA4,Philippines,,,,Tagum ,Davaodel Norte,Davao Region,Region XI,7.434951203,125.7990149,04/10/2021,11872,,,Canis familiaris,,R11-21-63,R11-21-63
+R11-22-002,Asian SEA4,Philippines,,,Talomo,Davao City ,Davaodel Sur,Davao Region,Region XI,7.254430625,125.4144871,05/01/2022,11872,,,Canis familiaris,,R11-22-002,R11-22-002
+AB116577,Asian SEA4,Philippines,-,-,,,,Mindanao Island,,,,01/01/2001,873,30-Jun-06,13-Jul-16,12153119,-,PHI103,PHI103
+AB116582,Asian SEA4,Philippines,-,-,,,,,,,,01/01/2001,588,30-Jun-06,13-Jul-16,12153119,-,PHI114,PHI114
+DQ275546,Asian SEA4,Philippines,2004,2004,,,,,,,,01/01/2004,951,10-Dec-05,25-Jul-16,Felis catus,-,V1371PHIL,V1371PHIL
+DQ275547,Asian SEA4,Philippines,2004,2004,,,,,,,,01/01/2004,950,10-Dec-05,25-Jul-16,Canis familiaris,-,V1374PHIL,V1374PHIL
+DQ275548,Asian SEA4,Philippines,2004,2004,,,,,,,,01/01/2004,937,10-Dec-05,25-Jul-16,Canis familiaris,-,V1375PHIL,V1375PHIL
+DQ275549,Asian SEA4,Philippines,2004,2004,,,,,,,,01/01/2004,589,10-Dec-05,25-Jul-16,Canis familiaris,17869366,V1373PHIL,V1373PHIL
+DQ275550,Asian SEA4,Philippines,2004,2004,,,,,,,,01/01/2004,894,10-Dec-05,25-Jul-16,Felis catus,-,V1372PHIL,V1372PHIL
+EU086155,Asian SEA4,Philippines,2004,2004,,,,,,,,01/01/2004,1575,30-Aug-08,05-Jul-11,Homo sapiens,18931062,04030PHI,04030PHI
+EU086200,Asian SEA4,Philippines,1994,1994,,,,,,,,01/01/1994,1353,30-Aug-08,20-Oct-08,Canis familiaris,18931062,94270PHI,94270PHI
+EU086202,Asian SEA4,Philippines,1994,1994,,,,,,,,01/01/1994,1353,30-Aug-08,20-Oct-08,Canis familiaris,18931062,94280PHI,94280PHI
+EU086203,Asian SEA4,Philippines,2000,2000,,,,,,,,01/01/2000,1353,30-Aug-08,20-Oct-08,Homo sapiens,18931062,03006PHI,03006PHI
+KC792091,Asian SEA4,Philippines,2009,2009,,,,,,,,01/01/2009,1572,17-Jun-13,17-Jun-13,Canis familiaris,-,A12_1952,A12_1952
+KC792092,Asian SEA4,Philippines,2009,2009,,,,,,,,01/01/2009,1572,17-Jun-13,17-Jun-13,Canis familiaris,-,A12_1959,A12_1959
+KC792093,Asian SEA4,Philippines,2009,2009,,,,,,,,01/01/2009,1572,17-Jun-13,17-Jun-13,Canis familiaris,-,A12_1964,A12_1964
+KC792094,Asian SEA4,Philippines,2009,2009,,,,,,,,01/01/2009,1572,17-Jun-13,17-Jun-13,Canis familiaris,-,A12_1969,A12_1969
+KC792095,Asian SEA4,Philippines,2009,2009,,,,,,,,01/01/2009,1572,17-Jun-13,17-Jun-13,Canis familiaris,-,A12_1973,A12_1973
+KC792096,Asian SEA4,Philippines,2009,2009,,,,,,,,01/01/2009,1572,17-Jun-13,17-Jun-13,Canis familiaris,-,A12_1977,A12_1977
+KC792097,Asian SEA4,Philippines,2009,2009,,,,,,,,01/01/2009,1572,17-Jun-13,17-Jun-13,Canis familiaris,-,A12_1978,A12_1978
+KC792240,Asian SEA4,Philippines,-,-,,,,,,,,01/01/2013,1179,17-Jun-13,17-Jun-13,Canis familiaris,-,Philippin_dog,Philippin_dog
+KU055514,Asian SEA4,Philippines,2001,2001,,,,,,,,01/01/2001,211,14-Jul-16,14-Jul-16,Canis familiaris,27380028,03007PHI,03007PHI
+KU055570,Asian SEA4,Philippines,1994,1994,,,,,,,,01/01/1994,211,14-Jul-16,14-Jul-16,Canis familiaris,27380028,94273PHI,94273PHI
+KX148259,Asian SEA4,Philippines,1994,1994,,,,,,,,01/01/1994,11803,28-Nov-16,28-Nov-16,Canis familiaris,-,94272PHI,94272PHI
+KX148261,Asian SEA4,Philippines,1994,1994,,,,,,,,01/01/1994,11800,28-Nov-16,28-Nov-16,Canis familiaris,-,94281PHI,94281PHI
+KX148262,Asian SEA4,Philippines,1994,1994,,,,,,,,01/01/1994,11800,28-Nov-16,28-Nov-16,Canis familiaris,-,94278PHI,94278PHI
+KX148263,Asian SEA4,Philippines,1994,1994,,,,,,,,01/01/1994,11800,28-Nov-16,28-Nov-16,Canis familiaris,-,94275PHI,94275PHI
+MN726838,Asian SEA4,Philippines,2013,2013,,,,,,,,10/05/2013,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-13-094,Z-13-094
+MN726844,Asian SEA4,Philippines,2014,2014,,,,,,,,07/02/2014,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-14-033,Z-14-033
+MN726846,Asian SEA4,Philippines,2015,2015,,,,,,,,01/01/2015,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-15-001,Z-15-001
+MN726851,Asian SEA4,Philippines,2014,2014,,,,,,,,21/06/2014,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z14-142,Z14-142
+MN726853,Asian SEA4,Philippines,2012,2012,,,,,,,,28/06/2012,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-12-149,Z-12-149
+MN726862,Asian SEA4,Philippines,2013,2013,,,,,,,,14/02/2013,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-13-032,Z-13-032
+MN726863,Asian SEA4,Philippines,2015,2015,,,,,,,,23/10/2015,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,RADDL3-1045,RADDL3-1045
+MN726864,Asian SEA4,Philippines,2016,2016,,,,,,,,02/09/2015,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,RADDL3-845,RADDL3-845
+MN726865,Asian SEA4,Philippines,2014,2014,,,,,,,,11/06/2014,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-14-136,Z-14-136
+MN726867,Asian SEA4,Philippines,2012,2012,,,,,,,,16/01/2012,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z12-012,Z12-012
+MN726868,Asian SEA4,Philippines,2016,2016,,,,,,,,24/05/2016,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-16-082,Z-16-082
+MN726871,Asian SEA4,Philippines,2013,2013,,,,,,,,10/04/2013,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-13-071,Z-13-071
+MN726872,Asian SEA4,Philippines,2017,2017,,,,,,,,14/12/2016,11863,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-16-209,Z-16-209
+MN726882,Asian SEA4,Philippines,2019,2019,,,,,,,,19/12/2016,11653,25-Dec-19,25-Dec-19,Canis lupus familiaris,-,Z-16-211,Z-16-211
