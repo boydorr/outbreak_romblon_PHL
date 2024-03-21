@@ -27,11 +27,11 @@ cat raw_data/phd_data/ph_wg_ctb_29.fasta raw_data/pgc_data/pgcM_wg_49.fasta > pr
 mafft processed_data/data_prep/sequences/ph_concat_wgs_78.fasta > processed_data/data_prep/sequences/ph_concat_wgs_78.aln.fasta
 ```
 
-b) Custom R scipts to curate, clean and deduplicate sequences and metadata
-1-curate_sequence_metadata.R
-2_clean_sequence_metadata.R
-3_convert_to_isolateID.R
-4_dedup_seq_data.R
+b) Custom R scipts to curate, clean and deduplicate sequences and metadata  
+1-curate_sequence_metadata.R  
+2_clean_sequence_metadata.R  
+3_convert_to_isolateID.R  
+4_dedup_seq_data.R  
 
 c) Genome sequences added to existing rabv-glue alignment using mafft -add function
 
@@ -40,7 +40,7 @@ c) Genome sequences added to existing rabv-glue alignment using mafft -add funct
  ```
  
 d) Custom R script to merge sequences from the same sample (but submitted as separate GenBank records). Reduced data to 581 sequences.
-5_merge_sequences.R
+5_merge_sequences.R  
 
 e) Reconstruct phylogeny using fasttree on 581 sequence dataset
 
@@ -49,7 +49,7 @@ fasttree -gtr -gamma -nt processed_data/concatenated_alignment/ph_all_merged_by_
 ```
 
 f) Custom R scripts to extract WGS data and root trees (WGS only and all data) by time 
-6_wgs_tree.R
+6_wgs_tree.R  
 
 g) Subset tree to WGS only with gotree prune
     
@@ -58,7 +58,7 @@ gotree prune -i processed_data/trees/ph_all_581_ft.nwk -f processed_data/wgs_ali
 ```
 
 h) Perform tree dating using R wrapper for lsd2
-7_tree_dating_lsd.R
+7_tree_dating_lsd.R  
 
 i) Use pastml to perform ancestral date reconstruction
 
