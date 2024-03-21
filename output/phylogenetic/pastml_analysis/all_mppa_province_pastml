@@ -1,0 +1,3384 @@
+node	Province
+root	Albay
+root	Batangas
+root	Bulacan
+root	Cagayan
+root	Camarines Norte
+root	Cavite
+root	Ifugao
+root	Ilocos Sur
+root	La Union
+root	Laguna
+root	Metropolitan Manila
+root	Misamis Oriental
+root	Nueva Ecija
+root	Nueva Vizcaya
+root	Pampanga
+root	Pangasinan
+root	Quezon
+root	Romblon
+root	Tarlac
+root	Zambales
+n0	Albay
+n0	Batangas
+n0	Bulacan
+n0	Cagayan
+n0	Cavite
+n0	Ifugao
+n0	Ilocos Sur
+n0	La Union
+n0	Laguna
+n0	Metropolitan Manila
+n0	Misamis Oriental
+n0	Nueva Ecija
+n0	Pampanga
+n0	Pangasinan
+n0	Romblon
+n0	Tarlac
+n0	Zambales
+n33	Albay
+n33	Batangas
+n33	Bulacan
+n33	Cagayan
+n33	Camarines Norte
+n33	Cavite
+n33	Ifugao
+n33	Ilocos Sur
+n33	La Union
+n33	Laguna
+n33	Metropolitan Manila
+n33	Misamis Oriental
+n33	Nueva Ecija
+n33	Nueva Vizcaya
+n33	Pampanga
+n33	Pangasinan
+n33	Quezon
+n33	Romblon
+n33	Tarlac
+n33	Zambales
+n00	Albay
+n00	Batangas
+n00	Bulacan
+n00	Cagayan
+n00	Camarines Norte
+n00	Cavite
+n00	Ifugao
+n00	Ilocos Sur
+n00	La Union
+n00	Laguna
+n00	Metropolitan Manila
+n00	Misamis Oriental
+n00	Nueva Ecija
+n00	Nueva Vizcaya
+n00	Pampanga
+n00	Pangasinan
+n00	Quezon
+n00	Romblon
+n00	Tarlac
+n00	Zambales
+n22	Batangas
+n22	Oriental Mindoro
+n4	Albay
+n4	Batangas
+n4	Bulacan
+n4	Cagayan
+n4	Camarines Norte
+n4	Cavite
+n4	Ifugao
+n4	Ilocos Sur
+n4	La Union
+n4	Laguna
+n4	Metropolitan Manila
+n4	Misamis Oriental
+n4	Nueva Ecija
+n4	Nueva Vizcaya
+n4	Pampanga
+n4	Pangasinan
+n4	Quezon
+n4	Romblon
+n4	Tarlac
+n4	Zambales
+n17	Albay
+n17	Batangas
+n17	Bulacan
+n17	Cagayan
+n17	Camarines Norte
+n17	Cavite
+n17	Ifugao
+n17	Ilocos Sur
+n17	La Union
+n17	Laguna
+n17	Metropolitan Manila
+n17	Misamis Oriental
+n17	Nueva Ecija
+n17	Nueva Vizcaya
+n17	Pampanga
+n17	Pangasinan
+n17	Quezon
+n17	Romblon
+n17	Tarlac
+n17	Zambales
+n1	Albay
+n1	Batangas
+n1	Bulacan
+n1	Cagayan
+n1	Camarines Norte
+n1	Cavite
+n1	Ifugao
+n1	Ilocos Sur
+n1	La Union
+n1	Laguna
+n1	Metropolitan Manila
+n1	Misamis Oriental
+n1	Nueva Ecija
+n1	Nueva Vizcaya
+n1	Pampanga
+n1	Pangasinan
+n1	Quezon
+n1	Romblon
+n1	Tarlac
+n1	Zambales
+V1375PHIL	Albay
+V1375PHIL	Batangas
+V1375PHIL	Bulacan
+V1375PHIL	Cagayan
+V1375PHIL	Camarines Norte
+V1375PHIL	Cavite
+V1375PHIL	Ifugao
+V1375PHIL	Ilocos Sur
+V1375PHIL	La Union
+V1375PHIL	Laguna
+V1375PHIL	Metropolitan Manila
+V1375PHIL	Misamis Oriental
+V1375PHIL	Nueva Ecija
+V1375PHIL	Nueva Vizcaya
+V1375PHIL	Pampanga
+V1375PHIL	Pangasinan
+V1375PHIL	Quezon
+V1375PHIL	Romblon
+V1375PHIL	Tarlac
+V1375PHIL	Zambales
+94275PHI	Batangas
+94275PHI	Bulacan
+94275PHI	Cavite
+94275PHI	Nueva Ecija
+94275PHI	Oriental Mindoro
+94275PHI	Pampanga
+n3	Batangas
+RV/R4B.PHL/2006/Z-06-197	Batangas
+RV/R4B.PHL/2006/Z-06-408	Oriental Mindoro
+n44	Albay
+n44	Batangas
+n44	Bulacan
+n44	Cagayan
+n44	Camarines Norte
+n44	Cavite
+n44	Ifugao
+n44	Ilocos Sur
+n44	La Union
+n44	Laguna
+n44	Metropolitan Manila
+n44	Misamis Oriental
+n44	Nueva Ecija
+n44	Nueva Vizcaya
+n44	Pampanga
+n44	Pangasinan
+n44	Quezon
+n44	Romblon
+n44	Tarlac
+n44	Zambales
+n1616	Palawan
+RV/R4B.PHL/2006/Z-06-203	Oriental Mindoro
+n1717	Albay
+n1717	Batangas
+n1717	Bulacan
+n1717	Cagayan
+n1717	Camarines Norte
+n1717	Cavite
+n1717	Ifugao
+n1717	Ilocos Sur
+n1717	La Union
+n1717	Laguna
+n1717	Metropolitan Manila
+n1717	Misamis Oriental
+n1717	Nueva Ecija
+n1717	Pampanga
+n1717	Pangasinan
+n1717	Quezon
+n1717	Romblon
+n1717	Tarlac
+n1717	Zambales
+n11	Albay
+n11	Batangas
+n11	Bulacan
+n11	Cagayan
+n11	Camarines Norte
+n11	Cavite
+n11	Ifugao
+n11	Ilocos Sur
+n11	La Union
+n11	Laguna
+n11	Metropolitan Manila
+n11	Misamis Oriental
+n11	Nueva Ecija
+n11	Nueva Vizcaya
+n11	Pampanga
+n11	Pangasinan
+n11	Quezon
+n11	Romblon
+n11	Tarlac
+n11	Zambales
+Z-14-149	Albay
+Z-14-149	Batangas
+Z-14-149	Bulacan
+Z-14-149	Cagayan
+Z-14-149	Camarines Norte
+Z-14-149	Cavite
+Z-14-149	Ifugao
+Z-14-149	Ilocos Sur
+Z-14-149	La Union
+Z-14-149	Laguna
+Z-14-149	Metropolitan Manila
+Z-14-149	Misamis Oriental
+Z-14-149	Nueva Ecija
+Z-14-149	Nueva Vizcaya
+Z-14-149	Pampanga
+Z-14-149	Pangasinan
+Z-14-149	Quezon
+Z-14-149	Romblon
+Z-14-149	Tarlac
+Z-14-149	Zambales
+RV/R4A.PHL/2006/Z-06-345	Batangas
+RV/R4A.PHL/2006/Z-06-197	Batangas
+n5	Cebu
+n1111	Negros Oriental
+RV/R4B.PHL/2013/TRa-487	Palawan
+RV/R4B.PHL/2013/TRa-486	Palawan
+n18	Albay
+n18	Batangas
+n18	Bulacan
+n18	Cagayan
+n18	Cavite
+n18	Ifugao
+n18	Ilocos Sur
+n18	La Union
+n18	Laguna
+n18	Metropolitan Manila
+n18	Misamis Oriental
+n18	Nueva Ecija
+n18	Pampanga
+n18	Pangasinan
+n18	Romblon
+n18	Tarlac
+n18	Zambales
+n4848	Albay
+n4848	Batangas
+n4848	Bulacan
+n4848	Cagayan
+n4848	Cavite
+n4848	Ifugao
+n4848	Ilocos Sur
+n4848	La Union
+n4848	Laguna
+n4848	Metropolitan Manila
+n4848	Nueva Ecija
+n4848	Pampanga
+n4848	Pangasinan
+n4848	Romblon
+n4848	Tarlac
+n4848	Zambales
+n2	Albay
+n2	Batangas
+n2	Bulacan
+n2	Cagayan
+n2	Camarines Norte
+n2	Cavite
+n2	Ifugao
+n2	Ilocos Sur
+n2	La Union
+n2	Laguna
+n2	Metropolitan Manila
+n2	Misamis Oriental
+n2	Nueva Ecija
+n2	Nueva Vizcaya
+n2	Pampanga
+n2	Pangasinan
+n2	Quezon
+n2	Romblon
+n2	Tarlac
+n2	Zambales
+Z-16-209	Albay
+Z-16-209	Batangas
+Z-16-209	Bulacan
+Z-16-209	Cagayan
+Z-16-209	Camarines Norte
+Z-16-209	Cavite
+Z-16-209	Ifugao
+Z-16-209	Ilocos Sur
+Z-16-209	La Union
+Z-16-209	Laguna
+Z-16-209	Metropolitan Manila
+Z-16-209	Misamis Oriental
+Z-16-209	Nueva Ecija
+Z-16-209	Nueva Vizcaya
+Z-16-209	Pampanga
+Z-16-209	Pangasinan
+Z-16-209	Quezon
+Z-16-209	Romblon
+Z-16-209	Tarlac
+Z-16-209	Zambales
+n55	Cebu
+n7	Cebu
+n12	Negros Oriental
+n13	Negros Oriental
+n1818	Misamis Oriental
+n1818	Pampanga
+n2828	Albay
+n2828	Batangas
+n2828	Bulacan
+n2828	Cagayan
+n2828	Cavite
+n2828	Davao del Sur
+n2828	Ifugao
+n2828	Ilocos Sur
+n2828	La Union
+n2828	Laguna
+n2828	Metropolitan Manila
+n2828	Misamis Oriental
+n2828	Nueva Ecija
+n2828	Pampanga
+n2828	Pangasinan
+n2828	Romblon
+n2828	Tarlac
+n2828	Zambales
+n49	Batangas
+n49	Bulacan
+n49	Cavite
+n49	Laguna
+n49	Metropolitan Manila
+n49	Nueva Ecija
+n49	Pampanga
+n49	Pangasinan
+n49	Rizal
+n49	Tarlac
+n49	Zambales
+n50	Batangas
+n50	Bulacan
+n50	Cagayan
+n50	Cavite
+n50	Ilocos Sur
+n50	Laguna
+n50	Metropolitan Manila
+n50	Nueva Ecija
+n50	Pampanga
+n50	Pangasinan
+n50	Tarlac
+n50	Zambales
+Z-12-212	Albay
+Z-12-212	Batangas
+Z-12-212	Bulacan
+Z-12-212	Cagayan
+Z-12-212	Camarines Norte
+Z-12-212	Cavite
+Z-12-212	Ifugao
+Z-12-212	Ilocos Sur
+Z-12-212	La Union
+Z-12-212	Laguna
+Z-12-212	Metropolitan Manila
+Z-12-212	Misamis Oriental
+Z-12-212	Nueva Ecija
+Z-12-212	Nueva Vizcaya
+Z-12-212	Pampanga
+Z-12-212	Pangasinan
+Z-12-212	Quezon
+Z-12-212	Romblon
+Z-12-212	Tarlac
+Z-12-212	Zambales
+Z-14-146	Albay
+Z-14-146	Batangas
+Z-14-146	Bulacan
+Z-14-146	Cagayan
+Z-14-146	Camarines Norte
+Z-14-146	Cavite
+Z-14-146	Ifugao
+Z-14-146	Ilocos Sur
+Z-14-146	La Union
+Z-14-146	Laguna
+Z-14-146	Metropolitan Manila
+Z-14-146	Misamis Oriental
+Z-14-146	Nueva Ecija
+Z-14-146	Nueva Vizcaya
+Z-14-146	Pampanga
+Z-14-146	Pangasinan
+Z-14-146	Quezon
+Z-14-146	Romblon
+Z-14-146	Tarlac
+Z-14-146	Zambales
+n6	Cebu
+RV/R7.PHL/2008/TRa-099	Cebu
+n66	Cebu
+n77	Cebu
+n8	Cebu
+n88	Cebu
+n10	Cebu
+RV/R7.PHL/2008/TRa-083	Negros Oriental
+n1212	Negros Oriental
+n1313	Negros Oriental
+n14	Negros Oriental
+RV/R7.PHL/2009/TRa-235	Negros Oriental
+RV/R7.PHL/2008/TRa-084	Negros Oriental
+RV/R7.PHL/2009/TRa-240	Negros Oriental
+n1515	Negros Oriental
+n16	Negros Oriental
+n19	Misamis Oriental
+n19	Nueva Ecija
+n19	Pampanga
+n21	Misamis Oriental
+n29	Albay
+n29	Batangas
+n29	Bulacan
+n29	Cagayan
+n29	Cavite
+n29	Davao del Sur
+n29	Ifugao
+n29	Ilocos Sur
+n29	La Union
+n29	Laguna
+n29	Metropolitan Manila
+n29	Misamis Oriental
+n29	Nueva Ecija
+n29	Pampanga
+n29	Pangasinan
+n29	Romblon
+n29	Tarlac
+n29	Zambales
+n40	Albay
+n40	Batangas
+n40	Bulacan
+n40	Cagayan
+n40	Camarines Norte
+n40	Cavite
+n40	Ifugao
+n40	Ilocos Sur
+n40	La Union
+n40	Laguna
+n40	Metropolitan Manila
+n40	Misamis Oriental
+n40	Nueva Ecija
+n40	Nueva Vizcaya
+n40	Pampanga
+n40	Pangasinan
+n40	Quezon
+n40	Romblon
+n40	Tarlac
+n40	Zambales
+n4949	Laguna
+RV/R4A.PHL/2004/Z-04-401	Rizal
+n5050	Batangas
+n5050	Bulacan
+n5050	Cagayan
+n5050	Cavite
+n5050	Ilocos Sur
+n5050	Isabela
+n5050	La Union
+n5050	Laguna
+n5050	Metropolitan Manila
+n5050	Mountain Province
+n5050	Nueva Ecija
+n5050	Pampanga
+n5050	Pangasinan
+n5050	Tarlac
+n5050	Zambales
+n6262	Batangas
+n6262	Bulacan
+n6262	Cavite
+n6262	Ilocos Sur
+n6262	Laguna
+n6262	Metropolitan Manila
+n6262	Nueva Ecija
+n6262	Pampanga
+n6262	Pangasinan
+n6262	Tarlac
+n6262	Zambales
+RV/R7.PHL/2009/TRa-176	Cebu
+RV/R7.PHL/2009/TRa-166	Cebu
+RV/R7.PHL/2009/TRa-168	Cebu
+RV/R7.PHL/2008/TRa-079	Cebu
+RV/R7.PHL/2008/TRa-097	Cebu
+RV/R7.PHL/2008/TRa-078	Cebu
+RV/R7.PHL/2009/TRa-170	Cebu
+RV/R7.PHL/2008/TRa-076	Cebu
+RV/R7.PHL/2008/TRa-103	Cebu
+RV/R7.PHL/2008/TRa-080	Cebu
+RV/R7.PHL/2008/TRa-077	Cebu
+RV/R7.PHL/2009/TRa-173	Cebu
+RV/R7.PHL/2008/TRa-100	Cebu
+n9	Cebu
+RV/R7.PHL/2009/TRa-179	Cebu
+RV/R7.PHL/2009/TRa-167	Cebu
+RV/R7.PHL/2009/TRa-178	Cebu
+RV/R7.PHL/2009/TRa-172	Cebu
+n99	Cebu
+n1010	Cebu
+RV/R7.PHL/2008/TRa-082	Cebu
+RV/R7.PHL/2008/TRa-081	Cebu
+RV/R7.PHL/2008/TRa-075	Cebu
+RV/R7.PHL/2009/TRa-237	Negros Oriental
+RV/R7.PHL/2009/TRa-147	Negros Oriental
+RV/R7.PHL/2009/TRa-164	Negros Oriental
+RV/R7.PHL/2009/TRa-143	Negros Oriental
+n1414	Negros Oriental
+RV/R7.PHL/2008/TRa-085	Negros Oriental
+n15	Negros Oriental
+RV/R7.PHL/2009/TRa-236	Negros Oriental
+RV/R7.PHL/2009/TRa-145	Negros Oriental
+RV/R7.PHL/2009/TRa-241	Negros Oriental
+RV/R7.PHL/2009/TRa-238	Negros Oriental
+A12_1978	Negros Oriental
+RV/R7.PHL/2009/TRa-144	Negros Oriental
+n1919	Albay
+n1919	Batangas
+n1919	Bulacan
+n1919	Cagayan
+n1919	Cavite
+n1919	Ifugao
+n1919	Ilocos Sur
+n1919	La Union
+n1919	Laguna
+n1919	Metropolitan Manila
+n1919	Misamis Oriental
+n1919	Nueva Ecija
+n1919	Pampanga
+n1919	Pangasinan
+n1919	Romblon
+n1919	Tarlac
+n1919	Zambales
+n20	Misamis Oriental
+n2121	Misamis Oriental
+RV/R10.PHL/2009/TRa-110	Misamis Oriental
+n2929	Albay
+n2929	Batangas
+n2929	Bulacan
+n2929	Cagayan
+n2929	Cavite
+n2929	Davao del Sur
+n2929	Ifugao
+n2929	Ilocos Sur
+n2929	La Union
+n2929	Laguna
+n2929	Metropolitan Manila
+n2929	Misamis Oriental
+n2929	Nueva Ecija
+n2929	Pampanga
+n2929	Pangasinan
+n2929	Romblon
+n2929	Tarlac
+n2929	Zambales
+03006PHI	Albay
+03006PHI	Batangas
+03006PHI	Bulacan
+03006PHI	Cagayan
+03006PHI	Camarines Norte
+03006PHI	Cavite
+03006PHI	Ifugao
+03006PHI	Ilocos Sur
+03006PHI	La Union
+03006PHI	Laguna
+03006PHI	Metropolitan Manila
+03006PHI	Misamis Oriental
+03006PHI	Nueva Ecija
+03006PHI	Nueva Vizcaya
+03006PHI	Pampanga
+03006PHI	Pangasinan
+03006PHI	Quezon
+03006PHI	Romblon
+03006PHI	Tarlac
+03006PHI	Zambales
+n4040	Albay
+n4040	Batangas
+n4040	Bulacan
+n4040	Cagayan
+n4040	Camarines Norte
+n4040	Cavite
+n4040	Ifugao
+n4040	Ilocos Sur
+n4040	La Union
+n4040	Laguna
+n4040	Metropolitan Manila
+n4040	Misamis Oriental
+n4040	Nueva Ecija
+n4040	Nueva Vizcaya
+n4040	Pampanga
+n4040	Pangasinan
+n4040	Quezon
+n4040	Romblon
+n4040	Tarlac
+n4040	Zambales
+n4545	Albay
+n4545	Batangas
+n4545	Bulacan
+n4545	Cagayan
+n4545	Camarines Norte
+n4545	Cavite
+n4545	Ifugao
+n4545	Ilocos Sur
+n4545	La Union
+n4545	Laguna
+n4545	Metropolitan Manila
+n4545	Misamis Oriental
+n4545	Nueva Ecija
+n4545	Nueva Vizcaya
+n4545	Pampanga
+n4545	Pangasinan
+n4545	Quezon
+n4545	Romblon
+n4545	Tarlac
+n4545	Zambales
+RV/R4A.PHL/2004/Z-04-470	Laguna
+RV/R4A.PHL/2005/Z-05-012	Laguna
+n51	Albay
+n51	Batangas
+n51	Bulacan
+n51	Cagayan
+n51	Cavite
+n51	Ifugao
+n51	Ilocos Sur
+n51	Isabela
+n51	La Union
+n51	Laguna
+n51	Metropolitan Manila
+n51	Mountain Province
+n51	Nueva Ecija
+n51	Pampanga
+n51	Pangasinan
+n51	Romblon
+n51	Tarlac
+n51	Zambales
+n57	Bulacan
+n57	Cavite
+n57	Ilocos Sur
+n57	La Union
+n57	Mountain Province
+n57	Nueva Ecija
+n57	Pampanga
+n63	Cavite
+n63	Metropolitan Manila
+n63	Nueva Ecija
+n63	Pampanga
+n63	Zambales
+n100100	Batangas
+n100100	Bulacan
+n100100	Cavite
+n100100	Ilocos Sur
+n100100	Laguna
+n100100	Metropolitan Manila
+n100100	Nueva Ecija
+n100100	Pampanga
+n100100	Pangasinan
+RV/R7.PHL/2009/TRa-177	Cebu
+RV/R7.PHL/2008/TRa-098	Cebu
+A12_1952	Cebu
+RV/R7.PHL/2008/TRa-102	Cebu
+RV/R7.PHL/2008/TRa-074	Cebu
+RV/R7.PHL/2008/TRa-101	Cebu
+RV/R7.PHL/2008/TRa-096	Cebu
+A12_1964	Negros Oriental
+RV/R7.PHL/2009/TRa-165	Negros Oriental
+A12_1977	Negros Oriental
+RV/R7.PHL/2009/TRa-239	Negros Oriental
+18-118	Albay
+18-118	Batangas
+18-118	Bulacan
+18-118	Cagayan
+18-118	Cavite
+18-118	Ifugao
+18-118	Ilocos Sur
+18-118	La Union
+18-118	Laguna
+18-118	Metropolitan Manila
+18-118	Misamis Oriental
+18-118	Nueva Ecija
+18-118	Pampanga
+18-118	Pangasinan
+18-118	Romblon
+18-118	Tarlac
+18-118	Zambales
+18-164	Albay
+18-164	Batangas
+18-164	Bulacan
+18-164	Cagayan
+18-164	Cavite
+18-164	Ifugao
+18-164	Ilocos Sur
+18-164	La Union
+18-164	Laguna
+18-164	Metropolitan Manila
+18-164	Misamis Oriental
+18-164	Nueva Ecija
+18-164	Pampanga
+18-164	Pangasinan
+18-164	Romblon
+18-164	Tarlac
+18-164	Zambales
+18-179	Albay
+18-179	Batangas
+18-179	Bulacan
+18-179	Cavite
+18-179	Ifugao
+18-179	Ilocos Sur
+18-179	La Union
+18-179	Laguna
+18-179	Metropolitan Manila
+18-179	Misamis Oriental
+18-179	Nueva Ecija
+18-179	Pampanga
+18-179	Pangasinan
+18-179	Romblon
+18-179	Tarlac
+18-179	Zambales
+n2020	Misamis Oriental
+n2222	Misamis Oriental
+RV/R10.PHL/2009/TRa-189	Misamis Oriental
+n2727	Misamis Oriental
+n30	Albay
+n30	Batangas
+n30	Bulacan
+n30	Cagayan
+n30	Camarines Norte
+n30	Cavite
+n30	Davao del Sur
+n30	Ifugao
+n30	Ilocos Sur
+n30	La Union
+n30	Laguna
+n30	Metropolitan Manila
+n30	Misamis Oriental
+n30	Nueva Ecija
+n30	Nueva Vizcaya
+n30	Pampanga
+n30	Pangasinan
+n30	Quezon
+n30	Romblon
+n30	Tarlac
+n30	Zambales
+RV/R11.PHL/2005/Z-05-186	Davao del Sur
+n41	Albay
+n41	Batangas
+n41	Bulacan
+n41	Cagayan
+n41	Camarines Norte
+n41	Cavite
+n41	Ifugao
+n41	Ilocos Sur
+n41	La Union
+n41	Laguna
+n41	Metropolitan Manila
+n41	Misamis Oriental
+n41	Nueva Ecija
+n41	Nueva Vizcaya
+n41	Pampanga
+n41	Pangasinan
+n41	Quezon
+n41	Romblon
+n41	Tarlac
+n41	Zambales
+n43	Albay
+n43	Batangas
+n43	Bulacan
+n43	Cagayan
+n43	Camarines Norte
+n43	Cavite
+n43	Ifugao
+n43	Ilocos Sur
+n43	La Union
+n43	Laguna
+n43	Metropolitan Manila
+n43	Misamis Oriental
+n43	Nueva Ecija
+n43	Nueva Vizcaya
+n43	Pampanga
+n43	Pangasinan
+n43	Quezon
+n43	Romblon
+n43	Tarlac
+n43	Zambales
+n46	Albay
+n46	Batangas
+n46	Bulacan
+n46	Cagayan
+n46	Camarines Norte
+n46	Cavite
+n46	Ifugao
+n46	Ilocos Sur
+n46	La Union
+n46	Laguna
+n46	Metropolitan Manila
+n46	Misamis Oriental
+n46	Nueva Ecija
+n46	Nueva Vizcaya
+n46	Pampanga
+n46	Pangasinan
+n46	Quezon
+n46	Romblon
+n46	Tarlac
+n46	Zambales
+n4646	Albay
+n4646	Batangas
+n4646	Bulacan
+n4646	Cagayan
+n4646	Camarines Norte
+n4646	Cavite
+n4646	Ifugao
+n4646	Ilocos Sur
+n4646	La Union
+n4646	Laguna
+n4646	Metropolitan Manila
+n4646	Misamis Oriental
+n4646	Nueva Ecija
+n4646	Nueva Vizcaya
+n4646	Pampanga
+n4646	Pangasinan
+n4646	Quezon
+n4646	Romblon
+n4646	Tarlac
+n4646	Zambales
+n5151	Albay
+n5151	Batangas
+n5151	Bulacan
+n5151	Cagayan
+n5151	Cavite
+n5151	Ilocos Sur
+n5151	Isabela
+n5151	La Union
+n5151	Laguna
+n5151	Metropolitan Manila
+n5151	Nueva Ecija
+n5151	Pampanga
+n5151	Pangasinan
+n5151	Tarlac
+n5151	Zambales
+94278PHI	Albay
+94278PHI	Batangas
+94278PHI	Bulacan
+94278PHI	Cagayan
+94278PHI	Cavite
+94278PHI	Ifugao
+94278PHI	Ilocos Sur
+94278PHI	La Union
+94278PHI	Laguna
+94278PHI	Metropolitan Manila
+94278PHI	Misamis Oriental
+94278PHI	Nueva Ecija
+94278PHI	Pampanga
+94278PHI	Pangasinan
+94278PHI	Romblon
+94278PHI	Tarlac
+94278PHI	Zambales
+n5757	Ilocos Sur
+n5757	Mountain Province
+RV/R1.PHL/2010/TRa-287	Ilocos Sur
+n6161	Ilocos Sur
+n6161	La Union
+n6363	Pampanga
+n71	Cavite
+n71	Metropolitan Manila
+n71	Nueva Ecija
+n71	Pampanga
+n71	Romblon
+n71	Zambales
+n95	Cavite
+n95	Metropolitan Manila
+n95	Nueva Ecija
+n95	Pampanga
+n95	Zambales
+n100	Albay
+n100	Batangas
+n100	Bulacan
+n100	Cavite
+n100	Ifugao
+n100	La Union
+n100	Laguna
+n100	Metropolitan Manila
+n100	Nueva Ecija
+n100	Pampanga
+n100	Pangasinan
+n100	Romblon
+n100	Tarlac
+n100	Zambales
+Philippin_dog	Albay
+Philippin_dog	Batangas
+Philippin_dog	Bulacan
+Philippin_dog	Cagayan
+Philippin_dog	Cavite
+Philippin_dog	Ifugao
+Philippin_dog	Ilocos Sur
+Philippin_dog	La Union
+Philippin_dog	Laguna
+Philippin_dog	Metropolitan Manila
+Philippin_dog	Misamis Oriental
+Philippin_dog	Nueva Ecija
+Philippin_dog	Pampanga
+Philippin_dog	Pangasinan
+Philippin_dog	Romblon
+Philippin_dog	Tarlac
+Philippin_dog	Zambales
+n101	Batangas
+n101	Bulacan
+n101	Catanduanes
+n101	Cavite
+n101	Laguna
+n101	Metropolitan Manila
+n101	Nueva Ecija
+n101	Pampanga
+n101	Pangasinan
+n101	Tarlac
+n104104	Pangasinan
+RV/R10.PHL/2009/TRa-250	Misamis Oriental
+RV/R10.PHL/2009/TRa-249	Misamis Oriental
+RV/R10.PHL/2008/TRa-057	Misamis Oriental
+RV/R10.PHL/2008/TRa-026	Misamis Oriental
+RV/R10.PHL/2009/TRa-186	Misamis Oriental
+RV/R10.PHL/2008/TRa-107	Misamis Oriental
+RV/R10.PHL/2008/TRa-058	Misamis Oriental
+n23	Misamis Oriental
+n2424	Misamis Oriental
+RV/R10.PHL/2008/TRa-030	Misamis Oriental
+RV/R10.PHL/2008/TRa-108	Misamis Oriental
+n28	Lanao del Norte
+RV/R10.PHL/2009/TRa-196	Misamis Oriental
+n3030	Albay
+n3030	Batangas
+n3030	Bulacan
+n3030	Cagayan
+n3030	Camarines Norte
+n3030	Cavite
+n3030	Ifugao
+n3030	Ilocos Sur
+n3030	La Union
+n3030	Laguna
+n3030	Metropolitan Manila
+n3030	Misamis Oriental
+n3030	Nueva Ecija
+n3030	Nueva Vizcaya
+n3030	Pampanga
+n3030	Pangasinan
+n3030	Quezon
+n3030	Romblon
+n3030	Tarlac
+n3030	Zambales
+03007PHI	Albay
+03007PHI	Batangas
+03007PHI	Bulacan
+03007PHI	Cagayan
+03007PHI	Camarines Norte
+03007PHI	Cavite
+03007PHI	Ifugao
+03007PHI	Ilocos Sur
+03007PHI	La Union
+03007PHI	Laguna
+03007PHI	Metropolitan Manila
+03007PHI	Misamis Oriental
+03007PHI	Nueva Ecija
+03007PHI	Nueva Vizcaya
+03007PHI	Pampanga
+03007PHI	Pangasinan
+03007PHI	Quezon
+03007PHI	Romblon
+03007PHI	Tarlac
+03007PHI	Zambales
+n4141	Albay
+n4141	Batangas
+n4141	Bulacan
+n4141	Cagayan
+n4141	Camarines Norte
+n4141	Cavite
+n4141	Ifugao
+n4141	Ilocos Sur
+n4141	La Union
+n4141	Laguna
+n4141	Metropolitan Manila
+n4141	Misamis Oriental
+n4141	Nueva Ecija
+n4141	Nueva Vizcaya
+n4141	Pampanga
+n4141	Pangasinan
+n4141	Quezon
+n4141	Romblon
+n4141	Tarlac
+n4141	Zambales
+19-050	Albay
+19-050	Batangas
+19-050	Bulacan
+19-050	Cagayan
+19-050	Camarines Norte
+19-050	Cavite
+19-050	Ifugao
+19-050	Ilocos Sur
+19-050	La Union
+19-050	Laguna
+19-050	Metropolitan Manila
+19-050	Misamis Oriental
+19-050	Nueva Ecija
+19-050	Nueva Vizcaya
+19-050	Pampanga
+19-050	Pangasinan
+19-050	Quezon
+19-050	Romblon
+19-050	Tarlac
+19-050	Zambales
+n4343	Albay
+n4343	Batangas
+n4343	Bulacan
+n4343	Cagayan
+n4343	Camarines Norte
+n4343	Cavite
+n4343	Ifugao
+n4343	Ilocos Sur
+n4343	La Union
+n4343	Laguna
+n4343	Metropolitan Manila
+n4343	Misamis Oriental
+n4343	Nueva Ecija
+n4343	Nueva Vizcaya
+n4343	Pampanga
+n4343	Pangasinan
+n4343	Quezon
+n4343	Romblon
+n4343	Tarlac
+n4343	Zambales
+18-162	Albay
+18-162	Batangas
+18-162	Bulacan
+18-162	Cagayan
+18-162	Camarines Norte
+18-162	Cavite
+18-162	Ifugao
+18-162	Ilocos Sur
+18-162	La Union
+18-162	Laguna
+18-162	Metropolitan Manila
+18-162	Misamis Oriental
+18-162	Nueva Ecija
+18-162	Nueva Vizcaya
+18-162	Pampanga
+18-162	Pangasinan
+18-162	Quezon
+18-162	Romblon
+18-162	Tarlac
+18-162	Zambales
+18-107	Albay
+18-107	Batangas
+18-107	Bulacan
+18-107	Cagayan
+18-107	Camarines Norte
+18-107	Cavite
+18-107	Ifugao
+18-107	Ilocos Sur
+18-107	La Union
+18-107	Laguna
+18-107	Metropolitan Manila
+18-107	Misamis Oriental
+18-107	Nueva Ecija
+18-107	Nueva Vizcaya
+18-107	Pampanga
+18-107	Pangasinan
+18-107	Quezon
+18-107	Romblon
+18-107	Tarlac
+18-107	Zambales
+18-142	Albay
+18-142	Batangas
+18-142	Bulacan
+18-142	Cagayan
+18-142	Camarines Norte
+18-142	Cavite
+18-142	Ifugao
+18-142	Ilocos Sur
+18-142	La Union
+18-142	Laguna
+18-142	Metropolitan Manila
+18-142	Misamis Oriental
+18-142	Nueva Ecija
+18-142	Nueva Vizcaya
+18-142	Pampanga
+18-142	Pangasinan
+18-142	Quezon
+18-142	Romblon
+18-142	Tarlac
+18-142	Zambales
+n47	Albay
+n47	Batangas
+n47	Bulacan
+n47	Cagayan
+n47	Camarines Norte
+n47	Cavite
+n47	Ifugao
+n47	Ilocos Sur
+n47	La Union
+n47	Laguna
+n47	Metropolitan Manila
+n47	Misamis Oriental
+n47	Nueva Ecija
+n47	Nueva Vizcaya
+n47	Pampanga
+n47	Pangasinan
+n47	Quezon
+n47	Romblon
+n47	Tarlac
+n47	Zambales
+18-191	Albay
+18-191	Batangas
+18-191	Bulacan
+18-191	Cagayan
+18-191	Camarines Norte
+18-191	Cavite
+18-191	Ifugao
+18-191	Ilocos Sur
+18-191	La Union
+18-191	Laguna
+18-191	Metropolitan Manila
+18-191	Misamis Oriental
+18-191	Nueva Ecija
+18-191	Nueva Vizcaya
+18-191	Pampanga
+18-191	Pangasinan
+18-191	Quezon
+18-191	Romblon
+18-191	Tarlac
+18-191	Zambales
+n52	Isabela
+RV/R2.PHL/2009/TRa-142	Cagayan
+n58	Mountain Province
+n61	Ilocos Sur
+RV/R3.PHL/2013/TRa-509	Bulacan
+RV/R1.PHL/2009/TRa-218	La Union
+n62	Ilocos Sur
+n64	Pampanga
+n6666	Nueva Ecija
+n6969	Pampanga
+H-23-011Sk_12	Romblon
+n7171	Metropolitan Manila
+n9595	Cavite
+n9595	Pampanga
+n98	Zambales
+PHI114	Albay
+PHI114	Batangas
+PHI114	Bulacan
+PHI114	Cagayan
+PHI114	Cavite
+PHI114	Ifugao
+PHI114	Ilocos Sur
+PHI114	La Union
+PHI114	Laguna
+PHI114	Metropolitan Manila
+PHI114	Misamis Oriental
+PHI114	Nueva Ecija
+PHI114	Pampanga
+PHI114	Pangasinan
+PHI114	Romblon
+PHI114	Tarlac
+PHI114	Zambales
+PHI103	Albay
+PHI103	Batangas
+PHI103	Bulacan
+PHI103	Cagayan
+PHI103	Cavite
+PHI103	Ifugao
+PHI103	Ilocos Sur
+PHI103	La Union
+PHI103	Laguna
+PHI103	Metropolitan Manila
+PHI103	Misamis Oriental
+PHI103	Nueva Ecija
+PHI103	Pampanga
+PHI103	Pangasinan
+PHI103	Romblon
+PHI103	Tarlac
+PHI103	Zambales
+n101101	Laguna
+94270PHI	Albay
+94270PHI	Batangas
+94270PHI	Bulacan
+94270PHI	Cagayan
+94270PHI	Cavite
+94270PHI	Ifugao
+94270PHI	Ilocos Sur
+94270PHI	La Union
+94270PHI	Laguna
+94270PHI	Metropolitan Manila
+94270PHI	Misamis Oriental
+94270PHI	Nueva Ecija
+94270PHI	Pampanga
+94270PHI	Pangasinan
+94270PHI	Romblon
+94270PHI	Tarlac
+94270PHI	Zambales
+94272PHI	Albay
+94272PHI	Batangas
+94272PHI	Bulacan
+94272PHI	Cagayan
+94272PHI	Cavite
+94272PHI	Ifugao
+94272PHI	Ilocos Sur
+94272PHI	La Union
+94272PHI	Laguna
+94272PHI	Metropolitan Manila
+94272PHI	Misamis Oriental
+94272PHI	Nueva Ecija
+94272PHI	Pampanga
+94272PHI	Pangasinan
+94272PHI	Romblon
+94272PHI	Tarlac
+94272PHI	Zambales
+n105	Pangasinan
+n113	Metropolitan Manila
+n113	Pangasinan
+n2323	Misamis Oriental
+RV/R10.PHL/2009/TRa-251	Lanao del Norte
+n25	Misamis Oriental
+RV/R10.PHL/2009/TRa-253	Misamis Oriental
+RV/R10.PHL/2009/TRa-195	Misamis Oriental
+RV/R10.PHL/2008/TRa-054	Lanao del Norte
+n31	Albay
+n31	Batangas
+n31	Bulacan
+n31	Cagayan
+n31	Camarines Norte
+n31	Cavite
+n31	Ifugao
+n31	Ilocos Sur
+n31	La Union
+n31	Laguna
+n31	Metropolitan Manila
+n31	Misamis Oriental
+n31	Nueva Ecija
+n31	Nueva Vizcaya
+n31	Pampanga
+n31	Pangasinan
+n31	Quezon
+n31	Romblon
+n31	Tarlac
+n31	Zambales
+n3838	Albay
+n3838	Batangas
+n3838	Bulacan
+n3838	Cagayan
+n3838	Camarines Norte
+n3838	Cavite
+n3838	Ifugao
+n3838	Ilocos Sur
+n3838	La Union
+n3838	Laguna
+n3838	Metropolitan Manila
+n3838	Misamis Oriental
+n3838	Nueva Ecija
+n3838	Nueva Vizcaya
+n3838	Pampanga
+n3838	Pangasinan
+n3838	Quezon
+n3838	Romblon
+n3838	Tarlac
+n3838	Zambales
+n42	Albay
+n42	Batangas
+n42	Bulacan
+n42	Cagayan
+n42	Camarines Norte
+n42	Cavite
+n42	Ifugao
+n42	Ilocos Sur
+n42	La Union
+n42	Laguna
+n42	Metropolitan Manila
+n42	Misamis Oriental
+n42	Nueva Ecija
+n42	Nueva Vizcaya
+n42	Pampanga
+n42	Pangasinan
+n42	Quezon
+n42	Romblon
+n42	Tarlac
+n42	Zambales
+18-214	Albay
+18-214	Batangas
+18-214	Bulacan
+18-214	Cagayan
+18-214	Camarines Norte
+18-214	Cavite
+18-214	Ifugao
+18-214	Ilocos Sur
+18-214	La Union
+18-214	Laguna
+18-214	Metropolitan Manila
+18-214	Misamis Oriental
+18-214	Nueva Ecija
+18-214	Nueva Vizcaya
+18-214	Pampanga
+18-214	Pangasinan
+18-214	Quezon
+18-214	Romblon
+18-214	Tarlac
+18-214	Zambales
+n4444	Albay
+n4444	Batangas
+n4444	Bulacan
+n4444	Cagayan
+n4444	Camarines Norte
+n4444	Cavite
+n4444	Ifugao
+n4444	Ilocos Sur
+n4444	La Union
+n4444	Laguna
+n4444	Metropolitan Manila
+n4444	Misamis Oriental
+n4444	Nueva Ecija
+n4444	Nueva Vizcaya
+n4444	Pampanga
+n4444	Pangasinan
+n4444	Quezon
+n4444	Romblon
+n4444	Tarlac
+n4444	Zambales
+18-133	Albay
+18-133	Batangas
+18-133	Bulacan
+18-133	Cagayan
+18-133	Camarines Norte
+18-133	Cavite
+18-133	Ifugao
+18-133	Ilocos Sur
+18-133	La Union
+18-133	Laguna
+18-133	Metropolitan Manila
+18-133	Misamis Oriental
+18-133	Nueva Ecija
+18-133	Nueva Vizcaya
+18-133	Pampanga
+18-133	Pangasinan
+18-133	Quezon
+18-133	Romblon
+18-133	Tarlac
+18-133	Zambales
+n4747	Albay
+n4747	Batangas
+n4747	Bulacan
+n4747	Cagayan
+n4747	Camarines Norte
+n4747	Cavite
+n4747	Ifugao
+n4747	Ilocos Sur
+n4747	La Union
+n4747	Laguna
+n4747	Metropolitan Manila
+n4747	Misamis Oriental
+n4747	Nueva Ecija
+n4747	Nueva Vizcaya
+n4747	Pampanga
+n4747	Pangasinan
+n4747	Quezon
+n4747	Romblon
+n4747	Tarlac
+n4747	Zambales
+n48	Albay
+n48	Batangas
+n48	Bulacan
+n48	Cagayan
+n48	Camarines Norte
+n48	Cavite
+n48	Ifugao
+n48	Ilocos Sur
+n48	La Union
+n48	Laguna
+n48	Metropolitan Manila
+n48	Misamis Oriental
+n48	Nueva Ecija
+n48	Nueva Vizcaya
+n48	Pampanga
+n48	Pangasinan
+n48	Quezon
+n48	Romblon
+n48	Tarlac
+n48	Zambales
+n5252	Isabela
+n5656	Cagayan
+n5656	Kalinga
+n5858	Mountain Province
+n60	Mountain Province
+RV/R1.PHL/2013/TRa-569	Ilocos Sur
+RV/CAR.PHL/2013/TRa-407	Ifugao
+RV/R1.PHL/2013/TRa-406	Ilocos Sur
+RV/R1.PHL/2010/TRa-286	Ilocos Sur
+RV/R1.PHL/2009/TRa-265	Ilocos Sur
+n6464	Pampanga
+RV/R3.PHL/2008/TRa-045	Pampanga
+n65	Pampanga
+RV/R3.PHL/2008/TRa-022	Pampanga
+RV/R3.PHL/2008/TRa-064	Pampanga
+RV/R3.PHL/2008/TRa-019	Pampanga
+n67	Nueva Ecija
+n69	Nueva Ecija
+n70	Pampanga
+RV/R3.PHL/2012/TRa-305	Pampanga
+n72	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-299	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-187	Metropolitan Manila
+RV/R4A.PHL/2004/Z-04-420	Cavite
+RV/R4A.PHL/2004/Z-04-389	Cavite
+n9393	Batangas
+n9393	Benguet
+RV/NCR.PHL/2005/Z-05-090	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-465	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-168	Metropolitan Manila
+n96	Pampanga
+n9797	Cavite
+RV/R3.PHL/2008/TRa-018	Zambales
+RV/R3.PHL/2008/TRa-119	Zambales
+RV/R3.PHL/2008/TRa-011	Zambales
+n9898	Zambales
+n9999	Zambales
+RV/R3.PHL/2008/TRa-048	Zambales
+RV/R3.PHL/2008/TRa-016	Zambales
+n102	Catanduanes
+n102102	Laguna
+n105105	Pangasinan
+94280PHI	Albay
+94280PHI	Batangas
+94280PHI	Bulacan
+94280PHI	Cavite
+94280PHI	Ifugao
+94280PHI	La Union
+94280PHI	Laguna
+94280PHI	Metropolitan Manila
+94280PHI	Nueva Ecija
+94280PHI	Pampanga
+94280PHI	Pangasinan
+94280PHI	Romblon
+94280PHI	Tarlac
+94280PHI	Zambales
+n113113	Pangasinan
+n124	Metropolitan Manila
+n124	Pangasinan
+RV/R10.PHL/2008/TRa-052	Misamis Oriental
+RV/R10.PHL/2009/TRa-184	Misamis Oriental
+n24	Misamis Oriental
+RV/R10.PHL/2008/TRa-053	Misamis Oriental
+RV/R10.PHL/2008/TRa-027	Misamis Oriental
+RV/R10.PHL/2009/TRa-109	Misamis Oriental
+RV/R10.PHL/2008/TRa-055	Misamis Oriental
+n2525	Misamis Oriental
+RV/R10.PHL/2009/TRa-254	Misamis Oriental
+RV/R10.PHL/2008/TRa-025	Misamis Oriental
+RV/R10.PHL/2008/TRa-014	Misamis Oriental
+RV/R10.PHL/2008/TRa-024	Misamis Oriental
+RV/R10.PHL/2009/TRa-243	Misamis Oriental
+RV/R10.PHL/2008/TRa-056	Misamis Oriental
+RV/R10.PHL/2009/TRa-246	Misamis Oriental
+n26	Misamis Oriental
+n3131	Albay
+n3131	Batangas
+n3131	Bulacan
+n3131	Cagayan
+n3131	Camarines Norte
+n3131	Cavite
+n3131	Ifugao
+n3131	Ilocos Sur
+n3131	La Union
+n3131	Laguna
+n3131	Metropolitan Manila
+n3131	Misamis Oriental
+n3131	Nueva Ecija
+n3131	Nueva Vizcaya
+n3131	Pampanga
+n3131	Pangasinan
+n3131	Quezon
+n3131	Romblon
+n3131	Tarlac
+n3131	Zambales
+n35	Albay
+n35	Batangas
+n35	Bulacan
+n35	Cagayan
+n35	Camarines Norte
+n35	Cavite
+n35	Ifugao
+n35	Ilocos Sur
+n35	La Union
+n35	Laguna
+n35	Metropolitan Manila
+n35	Misamis Oriental
+n35	Nueva Ecija
+n35	Nueva Vizcaya
+n35	Pampanga
+n35	Pangasinan
+n35	Quezon
+n35	Romblon
+n35	Tarlac
+n35	Zambales
+18-151	Albay
+18-151	Batangas
+18-151	Bulacan
+18-151	Cagayan
+18-151	Camarines Norte
+18-151	Cavite
+18-151	Ifugao
+18-151	Ilocos Sur
+18-151	La Union
+18-151	Laguna
+18-151	Metropolitan Manila
+18-151	Misamis Oriental
+18-151	Nueva Ecija
+18-151	Nueva Vizcaya
+18-151	Pampanga
+18-151	Pangasinan
+18-151	Quezon
+18-151	Romblon
+18-151	Tarlac
+18-151	Zambales
+n39	Albay
+n39	Batangas
+n39	Bulacan
+n39	Cagayan
+n39	Camarines Norte
+n39	Cavite
+n39	Ifugao
+n39	Ilocos Sur
+n39	La Union
+n39	Laguna
+n39	Metropolitan Manila
+n39	Misamis Oriental
+n39	Nueva Ecija
+n39	Nueva Vizcaya
+n39	Pampanga
+n39	Pangasinan
+n39	Quezon
+n39	Romblon
+n39	Tarlac
+n39	Zambales
+18-223	Albay
+18-223	Batangas
+18-223	Bulacan
+18-223	Cagayan
+18-223	Camarines Norte
+18-223	Cavite
+18-223	Ifugao
+18-223	Ilocos Sur
+18-223	La Union
+18-223	Laguna
+18-223	Metropolitan Manila
+18-223	Misamis Oriental
+18-223	Nueva Ecija
+18-223	Nueva Vizcaya
+18-223	Pampanga
+18-223	Pangasinan
+18-223	Quezon
+18-223	Romblon
+18-223	Tarlac
+18-223	Zambales
+18-174	Albay
+18-174	Batangas
+18-174	Bulacan
+18-174	Cagayan
+18-174	Camarines Norte
+18-174	Cavite
+18-174	Ifugao
+18-174	Ilocos Sur
+18-174	La Union
+18-174	Laguna
+18-174	Metropolitan Manila
+18-174	Misamis Oriental
+18-174	Nueva Ecija
+18-174	Nueva Vizcaya
+18-174	Pampanga
+18-174	Pangasinan
+18-174	Quezon
+18-174	Romblon
+18-174	Tarlac
+18-174	Zambales
+n4242	Albay
+n4242	Batangas
+n4242	Bulacan
+n4242	Cagayan
+n4242	Camarines Norte
+n4242	Cavite
+n4242	Ifugao
+n4242	Ilocos Sur
+n4242	La Union
+n4242	Laguna
+n4242	Metropolitan Manila
+n4242	Misamis Oriental
+n4242	Nueva Ecija
+n4242	Nueva Vizcaya
+n4242	Pampanga
+n4242	Pangasinan
+n4242	Quezon
+n4242	Romblon
+n4242	Tarlac
+n4242	Zambales
+18-221	Albay
+18-221	Batangas
+18-221	Bulacan
+18-221	Cagayan
+18-221	Camarines Norte
+18-221	Cavite
+18-221	Ifugao
+18-221	Ilocos Sur
+18-221	La Union
+18-221	Laguna
+18-221	Metropolitan Manila
+18-221	Misamis Oriental
+18-221	Nueva Ecija
+18-221	Nueva Vizcaya
+18-221	Pampanga
+18-221	Pangasinan
+18-221	Quezon
+18-221	Romblon
+18-221	Tarlac
+18-221	Zambales
+18-209	Albay
+18-209	Batangas
+18-209	Bulacan
+18-209	Cagayan
+18-209	Camarines Norte
+18-209	Cavite
+18-209	Ifugao
+18-209	Ilocos Sur
+18-209	La Union
+18-209	Laguna
+18-209	Metropolitan Manila
+18-209	Misamis Oriental
+18-209	Nueva Ecija
+18-209	Nueva Vizcaya
+18-209	Pampanga
+18-209	Pangasinan
+18-209	Quezon
+18-209	Romblon
+18-209	Tarlac
+18-209	Zambales
+n45	Albay
+n45	Batangas
+n45	Bulacan
+n45	Cagayan
+n45	Camarines Norte
+n45	Cavite
+n45	Ifugao
+n45	Ilocos Sur
+n45	La Union
+n45	Laguna
+n45	Metropolitan Manila
+n45	Misamis Oriental
+n45	Nueva Ecija
+n45	Nueva Vizcaya
+n45	Pampanga
+n45	Pangasinan
+n45	Quezon
+n45	Romblon
+n45	Tarlac
+n45	Zambales
+18-183	Albay
+18-183	Batangas
+18-183	Bulacan
+18-183	Cagayan
+18-183	Camarines Norte
+18-183	Cavite
+18-183	Ifugao
+18-183	Ilocos Sur
+18-183	La Union
+18-183	Laguna
+18-183	Metropolitan Manila
+18-183	Misamis Oriental
+18-183	Nueva Ecija
+18-183	Nueva Vizcaya
+18-183	Pampanga
+18-183	Pangasinan
+18-183	Quezon
+18-183	Romblon
+18-183	Tarlac
+18-183	Zambales
+18-094	Albay
+18-094	Batangas
+18-094	Bulacan
+18-094	Cagayan
+18-094	Camarines Norte
+18-094	Cavite
+18-094	Ifugao
+18-094	Ilocos Sur
+18-094	La Union
+18-094	Laguna
+18-094	Metropolitan Manila
+18-094	Misamis Oriental
+18-094	Nueva Ecija
+18-094	Nueva Vizcaya
+18-094	Pampanga
+18-094	Pangasinan
+18-094	Quezon
+18-094	Romblon
+18-094	Tarlac
+18-094	Zambales
+18-099	Albay
+18-099	Batangas
+18-099	Bulacan
+18-099	Cagayan
+18-099	Camarines Norte
+18-099	Cavite
+18-099	Ifugao
+18-099	Ilocos Sur
+18-099	La Union
+18-099	Laguna
+18-099	Metropolitan Manila
+18-099	Misamis Oriental
+18-099	Nueva Ecija
+18-099	Nueva Vizcaya
+18-099	Pampanga
+18-099	Pangasinan
+18-099	Quezon
+18-099	Romblon
+18-099	Tarlac
+18-099	Zambales
+18-101	Albay
+18-101	Batangas
+18-101	Bulacan
+18-101	Cagayan
+18-101	Camarines Norte
+18-101	Cavite
+18-101	Ifugao
+18-101	Ilocos Sur
+18-101	La Union
+18-101	Laguna
+18-101	Metropolitan Manila
+18-101	Misamis Oriental
+18-101	Nueva Ecija
+18-101	Nueva Vizcaya
+18-101	Pampanga
+18-101	Pangasinan
+18-101	Quezon
+18-101	Romblon
+18-101	Tarlac
+18-101	Zambales
+18-163	Albay
+18-163	Batangas
+18-163	Bulacan
+18-163	Cagayan
+18-163	Camarines Norte
+18-163	Cavite
+18-163	Ifugao
+18-163	Ilocos Sur
+18-163	La Union
+18-163	Laguna
+18-163	Metropolitan Manila
+18-163	Misamis Oriental
+18-163	Nueva Ecija
+18-163	Nueva Vizcaya
+18-163	Pampanga
+18-163	Pangasinan
+18-163	Quezon
+18-163	Romblon
+18-163	Tarlac
+18-163	Zambales
+18-106	Albay
+18-106	Batangas
+18-106	Bulacan
+18-106	Cagayan
+18-106	Camarines Norte
+18-106	Cavite
+18-106	Ifugao
+18-106	Ilocos Sur
+18-106	La Union
+18-106	Laguna
+18-106	Metropolitan Manila
+18-106	Misamis Oriental
+18-106	Nueva Ecija
+18-106	Nueva Vizcaya
+18-106	Pampanga
+18-106	Pangasinan
+18-106	Quezon
+18-106	Romblon
+18-106	Tarlac
+18-106	Zambales
+18-114	Albay
+18-114	Batangas
+18-114	Bulacan
+18-114	Cagayan
+18-114	Camarines Norte
+18-114	Cavite
+18-114	Ifugao
+18-114	Ilocos Sur
+18-114	La Union
+18-114	Laguna
+18-114	Metropolitan Manila
+18-114	Misamis Oriental
+18-114	Nueva Ecija
+18-114	Nueva Vizcaya
+18-114	Pampanga
+18-114	Pangasinan
+18-114	Quezon
+18-114	Romblon
+18-114	Tarlac
+18-114	Zambales
+18-120	Albay
+18-120	Batangas
+18-120	Bulacan
+18-120	Cagayan
+18-120	Camarines Norte
+18-120	Cavite
+18-120	Ifugao
+18-120	Ilocos Sur
+18-120	La Union
+18-120	Laguna
+18-120	Metropolitan Manila
+18-120	Misamis Oriental
+18-120	Nueva Ecija
+18-120	Nueva Vizcaya
+18-120	Pampanga
+18-120	Pangasinan
+18-120	Quezon
+18-120	Romblon
+18-120	Tarlac
+18-120	Zambales
+18-188	Albay
+18-188	Batangas
+18-188	Bulacan
+18-188	Cagayan
+18-188	Camarines Norte
+18-188	Cavite
+18-188	Ifugao
+18-188	Ilocos Sur
+18-188	La Union
+18-188	Laguna
+18-188	Metropolitan Manila
+18-188	Misamis Oriental
+18-188	Nueva Ecija
+18-188	Nueva Vizcaya
+18-188	Pampanga
+18-188	Pangasinan
+18-188	Quezon
+18-188	Romblon
+18-188	Tarlac
+18-188	Zambales
+18-196	Albay
+18-196	Batangas
+18-196	Bulacan
+18-196	Cagayan
+18-196	Camarines Norte
+18-196	Cavite
+18-196	Ifugao
+18-196	Ilocos Sur
+18-196	La Union
+18-196	Laguna
+18-196	Metropolitan Manila
+18-196	Misamis Oriental
+18-196	Nueva Ecija
+18-196	Nueva Vizcaya
+18-196	Pampanga
+18-196	Pangasinan
+18-196	Quezon
+18-196	Romblon
+18-196	Tarlac
+18-196	Zambales
+18-153	Albay
+18-153	Batangas
+18-153	Bulacan
+18-153	Cagayan
+18-153	Camarines Norte
+18-153	Cavite
+18-153	Ifugao
+18-153	Ilocos Sur
+18-153	La Union
+18-153	Laguna
+18-153	Metropolitan Manila
+18-153	Misamis Oriental
+18-153	Nueva Ecija
+18-153	Nueva Vizcaya
+18-153	Pampanga
+18-153	Pangasinan
+18-153	Quezon
+18-153	Romblon
+18-153	Tarlac
+18-153	Zambales
+n53	Isabela
+RV/R2.PHL/2013/TRa-505	Isabela
+RV/R2.PHL/2013/TRa-506	Cagayan
+n5555	Isabela
+RV/R2.PHL/2013/TRa-507	Kalinga
+RV/R2.PHL/2013/TRa-435	Cagayan
+RV/CAR.PHL/2009/TRa-285	Mountain Province
+n59	Mountain Province
+n6060	Mountain Province
+RV/CAR.PHL/2009/TRa-198	Mountain Province
+RV/R3.PHL/2009/TRa-130	Pampanga
+RV/R3.PHL/2008/TRa-111	Pampanga
+RV/R3.PHL/2008/TRa-093	Pampanga
+RV/R3.PHL/2008/TRa-061	Pampanga
+RV/R3.PHL/2008/TRa-051	Pampanga
+n6565	Pampanga
+RV/R3.PHL/2009/TRa-129	Pampanga
+n6767	Nueva Ecija
+RV/R3.PHL/2008/TRa-095	Nueva Ecija
+RV/R3.PHL/2008/TRa-089	Nueva Ecija
+RV/R3.PHL/2009/TRa-128	Nueva Ecija
+RV/R3.PHL/2008/TRa-065	Nueva Ecija
+n7070	Pampanga
+RV/R3.PHL/2009/TRa-204	Pampanga
+RV/R3.PHL/2008/TRa-091	Pampanga
+RV/R3.PHL/2008/TRa-010	Pampanga
+n7272	Metropolitan Manila
+RV/R4A.PHL/2007/Z-07-252	Quezon
+V1373PHIL	Metropolitan Manila
+n82	Metropolitan Manila
+RV/NCR.PHL/2004/Z-04-534	Metropolitan Manila
+RV/NCR.PHL/2004/Z-04-421	Metropolitan Manila
+RV/R4A.PHL/2007/Z-07-307	Cavite
+n9292	Metropolitan Manila
+RV/R4A.PHL/2013/TRa-485	Batangas
+RV/CAR.PHL/2013/TRa-409	Benguet
+n94	Batangas
+n94	Benguet
+n9696	Pampanga
+n97	Pampanga
+RV/R3.PHL/2008/TRa-017	Pampanga
+RV/R4A.PHL/2005/Z-05-017	Cavite
+RV/R3.PHL/2009/TRa-114	Zambales
+RV/R3.PHL/2008/TRa-112	Zambales
+RV/R3.PHL/2009/TRa-116	Zambales
+RV/R3.PHL/2008/TRa-040	Zambales
+RV/R5.PHL/2009/TRa-269	Catanduanes
+RV/R5.PHL/2009/TRa-229	Catanduanes
+RV/R5.PHL/2008/TRa-123	Catanduanes
+RV/R5.PHL/2008/TRa-120	Catanduanes
+n103	Laguna
+n103103	Laguna
+n104	Sorsogon
+n106	Pangasinan
+RV/R1.PHL/2009/TRa-216	La Union
+n114	Aurora
+n114	Nueva Ecija
+n114	Pangasinan
+n117	Pangasinan
+V1372PHIL	Albay
+V1372PHIL	Batangas
+V1372PHIL	Bulacan
+V1372PHIL	Camarines Sur
+V1372PHIL	Cavite
+V1372PHIL	Ifugao
+V1372PHIL	La Union
+V1372PHIL	Laguna
+V1372PHIL	Metropolitan Manila
+V1372PHIL	Nueva Ecija
+V1372PHIL	Pampanga
+V1372PHIL	Pangasinan
+V1372PHIL	Romblon
+V1372PHIL	Tarlac
+V1372PHIL	Zambales
+RV/R2.PHL/2013/TRa-503	Nueva Vizcaya
+RV/R3.PHL/2005/Z-05-507	Bulacan
+n124124	Camarines Sur
+n124124	Metropolitan Manila
+n135135	Metropolitan Manila
+n135135	Pangasinan
+RV/R10.PHL/2009/TRa-252	Misamis Oriental
+RV/R10.PHL/2009/TRa-242	Misamis Oriental
+RV/R10.PHL/2009/TRa-247	Misamis Oriental
+RV/R10.PHL/2009/TRa-244	Misamis Oriental
+RV/R10.PHL/2009/TRa-194	Misamis Oriental
+n2626	Misamis Oriental
+n27	Misamis Oriental
+n32	Albay
+n32	Batangas
+n32	Bulacan
+n32	Cagayan
+n32	Camarines Norte
+n32	Cavite
+n32	Ifugao
+n32	Ilocos Sur
+n32	La Union
+n32	Laguna
+n32	Metropolitan Manila
+n32	Misamis Oriental
+n32	Nueva Ecija
+n32	Nueva Vizcaya
+n32	Pampanga
+n32	Pangasinan
+n32	Quezon
+n32	Romblon
+n32	Tarlac
+n32	Zambales
+n3333	Albay
+n3333	Batangas
+n3333	Bulacan
+n3333	Cagayan
+n3333	Camarines Norte
+n3333	Cavite
+n3333	Ifugao
+n3333	Ilocos Sur
+n3333	La Union
+n3333	Laguna
+n3333	Metropolitan Manila
+n3333	Misamis Oriental
+n3333	Nueva Ecija
+n3333	Nueva Vizcaya
+n3333	Pampanga
+n3333	Pangasinan
+n3333	Quezon
+n3333	Romblon
+n3333	Tarlac
+n3333	Zambales
+n3535	Albay
+n3535	Batangas
+n3535	Bulacan
+n3535	Cagayan
+n3535	Camarines Norte
+n3535	Cavite
+n3535	Ifugao
+n3535	Ilocos Sur
+n3535	La Union
+n3535	Laguna
+n3535	Metropolitan Manila
+n3535	Misamis Oriental
+n3535	Nueva Ecija
+n3535	Nueva Vizcaya
+n3535	Pampanga
+n3535	Pangasinan
+n3535	Quezon
+n3535	Romblon
+n3535	Tarlac
+n3535	Zambales
+18-092	Albay
+18-092	Batangas
+18-092	Bulacan
+18-092	Cagayan
+18-092	Camarines Norte
+18-092	Cavite
+18-092	Ifugao
+18-092	Ilocos Sur
+18-092	La Union
+18-092	Laguna
+18-092	Metropolitan Manila
+18-092	Misamis Oriental
+18-092	Nueva Ecija
+18-092	Nueva Vizcaya
+18-092	Pampanga
+18-092	Pangasinan
+18-092	Quezon
+18-092	Romblon
+18-092	Tarlac
+18-092	Zambales
+n3939	Albay
+n3939	Batangas
+n3939	Bulacan
+n3939	Cagayan
+n3939	Camarines Norte
+n3939	Cavite
+n3939	Ifugao
+n3939	Ilocos Sur
+n3939	La Union
+n3939	Laguna
+n3939	Metropolitan Manila
+n3939	Misamis Oriental
+n3939	Nueva Ecija
+n3939	Nueva Vizcaya
+n3939	Pampanga
+n3939	Pangasinan
+n3939	Quezon
+n3939	Romblon
+n3939	Tarlac
+n3939	Zambales
+18-138	Albay
+18-138	Batangas
+18-138	Bulacan
+18-138	Cagayan
+18-138	Camarines Norte
+18-138	Cavite
+18-138	Ifugao
+18-138	Ilocos Sur
+18-138	La Union
+18-138	Laguna
+18-138	Metropolitan Manila
+18-138	Misamis Oriental
+18-138	Nueva Ecija
+18-138	Nueva Vizcaya
+18-138	Pampanga
+18-138	Pangasinan
+18-138	Quezon
+18-138	Romblon
+18-138	Tarlac
+18-138	Zambales
+19-011	Albay
+19-011	Batangas
+19-011	Bulacan
+19-011	Cagayan
+19-011	Camarines Norte
+19-011	Cavite
+19-011	Ifugao
+19-011	Ilocos Sur
+19-011	La Union
+19-011	Laguna
+19-011	Metropolitan Manila
+19-011	Misamis Oriental
+19-011	Nueva Ecija
+19-011	Nueva Vizcaya
+19-011	Pampanga
+19-011	Pangasinan
+19-011	Quezon
+19-011	Romblon
+19-011	Tarlac
+19-011	Zambales
+19-015	Albay
+19-015	Batangas
+19-015	Bulacan
+19-015	Cagayan
+19-015	Camarines Norte
+19-015	Cavite
+19-015	Ifugao
+19-015	Ilocos Sur
+19-015	La Union
+19-015	Laguna
+19-015	Metropolitan Manila
+19-015	Misamis Oriental
+19-015	Nueva Ecija
+19-015	Nueva Vizcaya
+19-015	Pampanga
+19-015	Pangasinan
+19-015	Quezon
+19-015	Romblon
+19-015	Tarlac
+19-015	Zambales
+18-181	Albay
+18-181	Batangas
+18-181	Bulacan
+18-181	Cagayan
+18-181	Camarines Norte
+18-181	Cavite
+18-181	Ifugao
+18-181	Ilocos Sur
+18-181	La Union
+18-181	Laguna
+18-181	Metropolitan Manila
+18-181	Misamis Oriental
+18-181	Nueva Ecija
+18-181	Nueva Vizcaya
+18-181	Pampanga
+18-181	Pangasinan
+18-181	Quezon
+18-181	Romblon
+18-181	Tarlac
+18-181	Zambales
+18-172	Albay
+18-172	Batangas
+18-172	Bulacan
+18-172	Cagayan
+18-172	Camarines Norte
+18-172	Cavite
+18-172	Ifugao
+18-172	Ilocos Sur
+18-172	La Union
+18-172	Laguna
+18-172	Metropolitan Manila
+18-172	Misamis Oriental
+18-172	Nueva Ecija
+18-172	Nueva Vizcaya
+18-172	Pampanga
+18-172	Pangasinan
+18-172	Quezon
+18-172	Romblon
+18-172	Tarlac
+18-172	Zambales
+n5353	Isabela
+n5454	Mountain Province
+n56	Ifugao
+RV/R2.PHL/2009/TRa-284	Isabela
+RV/R3.PHL/2013/TRa-582	Pampanga
+n5959	Ilocos Sur
+RV/CAR.PHL/2009/TRa-222	Mountain Province
+RV/CAR.PHL/2009/TRa-224	Ifugao
+RV/CAR.PHL/2009/TRa-200	Mountain Province
+RV/CAR.PHL/2009/TRa-199	Mountain Province
+RV/R3.PHL/2009/TRa-127	Pampanga
+RV/R3.PHL/2008/TRa-086	Pampanga
+RV/R3.PHL/2009/TRa-117	Pampanga
+n68	Pampanga
+RV/R3.PHL/2012/TRa-307	Tarlac
+RV/R3.PHL/2009/TRa-131	Pampanga
+RV/R3.PHL/2008/TRa-013	Tarlac
+RV/R3.PHL/2009/TRa-118	Pampanga
+RV/R3.PHL/2009/TRa-135	Pampanga
+RV/R3.PHL/2009/TRa-134	Nueva Ecija
+RV/R3.PHL/2009/TRa-115	Pampanga
+RV/NCR.PHL/2005/Z-05-396	Metropolitan Manila
+n73	Batangas
+n73	Laguna
+RV/R4A.PHL/2012/TRa-401	Batangas
+n7373	Cavite
+RV/R4A.PHL/2012/TRa-398	Quezon
+n8282	Metropolitan Manila
+n84	Metropolitan Manila
+RV/R3.PHL/2008/TRa-063	Nueva Ecija
+RV/NCR.PHL/2005/Z-05-149	Metropolitan Manila
+RV/R4A.PHL/2004/Z-04-042	Cavite
+n93	Cavite
+RV/NCR.PHL/2005/Z-05-424	Metropolitan Manila
+Z-13-032	Batangas
+Z-13-032	Benguet
+n9494	Batangas
+n9494	Benguet
+RV/R3.PHL/2008/TRa-092	Pampanga
+RV/R3.PHL/2008/TRa-038	Pampanga
+RV/R3.PHL/2009/TRa-206	Pampanga
+RV/R3.PHL/2008/TRa-087	Pampanga
+RV/R3.PHL/2008/TRa-059	Pampanga
+RV/R3.PHL/2008/TRa-020	Pampanga
+V1371PHIL	Laguna
+V1374PHIL	Laguna
+RV/R4A.PHL/2004/Z-04-211	Laguna
+04030PHI	Laguna
+RV/R4A.PHL/2006/Z-06-039	Batangas
+RV/CAR.PHL/2010/TRa-291	Kalinga
+RV/R4A.PHL/2005/Z-05-123	Laguna
+RV/R5.PHL/2009/TRa-268	Sorsogon
+RV/R5.PHL/2008/TRa-073	Sorsogon
+94281PHI	Pampanga
+94281PHI	Pangasinan
+n106106	Pangasinan
+n114114	Nueva Ecija
+n116	Tarlac
+n116	Zambales
+n117117	Pangasinan
+n118118	Pangasinan
+n125	Camarines Sur
+n135	Camarines Sur
+n135	Metropolitan Manila
+n136	Albay
+n136	Metropolitan Manila
+n139139	Metropolitan Manila
+n139139	Nueva Ecija
+n139139	Pangasinan
+RV/R10.PHL/2009/TRa-248	Misamis Oriental
+RV/R10.PHL/2009/TRa-191	Misamis Oriental
+RV/R10.PHL/2008/TRa-104	Misamis Oriental
+RV/R10.PHL/2009/TRa-255	Misamis Oriental
+RV/R10.PHL/2009/TRa-197	Misamis Oriental
+RV/R10.PHL/2008/TRa-028	Misamis Oriental
+n3232	Albay
+n3232	Batangas
+n3232	Bulacan
+n3232	Cagayan
+n3232	Camarines Norte
+n3232	Cavite
+n3232	Ifugao
+n3232	Ilocos Sur
+n3232	La Union
+n3232	Laguna
+n3232	Metropolitan Manila
+n3232	Misamis Oriental
+n3232	Nueva Ecija
+n3232	Nueva Vizcaya
+n3232	Pampanga
+n3232	Pangasinan
+n3232	Quezon
+n3232	Romblon
+n3232	Tarlac
+n3232	Zambales
+18-103	Albay
+18-103	Batangas
+18-103	Bulacan
+18-103	Cagayan
+18-103	Camarines Norte
+18-103	Cavite
+18-103	Ifugao
+18-103	Ilocos Sur
+18-103	La Union
+18-103	Laguna
+18-103	Metropolitan Manila
+18-103	Misamis Oriental
+18-103	Nueva Ecija
+18-103	Nueva Vizcaya
+18-103	Pampanga
+18-103	Pangasinan
+18-103	Quezon
+18-103	Romblon
+18-103	Tarlac
+18-103	Zambales
+n34	Albay
+n34	Batangas
+n34	Bulacan
+n34	Cagayan
+n34	Camarines Norte
+n34	Cavite
+n34	Ifugao
+n34	Ilocos Sur
+n34	La Union
+n34	Laguna
+n34	Metropolitan Manila
+n34	Misamis Oriental
+n34	Nueva Ecija
+n34	Nueva Vizcaya
+n34	Pampanga
+n34	Pangasinan
+n34	Quezon
+n34	Romblon
+n34	Tarlac
+n34	Zambales
+18-194	Albay
+18-194	Batangas
+18-194	Bulacan
+18-194	Cagayan
+18-194	Camarines Norte
+18-194	Cavite
+18-194	Ifugao
+18-194	Ilocos Sur
+18-194	La Union
+18-194	Laguna
+18-194	Metropolitan Manila
+18-194	Misamis Oriental
+18-194	Nueva Ecija
+18-194	Nueva Vizcaya
+18-194	Pampanga
+18-194	Pangasinan
+18-194	Quezon
+18-194	Romblon
+18-194	Tarlac
+18-194	Zambales
+n36	Albay
+n36	Batangas
+n36	Bulacan
+n36	Cagayan
+n36	Camarines Norte
+n36	Cavite
+n36	Ifugao
+n36	Ilocos Sur
+n36	La Union
+n36	Laguna
+n36	Metropolitan Manila
+n36	Misamis Oriental
+n36	Nueva Ecija
+n36	Nueva Vizcaya
+n36	Pampanga
+n36	Pangasinan
+n36	Quezon
+n36	Romblon
+n36	Tarlac
+n36	Zambales
+n37	Albay
+n37	Batangas
+n37	Bulacan
+n37	Cagayan
+n37	Camarines Norte
+n37	Cavite
+n37	Ifugao
+n37	Ilocos Sur
+n37	La Union
+n37	Laguna
+n37	Metropolitan Manila
+n37	Misamis Oriental
+n37	Nueva Ecija
+n37	Nueva Vizcaya
+n37	Pampanga
+n37	Pangasinan
+n37	Quezon
+n37	Romblon
+n37	Tarlac
+n37	Zambales
+18-096	Albay
+18-096	Batangas
+18-096	Bulacan
+18-096	Cagayan
+18-096	Camarines Norte
+18-096	Cavite
+18-096	Ifugao
+18-096	Ilocos Sur
+18-096	La Union
+18-096	Laguna
+18-096	Metropolitan Manila
+18-096	Misamis Oriental
+18-096	Nueva Ecija
+18-096	Nueva Vizcaya
+18-096	Pampanga
+18-096	Pangasinan
+18-096	Quezon
+18-096	Romblon
+18-096	Tarlac
+18-096	Zambales
+19-022	Albay
+19-022	Batangas
+19-022	Bulacan
+19-022	Cagayan
+19-022	Camarines Norte
+19-022	Cavite
+19-022	Ifugao
+19-022	Ilocos Sur
+19-022	La Union
+19-022	Laguna
+19-022	Metropolitan Manila
+19-022	Misamis Oriental
+19-022	Nueva Ecija
+19-022	Nueva Vizcaya
+19-022	Pampanga
+19-022	Pangasinan
+19-022	Quezon
+19-022	Romblon
+19-022	Tarlac
+19-022	Zambales
+RV/R2.PHL/2013/TRa-504	Nueva Vizcaya
+RV/CAR.PHL/2013/TRa-370	Kalinga
+RV/R2.PHL/2013/TRa-437	Nueva Vizcaya
+n54	Isabela
+RV/R1.PHL/2013/TRa-572	La Union
+RV/CAR.PHL/2013/TRa-571	Mountain Province
+RV/CAR.PHL/2013/TRa-500	Mountain Province
+RV/CAR.PHL/2013/TRa-510	Ifugao
+RV/CAR.PHL/2013/TRa-405	Ifugao
+RV/CAR.PHL/2009/TRa-234	Ilocos Sur
+RV/R1.PHL/2009/TRa-233	Ilocos Sur
+RV/R3.PHL/2012/TRa-302	Tarlac
+RV/R3.PHL/2008/TRa-060	Pampanga
+n6868	Tarlac
+RV/R4A.PHL/2006/Z-06-361	Laguna
+RV/R4A.PHL/2006/Z-06-357	Batangas
+n74	Cavite
+RV/R4A.PHL/2006/Z-06-222	Cavite
+RV/R4A.PHL/2007/Z-07-330	Cavite
+RV/R4A.PHL/2007/Z-07-243	Cavite
+RV/R4A.PHL/2006/Z-06-348	Cavite
+RV/R4A.PHL/2004/Z-04-480	Laguna
+n83	Metropolitan Manila
+n83	Nueva Ecija
+n83	Pampanga
+n8484	Bulacan
+n8484	Metropolitan Manila
+n86	Metropolitan Manila
+RV/R4A.PHL/2006/Z-06-231	Cavite
+RV/R4A.PHL/2007/Z-07-189	Cavite
+RV/R4A.PHL/2007/Z-07-317	Cavite
+RV/R4A.PHL/2006/Z-06-365	Cavite
+Z14-152	Batangas
+Z14-152	Benguet
+Z-15-148	Batangas
+Z-15-148	Benguet
+n107	Pangasinan
+RV/CAR.PHL/2010/TRa-289	Ifugao
+n110110	Pangasinan
+n115	Nueva Ecija
+RV/R3.PHL/2004/Z-04-519	Aurora
+RV/R3.PHL/2005/Z-05-198	Nueva Ecija
+RV/R3.PHL/2008/TRa-047	Zambales
+RV/R3.PHL/2008/TRa-041	Tarlac
+n116116	Nueva Ecija
+n118	Pangasinan
+RV/R1.PHL/2009/TRa-154	Pangasinan
+n119	Pangasinan
+n119119	Pangasinan
+n125125	Camarines Norte
+n125125	Camarines Sur
+n129	Albay
+n129	Camarines Norte
+n129	Camarines Sur
+RV/R5.PHL/2008/TRa-036	Camarines Sur
+n130	Albay
+n133133	Camarines Sur
+n134134	Camarines Sur
+RV/R2.PHL/2013/TRa-439	Cagayan
+RV/NCR.PHL/2005/Z-05-009	Metropolitan Manila
+n136136	Albay
+n139	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-373	Metropolitan Manila
+n140	Nueva Ecija
+n140140	Bulacan
+n140140	Metropolitan Manila
+n140140	Pampanga
+n140140	Pangasinan
+18-135	Albay
+18-135	Batangas
+18-135	Bulacan
+18-135	Cagayan
+18-135	Camarines Norte
+18-135	Cavite
+18-135	Ifugao
+18-135	Ilocos Sur
+18-135	La Union
+18-135	Laguna
+18-135	Metropolitan Manila
+18-135	Misamis Oriental
+18-135	Nueva Ecija
+18-135	Nueva Vizcaya
+18-135	Pampanga
+18-135	Pangasinan
+18-135	Quezon
+18-135	Romblon
+18-135	Tarlac
+18-135	Zambales
+18-225	Albay
+18-225	Batangas
+18-225	Bulacan
+18-225	Cagayan
+18-225	Camarines Norte
+18-225	Cavite
+18-225	Ifugao
+18-225	Ilocos Sur
+18-225	La Union
+18-225	Laguna
+18-225	Metropolitan Manila
+18-225	Misamis Oriental
+18-225	Nueva Ecija
+18-225	Nueva Vizcaya
+18-225	Pampanga
+18-225	Pangasinan
+18-225	Quezon
+18-225	Romblon
+18-225	Tarlac
+18-225	Zambales
+n3434	Albay
+n3434	Batangas
+n3434	Bulacan
+n3434	Cagayan
+n3434	Camarines Norte
+n3434	Cavite
+n3434	Ifugao
+n3434	Ilocos Sur
+n3434	La Union
+n3434	Laguna
+n3434	Metropolitan Manila
+n3434	Misamis Oriental
+n3434	Nueva Ecija
+n3434	Nueva Vizcaya
+n3434	Pampanga
+n3434	Pangasinan
+n3434	Quezon
+n3434	Romblon
+n3434	Tarlac
+n3434	Zambales
+18-116	Albay
+18-116	Batangas
+18-116	Bulacan
+18-116	Cagayan
+18-116	Camarines Norte
+18-116	Cavite
+18-116	Ifugao
+18-116	Ilocos Sur
+18-116	La Union
+18-116	Laguna
+18-116	Metropolitan Manila
+18-116	Misamis Oriental
+18-116	Nueva Ecija
+18-116	Nueva Vizcaya
+18-116	Pampanga
+18-116	Pangasinan
+18-116	Quezon
+18-116	Romblon
+18-116	Tarlac
+18-116	Zambales
+n3636	Albay
+n3636	Batangas
+n3636	Bulacan
+n3636	Cagayan
+n3636	Camarines Norte
+n3636	Cavite
+n3636	Ifugao
+n3636	Ilocos Sur
+n3636	La Union
+n3636	Laguna
+n3636	Metropolitan Manila
+n3636	Misamis Oriental
+n3636	Nueva Ecija
+n3636	Nueva Vizcaya
+n3636	Pampanga
+n3636	Pangasinan
+n3636	Quezon
+n3636	Romblon
+n3636	Tarlac
+n3636	Zambales
+18-102	Albay
+18-102	Batangas
+18-102	Bulacan
+18-102	Cagayan
+18-102	Camarines Norte
+18-102	Cavite
+18-102	Ifugao
+18-102	Ilocos Sur
+18-102	La Union
+18-102	Laguna
+18-102	Metropolitan Manila
+18-102	Misamis Oriental
+18-102	Nueva Ecija
+18-102	Nueva Vizcaya
+18-102	Pampanga
+18-102	Pangasinan
+18-102	Quezon
+18-102	Romblon
+18-102	Tarlac
+18-102	Zambales
+n3737	Albay
+n3737	Batangas
+n3737	Bulacan
+n3737	Cagayan
+n3737	Camarines Norte
+n3737	Cavite
+n3737	Ifugao
+n3737	Ilocos Sur
+n3737	La Union
+n3737	Laguna
+n3737	Metropolitan Manila
+n3737	Misamis Oriental
+n3737	Nueva Ecija
+n3737	Nueva Vizcaya
+n3737	Pampanga
+n3737	Pangasinan
+n3737	Quezon
+n3737	Romblon
+n3737	Tarlac
+n3737	Zambales
+18-224	Albay
+18-224	Batangas
+18-224	Bulacan
+18-224	Cagayan
+18-224	Camarines Norte
+18-224	Cavite
+18-224	Ifugao
+18-224	Ilocos Sur
+18-224	La Union
+18-224	Laguna
+18-224	Metropolitan Manila
+18-224	Misamis Oriental
+18-224	Nueva Ecija
+18-224	Nueva Vizcaya
+18-224	Pampanga
+18-224	Pangasinan
+18-224	Quezon
+18-224	Romblon
+18-224	Tarlac
+18-224	Zambales
+RV/R2.PHL/2009/TRa-283	Isabela
+RV/R2.PHL/2009/TRa-279	Isabela
+RV/R3.PHL/2013/TRa-446	Tarlac
+RV/R3.PHL/2013/TRa-348	Nueva Ecija
+RV/R3.PHL/2012/TRa-314	Tarlac
+Z-12-149	Cavite
+Z-12-149	Metropolitan Manila
+Z-12-149	Nueva Ecija
+Z-12-149	Pampanga
+n7474	Cavite
+n8383	Metropolitan Manila
+n8383	Nueva Ecija
+n8383	Pampanga
+Z-12-088	Cavite
+Z-12-088	Metropolitan Manila
+Z-12-088	Nueva Ecija
+Z-12-088	Pampanga
+n85	Bulacan
+n85	Metropolitan Manila
+n85	Pampanga
+RV/R3.PHL/2012/TRa-303	Bulacan
+n8686	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-466	Metropolitan Manila
+Z-12-134	Cavite
+Z-12-134	Metropolitan Manila
+Z-12-134	Nueva Ecija
+Z-12-134	Pampanga
+n107107	Pangasinan
+n109	Pangasinan
+n110	Pangasinan
+n111	Pangasinan
+RV/R3.PHL/2009/TRa-202	Zambales
+n115115	Nueva Ecija
+RV/R3.PHL/2009/TRa-205	Nueva Ecija
+RV/R3.PHL/2013/TRa-462	Nueva Ecija
+RV/R3.PHL/2013/TRa-347	Nueva Ecija
+RV/R1.PHL/2009/TRa-259	Pangasinan
+RV/R1.PHL/2009/TRa-220	Pangasinan
+RV/R3.PHL/2013/TRa-541	Nueva Ecija
+RV/R3.PHL/2013/TRa-584	Nueva Ecija
+RADDL3-1045	Pampanga
+RADDL3-1045	Pangasinan
+RV/R3.PHL/2013/TRa-448	Nueva Ecija
+RV/R3.PHL/2013/TRa-466	Nueva Ecija
+RV/R3.PHL/2013/TRa-465	Nueva Ecija
+RV/R3.PHL/2013/TRa-460	Nueva Ecija
+RV/R3.PHL/2013/TRa-458	Pampanga
+RV/R3.PHL/2013/TRa-349	Nueva Ecija
+RV/R3.PHL/2012/TRa-312	Nueva Ecija
+RV/R3.PHL/2012/TRa-306	Nueva Ecija
+RV/R1.PHL/2010/TRa-298	Pangasinan
+RV/R1.PHL/2009/TRa-267	Pangasinan
+RV/R1.PHL/2009/TRa-266	Pangasinan
+RV/R1.PHL/2009/TRa-262	Pangasinan
+RV/R3.PHL/2013/TRa-581	Tarlac
+n120	Pangasinan
+n126	Camarines Norte
+RV/R5.PHL/2012/TRa-338	Catanduanes
+n129129	Albay
+RV/R5.PHL/2009/TRa-271	Camarines Norte
+n130130	Albay
+n131131	Albay
+RV/R5.PHL/2012/TRa-339	Albay
+n134	Camarines Sur
+RV/R5.PHL/2008/TRa-037	Camarines Sur
+RV/R5.PHL/2008/TRa-121	Camarines Sur
+RV/R5.PHL/2012/TRa-358	Camarines Norte
+RV/R5.PHL/2008/TRa-071	Camarines Sur
+n137	Albay
+RV/R5.PHL/2009/TRa-183	Albay
+RV/NCR.PHL/2004/Z-04-646	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-285	Metropolitan Manila
+RV/R3.PHL/2009/TRa-201	Nueva Ecija
+RV/R3.PHL/2009/TRa-136	Nueva Ecija
+n141	Pampanga
+n142	Bulacan
+n142	Pampanga
+n142	Pangasinan
+19-004	Albay
+19-004	Batangas
+19-004	Bulacan
+19-004	Cagayan
+19-004	Camarines Norte
+19-004	Cavite
+19-004	Ifugao
+19-004	Ilocos Sur
+19-004	La Union
+19-004	Laguna
+19-004	Metropolitan Manila
+19-004	Misamis Oriental
+19-004	Nueva Ecija
+19-004	Nueva Vizcaya
+19-004	Pampanga
+19-004	Pangasinan
+19-004	Quezon
+19-004	Romblon
+19-004	Tarlac
+19-004	Zambales
+19-045	Albay
+19-045	Batangas
+19-045	Bulacan
+19-045	Cagayan
+19-045	Camarines Norte
+19-045	Cavite
+19-045	Ifugao
+19-045	Ilocos Sur
+19-045	La Union
+19-045	Laguna
+19-045	Metropolitan Manila
+19-045	Misamis Oriental
+19-045	Nueva Ecija
+19-045	Nueva Vizcaya
+19-045	Pampanga
+19-045	Pangasinan
+19-045	Quezon
+19-045	Romblon
+19-045	Tarlac
+19-045	Zambales
+18-199	Albay
+18-199	Batangas
+18-199	Bulacan
+18-199	Cagayan
+18-199	Camarines Norte
+18-199	Cavite
+18-199	Ifugao
+18-199	Ilocos Sur
+18-199	La Union
+18-199	Laguna
+18-199	Metropolitan Manila
+18-199	Misamis Oriental
+18-199	Nueva Ecija
+18-199	Nueva Vizcaya
+18-199	Pampanga
+18-199	Pangasinan
+18-199	Quezon
+18-199	Romblon
+18-199	Tarlac
+18-199	Zambales
+18-121	Albay
+18-121	Batangas
+18-121	Bulacan
+18-121	Cagayan
+18-121	Camarines Norte
+18-121	Cavite
+18-121	Ifugao
+18-121	Ilocos Sur
+18-121	La Union
+18-121	Laguna
+18-121	Metropolitan Manila
+18-121	Misamis Oriental
+18-121	Nueva Ecija
+18-121	Nueva Vizcaya
+18-121	Pampanga
+18-121	Pangasinan
+18-121	Quezon
+18-121	Romblon
+18-121	Tarlac
+18-121	Zambales
+18-147	Albay
+18-147	Batangas
+18-147	Bulacan
+18-147	Cagayan
+18-147	Camarines Norte
+18-147	Cavite
+18-147	Ifugao
+18-147	Ilocos Sur
+18-147	La Union
+18-147	Laguna
+18-147	Metropolitan Manila
+18-147	Misamis Oriental
+18-147	Nueva Ecija
+18-147	Nueva Vizcaya
+18-147	Pampanga
+18-147	Pangasinan
+18-147	Quezon
+18-147	Romblon
+18-147	Tarlac
+18-147	Zambales
+18-144	Albay
+18-144	Batangas
+18-144	Bulacan
+18-144	Cagayan
+18-144	Camarines Norte
+18-144	Cavite
+18-144	Ifugao
+18-144	Ilocos Sur
+18-144	La Union
+18-144	Laguna
+18-144	Metropolitan Manila
+18-144	Misamis Oriental
+18-144	Nueva Ecija
+18-144	Nueva Vizcaya
+18-144	Pampanga
+18-144	Pangasinan
+18-144	Quezon
+18-144	Romblon
+18-144	Tarlac
+18-144	Zambales
+n38	Albay
+n38	Batangas
+n38	Bulacan
+n38	Cagayan
+n38	Camarines Norte
+n38	Cavite
+n38	Ifugao
+n38	Ilocos Sur
+n38	La Union
+n38	Laguna
+n38	Metropolitan Manila
+n38	Misamis Oriental
+n38	Nueva Ecija
+n38	Nueva Vizcaya
+n38	Pampanga
+n38	Pangasinan
+n38	Quezon
+n38	Romblon
+n38	Tarlac
+n38	Zambales
+n75	Cavite
+n81	Cavite
+n81	Pampanga
+Z-13-071	Batangas
+Z-13-071	Bulacan
+Z-13-071	Cavite
+Z-13-071	Metropolitan Manila
+Z-13-071	Nueva Ecija
+Z-13-071	Pampanga
+Z-13-094	Batangas
+Z-13-094	Bulacan
+Z-13-094	Cavite
+Z-13-094	Metropolitan Manila
+Z-13-094	Nueva Ecija
+Z-13-094	Pampanga
+n8585	Bulacan
+n8585	Metropolitan Manila
+n8585	Pampanga
+Z-13-096	Bulacan
+Z-13-096	Metropolitan Manila
+Z-13-096	Pampanga
+n87	Metropolitan Manila
+RV/R4A.PHL/2006/Z-06-342	Laguna
+Z-16-186	Batangas
+Z-16-186	Bulacan
+Z-16-186	Cavite
+Z-16-186	Laguna
+Z-16-186	Metropolitan Manila
+Z-16-186	Nueva Ecija
+Z-16-186	Pampanga
+Z-16-186	Tarlac
+RV/NCR.PHL/2004/Z-04-522	Metropolitan Manila
+RV/R1.PHL/2009/TRa-209	Pangasinan
+RV/R4A.PHL/2006/Z-06-362	Batangas
+RV/R4A.PHL/2006/Z-06-163	Laguna
+n92	La Union
+n108	Pangasinan
+RV/R3.PHL/2012/TRa-309	Tarlac
+n109109	Pangasinan
+RV/R1.PHL/2009/TRa-256	Pangasinan
+RV/R1.PHL/2009/TRa-263	Pangasinan
+RV/R1.PHL/2009/TRa-159	Pangasinan
+n111111	Pangasinan
+n112	Pangasinan
+RV/R1.PHL/2009/TRa-257	Pangasinan
+RV/R3.PHL/2009/TRa-132	Nueva Ecija
+RV/R3.PHL/2008/TRa-062	Nueva Ecija
+RV/R3.PHL/2009/TRa-113	Zambales
+RV/R1.PHL/2009/TRa-153	Pangasinan
+n120120	Pangasinan
+n121121	Pangasinan
+n122	Pangasinan
+n122122	Pangasinan
+n123123	Pangasinan
+RV/R1.PHL/2009/TRa-215	Pangasinan
+n126126	Camarines Norte
+RV/R5.PHL/2009/TRa-231	Camarines Norte
+RV/R5.PHL/2008/TRa-032	Albay
+RV/R5.PHL/2008/TRa-031	Albay
+RV/R5.PHL/2008/TRa-005	Albay
+n131	Albay
+RV/R5.PHL/2008/TRa-072	Albay
+n132	Albay
+n132	Pampanga
+RV/R5.PHL/2013/TRa-427	Albay
+RV/R5.PHL/2012/TRa-344	Camarines Sur
+RV/R5.PHL/2013/TRa-425	Camarines Sur
+RV/R5.PHL/2012/TRa-337	Camarines Sur
+n137137	Albay
+A12_1973	Albay
+RV/R5.PHL/2009/TRa-272	Albay
+RV/R5.PHL/2009/TRa-226	Albay
+RV/R5.PHL/2009/TRa-225	Albay
+RV/R5.PHL/2009/TRa-273	Albay
+RV/R5.PHL/2008/TRa-067	Albay
+RV/R3.PHL/2008/TRa-088	Pampanga
+RV/R3.PHL/2008/TRa-002	Pampanga
+n141141	Pampanga
+RV/R3.PHL/2013/TRa-447	Bulacan
+RV/R3.PHL/2008/TRa-090	Pampanga
+RV/R3.PHL/2008/TRa-066	Pampanga
+RV/R3.PHL/2008/TRa-049	Pampanga
+RV/R3.PHL/2008/TRa-006	Pampanga
+n142142	Bulacan
+n148	Pangasinan
+18-130	Albay
+18-130	Batangas
+18-130	Bulacan
+18-130	Cagayan
+18-130	Camarines Norte
+18-130	Cavite
+18-130	Ifugao
+18-130	Ilocos Sur
+18-130	La Union
+18-130	Laguna
+18-130	Metropolitan Manila
+18-130	Misamis Oriental
+18-130	Nueva Ecija
+18-130	Nueva Vizcaya
+18-130	Pampanga
+18-130	Pangasinan
+18-130	Quezon
+18-130	Romblon
+18-130	Tarlac
+18-130	Zambales
+18-216	Albay
+18-216	Batangas
+18-216	Bulacan
+18-216	Cagayan
+18-216	Camarines Norte
+18-216	Cavite
+18-216	Ifugao
+18-216	Ilocos Sur
+18-216	La Union
+18-216	Laguna
+18-216	Metropolitan Manila
+18-216	Misamis Oriental
+18-216	Nueva Ecija
+18-216	Nueva Vizcaya
+18-216	Pampanga
+18-216	Pangasinan
+18-216	Quezon
+18-216	Romblon
+18-216	Tarlac
+18-216	Zambales
+n7575	Cavite
+n7979	Cavite
+n7979	Nueva Ecija
+n7979	Pampanga
+n8181	Batangas
+n8181	Bulacan
+n8181	Cavite
+n8181	Metropolitan Manila
+n8181	Nueva Ecija
+n8181	Pampanga
+Z-16-210	Batangas
+Z-16-210	Bulacan
+Z-16-210	Cavite
+Z-16-210	Laguna
+Z-16-210	Metropolitan Manila
+Z-16-210	Nueva Ecija
+Z-16-210	Pampanga
+Z-16-210	Tarlac
+Z-14-138	Bulacan
+Z-14-138	Metropolitan Manila
+Z-14-138	Nueva Ecija
+Z-14-138	Pampanga
+Z-13-002	Bulacan
+Z-13-002	Metropolitan Manila
+Z-13-002	Pampanga
+n8787	Laguna
+RADDL1-16-154	Batangas
+RADDL1-16-154	Bulacan
+RADDL1-16-154	Cavite
+RADDL1-16-154	Laguna
+RADDL1-16-154	Metropolitan Manila
+RADDL1-16-154	Nueva Ecija
+RADDL1-16-154	Pampanga
+RADDL1-16-154	Tarlac
+Z-15-001	Batangas
+Z-15-001	Bulacan
+Z-15-001	Cavite
+Z-15-001	Laguna
+Z-15-001	Metropolitan Manila
+Z-15-001	Nueva Ecija
+Z-15-001	Pampanga
+Z-15-001	Tarlac
+RV/R1.PHL/2013/TRa-573	La Union
+RV/R1.PHL/2012/TRa-382	La Union
+n108108	Pangasinan
+RV/R1.PHL/2008/TRa-094	Pangasinan
+RV/R3.PHL/2008/TRa-021	Nueva Ecija
+RV/R3.PHL/2008/TRa-009	Nueva Ecija
+RV/R1.PHL/2009/TRa-210	Pangasinan
+RV/R1.PHL/2009/TRa-150	Pangasinan
+RV/R1.PHL/2009/TRa-156	Pangasinan
+RV/R1.PHL/2009/TRa-157	Pangasinan
+RV/R1.PHL/2009/TRa-258	Pangasinan
+n112112	Pangasinan
+RV/R1.PHL/2012/TRa-377	Pangasinan
+RV/R1.PHL/2012/TRa-325	Pangasinan
+RV/R1.PHL/2009/TRa-214	Pangasinan
+n121	Pangasinan
+RV/R1.PHL/2009/TRa-161	Pangasinan
+RV/R1.PHL/2012/TRa-383	Pangasinan
+RV/R1.PHL/2012/TRa-323	Pangasinan
+RV/R1.PHL/2012/TRa-384	Pangasinan
+RV/R1.PHL/2012/TRa-381	Pangasinan
+RV/R1.PHL/2012/TRa-378	Pangasinan
+A12_1969	Pangasinan
+RV/R1.PHL/2009/TRa-151	Pangasinan
+RV/R1.PHL/2009/TRa-213	Pangasinan
+n123	Pangasinan
+RV/R1.PHL/2012/TRa-379	Pangasinan
+RV/R1.PHL/2012/TRa-376	Pangasinan
+n127	Camarines Norte
+n127127	Albay
+RV/R5.PHL/2008/TRa-122	Albay
+RV/R5.PHL/2009/TRa-227	Albay
+RV/R5.PHL/2008/TRa-034	Albay
+n132132	Albay
+n132132	Pampanga
+REGION_5_2018-100	Albay
+REGION_5_2018-100	Nueva Ecija
+REGION_5_2018-100	Pampanga
+RV/R5.PHL/2012/TRa-360	Albay
+RV/R5.PHL/2012/TRa-356	Albay
+n138	Albay
+n138138	Albay
+RV/R5.PHL/2012/TRa-357	Sorsogon
+RV/R5.PHL/2013/TRa-429	Albay
+A12_1959	Pampanga
+RV/R3.PHL/2009/TRa-133	Pampanga
+n143	Bulacan
+RV/R3.PHL/2013/TRa-352	Bulacan
+RV/R3.PHL/2013/TRa-557	Bulacan
+n144	Bulacan
+n144144	Bulacan
+55	Pampanga
+93	Pampanga
+140	Zambales
+87	Pampanga
+n148148	Bulacan
+121	Bulacan
+RV/R1.PHL/2010/TRa-299	Pangasinan
+n154154	Bulacan
+n76	Cavite
+n79	Cavite
+n80	Cavite
+n80	Nueva Ecija
+n80	Pampanga
+n8080	Cavite
+n8080	Metropolitan Manila
+n8080	Nueva Ecija
+n8080	Pampanga
+Z-15-119	Batangas
+Z-15-119	Bulacan
+Z-15-119	Cavite
+Z-15-119	Metropolitan Manila
+Z-15-119	Nueva Ecija
+Z-15-119	Pampanga
+Z-13-066	Batangas
+Z-13-066	Bulacan
+Z-13-066	Cavite
+Z-13-066	Laguna
+Z-13-066	Metropolitan Manila
+Z-13-066	Nueva Ecija
+Z-13-066	Pampanga
+Z-13-066	Tarlac
+Z12-012	Laguna
+n8888	Laguna
+RV/R1.PHL/2010/TRa-300	Pangasinan
+RV/R1.PHL/2009/TRa-260	Pangasinan
+RV/R1.PHL/2012/TRa-324	Pangasinan
+RV/R1.PHL/2012/TRa-320	Pangasinan
+RV/R1.PHL/2012/TRa-375	Pangasinan
+RV/R1.PHL/2009/TRa-208	Pangasinan
+RV/R1.PHL/2009/TRa-221	Pangasinan
+RV/R1.PHL/2012/TRa-327	Pangasinan
+RV/R1.PHL/2009/TRa-219	Pangasinan
+RV/R5.PHL/2012/TRa-340	Camarines Norte
+RV/R5.PHL/2012/TRa-343	Camarines Norte
+RV/R5.PHL/2012/TRa-362	Albay
+RV/R5.PHL/2012/TRa-355	Albay
+n128	Camarines Sur
+n133	Albay
+n133	Nueva Ecija
+n133	Pampanga
+REGION_5_2018-304	Albay
+REGION_5_2018-304	Nueva Ecija
+REGION_5_2018-304	Pampanga
+REGION_5_2018-50	Albay
+REGION_5_2018-50	Nueva Ecija
+REGION_5_2018-50	Pampanga
+RV/R5.PHL/2013/TRa-422	Albay
+RV/R5.PHL/2013/TRa-365	Albay
+RV/R5.PHL/2013/TRa-421	Albay
+RV/R5.PHL/2013/TRa-364	Albay
+Z-12-001	Bulacan
+n143143	Bulacan
+RV/R3.PHL/2013/TRa-445	Bulacan
+RV/R3.PHL/2013/TRa-547	Bulacan
+66	Pampanga
+n145	Bulacan
+BAI/BAINCR/2019-02/can	Batangas
+BAI/BAINCR/2019-02/can	Bulacan
+BAI/BAINCR/2019-02/can	Cavite
+BAI/BAINCR/2019-02/can	Nueva Ecija
+BAI/BAINCR/2019-02/can	Pampanga
+BAI/BAINCR/2019-01/can	Batangas
+BAI/BAINCR/2019-01/can	Bulacan
+BAI/BAINCR/2019-01/can	Cavite
+BAI/BAINCR/2019-01/can	Nueva Ecija
+BAI/BAINCR/2019-01/can	Pampanga
+n145145	Bulacan
+RV/R3.PHL/2013/TRa-464	Bulacan
+RV/R3.PHL/2013/TRa-456	Bulacan
+RV/R3.PHL/2013/TRa-449	Bulacan
+RV/R3.PHL/2013/TRa-556	Bulacan
+n149	Bulacan
+BAI/BAI4A/2019-01/can	Rizal
+n150150	Bulacan
+n151151	Bulacan
+130	Bulacan
+131	Bulacan
+132	Bulacan
+Z-18-224	Metropolitan Manila
+RV/R3.PHL/2013/TRa-451	Bulacan
+RV/R3.PHL/2012/TRa-310	Bulacan
+n155	Romblon
+n7676	Cavite
+n7676	Pampanga
+Z-13-009	Cavite
+Z-13-009	Metropolitan Manila
+Z-13-009	Nueva Ecija
+Z-13-009	Pampanga
+Z-15-019	Batangas
+Z-15-019	Bulacan
+Z-15-019	Cavite
+Z-15-019	Metropolitan Manila
+Z-15-019	Nueva Ecija
+Z-15-019	Pampanga
+Z-12-118	Cavite
+Z-12-118	Metropolitan Manila
+Z-12-118	Nueva Ecija
+Z-12-118	Pampanga
+Z-14-136	Cavite
+Z-14-136	Metropolitan Manila
+Z-14-136	Nueva Ecija
+Z-14-136	Pampanga
+BAI/BAINCR/2019-03/can	Batangas
+BAI/BAINCR/2019-03/can	Bulacan
+BAI/BAINCR/2019-03/can	Cavite
+BAI/BAINCR/2019-03/can	Laguna
+BAI/BAINCR/2019-03/can	Metropolitan Manila
+BAI/BAINCR/2019-03/can	Nueva Ecija
+BAI/BAINCR/2019-03/can	Pampanga
+BAI/BAINCR/2019-03/can	Tarlac
+Z-16-013	Batangas
+Z-16-013	Bulacan
+Z-16-013	Cavite
+Z-16-013	Metropolitan Manila
+Z-16-013	Nueva Ecija
+Z-16-013	Pampanga
+Z-16-013	Tarlac
+Z-15-116	Batangas
+Z-15-116	Bulacan
+Z-15-116	Cavite
+Z-15-116	Metropolitan Manila
+Z-15-116	Nueva Ecija
+Z-15-116	Pampanga
+n89	Laguna
+n9191	Laguna
+n128128	Camarines Sur
+REGION_5_2018-311	Camarines Sur
+REGION_5_2018-311	Nueva Ecija
+REGION_5_2018-311	Pampanga
+REGION_5_2019-1	Albay
+REGION_5_2019-1	Nueva Ecija
+REGION_5_2019-1	Pampanga
+REGION_5_2019-13	Albay
+REGION_5_2019-13	Nueva Ecija
+REGION_5_2019-13	Pampanga
+Z-14-033	Bulacan
+RV/R3.PHL/2013/TRa-548	Bulacan
+RADDL3-15-172	Bulacan
+RADDL3-15-172	Nueva Ecija
+120	Nueva Ecija
+n146	Bulacan
+n147	Romblon
+n149149	Bulacan
+RV/R3.PHL/2013/TRa-354	Bulacan
+RV/R3.PHL/2013/TRa-351	Bulacan
+RV/R3.PHL/2013/TRa-313	Bulacan
+n151	Bulacan
+RV/R3.PHL/2012/TRa-317	Bulacan
+BAI/BAI3/2019-01/fel	Bulacan
+RV/R3.PHL/2013/TRa-452	Bulacan
+n152	Pampanga
+n152152	Bulacan
+n153	Bulacan
+RV/R3.PHL/2013/TRa-454	Bulacan
+RV/R3.PHL/2013/TRa-455	Bulacan
+RV/R3.PHL/2013/TRa-457	Pampanga
+RV/R3.PHL/2013/TRa-350	Bulacan
+RV/R3.PHL/2012/TRa-308	Bulacan
+n155155	Romblon
+4B-23-11	Romblon
+n156	Romblon
+n7777	Cavite
+n7777	Nueva Ecija
+n7777	Pampanga
+n7878	Cavite
+n7878	Metropolitan Manila
+n7878	Nueva Ecija
+n7878	Pampanga
+n8989	Batangas
+n8989	Laguna
+Z-16-082	Laguna
+RV/R4A.PHL/2012/TRa-404	Batangas
+RV/R4A.PHL/2011/TRa-393	Laguna
+Z-14-098	Batangas
+RADDL5-005	Camarines Sur
+RV/R5.PHL/2013/TRa-426	Camarines Sur
+n146146	Bulacan
+RV/R3.PHL/2012/TRa-318	Bulacan
+RV/R4B.PHL/2011/TRa-394	Romblon
+RV/R4B.PHL/2011/TRa-392	Romblon
+RV/R4B.PHL/2011/TRa-396	Romblon
+n147147	Romblon
+n150	Bulacan
+RV/R3.PHL/2013/TRa-444	Bulacan
+RV/R3.PHL/2013/TRa-537	Bulacan
+RV/R3.PHL/2013/TRa-450	Bulacan
+RV/R3.PHL/2013/TRa-463	Pampanga
+RV/R3.PHL/2013/TRa-588	Pampanga
+RV/R3.PHL/2013/TRa-552	Pampanga
+RV/R3.PHL/2013/TRa-534	Pampanga
+RV/R3.PHL/2013/TRa-461	Pampanga
+RV/R3.PHL/2013/TRa-459	Pampanga
+RV/R3.PHL/2013/TRa-453	Pampanga
+RV/R3.PHL/2013/TRa-443	Bulacan
+RV/R3.PHL/2013/TRa-346	Pampanga
+n153153	Bulacan
+RV/R3.PHL/2013/TRa-589	Pampanga
+RV/R3.PHL/2013/TRa-587	Pampanga
+RV/R3.PHL/2013/TRa-586	Pampanga
+RV/R3.PHL/2013/TRa-583	Pampanga
+RV/R3.PHL/2013/TRa-554	Bulacan
+RV/R3.PHL/2013/TRa-551	Pampanga
+RV/R3.PHL/2013/TRa-550	Pampanga
+RV/R3.PHL/2013/TRa-545	Pampanga
+RV/R3.PHL/2013/TRa-544	Pampanga
+RV/R3.PHL/2013/TRa-543	Pampanga
+RV/R3.PHL/2013/TRa-540	Pampanga
+RV/R3.PHL/2013/TRa-538	Bulacan
+RV/R3.PHL/2013/TRa-535	Bulacan
+RV/R3.PHL/2013/TRa-533	Pampanga
+RV/R3.PHL/2012/TRa-313	Bulacan
+RV/R3.PHL/2013/TRa-542	Pampanga
+n154	Pampanga
+RV/R3.PHL/2013/TRa-536	Bulacan
+4B-23-17	Romblon
+Z-22-119	Romblon
+4B-23-16	Romblon
+4B-23-19	Romblon
+4B-23-05	Romblon
+4B-23-02	Romblon
+n156156	Romblon
+4B-23-07	Romblon
+4B-22-44	Romblon
+4B-22-41	Romblon
+4B-23-13	Romblon
+4B-23-15	Romblon
+4B-22-39	Romblon
+n157	Romblon
+Z-22-103	Romblon
+4B-22-37	Romblon
+4B-22-42	Romblon
+n78	Batangas
+n78	Bulacan
+n78	Cavite
+n78	Metropolitan Manila
+n78	Nueva Ecija
+n78	Pampanga
+Z14-142	Cavite
+Z14-142	Metropolitan Manila
+Z14-142	Nueva Ecija
+Z14-142	Pampanga
+Z-15-130	Batangas
+Z-15-130	Bulacan
+Z-15-130	Cavite
+Z-15-130	Metropolitan Manila
+Z-15-130	Nueva Ecija
+Z-15-130	Pampanga
+Z-16-159	Batangas
+Z-16-159	Bulacan
+Z-16-159	Cavite
+Z-16-159	Metropolitan Manila
+Z-16-159	Nueva Ecija
+Z-16-159	Pampanga
+Z-16-159	Tarlac
+n90	Batangas
+n90	Laguna
+4A-22-203	Quezon
+RV/R3.PHL/2013/TRa-442	Bulacan
+RV/R3.PHL/2012/TRa-315	Bulacan
+RV/R4B.PHL/2012/TRa-402	Romblon
+RV/R4B.PHL/2012/TRa-400	Romblon
+RV/R4B.PHL/2012/TRa-397	Romblon
+RV/R3.PHL/2013/TRa-441	Pampanga
+RV/R3.PHL/2012/TRa-311	Bulacan
+RADDL3-1038	Bulacan
+RV/R3.PHL/2013/TRa-353	Bulacan
+RADDL3-845	Pampanga
+RV/R3.PHL/2013/TRa-549	Pampanga
+4B-23-12	Romblon
+4B-23-06	Romblon
+4B-23-01	Romblon
+4B-22-45	Romblon
+Z-16-211	Batangas
+Z-16-211	Bulacan
+Z-16-211	Cavite
+Z-16-211	Laguna
+Z-16-211	Metropolitan Manila
+Z-16-211	Nueva Ecija
+Z-16-211	Pampanga
+Z-16-211	Tarlac
+Z15-185	Batangas
+Z15-185	Bulacan
+Z15-185	Cavite
+Z15-185	Metropolitan Manila
+Z15-185	Nueva Ecija
+Z15-185	Pampanga
+n9090	Romblon
+Z-17-046	Batangas
+n91	Romblon
+4B-23-03	Romblon
+4B-23-04	Romblon
+Z-22-121	Romblon

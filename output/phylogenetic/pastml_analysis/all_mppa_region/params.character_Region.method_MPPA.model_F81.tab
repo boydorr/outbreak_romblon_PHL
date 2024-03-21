@@ -1,0 +1,29 @@
+parameter	value
+pastml_version	1.9.43
+character	Region
+log_likelihood	-410.1814211654064
+log_likelihood_restricted_JOINT	-440.6029473076768
+log_likelihood_restricted_MAP	-443.4038114212085
+log_likelihood_restricted_MPPA	-424.25724991610986
+num_scenarios	1213995942661947505276319491726245888000
+num_states_per_node_avg	1.2074408117249154
+num_unresolved_nodes	91
+percentage_of_unresolved_nodes	10.259301014656144
+method	MPPA
+model	F81
+num_nodes	887
+num_tips	580
+scaling_factor	0.03722670034683475
+state_changes_per_avg_branch	0.16684750574671273
+smoothing_factor	0
+Bicol Region	0.024628879917970407
+Cagayan Valley	0.030256747434257075
+Calabarzon	0.19456574215756237
+Central Luzon	0.34914659235293505
+Central Visayas	0.017492277434931543
+Cordillera Administrative Region	0.07480262833820404
+Davao Region	0.028051996522971683
+Ilocos Region	0.08174839007492486
+National Capital Region	0.09978262846467895
+Northern Mindanao	0.025601011110833224
+Southwestern Tagalog Region	0.07392310619073095

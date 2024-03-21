@@ -1,0 +1,812 @@
+DATASET_COLORSTRIP
+
+SEPARATOR TAB
+BORDER_WIDTH	0.5
+MARGIN	5
+STRIP_WIDTH	25
+COLOR	#ffffff
+DATASET_LABEL	Region
+
+LEGEND_COLORS	#a6cee3	#1f78b4	#b2df8a	#33a02c	#fb9a99	#e31a1c	#fdbf6f	#ff7f00	#cab2d6	#6a3d9a	#ffff99
+LEGEND_LABELS	Bicol Region	Cagayan Valley	Calabarzon	Central Luzon	Central Visayas	Cordillera Administrative Region	Davao Region	Ilocos Region	National Capital Region	Northern Mindanao	Southwestern Tagalog Region
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1
+LEGEND_TITLE	Region
+
+DATA
+#NODE_ID COLOR LABEL_OR_STYLE
+n22	#b2df8a	Calabarzon
+94275PHI	#b2df8a	Calabarzon
+n3	#b2df8a	Calabarzon
+RV/R4B.PHL/2006/Z-06-197	#b2df8a	Calabarzon
+RV/R4B.PHL/2006/Z-06-408	#ffff99	Southwestern Tagalog Region
+n1616	#ffff99	Southwestern Tagalog Region
+RV/R4B.PHL/2006/Z-06-203	#ffff99	Southwestern Tagalog Region
+RV/R4A.PHL/2006/Z-06-345	#b2df8a	Calabarzon
+RV/R4A.PHL/2006/Z-06-197	#b2df8a	Calabarzon
+n5	#fb9a99	Central Visayas
+n1111	#fb9a99	Central Visayas
+RV/R4B.PHL/2013/TRa-487	#ffff99	Southwestern Tagalog Region
+RV/R4B.PHL/2013/TRa-486	#ffff99	Southwestern Tagalog Region
+n55	#fb9a99	Central Visayas
+n7	#fb9a99	Central Visayas
+n12	#fb9a99	Central Visayas
+n13	#fb9a99	Central Visayas
+n2828	#fdbf6f	Davao Region
+n49	#b2df8a	Calabarzon
+n6	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-099	#fb9a99	Central Visayas
+n66	#fb9a99	Central Visayas
+n77	#fb9a99	Central Visayas
+n8	#fb9a99	Central Visayas
+n88	#fb9a99	Central Visayas
+n10	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-083	#fb9a99	Central Visayas
+n1212	#fb9a99	Central Visayas
+n1313	#fb9a99	Central Visayas
+n14	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-235	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-084	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-240	#fb9a99	Central Visayas
+n1515	#fb9a99	Central Visayas
+n16	#fb9a99	Central Visayas
+n21	#6a3d9a	Northern Mindanao
+n29	#fdbf6f	Davao Region
+n40	#fdbf6f	Davao Region
+n4949	#b2df8a	Calabarzon
+RV/R4A.PHL/2004/Z-04-401	#b2df8a	Calabarzon
+RV/R7.PHL/2009/TRa-176	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-166	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-168	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-079	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-097	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-078	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-170	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-076	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-103	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-080	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-077	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-173	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-100	#fb9a99	Central Visayas
+n9	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-179	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-167	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-178	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-172	#fb9a99	Central Visayas
+n99	#fb9a99	Central Visayas
+n1010	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-082	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-081	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-075	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-237	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-147	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-164	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-143	#fb9a99	Central Visayas
+n1414	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-085	#fb9a99	Central Visayas
+n15	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-236	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-145	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-241	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-238	#fb9a99	Central Visayas
+A12_1978	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-144	#fb9a99	Central Visayas
+n1919	#fdbf6f	Davao Region
+n2121	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-110	#6a3d9a	Northern Mindanao
+n2929	#fdbf6f	Davao Region
+n4040	#fdbf6f	Davao Region
+n4545	#fdbf6f	Davao Region
+RV/R4A.PHL/2004/Z-04-470	#b2df8a	Calabarzon
+RV/R4A.PHL/2005/Z-05-012	#b2df8a	Calabarzon
+n57	#ff7f00	Ilocos Region
+n63	#33a02c	Central Luzon
+RV/R7.PHL/2009/TRa-177	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-098	#fb9a99	Central Visayas
+A12_1952	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-102	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-074	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-101	#fb9a99	Central Visayas
+RV/R7.PHL/2008/TRa-096	#fb9a99	Central Visayas
+A12_1964	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-165	#fb9a99	Central Visayas
+A12_1977	#fb9a99	Central Visayas
+RV/R7.PHL/2009/TRa-239	#fb9a99	Central Visayas
+18-118	#fdbf6f	Davao Region
+18-164	#fdbf6f	Davao Region
+18-179	#fdbf6f	Davao Region
+n2020	#6a3d9a	Northern Mindanao
+n2222	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-189	#6a3d9a	Northern Mindanao
+n2727	#6a3d9a	Northern Mindanao
+n30	#fdbf6f	Davao Region
+RV/R11.PHL/2005/Z-05-186	#fdbf6f	Davao Region
+n41	#fdbf6f	Davao Region
+n43	#fdbf6f	Davao Region
+n46	#fdbf6f	Davao Region
+n4646	#fdbf6f	Davao Region
+n5151	#1f78b4	Cagayan Valley
+RV/R1.PHL/2010/TRa-287	#ff7f00	Ilocos Region
+n6161	#ff7f00	Ilocos Region
+n6363	#33a02c	Central Luzon
+n95	#33a02c	Central Luzon
+n100	#6a3d9a	Northern Mindanao
+n104104	#ff7f00	Ilocos Region
+RV/R10.PHL/2009/TRa-250	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-249	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-057	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-026	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-186	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-107	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-058	#6a3d9a	Northern Mindanao
+n23	#6a3d9a	Northern Mindanao
+n2424	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-030	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-108	#6a3d9a	Northern Mindanao
+n28	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-196	#6a3d9a	Northern Mindanao
+n3030	#fdbf6f	Davao Region
+03007PHI	#fdbf6f	Davao Region
+n4141	#fdbf6f	Davao Region
+19-050	#fdbf6f	Davao Region
+n4343	#fdbf6f	Davao Region
+18-162	#fdbf6f	Davao Region
+18-107	#fdbf6f	Davao Region
+18-142	#fdbf6f	Davao Region
+n47	#fdbf6f	Davao Region
+18-191	#fdbf6f	Davao Region
+n52	#1f78b4	Cagayan Valley
+RV/R2.PHL/2009/TRa-142	#1f78b4	Cagayan Valley
+n58	#e31a1c	Cordillera Administrative Region
+n61	#ff7f00	Ilocos Region
+RV/R3.PHL/2013/TRa-509	#33a02c	Central Luzon
+RV/R1.PHL/2009/TRa-218	#ff7f00	Ilocos Region
+n62	#ff7f00	Ilocos Region
+n64	#33a02c	Central Luzon
+n6666	#33a02c	Central Luzon
+n6969	#33a02c	Central Luzon
+H-23-011Sk_12	#ffff99	Southwestern Tagalog Region
+n7171	#cab2d6	National Capital Region
+n9595	#33a02c	Central Luzon
+n98	#33a02c	Central Luzon
+PHI114	#6a3d9a	Northern Mindanao
+PHI103	#6a3d9a	Northern Mindanao
+n101101	#a6cee3	Bicol Region
+n105	#ff7f00	Ilocos Region
+n2323	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-251	#6a3d9a	Northern Mindanao
+n25	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-253	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-195	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-054	#6a3d9a	Northern Mindanao
+n31	#fdbf6f	Davao Region
+n3838	#fdbf6f	Davao Region
+n42	#fdbf6f	Davao Region
+18-214	#fdbf6f	Davao Region
+n4444	#fdbf6f	Davao Region
+18-133	#fdbf6f	Davao Region
+n4747	#fdbf6f	Davao Region
+n48	#fdbf6f	Davao Region
+n5252	#1f78b4	Cagayan Valley
+n5656	#1f78b4	Cagayan Valley
+n5858	#e31a1c	Cordillera Administrative Region
+n60	#e31a1c	Cordillera Administrative Region
+RV/R1.PHL/2013/TRa-569	#ff7f00	Ilocos Region
+RV/CAR.PHL/2013/TRa-407	#e31a1c	Cordillera Administrative Region
+RV/R1.PHL/2013/TRa-406	#ff7f00	Ilocos Region
+RV/R1.PHL/2010/TRa-286	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-265	#ff7f00	Ilocos Region
+n6464	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-045	#33a02c	Central Luzon
+n65	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-022	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-064	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-019	#33a02c	Central Luzon
+n67	#33a02c	Central Luzon
+n69	#33a02c	Central Luzon
+n70	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-305	#33a02c	Central Luzon
+n72	#cab2d6	National Capital Region
+RV/NCR.PHL/2005/Z-05-299	#cab2d6	National Capital Region
+RV/NCR.PHL/2005/Z-05-187	#cab2d6	National Capital Region
+RV/R4A.PHL/2004/Z-04-420	#b2df8a	Calabarzon
+RV/R4A.PHL/2004/Z-04-389	#b2df8a	Calabarzon
+RV/NCR.PHL/2005/Z-05-090	#cab2d6	National Capital Region
+RV/NCR.PHL/2005/Z-05-465	#cab2d6	National Capital Region
+RV/NCR.PHL/2005/Z-05-168	#cab2d6	National Capital Region
+n96	#33a02c	Central Luzon
+n9797	#b2df8a	Calabarzon
+RV/R3.PHL/2008/TRa-018	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-119	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-011	#33a02c	Central Luzon
+n9898	#33a02c	Central Luzon
+n9999	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-048	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-016	#33a02c	Central Luzon
+n102	#a6cee3	Bicol Region
+n105105	#ff7f00	Ilocos Region
+n113113	#ff7f00	Ilocos Region
+n124	#a6cee3	Bicol Region
+RV/R10.PHL/2008/TRa-052	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-184	#6a3d9a	Northern Mindanao
+n24	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-053	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-027	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-109	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-055	#6a3d9a	Northern Mindanao
+n2525	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-254	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-025	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-014	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-024	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-243	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-056	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-246	#6a3d9a	Northern Mindanao
+n26	#6a3d9a	Northern Mindanao
+n3131	#fdbf6f	Davao Region
+n35	#fdbf6f	Davao Region
+18-151	#fdbf6f	Davao Region
+n39	#fdbf6f	Davao Region
+18-223	#fdbf6f	Davao Region
+18-174	#fdbf6f	Davao Region
+n4242	#fdbf6f	Davao Region
+18-221	#fdbf6f	Davao Region
+18-209	#fdbf6f	Davao Region
+n45	#fdbf6f	Davao Region
+18-183	#fdbf6f	Davao Region
+18-094	#fdbf6f	Davao Region
+18-099	#fdbf6f	Davao Region
+18-101	#fdbf6f	Davao Region
+18-163	#fdbf6f	Davao Region
+18-106	#fdbf6f	Davao Region
+18-114	#fdbf6f	Davao Region
+18-120	#fdbf6f	Davao Region
+18-188	#fdbf6f	Davao Region
+18-196	#fdbf6f	Davao Region
+18-153	#fdbf6f	Davao Region
+n53	#1f78b4	Cagayan Valley
+RV/R2.PHL/2013/TRa-505	#1f78b4	Cagayan Valley
+RV/R2.PHL/2013/TRa-506	#1f78b4	Cagayan Valley
+n5555	#1f78b4	Cagayan Valley
+RV/R2.PHL/2013/TRa-507	#e31a1c	Cordillera Administrative Region
+RV/R2.PHL/2013/TRa-435	#1f78b4	Cagayan Valley
+RV/CAR.PHL/2009/TRa-285	#e31a1c	Cordillera Administrative Region
+n59	#e31a1c	Cordillera Administrative Region
+n6060	#e31a1c	Cordillera Administrative Region
+RV/CAR.PHL/2009/TRa-198	#e31a1c	Cordillera Administrative Region
+RV/R3.PHL/2009/TRa-130	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-111	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-093	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-061	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-051	#33a02c	Central Luzon
+n6565	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-129	#33a02c	Central Luzon
+n6767	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-095	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-089	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-128	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-065	#33a02c	Central Luzon
+n7070	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-204	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-091	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-010	#33a02c	Central Luzon
+n7272	#cab2d6	National Capital Region
+RV/R4A.PHL/2007/Z-07-252	#b2df8a	Calabarzon
+V1373PHIL	#cab2d6	National Capital Region
+n82	#b2df8a	Calabarzon
+RV/NCR.PHL/2004/Z-04-534	#cab2d6	National Capital Region
+RV/NCR.PHL/2004/Z-04-421	#cab2d6	National Capital Region
+RV/R4A.PHL/2007/Z-07-307	#b2df8a	Calabarzon
+n9292	#cab2d6	National Capital Region
+RV/R4A.PHL/2013/TRa-485	#ffff99	Southwestern Tagalog Region
+RV/CAR.PHL/2013/TRa-409	#e31a1c	Cordillera Administrative Region
+n9696	#33a02c	Central Luzon
+n97	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-017	#33a02c	Central Luzon
+RV/R4A.PHL/2005/Z-05-017	#b2df8a	Calabarzon
+RV/R3.PHL/2009/TRa-114	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-112	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-116	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-040	#33a02c	Central Luzon
+RV/R5.PHL/2009/TRa-269	#a6cee3	Bicol Region
+RV/R5.PHL/2009/TRa-229	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-123	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-120	#a6cee3	Bicol Region
+n103	#b2df8a	Calabarzon
+n104	#a6cee3	Bicol Region
+n106	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-216	#ff7f00	Ilocos Region
+n114	#33a02c	Central Luzon
+n117	#ff7f00	Ilocos Region
+RV/R2.PHL/2013/TRa-503	#1f78b4	Cagayan Valley
+RV/R3.PHL/2005/Z-05-507	#33a02c	Central Luzon
+n124124	#a6cee3	Bicol Region
+n135135	#a6cee3	Bicol Region
+RV/R10.PHL/2009/TRa-252	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-242	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-247	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-244	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-194	#6a3d9a	Northern Mindanao
+n2626	#6a3d9a	Northern Mindanao
+n27	#6a3d9a	Northern Mindanao
+n32	#fdbf6f	Davao Region
+n3333	#fdbf6f	Davao Region
+n3535	#fdbf6f	Davao Region
+18-092	#fdbf6f	Davao Region
+n3939	#fdbf6f	Davao Region
+18-138	#fdbf6f	Davao Region
+19-011	#fdbf6f	Davao Region
+19-015	#fdbf6f	Davao Region
+18-181	#fdbf6f	Davao Region
+18-172	#fdbf6f	Davao Region
+n5353	#1f78b4	Cagayan Valley
+n5454	#e31a1c	Cordillera Administrative Region
+n56	#e31a1c	Cordillera Administrative Region
+RV/R2.PHL/2009/TRa-284	#1f78b4	Cagayan Valley
+RV/R3.PHL/2013/TRa-582	#33a02c	Central Luzon
+n5959	#e31a1c	Cordillera Administrative Region
+RV/CAR.PHL/2009/TRa-222	#e31a1c	Cordillera Administrative Region
+RV/CAR.PHL/2009/TRa-224	#e31a1c	Cordillera Administrative Region
+RV/CAR.PHL/2009/TRa-200	#e31a1c	Cordillera Administrative Region
+RV/CAR.PHL/2009/TRa-199	#e31a1c	Cordillera Administrative Region
+RV/R3.PHL/2009/TRa-127	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-086	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-117	#33a02c	Central Luzon
+n68	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-307	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-131	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-013	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-118	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-135	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-134	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-115	#33a02c	Central Luzon
+RV/NCR.PHL/2005/Z-05-396	#cab2d6	National Capital Region
+n73	#b2df8a	Calabarzon
+RV/R4A.PHL/2012/TRa-401	#b2df8a	Calabarzon
+RV/R4A.PHL/2012/TRa-398	#b2df8a	Calabarzon
+n8282	#b2df8a	Calabarzon
+n84	#b2df8a	Calabarzon
+RV/R3.PHL/2008/TRa-063	#33a02c	Central Luzon
+RV/NCR.PHL/2005/Z-05-149	#cab2d6	National Capital Region
+RV/R4A.PHL/2004/Z-04-042	#b2df8a	Calabarzon
+n93	#b2df8a	Calabarzon
+RV/NCR.PHL/2005/Z-05-424	#cab2d6	National Capital Region
+RV/R3.PHL/2008/TRa-092	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-038	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-206	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-087	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-059	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-020	#33a02c	Central Luzon
+V1371PHIL	#b2df8a	Calabarzon
+V1374PHIL	#b2df8a	Calabarzon
+RV/R4A.PHL/2004/Z-04-211	#b2df8a	Calabarzon
+04030PHI	#b2df8a	Calabarzon
+RV/R4A.PHL/2006/Z-06-039	#b2df8a	Calabarzon
+RV/CAR.PHL/2010/TRa-291	#e31a1c	Cordillera Administrative Region
+RV/R4A.PHL/2005/Z-05-123	#b2df8a	Calabarzon
+RV/R5.PHL/2009/TRa-268	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-073	#a6cee3	Bicol Region
+94281PHI	#ff7f00	Ilocos Region
+n106106	#ff7f00	Ilocos Region
+n114114	#33a02c	Central Luzon
+n116	#33a02c	Central Luzon
+n117117	#ff7f00	Ilocos Region
+n118118	#ff7f00	Ilocos Region
+n125	#a6cee3	Bicol Region
+n136	#a6cee3	Bicol Region
+n139139	#33a02c	Central Luzon
+RV/R10.PHL/2009/TRa-248	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-191	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-104	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-255	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2009/TRa-197	#6a3d9a	Northern Mindanao
+RV/R10.PHL/2008/TRa-028	#6a3d9a	Northern Mindanao
+n3232	#fdbf6f	Davao Region
+18-103	#fdbf6f	Davao Region
+n34	#fdbf6f	Davao Region
+18-194	#fdbf6f	Davao Region
+n36	#fdbf6f	Davao Region
+n37	#fdbf6f	Davao Region
+18-096	#fdbf6f	Davao Region
+19-022	#fdbf6f	Davao Region
+RV/R2.PHL/2013/TRa-504	#1f78b4	Cagayan Valley
+RV/CAR.PHL/2013/TRa-370	#e31a1c	Cordillera Administrative Region
+RV/R2.PHL/2013/TRa-437	#1f78b4	Cagayan Valley
+n54	#1f78b4	Cagayan Valley
+RV/R1.PHL/2013/TRa-572	#ff7f00	Ilocos Region
+RV/CAR.PHL/2013/TRa-571	#e31a1c	Cordillera Administrative Region
+RV/CAR.PHL/2013/TRa-500	#e31a1c	Cordillera Administrative Region
+RV/CAR.PHL/2013/TRa-510	#e31a1c	Cordillera Administrative Region
+RV/CAR.PHL/2013/TRa-405	#e31a1c	Cordillera Administrative Region
+RV/CAR.PHL/2009/TRa-234	#e31a1c	Cordillera Administrative Region
+RV/R1.PHL/2009/TRa-233	#ff7f00	Ilocos Region
+RV/R3.PHL/2012/TRa-302	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-060	#33a02c	Central Luzon
+n6868	#33a02c	Central Luzon
+RV/R4A.PHL/2006/Z-06-361	#b2df8a	Calabarzon
+RV/R4A.PHL/2006/Z-06-357	#b2df8a	Calabarzon
+RV/R4A.PHL/2006/Z-06-222	#b2df8a	Calabarzon
+RV/R4A.PHL/2007/Z-07-330	#b2df8a	Calabarzon
+RV/R4A.PHL/2007/Z-07-243	#b2df8a	Calabarzon
+RV/R4A.PHL/2006/Z-06-348	#b2df8a	Calabarzon
+RV/R4A.PHL/2004/Z-04-480	#b2df8a	Calabarzon
+n8484	#33a02c	Central Luzon
+n86	#b2df8a	Calabarzon
+RV/R4A.PHL/2006/Z-06-231	#b2df8a	Calabarzon
+RV/R4A.PHL/2007/Z-07-189	#b2df8a	Calabarzon
+RV/R4A.PHL/2007/Z-07-317	#b2df8a	Calabarzon
+RV/R4A.PHL/2006/Z-06-365	#b2df8a	Calabarzon
+n107	#ff7f00	Ilocos Region
+RV/CAR.PHL/2010/TRa-289	#e31a1c	Cordillera Administrative Region
+n110110	#ff7f00	Ilocos Region
+n115	#33a02c	Central Luzon
+RV/R3.PHL/2004/Z-04-519	#33a02c	Central Luzon
+RV/R3.PHL/2005/Z-05-198	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-047	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-041	#33a02c	Central Luzon
+n116116	#33a02c	Central Luzon
+n118	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-154	#ff7f00	Ilocos Region
+n119	#ff7f00	Ilocos Region
+n119119	#ff7f00	Ilocos Region
+n125125	#a6cee3	Bicol Region
+n129	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-036	#a6cee3	Bicol Region
+n130	#a6cee3	Bicol Region
+n133133	#a6cee3	Bicol Region
+n134134	#a6cee3	Bicol Region
+RV/R2.PHL/2013/TRa-439	#1f78b4	Cagayan Valley
+RV/NCR.PHL/2005/Z-05-009	#cab2d6	National Capital Region
+n136136	#a6cee3	Bicol Region
+n139	#cab2d6	National Capital Region
+RV/NCR.PHL/2005/Z-05-373	#cab2d6	National Capital Region
+n140	#33a02c	Central Luzon
+n140140	#33a02c	Central Luzon
+18-135	#fdbf6f	Davao Region
+18-225	#fdbf6f	Davao Region
+n3434	#fdbf6f	Davao Region
+18-116	#fdbf6f	Davao Region
+n3636	#fdbf6f	Davao Region
+18-102	#fdbf6f	Davao Region
+n3737	#fdbf6f	Davao Region
+18-224	#fdbf6f	Davao Region
+RV/R2.PHL/2009/TRa-283	#1f78b4	Cagayan Valley
+RV/R2.PHL/2009/TRa-279	#1f78b4	Cagayan Valley
+RV/R3.PHL/2013/TRa-446	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-348	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-314	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-303	#33a02c	Central Luzon
+n8686	#cab2d6	National Capital Region
+RV/NCR.PHL/2005/Z-05-466	#cab2d6	National Capital Region
+n107107	#ff7f00	Ilocos Region
+n109	#ff7f00	Ilocos Region
+n110	#ff7f00	Ilocos Region
+n111	#ff7f00	Ilocos Region
+RV/R3.PHL/2009/TRa-202	#33a02c	Central Luzon
+n115115	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-205	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-462	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-347	#33a02c	Central Luzon
+RV/R1.PHL/2009/TRa-259	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-220	#ff7f00	Ilocos Region
+RV/R3.PHL/2013/TRa-541	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-584	#33a02c	Central Luzon
+RADDL3-1045	#ff7f00	Ilocos Region
+RV/R3.PHL/2013/TRa-448	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-466	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-465	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-460	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-458	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-349	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-312	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-306	#33a02c	Central Luzon
+RV/R1.PHL/2010/TRa-298	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-267	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-266	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-262	#ff7f00	Ilocos Region
+RV/R3.PHL/2013/TRa-581	#33a02c	Central Luzon
+n120	#ff7f00	Ilocos Region
+n126	#a6cee3	Bicol Region
+RV/R5.PHL/2012/TRa-338	#a6cee3	Bicol Region
+n129129	#a6cee3	Bicol Region
+RV/R5.PHL/2009/TRa-271	#a6cee3	Bicol Region
+n130130	#a6cee3	Bicol Region
+n131131	#a6cee3	Bicol Region
+RV/R5.PHL/2012/TRa-339	#a6cee3	Bicol Region
+n134	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-037	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-121	#a6cee3	Bicol Region
+RV/R5.PHL/2012/TRa-358	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-071	#a6cee3	Bicol Region
+n137	#a6cee3	Bicol Region
+RV/R5.PHL/2009/TRa-183	#a6cee3	Bicol Region
+RV/NCR.PHL/2004/Z-04-646	#cab2d6	National Capital Region
+RV/NCR.PHL/2005/Z-05-285	#cab2d6	National Capital Region
+RV/R3.PHL/2009/TRa-201	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-136	#33a02c	Central Luzon
+n141	#33a02c	Central Luzon
+n142	#33a02c	Central Luzon
+19-004	#fdbf6f	Davao Region
+19-045	#fdbf6f	Davao Region
+18-199	#fdbf6f	Davao Region
+18-121	#fdbf6f	Davao Region
+18-147	#fdbf6f	Davao Region
+18-144	#fdbf6f	Davao Region
+n38	#fdbf6f	Davao Region
+n87	#cab2d6	National Capital Region
+RV/R4A.PHL/2006/Z-06-342	#b2df8a	Calabarzon
+RV/NCR.PHL/2004/Z-04-522	#cab2d6	National Capital Region
+RV/R1.PHL/2009/TRa-209	#ff7f00	Ilocos Region
+RV/R4A.PHL/2006/Z-06-362	#b2df8a	Calabarzon
+RV/R4A.PHL/2006/Z-06-163	#b2df8a	Calabarzon
+n92	#ff7f00	Ilocos Region
+n108	#ff7f00	Ilocos Region
+RV/R3.PHL/2012/TRa-309	#33a02c	Central Luzon
+n109109	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-256	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-263	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-159	#ff7f00	Ilocos Region
+n111111	#ff7f00	Ilocos Region
+n112	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-257	#ff7f00	Ilocos Region
+RV/R3.PHL/2009/TRa-132	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-062	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-113	#33a02c	Central Luzon
+RV/R1.PHL/2009/TRa-153	#ff7f00	Ilocos Region
+n120120	#ff7f00	Ilocos Region
+n121121	#ff7f00	Ilocos Region
+n122	#ff7f00	Ilocos Region
+n122122	#ff7f00	Ilocos Region
+n123123	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-215	#ff7f00	Ilocos Region
+n126126	#a6cee3	Bicol Region
+RV/R5.PHL/2009/TRa-231	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-032	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-031	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-005	#a6cee3	Bicol Region
+n131	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-072	#a6cee3	Bicol Region
+n132	#a6cee3	Bicol Region
+RV/R5.PHL/2013/TRa-427	#a6cee3	Bicol Region
+RV/R5.PHL/2012/TRa-344	#a6cee3	Bicol Region
+RV/R5.PHL/2013/TRa-425	#a6cee3	Bicol Region
+RV/R5.PHL/2012/TRa-337	#a6cee3	Bicol Region
+n137137	#a6cee3	Bicol Region
+A12_1973	#a6cee3	Bicol Region
+RV/R5.PHL/2009/TRa-272	#a6cee3	Bicol Region
+RV/R5.PHL/2009/TRa-226	#a6cee3	Bicol Region
+RV/R5.PHL/2009/TRa-225	#a6cee3	Bicol Region
+RV/R5.PHL/2009/TRa-273	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-067	#a6cee3	Bicol Region
+RV/R3.PHL/2008/TRa-088	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-002	#33a02c	Central Luzon
+n141141	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-447	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-090	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-066	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-049	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-006	#33a02c	Central Luzon
+n142142	#33a02c	Central Luzon
+n148	#ff7f00	Ilocos Region
+18-130	#fdbf6f	Davao Region
+18-216	#fdbf6f	Davao Region
+n8787	#b2df8a	Calabarzon
+RV/R1.PHL/2013/TRa-573	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-382	#ff7f00	Ilocos Region
+n108108	#ff7f00	Ilocos Region
+RV/R1.PHL/2008/TRa-094	#ff7f00	Ilocos Region
+RV/R3.PHL/2008/TRa-021	#33a02c	Central Luzon
+RV/R3.PHL/2008/TRa-009	#33a02c	Central Luzon
+RV/R1.PHL/2009/TRa-210	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-150	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-156	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-157	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-258	#ff7f00	Ilocos Region
+n112112	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-377	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-325	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-214	#ff7f00	Ilocos Region
+n121	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-161	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-383	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-323	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-384	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-381	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-378	#ff7f00	Ilocos Region
+A12_1969	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-151	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-213	#ff7f00	Ilocos Region
+n123	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-379	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-376	#ff7f00	Ilocos Region
+n127	#a6cee3	Bicol Region
+n127127	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-122	#a6cee3	Bicol Region
+RV/R5.PHL/2009/TRa-227	#a6cee3	Bicol Region
+RV/R5.PHL/2008/TRa-034	#a6cee3	Bicol Region
+n132132	#a6cee3	Bicol Region
+REGION_5_2018-100	#a6cee3	Bicol Region
+RV/R5.PHL/2012/TRa-360	#a6cee3	Bicol Region
+RV/R5.PHL/2012/TRa-356	#a6cee3	Bicol Region
+n138	#a6cee3	Bicol Region
+n138138	#a6cee3	Bicol Region
+RV/R5.PHL/2012/TRa-357	#a6cee3	Bicol Region
+RV/R5.PHL/2013/TRa-429	#a6cee3	Bicol Region
+A12_1959	#33a02c	Central Luzon
+RV/R3.PHL/2009/TRa-133	#33a02c	Central Luzon
+n143	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-352	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-557	#33a02c	Central Luzon
+n144	#33a02c	Central Luzon
+n144144	#33a02c	Central Luzon
+55	#33a02c	Central Luzon
+93	#33a02c	Central Luzon
+140	#33a02c	Central Luzon
+87	#33a02c	Central Luzon
+n148148	#33a02c	Central Luzon
+121	#33a02c	Central Luzon
+RV/R1.PHL/2010/TRa-299	#ff7f00	Ilocos Region
+n154154	#33a02c	Central Luzon
+Z12-012	#b2df8a	Calabarzon
+n8888	#b2df8a	Calabarzon
+RV/R1.PHL/2010/TRa-300	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-260	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-324	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-320	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-375	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-208	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-221	#ff7f00	Ilocos Region
+RV/R1.PHL/2012/TRa-327	#ff7f00	Ilocos Region
+RV/R1.PHL/2009/TRa-219	#ff7f00	Ilocos Region
+RV/R5.PHL/2012/TRa-340	#a6cee3	Bicol Region
+RV/R5.PHL/2012/TRa-343	#a6cee3	Bicol Region
+RV/R5.PHL/2012/TRa-362	#a6cee3	Bicol Region
+RV/R5.PHL/2012/TRa-355	#a6cee3	Bicol Region
+n128	#a6cee3	Bicol Region
+n133	#a6cee3	Bicol Region
+REGION_5_2018-304	#a6cee3	Bicol Region
+REGION_5_2018-50	#a6cee3	Bicol Region
+RV/R5.PHL/2013/TRa-422	#a6cee3	Bicol Region
+RV/R5.PHL/2013/TRa-365	#a6cee3	Bicol Region
+RV/R5.PHL/2013/TRa-421	#a6cee3	Bicol Region
+RV/R5.PHL/2013/TRa-364	#a6cee3	Bicol Region
+Z-12-001	#33a02c	Central Luzon
+n143143	#ff7f00	Ilocos Region
+RV/R3.PHL/2013/TRa-445	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-547	#33a02c	Central Luzon
+66	#33a02c	Central Luzon
+n145	#33a02c	Central Luzon
+BAI/BAINCR/2019-02/can	#cab2d6	National Capital Region
+BAI/BAINCR/2019-01/can	#cab2d6	National Capital Region
+n145145	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-464	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-456	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-449	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-556	#33a02c	Central Luzon
+n149	#33a02c	Central Luzon
+BAI/BAI4A/2019-01/can	#b2df8a	Calabarzon
+n150150	#33a02c	Central Luzon
+n151151	#33a02c	Central Luzon
+130	#33a02c	Central Luzon
+131	#33a02c	Central Luzon
+132	#33a02c	Central Luzon
+Z-18-224	#cab2d6	National Capital Region
+RV/R3.PHL/2013/TRa-451	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-310	#33a02c	Central Luzon
+n155	#ffff99	Southwestern Tagalog Region
+BAI/BAINCR/2019-03/can	#cab2d6	National Capital Region
+n89	#b2df8a	Calabarzon
+n9191	#b2df8a	Calabarzon
+n128128	#a6cee3	Bicol Region
+REGION_5_2018-311	#a6cee3	Bicol Region
+REGION_5_2019-1	#a6cee3	Bicol Region
+REGION_5_2019-13	#a6cee3	Bicol Region
+Z-14-033	#ff7f00	Ilocos Region
+RV/R3.PHL/2013/TRa-548	#ff7f00	Ilocos Region
+RADDL3-15-172	#33a02c	Central Luzon
+120	#33a02c	Central Luzon
+n146	#33a02c	Central Luzon
+n147	#ffff99	Southwestern Tagalog Region
+n149149	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-354	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-351	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-313	#33a02c	Central Luzon
+n151	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-317	#33a02c	Central Luzon
+BAI/BAI3/2019-01/fel	#cab2d6	National Capital Region
+RV/R3.PHL/2013/TRa-452	#33a02c	Central Luzon
+n152	#33a02c	Central Luzon
+n152152	#33a02c	Central Luzon
+n153	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-454	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-455	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-457	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-350	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-308	#33a02c	Central Luzon
+n155155	#ffff99	Southwestern Tagalog Region
+4B-23-11	#ffff99	Southwestern Tagalog Region
+n156	#ffff99	Southwestern Tagalog Region
+n8989	#b2df8a	Calabarzon
+Z-16-082	#b2df8a	Calabarzon
+RV/R4A.PHL/2012/TRa-404	#b2df8a	Calabarzon
+RV/R4A.PHL/2011/TRa-393	#b2df8a	Calabarzon
+Z-14-098	#b2df8a	Calabarzon
+RADDL5-005	#a6cee3	Bicol Region
+RV/R5.PHL/2013/TRa-426	#a6cee3	Bicol Region
+n146146	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-318	#33a02c	Central Luzon
+RV/R4B.PHL/2011/TRa-394	#ffff99	Southwestern Tagalog Region
+RV/R4B.PHL/2011/TRa-392	#ffff99	Southwestern Tagalog Region
+RV/R4B.PHL/2011/TRa-396	#ffff99	Southwestern Tagalog Region
+n147147	#ffff99	Southwestern Tagalog Region
+n150	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-444	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-537	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-450	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-463	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-588	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-552	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-534	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-461	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-459	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-453	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-443	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-346	#33a02c	Central Luzon
+n153153	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-589	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-587	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-586	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-583	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-554	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-551	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-550	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-545	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-544	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-543	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-540	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-538	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-535	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-533	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-313	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-542	#33a02c	Central Luzon
+n154	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-536	#33a02c	Central Luzon
+4B-23-17	#ffff99	Southwestern Tagalog Region
+Z-22-119	#ffff99	Southwestern Tagalog Region
+4B-23-16	#ffff99	Southwestern Tagalog Region
+4B-23-19	#ffff99	Southwestern Tagalog Region
+4B-23-05	#ffff99	Southwestern Tagalog Region
+4B-23-02	#ffff99	Southwestern Tagalog Region
+n156156	#ffff99	Southwestern Tagalog Region
+4B-23-07	#ffff99	Southwestern Tagalog Region
+4B-22-44	#ffff99	Southwestern Tagalog Region
+4B-22-41	#ffff99	Southwestern Tagalog Region
+4B-23-13	#ffff99	Southwestern Tagalog Region
+4B-23-15	#ffff99	Southwestern Tagalog Region
+4B-22-39	#ffff99	Southwestern Tagalog Region
+n157	#ffff99	Southwestern Tagalog Region
+Z-22-103	#ffff99	Southwestern Tagalog Region
+4B-22-37	#ffff99	Southwestern Tagalog Region
+4B-22-42	#ffff99	Southwestern Tagalog Region
+n90	#b2df8a	Calabarzon
+4A-22-203	#b2df8a	Calabarzon
+RV/R3.PHL/2013/TRa-442	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-315	#33a02c	Central Luzon
+RV/R4B.PHL/2012/TRa-402	#ffff99	Southwestern Tagalog Region
+RV/R4B.PHL/2012/TRa-400	#ffff99	Southwestern Tagalog Region
+RV/R4B.PHL/2012/TRa-397	#ffff99	Southwestern Tagalog Region
+RV/R3.PHL/2013/TRa-441	#33a02c	Central Luzon
+RV/R3.PHL/2012/TRa-311	#33a02c	Central Luzon
+RADDL3-1038	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-353	#33a02c	Central Luzon
+RADDL3-845	#33a02c	Central Luzon
+RV/R3.PHL/2013/TRa-549	#33a02c	Central Luzon
+4B-23-12	#ffff99	Southwestern Tagalog Region
+4B-23-06	#ffff99	Southwestern Tagalog Region
+4B-23-01	#ffff99	Southwestern Tagalog Region
+4B-22-45	#ffff99	Southwestern Tagalog Region
+n9090	#ffff99	Southwestern Tagalog Region
+Z-17-046	#b2df8a	Calabarzon
+n91	#ffff99	Southwestern Tagalog Region
+4B-23-03	#ffff99	Southwestern Tagalog Region
+4B-23-04	#ffff99	Southwestern Tagalog Region
+Z-22-121	#ffff99	Southwestern Tagalog Region

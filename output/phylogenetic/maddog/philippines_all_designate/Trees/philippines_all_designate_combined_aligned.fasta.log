@@ -1,0 +1,1264 @@
+IQ-TREE multicore version 2.0.3 for Mac OS X 64-bit built Dec 19 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    MVLS-MACLAP381977 (SSE4.2, 36 GB RAM)
+Command: iqtree -s philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta -B 1000 -m GTR+F+R6 -nt AUTO
+Seed:    560662 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Feb 28 15:41:27 2024
+Kernel:  SSE2 - auto-detect threads (11 CPU cores detected)
+
+Reading alignment file philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+WARNING: 9 sites contain only gaps or ambiguous characters.
+Alignment has 849 sequences with 11940 columns, 5426 distinct patterns
+3992 parsimony-informative, 707 singleton sites, 7241 constant sites
+                          Gap/Ambiguity  Composition  p-value
+   1  AB573762                   88.67%    passed     76.96%
+   2  AB573763                   88.67%    passed     71.58%
+   3  EU086200                   88.67%    passed     78.66%
+   4  EU086201                   88.67%    passed     78.84%
+   5  EU086202                   88.67%    passed     72.80%
+   6  EU086203                   88.67%    passed     73.21%
+   7  EU086204                   88.67%    passed     61.89%
+   8  EU086205                   88.67%    passed     77.54%
+   9  KX148259                    1.20%    passed     81.28%
+  10  KX148260                    1.20%    passed     79.10%
+  11  KX148261                    1.20%    passed     82.63%
+  12  KX148262                    1.21%    passed     77.32%
+  13  KX148263                    1.20%    passed     94.93%
+  14  LC550018                   88.67%    passed     78.44%
+  15  LC550019                   88.67%    passed     78.55%
+  16  LC550020                   88.67%    passed     78.55%
+  17  LC550021                   88.67%    passed     78.55%
+  18  LC550022                   88.67%    passed     71.88%
+  19  LC550023                   88.67%    passed     71.40%
+  20  LC550024                   88.67%    passed     78.44%
+  21  LC550025                   88.67%    passed     75.18%
+  22  LC550026                   88.67%    passed     76.49%
+  23  LC550027                   88.67%    passed     78.44%
+  24  LC571945                    1.21%    passed     81.50%
+  25  LC571946                    1.21%    passed     81.83%
+  26  MN726836                    1.26%    passed     84.77%
+  27  MN726837                    2.79%    passed     87.88%
+  28  MN726839                    1.22%    passed     82.97%
+  29  MN726840                    4.81%    passed     63.11%
+  30  MN726841                    3.14%    passed     82.32%
+  31  MN726842                    2.78%    passed     86.13%
+  32  MN726843                    3.51%    passed     89.33%
+  33  MN726845                    4.54%    passed     91.74%
+  34  MN726848                    4.65%    passed     64.67%
+  35  MN726850                   10.63%    passed     31.55%
+  36  MN726852                    2.78%    passed     84.79%
+  37  MN726854                    2.19%    passed     88.51%
+  38  MN726855                    4.29%    passed     68.80%
+  39  MN726856                    7.86%    passed     60.91%
+  40  MN726858                    4.43%    passed     68.40%
+  41  MN726860                    2.80%    passed     79.64%
+  42  MN726861                    1.68%    passed     91.17%
+  43  MN726862                    2.84%    passed     84.42%
+  44  MN726866                    2.07%    passed     89.89%
+  45  MN726870                   10.43%    passed     86.12%
+  46  MN726873                    1.23%    passed     80.80%
+  47  MN726874                    6.15%    passed     63.82%
+  48  MN726875                    2.81%    passed     90.50%
+  49  MN726876                    2.79%    passed     84.10%
+  50  MN726879                    1.45%    passed     87.35%
+  51  MN726880                    2.78%    passed     83.77%
+  52  MN726881                    4.63%    passed     65.97%
+  53  MN857167                    1.20%    passed     87.76%
+  54  MN857168                    1.20%    passed     89.55%
+  55  MN857169                    1.20%    passed     81.92%
+  56  MN857170                    1.21%    passed     81.36%
+  57  MN857171                    1.20%    passed     88.50%
+  58  KF501180                   88.67%    passed     57.75%
+  59  KF620487                    0.18%    passed     57.43%
+  60  KF620488                    0.23%    passed     73.17%
+  61  KF620489                    0.21%    passed     64.33%
+  62  KP860138                   88.67%    passed     83.14%
+  63  KP860140                   88.67%    passed     49.76%
+  64  KP860149                   88.67%    passed     45.24%
+  65  KP860153                   88.67%    passed     48.95%
+  66  KP860160                   88.67%    passed     67.76%
+  67  KP860161                   88.67%    passed     71.02%
+  68  KP860162                   88.67%    passed     79.05%
+  69  KP860178                   88.67%    passed     74.20%
+  70  KP860179                   88.67%    passed     54.15%
+  71  KP860180                   88.67%    passed     61.25%
+  72  KP860181                   88.67%    passed     70.74%
+  73  KP860182                   88.67%    passed     57.75%
+  74  KP860183                   88.67%    passed     57.75%
+  75  KP860184                   88.67%    passed     61.86%
+  76  KP881353                   88.67%    passed     51.38%
+  77  KP892527                   88.67%    passed     76.36%
+  78  98-134                     16.64%    passed     75.47%
+  79  98-206                     21.09%    passed     80.29%
+  80  98-285                     11.57%    passed     79.28%
+  81  98-286                      9.18%    passed     91.08%
+  82  LC717425                    0.29%    passed     36.47%
+  83  EU086191                   88.67%    passed     70.72%
+  84  JX944569                   88.67%    passed     56.80%
+  85  JX944595                   88.67%    passed     48.08%
+  86  JX944597                   88.67%    passed     56.80%
+  87  JX987737                   88.67%    passed     40.43%
+  88  JX987740                   88.67%    passed     40.64%
+  89  KU963505                   88.69%    passed     37.44%
+  90  KU963507                   88.69%    passed     70.67%
+  91  KX148108                    0.18%    passed     61.16%
+  92  KX148245                    1.18%    passed     70.77%
+  93  KX148246                    1.16%    passed     62.79%
+  94  KX434506                   88.67%    passed     60.34%
+  95  KX434507                   88.67%    passed     42.51%
+  96  KX434508                   88.67%    passed     42.51%
+  97  MH258837                   88.67%    passed     70.75%
+  98  MH258838                   88.67%    passed     70.29%
+  99  MH258840                   88.67%    passed     60.45%
+ 100  MH258841                   88.67%    passed     51.39%
+ 101  MH671332                    0.16%    passed     56.98%
+ 102  MN534894                    1.20%    passed     73.27%
+ 103  MT826966                   89.06%    passed     52.09%
+ 104  PHI103                     87.79%    passed     16.51%
+ 105  PHI114                     87.79%    passed     20.36%
+ 106  RV/R4A.PHL/2004/Z-04-042   86.81%    passed     35.38%
+ 107  RV/R4A.PHL/2004/Z-04-211   94.15%    passed     82.45%
+ 108  RV/R4A.PHL/2004/Z-04-389   94.01%    passed     75.28%
+ 109  RV/R4A.PHL/2004/Z-04-401   86.81%    passed     54.50%
+ 110  RV/R4A.PHL/2004/Z-04-420   94.01%    passed     75.28%
+ 111  RV/NCR.PHL/2004/Z-04-421   94.04%    passed     71.26%
+ 112  RV/R4A.PHL/2004/Z-04-480   86.81%    passed     38.91%
+ 113  RV/R3.PHL/2004/Z-04-519    86.81%    passed     42.20%
+ 114  RV/NCR.PHL/2004/Z-04-534   94.09%    passed     73.50%
+ 115  RV/NCR.PHL/2005/Z-05-009   77.40%    passed     52.73%
+ 116  RV/R4A.PHL/2005/Z-05-012   92.96%    passed     86.63%
+ 117  RV/R4A.PHL/2005/Z-05-017   94.08%    passed     75.07%
+ 118  RV/NCR.PHL/2005/Z-05-090   86.81%    passed     32.85%
+ 119  RV/R4A.PHL/2005/Z-05-123   94.15%    passed     87.29%
+ 120  RV/NCR.PHL/2005/Z-05-149   86.81%    passed     35.38%
+ 121  RV/NCR.PHL/2005/Z-05-168   86.81%    passed     34.44%
+ 122  RV/R11.PHL/2005/Z-05-186   86.81%    passed     58.14%
+ 123  RV/NCR.PHL/2005/Z-05-187   94.48%    passed     88.53%
+ 124  RV/R3.PHL/2005/Z-05-198    77.41%    passed     36.47%
+ 125  RV/NCR.PHL/2005/Z-05-285   83.55%    passed     65.15%
+ 126  RV/NCR.PHL/2005/Z-05-299   94.48%    passed     88.53%
+ 127  RV/NCR.PHL/2005/Z-05-373   86.81%    passed     46.59%
+ 128  RV/NCR.PHL/2005/Z-05-396   86.81%    passed     41.07%
+ 129  RV/NCR.PHL/2005/Z-05-424   94.04%    passed     80.89%
+ 130  RV/NCR.PHL/2005/Z-05-465   86.81%    passed     34.44%
+ 131  RV/NCR.PHL/2005/Z-05-466   77.41%    passed     25.49%
+ 132  RV/R3.PHL/2005/Z-05-507    86.81%    passed     59.18%
+ 133  RV/R4A.PHL/2006/Z-06-039   93.24%    passed     92.92%
+ 134  RV/R4A.PHL/2006/Z-06-163   86.81%    passed     36.24%
+ 135  RV/R4A.PHL/2006/Z-06-197   86.81%    passed     64.85%
+ 136  RV/R4B.PHL/2006/Z-06-203   77.40%    passed     38.56%
+ 137  RV/R4A.PHL/2006/Z-06-222   77.41%    passed     25.14%
+ 138  RV/R4A.PHL/2006/Z-06-231   86.81%    passed     37.00%
+ 139  RV/R4A.PHL/2006/Z-06-342   86.81%    passed     43.44%
+ 140  RV/R4A.PHL/2006/Z-06-345   87.03%    passed     65.92%
+ 141  RV/R4A.PHL/2006/Z-06-348   86.81%    passed     31.05%
+ 142  RV/R4A.PHL/2006/Z-06-357   86.81%    passed     36.85%
+ 143  RV/R4A.PHL/2006/Z-06-361   86.81%    passed     36.85%
+ 144  RV/R4A.PHL/2006/Z-06-362   86.81%    passed     36.24%
+ 145  RV/R4A.PHL/2006/Z-06-365   86.81%    passed     40.58%
+ 146  RV/R4B.PHL/2006/Z-06-408   77.61%    passed     48.23%
+ 147  RV/R4A.PHL/2007/Z-07-189   77.41%    passed     17.01%
+ 148  RV/R4A.PHL/2007/Z-07-243   77.42%    passed     24.47%
+ 149  RV/R4A.PHL/2007/Z-07-252   83.92%    passed     53.18%
+ 150  RV/R4A.PHL/2007/Z-07-307   93.39%    passed     79.55%
+ 151  RV/R4A.PHL/2007/Z-07-317   86.81%    passed     40.58%
+ 152  RV/R4A.PHL/2007/Z-07-330   86.81%    passed     32.74%
+ 153  RV/R3.PHL/2008/TRa-002     77.40%    passed     37.33%
+ 154  RV/R5.PHL/2008/TRa-005     77.40%    passed     45.46%
+ 155  RV/R3.PHL/2008/TRa-006     86.81%    passed     45.36%
+ 156  RV/R3.PHL/2008/TRa-009     86.81%    passed     33.52%
+ 157  RV/R3.PHL/2008/TRa-010     86.81%    passed     55.23%
+ 158  RV/R3.PHL/2008/TRa-011     86.81%    passed     35.38%
+ 159  RV/R3.PHL/2008/TRa-013     86.81%    passed     40.51%
+ 160  RV/R10.PHL/2008/TRa-014    86.81%    passed     52.93%
+ 161  RV/R3.PHL/2008/TRa-016     86.81%    passed     38.91%
+ 162  RV/R3.PHL/2008/TRa-018     77.41%    passed     29.99%
+ 163  RV/R3.PHL/2008/TRa-019     86.81%    passed     42.36%
+ 164  RV/R3.PHL/2008/TRa-020     86.81%    passed     37.89%
+ 165  RV/R3.PHL/2008/TRa-021     86.81%    passed     38.72%
+ 166  RV/R3.PHL/2008/TRa-022     86.81%    passed     47.19%
+ 167  RV/R10.PHL/2008/TRa-024    77.40%    passed     52.80%
+ 168  RV/R10.PHL/2008/TRa-025    86.81%    passed     52.93%
+ 169  RV/R10.PHL/2008/TRa-026    86.81%    passed     52.19%
+ 170  RV/R10.PHL/2008/TRa-027    86.81%    passed     50.85%
+ 171  RV/R10.PHL/2008/TRa-028    86.81%    passed     51.64%
+ 172  RV/R10.PHL/2008/TRa-030    86.81%    passed     43.32%
+ 173  RV/R5.PHL/2008/TRa-031     86.81%    passed     54.17%
+ 174  RV/R5.PHL/2008/TRa-032     86.81%    passed     54.17%
+ 175  RV/R5.PHL/2008/TRa-034     77.40%    passed     46.76%
+ 176  RV/R5.PHL/2008/TRa-036     86.81%    passed     49.23%
+ 177  RV/R5.PHL/2008/TRa-037     86.81%    passed     58.77%
+ 178  RV/R3.PHL/2008/TRa-038     77.41%    passed     29.62%
+ 179  RV/R3.PHL/2008/TRa-040     86.81%    passed     41.48%
+ 180  RV/R3.PHL/2008/TRa-041     86.81%    passed     32.00%
+ 181  RV/R3.PHL/2008/TRa-045     94.05%    passed     78.62%
+ 182  RV/R3.PHL/2008/TRa-047     86.81%    passed     35.38%
+ 183  RV/R3.PHL/2008/TRa-048     86.81%    passed     38.91%
+ 184  RV/R3.PHL/2008/TRa-049     86.81%    passed     45.36%
+ 185  RV/R3.PHL/2008/TRa-051     86.81%    passed     51.01%
+ 186  RV/R10.PHL/2008/TRa-052    86.81%    passed     47.03%
+ 187  RV/R10.PHL/2008/TRa-053    86.81%    passed     50.85%
+ 188  RV/R10.PHL/2008/TRa-054    86.81%    passed     44.71%
+ 189  RV/R10.PHL/2008/TRa-055    77.40%    passed     51.80%
+ 190  RV/R10.PHL/2008/TRa-056    86.81%    passed     56.79%
+ 191  RV/R10.PHL/2008/TRa-057    86.81%    passed     52.19%
+ 192  RV/R10.PHL/2008/TRa-058    84.16%    passed     63.41%
+ 193  RV/R3.PHL/2008/TRa-059     86.81%    passed     34.37%
+ 194  RV/R3.PHL/2008/TRa-060     86.81%    passed     41.07%
+ 195  RV/R3.PHL/2008/TRa-061     86.81%    passed     51.01%
+ 196  RV/R3.PHL/2008/TRa-062     77.40%    passed     38.83%
+ 197  RV/R3.PHL/2008/TRa-063     86.81%    passed     35.38%
+ 198  RV/R3.PHL/2008/TRa-064     86.81%    passed     48.30%
+ 199  RV/R3.PHL/2008/TRa-065     86.81%    passed     45.36%
+ 200  RV/R3.PHL/2008/TRa-066     86.81%    passed     45.36%
+ 201  RV/R5.PHL/2008/TRa-067     77.40%    passed     41.41%
+ 202  RV/R5.PHL/2008/TRa-071     77.40%    passed     43.00%
+ 203  RV/R5.PHL/2008/TRa-072     77.40%    passed     44.63%
+ 204  RV/R5.PHL/2008/TRa-073     77.40%    passed     51.61%
+ 205  RV/R7.PHL/2008/TRa-074     77.40%    passed     30.95%
+ 206  RV/R7.PHL/2008/TRa-075     86.81%    passed     50.83%
+ 207  RV/R7.PHL/2008/TRa-076     86.81%    passed     50.83%
+ 208  RV/R7.PHL/2008/TRa-077     86.81%    passed     50.93%
+ 209  RV/R7.PHL/2008/TRa-078     86.81%    passed     30.12%
+ 210  RV/R7.PHL/2008/TRa-079     77.40%    passed     28.15%
+ 211  RV/R7.PHL/2008/TRa-080     86.81%    passed     50.93%
+ 212  RV/R7.PHL/2008/TRa-081     93.29%    passed     95.63%
+ 213  RV/R7.PHL/2008/TRa-082     93.39%    passed     94.19%
+ 214  RV/R7.PHL/2008/TRa-083     93.56%    passed     95.50%
+ 215  RV/R7.PHL/2008/TRa-085     86.81%    passed     36.19%
+ 216  RV/R3.PHL/2008/TRa-086     86.81%    passed     39.43%
+ 217  RV/R3.PHL/2008/TRa-087     86.81%    passed     34.37%
+ 218  RV/R3.PHL/2008/TRa-088     77.40%    passed     37.33%
+ 219  RV/R3.PHL/2008/TRa-089     86.81%    passed     37.89%
+ 220  RV/R3.PHL/2008/TRa-090     86.81%    passed     45.36%
+ 221  RV/R3.PHL/2008/TRa-091     86.81%    passed     55.23%
+ 222  RV/R3.PHL/2008/TRa-092     86.81%    passed     41.57%
+ 223  RV/R3.PHL/2008/TRa-093     86.81%    passed     51.01%
+ 224  RV/R1.PHL/2008/TRa-094     86.81%    passed     38.72%
+ 225  RV/R3.PHL/2008/TRa-095     86.81%    passed     37.89%
+ 226  RV/R7.PHL/2008/TRa-096     86.81%    passed     55.03%
+ 227  RV/R7.PHL/2008/TRa-097     86.81%    passed     26.81%
+ 228  RV/R7.PHL/2008/TRa-098     86.81%    passed     39.13%
+ 229  RV/R7.PHL/2008/TRa-099     86.81%    passed     36.92%
+ 230  RV/R7.PHL/2008/TRa-100     86.81%    passed     50.83%
+ 231  RV/R7.PHL/2008/TRa-101     86.81%    passed     55.03%
+ 232  RV/R7.PHL/2008/TRa-102     86.81%    passed     39.05%
+ 233  RV/R7.PHL/2008/TRa-103     86.81%    passed     50.93%
+ 234  RV/R10.PHL/2008/TRa-104    77.40%    passed     46.27%
+ 235  RV/R10.PHL/2008/TRa-107    77.40%    passed     51.95%
+ 236  RV/R10.PHL/2008/TRa-108    86.81%    passed     45.95%
+ 237  RV/R10.PHL/2009/TRa-109    77.40%    passed     54.55%
+ 238  RV/R10.PHL/2009/TRa-110    86.81%    passed     34.07%
+ 239  RV/R3.PHL/2008/TRa-111     86.81%    passed     51.01%
+ 240  RV/R3.PHL/2008/TRa-112     77.41%    passed     29.99%
+ 241  RV/R3.PHL/2009/TRa-113     86.81%    passed     51.57%
+ 242  RV/R3.PHL/2009/TRa-114     86.81%    passed     41.48%
+ 243  RV/R3.PHL/2009/TRa-115     86.81%    passed     58.17%
+ 244  RV/R3.PHL/2009/TRa-116     86.81%    passed     42.58%
+ 245  RV/R3.PHL/2009/TRa-117     86.81%    passed     40.90%
+ 246  RV/R3.PHL/2009/TRa-118     86.81%    passed     60.16%
+ 247  RV/R3.PHL/2008/TRa-119     93.78%    passed     57.36%
+ 248  RV/R5.PHL/2008/TRa-120     77.40%    passed     41.15%
+ 249  RV/R5.PHL/2008/TRa-121     86.81%    passed     53.15%
+ 250  RV/R5.PHL/2008/TRa-122     84.00%    passed     57.61%
+ 251  RV/R5.PHL/2008/TRa-123     77.40%    passed     41.15%
+ 252  RV/R3.PHL/2009/TRa-127     86.81%    passed     39.43%
+ 253  RV/R3.PHL/2009/TRa-128     86.81%    passed     45.36%
+ 254  RV/R3.PHL/2009/TRa-129     86.81%    passed     45.91%
+ 255  RV/R3.PHL/2009/TRa-130     86.81%    passed     51.01%
+ 256  RV/R3.PHL/2009/TRa-131     93.26%    passed     89.88%
+ 257  RV/R3.PHL/2009/TRa-133     77.40%    passed     42.70%
+ 258  RV/R3.PHL/2009/TRa-134     86.81%    passed     58.17%
+ 259  RV/R3.PHL/2009/TRa-135     86.81%    passed     58.17%
+ 260  RV/R3.PHL/2009/TRa-136     86.81%    passed     59.18%
+ 261  RV/R2.PHL/2009/TRa-142     77.40%    passed     54.22%
+ 262  RV/R7.PHL/2009/TRa-143     86.81%    passed     33.99%
+ 263  RV/R7.PHL/2009/TRa-144     77.40%    passed     44.07%
+ 264  RV/R7.PHL/2009/TRa-145     86.81%    passed     39.21%
+ 265  RV/R7.PHL/2009/TRa-147     86.81%    passed     40.80%
+ 266  RV/R1.PHL/2009/TRa-150     86.81%    passed     37.95%
+ 267  RV/R1.PHL/2009/TRa-151     77.40%    passed     56.04%
+ 268  RV/R1.PHL/2009/TRa-153     77.40%    passed     53.59%
+ 269  RV/R1.PHL/2009/TRa-154     77.40%    passed     44.66%
+ 270  RV/R1.PHL/2009/TRa-157     77.40%    passed     24.67%
+ 271  RV/R1.PHL/2009/TRa-159     77.40%    passed     35.23%
+ 272  RV/R1.PHL/2009/TRa-161     77.40%    passed     56.80%
+ 273  RV/R7.PHL/2009/TRa-164     86.81%    passed     32.86%
+ 274  RV/R7.PHL/2009/TRa-165     86.81%    passed     35.60%
+ 275  RV/R7.PHL/2009/TRa-166     86.81%    passed     44.13%
+ 276  RV/R7.PHL/2009/TRa-167     86.81%    passed     46.89%
+ 277  RV/R7.PHL/2009/TRa-168     77.40%    passed     28.01%
+ 278  RV/R7.PHL/2009/TRa-170     86.81%    passed     50.83%
+ 279  RV/R7.PHL/2009/TRa-172     86.81%    passed     42.95%
+ 280  RV/R7.PHL/2009/TRa-173     77.40%    passed     35.74%
+ 281  RV/R7.PHL/2009/TRa-176     77.40%    passed     41.06%
+ 282  RV/R7.PHL/2009/TRa-177     86.81%    passed     39.13%
+ 283  RV/R7.PHL/2009/TRa-178     86.81%    passed     42.95%
+ 284  RV/R5.PHL/2009/TRa-183     77.40%    passed     39.73%
+ 285  RV/R10.PHL/2009/TRa-191    77.40%    passed     49.19%
+ 286  RV/R10.PHL/2009/TRa-196    86.81%    passed     39.25%
+ 287  RV/R10.PHL/2009/TRa-197    86.81%    passed     51.64%
+ 288  RV/CAR.PHL/2009/TRa-198    77.40%    passed     40.06%
+ 289  RV/CAR.PHL/2009/TRa-199    77.40%    passed     30.32%
+ 290  RV/CAR.PHL/2009/TRa-200    77.40%    passed     28.24%
+ 291  RV/R3.PHL/2009/TRa-201     77.40%    passed     39.89%
+ 292  RV/R3.PHL/2009/TRa-202     86.81%    passed     32.63%
+ 293  RV/R3.PHL/2009/TRa-204     86.81%    passed     55.23%
+ 294  RV/R3.PHL/2009/TRa-205     77.40%    passed     34.23%
+ 295  RV/R3.PHL/2009/TRa-206     77.41%    passed     29.55%
+ 296  RV/R1.PHL/2009/TRa-208     86.81%    passed     65.79%
+ 297  RV/R1.PHL/2009/TRa-209     86.81%    passed     36.24%
+ 298  RV/R1.PHL/2009/TRa-210     86.81%    passed     39.24%
+ 299  RV/R1.PHL/2009/TRa-213     86.81%    passed     63.69%
+ 300  RV/R1.PHL/2009/TRa-214     77.40%    passed     28.82%
+ 301  RV/R1.PHL/2009/TRa-215     86.81%    passed     65.37%
+ 302  RV/R1.PHL/2009/TRa-216     86.81%    passed     44.30%
+ 303  RV/R1.PHL/2009/TRa-218     86.81%    passed     47.00%
+ 304  RV/R1.PHL/2009/TRa-219     77.40%    passed     53.56%
+ 305  RV/R1.PHL/2009/TRa-220     77.40%    passed     42.54%
+ 306  RV/R1.PHL/2009/TRa-221     77.40%    passed     53.13%
+ 307  RV/CAR.PHL/2009/TRa-222    77.41%    passed     36.10%
+ 308  RV/CAR.PHL/2009/TRa-224    86.81%    passed     49.23%
+ 309  RV/R5.PHL/2009/TRa-225     86.81%    passed     46.11%
+ 310  RV/R5.PHL/2009/TRa-226     86.81%    passed     46.11%
+ 311  RV/R5.PHL/2009/TRa-227     86.81%    passed     59.68%
+ 312  RV/R5.PHL/2009/TRa-229     86.81%    passed     49.24%
+ 313  RV/R5.PHL/2009/TRa-231     86.81%    passed     57.15%
+ 314  RV/R1.PHL/2009/TRa-233     86.81%    passed     56.02%
+ 315  RV/CAR.PHL/2009/TRa-234    86.81%    passed     56.02%
+ 316  RV/R7.PHL/2009/TRa-235     86.81%    passed     36.19%
+ 317  RV/R7.PHL/2009/TRa-236     86.81%    passed     35.60%
+ 318  RV/R7.PHL/2009/TRa-237     86.81%    passed     40.80%
+ 319  RV/R7.PHL/2009/TRa-238     86.81%    passed     30.68%
+ 320  RV/R7.PHL/2009/TRa-239     86.81%    passed     32.15%
+ 321  RV/R7.PHL/2009/TRa-240     86.81%    passed     35.60%
+ 322  RV/R7.PHL/2009/TRa-241     86.81%    passed     34.86%
+ 323  RV/R10.PHL/2009/TRa-242    86.81%    passed     51.81%
+ 324  RV/R10.PHL/2009/TRa-243    86.81%    passed     52.93%
+ 325  RV/R10.PHL/2009/TRa-244    86.81%    passed     55.43%
+ 326  RV/R10.PHL/2009/TRa-246    86.81%    passed     56.79%
+ 327  RV/R10.PHL/2009/TRa-248    86.81%    passed     56.79%
+ 328  RV/R10.PHL/2009/TRa-249    86.81%    passed     52.19%
+ 329  RV/R10.PHL/2009/TRa-250    86.81%    passed     52.19%
+ 330  RV/R10.PHL/2009/TRa-251    86.81%    passed     48.63%
+ 331  RV/R10.PHL/2009/TRa-252    86.81%    passed     44.85%
+ 332  RV/R10.PHL/2009/TRa-253    86.81%    passed     43.32%
+ 333  RV/R10.PHL/2009/TRa-254    86.81%    passed     52.93%
+ 334  RV/R10.PHL/2009/TRa-255    86.81%    passed     51.64%
+ 335  RV/NCR.PHL/2004/Z-04-522   86.81%    passed     33.60%
+ 336  RV/R3.PHL/2008/TRa-017     86.81%    passed     40.51%
+ 337  RV/R3.PHL/2009/TRa-132     77.40%    passed     37.32%
+ 338  RV/R4A.PHL/2004/Z-04-470   86.81%    passed     59.68%
+ 339  RV/R7.PHL/2008/TRa-084     86.81%    passed     35.60%
+ 340  RV/R10.PHL/2009/TRa-184    86.81%    passed     51.81%
+ 341  RV/R10.PHL/2009/TRa-186    77.40%    passed     51.95%
+ 342  RV/R10.PHL/2009/TRa-189    86.81%    passed     43.27%
+ 343  RV/R1.PHL/2009/TRa-156     77.40%    passed     26.90%
+ 344  RV/R10.PHL/2009/TRa-194    84.74%    passed     57.79%
+ 345  RV/R10.PHL/2009/TRa-195    84.74%    passed     62.15%
+ 346  RV/R7.PHL/2009/TRa-179     77.40%    passed     34.14%
+ 347  RV/R4B.PHL/2006/Z-06-197   90.59%    passed     66.62%
+ 348  RV/CAR.PHL/2009/TRa-285    86.81%    passed     52.95%
+ 349  RV/CAR.PHL/2010/TRa-289    86.81%    passed     42.43%
+ 350  RV/NCR.PHL/2004/Z-04-646   86.81%    passed     46.27%
+ 351  RV/R1.PHL/2009/TRa-256     86.81%    passed     40.51%
+ 352  RV/R1.PHL/2009/TRa-257     86.81%    passed     35.70%
+ 353  RV/R1.PHL/2009/TRa-258     86.81%    passed     38.04%
+ 354  RV/R1.PHL/2009/TRa-259     86.81%    passed     69.71%
+ 355  RV/R1.PHL/2009/TRa-260     86.81%    passed     38.65%
+ 356  RV/R1.PHL/2009/TRa-263     86.81%    passed     36.14%
+ 357  RV/R1.PHL/2009/TRa-265     86.81%    passed     47.00%
+ 358  RV/R1.PHL/2010/TRa-286     86.81%    passed     59.04%
+ 359  RV/R1.PHL/2010/TRa-299     79.32%    passed      6.25%
+ 360  RV/R1.PHL/2010/TRa-300     86.81%    passed     42.45%
+ 361  RV/R2.PHL/2009/TRa-279     86.81%    passed     61.02%
+ 362  RV/R2.PHL/2009/TRa-283     86.81%    passed     63.93%
+ 363  RV/R2.PHL/2009/TRa-284     86.81%    passed     50.19%
+ 364  RV/R5.PHL/2009/TRa-268     86.81%    passed     64.12%
+ 365  RV/R5.PHL/2009/TRa-272     86.81%    passed     46.11%
+ 366  RV/R5.PHL/2009/TRa-273     86.81%    passed     41.78%
+ 367  RV/CAR.PHL/2010/TRa-291    94.15%    passed     79.11%
+ 368  RV/R1.PHL/2009/TRa-262     94.15%    passed     79.11%
+ 369  RV/R1.PHL/2009/TRa-266     94.15%    passed     79.11%
+ 370  RV/R1.PHL/2009/TRa-267     94.15%    passed     79.11%
+ 371  RV/R1.PHL/2010/TRa-287     94.15%    passed     79.56%
+ 372  RV/R1.PHL/2010/TRa-298     94.15%    passed     79.11%
+ 373  RV/R5.PHL/2009/TRa-269     94.15%    passed     78.95%
+ 374  RV/R5.PHL/2009/TRa-271     94.15%    passed     74.15%
+ 375  RV/R10.PHL/2009/TRa-247    94.15%    passed     77.32%
+ 376  V1371PHIL                  92.04%    failed      1.82%
+ 377  V1374PHIL                  92.04%    failed      2.01%
+ 378  V1375PHIL                  92.15%    failed      4.54%
+ 379  V1373PHIL                  95.07%    failed      2.35%
+ 380  V1372PHIL                  92.51%    passed     11.81%
+ 381  94270PHI                   86.90%    passed     31.28%
+ 382  94273PHI                   86.90%    passed     13.68%
+ 383  94280PHI                   86.90%    passed     17.34%
+ 384  03006PHI                   86.90%    passed     29.72%
+ 385  03007PHI                   86.90%    passed     15.79%
+ 386  A12_1952                   86.83%    passed     35.50%
+ 387  A12_1959                   86.83%    passed     45.21%
+ 388  A12_1964                   86.83%    passed     32.06%
+ 389  A12_1969                   86.83%    passed     61.78%
+ 390  A12_1973                   86.83%    passed     42.32%
+ 391  A12_1977                   86.83%    passed     28.80%
+ 392  A12_1978                   86.83%    passed     28.13%
+ 393  Philippin_dog              90.13%    passed     88.08%
+ 394  94272PHI                    1.21%    passed     81.74%
+ 395  04030PHI                    1.21%    passed     79.60%
+ 396  94281PHI                    1.21%    passed     83.01%
+ 397  94278PHI                    1.21%    passed     76.57%
+ 398  94275PHI                    1.21%    passed     95.10%
+ 399  RV/R3.PHL/2012/TRa-302     86.81%    passed     44.91%
+ 400  RV/R3.PHL/2012/TRa-303     86.81%    passed     32.74%
+ 401  RV/R3.PHL/2012/TRa-305     86.81%    passed     57.98%
+ 402  RV/R3.PHL/2012/TRa-306     86.81%    passed     61.79%
+ 403  RV/R3.PHL/2012/TRa-307     86.81%    passed     36.85%
+ 404  RV/R3.PHL/2012/TRa-308     79.32%    passed      7.62%
+ 405  RV/R3.PHL/2012/TRa-309     86.81%    passed     39.80%
+ 406  RV/R3.PHL/2012/TRa-310     79.32%    failed      4.87%
+ 407  RV/R3.PHL/2012/TRa-311     79.32%    passed      5.53%
+ 408  RV/R3.PHL/2012/TRa-312     86.81%    passed     61.79%
+ 409  RV/R3.PHL/2012/TRa-313     86.81%    passed     46.27%
+ 410  RV/R3.PHL/2012/TRa-314     86.81%    passed     41.47%
+ 411  RV/R3.PHL/2012/TRa-315     79.32%    passed      6.74%
+ 412  RV/R3.PHL/2012/TRa-317     79.32%    passed      7.27%
+ 413  RV/R3.PHL/2012/TRa-318     79.32%    failed      4.66%
+ 414  RV/R1.PHL/2012/TRa-320     86.81%    passed     38.65%
+ 415  RV/R1.PHL/2012/TRa-323     86.81%    passed     67.64%
+ 416  RV/R1.PHL/2012/TRa-324     86.81%    passed     38.65%
+ 417  RV/R1.PHL/2012/TRa-325     86.81%    passed     38.04%
+ 418  RV/R1.PHL/2012/TRa-327     86.81%    passed     63.69%
+ 419  RV/R5.PHL/2012/TRa-337     86.81%    passed     53.67%
+ 420  RV/R5.PHL/2012/TRa-338     86.81%    passed     47.36%
+ 421  RV/R5.PHL/2012/TRa-339     86.81%    passed     42.43%
+ 422  RV/R5.PHL/2012/TRa-340     86.81%    passed     61.86%
+ 423  RV/R5.PHL/2012/TRa-343     86.81%    passed     66.95%
+ 424  RV/R5.PHL/2012/TRa-344     86.81%    passed     57.73%
+ 425  RV/R3.PHL/2013/TRa-346     79.32%    passed      5.63%
+ 426  RV/R3.PHL/2013/TRa-347     86.81%    passed     28.79%
+ 427  RV/R3.PHL/2013/TRa-348     86.81%    passed     41.47%
+ 428  RV/R3.PHL/2013/TRa-349     86.81%    passed     61.79%
+ 429  RV/R3.PHL/2013/TRa-350     79.32%    passed      7.62%
+ 430  RV/R3.PHL/2013/TRa-351     79.32%    passed      7.46%
+ 431  RV/R3.PHL/2013/TRa-352     79.32%    passed      7.62%
+ 432  RV/R3.PHL/2013/TRa-353     79.32%    passed      9.04%
+ 433  RV/R3.PHL/2013/TRa-354     79.32%    passed      5.76%
+ 434  RV/R5.PHL/2012/TRa-355     86.81%    passed     61.86%
+ 435  RV/R5.PHL/2012/TRa-356     86.81%    passed     52.57%
+ 436  RV/R5.PHL/2012/TRa-357     86.81%    passed     52.77%
+ 437  RV/R5.PHL/2012/TRa-358     86.81%    passed     46.59%
+ 438  RV/R5.PHL/2012/TRa-360     86.81%    passed     52.57%
+ 439  RV/R5.PHL/2012/TRa-362     86.81%    passed     59.18%
+ 440  RV/R5.PHL/2013/TRa-364     86.81%    passed     62.67%
+ 441  RV/R5.PHL/2013/TRa-365     86.81%    passed     52.77%
+ 442  RV/CAR.PHL/2013/TRa-370    86.81%    passed     61.00%
+ 443  RV/R1.PHL/2012/TRa-375     86.81%    passed     65.79%
+ 444  RV/R1.PHL/2012/TRa-376     86.81%    passed     67.64%
+ 445  RV/R1.PHL/2012/TRa-377     86.81%    passed     38.04%
+ 446  RV/R1.PHL/2012/TRa-378     86.81%    passed     59.67%
+ 447  RV/R1.PHL/2012/TRa-379     86.81%    passed     67.64%
+ 448  RV/R1.PHL/2012/TRa-381     86.81%    passed     64.38%
+ 449  RV/R1.PHL/2012/TRa-382     86.81%    passed     33.67%
+ 450  RV/R1.PHL/2012/TRa-383     86.81%    passed     67.64%
+ 451  RV/R1.PHL/2012/TRa-384     86.81%    passed     63.69%
+ 452  RV/R4B.PHL/2011/TRa-392    79.32%    passed      6.02%
+ 453  RV/R4A.PHL/2011/TRa-393    86.81%    passed     37.14%
+ 454  RV/R4B.PHL/2011/TRa-394    79.32%    passed      6.02%
+ 455  RV/R4B.PHL/2011/TRa-396    79.32%    passed      6.15%
+ 456  RV/R4B.PHL/2012/TRa-397    79.32%    passed      5.89%
+ 457  RV/R4A.PHL/2012/TRa-398    86.81%    passed     26.57%
+ 458  RV/R4B.PHL/2012/TRa-400    79.32%    passed      5.76%
+ 459  RV/R4A.PHL/2012/TRa-401    86.81%    passed     34.37%
+ 460  RV/R4B.PHL/2012/TRa-402    79.32%    passed      5.76%
+ 461  RV/R4A.PHL/2012/TRa-404    86.81%    passed     39.79%
+ 462  RV/CAR.PHL/2013/TRa-405    86.81%    passed     47.36%
+ 463  RV/R1.PHL/2013/TRa-406     86.81%    passed     58.17%
+ 464  RV/CAR.PHL/2013/TRa-407    86.81%    passed     58.17%
+ 465  RV/CAR.PHL/2013/TRa-409    86.81%    passed     36.74%
+ 466  RV/R5.PHL/2013/TRa-421     86.81%    passed     58.58%
+ 467  RV/R5.PHL/2013/TRa-422     86.81%    passed     52.77%
+ 468  RV/R5.PHL/2013/TRa-425     86.81%    passed     53.67%
+ 469  RV/R5.PHL/2013/TRa-426     86.81%    passed     62.49%
+ 470  RV/R5.PHL/2013/TRa-427     86.81%    passed     50.97%
+ 471  RV/R5.PHL/2013/TRa-429     86.81%    passed     55.03%
+ 472  RV/R2.PHL/2013/TRa-435     86.81%    passed     48.08%
+ 473  RV/R2.PHL/2013/TRa-437     86.81%    passed     56.02%
+ 474  RV/R2.PHL/2013/TRa-439     86.81%    passed     61.46%
+ 475  RV/R3.PHL/2013/TRa-441     79.32%    passed      5.43%
+ 476  RV/R3.PHL/2013/TRa-442     79.32%    passed      6.21%
+ 477  RV/R3.PHL/2013/TRa-443     79.32%    passed      6.91%
+ 478  RV/R3.PHL/2013/TRa-444     79.32%    passed      5.43%
+ 479  RV/R3.PHL/2013/TRa-445     79.32%    passed      5.76%
+ 480  RV/R3.PHL/2013/TRa-446     86.81%    passed     41.47%
+ 481  RV/R3.PHL/2013/TRa-447     79.32%    passed      7.73%
+ 482  RV/R3.PHL/2013/TRa-448     86.81%    passed     64.38%
+ 483  RV/R3.PHL/2013/TRa-449     79.32%    passed      5.76%
+ 484  RV/R3.PHL/2013/TRa-450     79.32%    passed      8.86%
+ 485  RV/R3.PHL/2013/TRa-451     79.32%    failed      4.45%
+ 486  RV/R3.PHL/2013/TRa-452     79.32%    passed      8.23%
+ 487  RV/R3.PHL/2013/TRa-453     79.32%    passed      6.91%
+ 488  RV/R3.PHL/2013/TRa-454     79.32%    passed      8.37%
+ 489  RV/R3.PHL/2013/TRa-455     79.32%    passed      7.73%
+ 490  RV/R3.PHL/2013/TRa-456     79.32%    passed      5.76%
+ 491  RV/R3.PHL/2013/TRa-457     79.32%    passed      7.62%
+ 492  RV/R3.PHL/2013/TRa-458     86.81%    passed     61.79%
+ 493  RV/R3.PHL/2013/TRa-459     79.32%    passed      6.91%
+ 494  RV/R3.PHL/2013/TRa-460     86.81%    passed     61.79%
+ 495  RV/R3.PHL/2013/TRa-461     79.32%    passed      6.91%
+ 496  RV/R3.PHL/2013/TRa-462     86.81%    passed     28.79%
+ 497  RV/R3.PHL/2013/TRa-463     79.32%    passed      7.46%
+ 498  RV/R3.PHL/2013/TRa-464     79.32%    passed      5.43%
+ 499  RV/R3.PHL/2013/TRa-465     86.81%    passed     61.79%
+ 500  RV/R3.PHL/2013/TRa-466     86.81%    passed     61.79%
+ 501  RV/R4B.PHL/2013/TRa-486    86.81%    passed     63.87%
+ 502  RV/R4B.PHL/2013/TRa-487    86.81%    passed     61.38%
+ 503  RV/CAR.PHL/2013/TRa-500    86.81%    passed     48.08%
+ 504  RV/R2.PHL/2013/TRa-503     86.81%    passed     49.23%
+ 505  RV/R2.PHL/2013/TRa-504     86.81%    passed     61.02%
+ 506  RV/R2.PHL/2013/TRa-505     86.81%    passed     37.00%
+ 507  RV/R2.PHL/2013/TRa-506     86.81%    passed     50.19%
+ 508  RV/R2.PHL/2013/TRa-507     86.81%    passed     48.08%
+ 509  RV/R3.PHL/2013/TRa-313     92.51%    failed      2.39%
+ 510  RV/R4A.PHL/2013/TRa-485    86.81%    passed     36.74%
+ 511  RV/R3.PHL/2013/TRa-509     86.81%    passed     48.19%
+ 512  RV/CAR.PHL/2013/TRa-510    86.81%    passed     43.52%
+ 513  RV/R3.PHL/2013/TRa-533     86.81%    passed     46.27%
+ 514  RV/R3.PHL/2013/TRa-534     86.81%    passed     45.36%
+ 515  RV/R3.PHL/2013/TRa-535     86.81%    passed     46.27%
+ 516  RV/R3.PHL/2013/TRa-536     86.81%    passed     42.43%
+ 517  RV/R3.PHL/2013/TRa-537     86.81%    passed     49.23%
+ 518  RV/R3.PHL/2013/TRa-538     86.81%    passed     46.27%
+ 519  RV/R3.PHL/2013/TRa-540     86.81%    passed     46.27%
+ 520  RV/R3.PHL/2013/TRa-541     86.81%    passed     61.79%
+ 521  RV/R3.PHL/2013/TRa-542     86.81%    passed     45.03%
+ 522  RV/R3.PHL/2013/TRa-543     86.81%    passed     46.27%
+ 523  RV/R3.PHL/2013/TRa-544     86.81%    passed     46.27%
+ 524  RV/R3.PHL/2013/TRa-545     86.81%    passed     46.27%
+ 525  RV/R3.PHL/2013/TRa-547     86.81%    passed     44.29%
+ 526  RV/R3.PHL/2013/TRa-548     86.81%    passed     45.36%
+ 527  RV/R3.PHL/2013/TRa-549     86.81%    passed     42.43%
+ 528  RV/R3.PHL/2013/TRa-550     86.81%    passed     46.27%
+ 529  RV/R3.PHL/2013/TRa-551     86.81%    passed     46.27%
+ 530  RV/R3.PHL/2013/TRa-552     86.81%    passed     45.36%
+ 531  RV/R3.PHL/2013/TRa-554     86.81%    passed     46.27%
+ 532  RV/R3.PHL/2013/TRa-556     86.81%    passed     49.23%
+ 533  RV/R3.PHL/2013/TRa-557     86.81%    passed     45.36%
+ 534  RV/R1.PHL/2013/TRa-569     86.81%    passed     59.04%
+ 535  RV/CAR.PHL/2013/TRa-571    86.81%    passed     48.08%
+ 536  RV/R1.PHL/2013/TRa-572     86.81%    passed     48.08%
+ 537  RV/R1.PHL/2013/TRa-573     86.81%    passed     33.67%
+ 538  RV/R3.PHL/2013/TRa-581     86.81%    passed     65.79%
+ 539  RV/R3.PHL/2013/TRa-582     86.81%    passed     52.95%
+ 540  RV/R3.PHL/2013/TRa-583     86.81%    passed     46.27%
+ 541  RV/R3.PHL/2013/TRa-584     86.81%    passed     63.69%
+ 542  RV/R3.PHL/2013/TRa-586     86.81%    passed     46.27%
+ 543  RV/R3.PHL/2013/TRa-587     86.81%    passed     46.27%
+ 544  RV/R3.PHL/2013/TRa-588     86.81%    passed     45.36%
+ 545  RV/R3.PHL/2013/TRa-589     86.81%    passed     46.27%
+ 546  140                        88.67%    passed     78.44%
+ 547  132                        88.67%    passed     78.55%
+ 548  131                        88.67%    passed     78.55%
+ 549  130                        88.67%    passed     78.55%
+ 550  121                        88.67%    passed     71.88%
+ 551  120                        88.67%    passed     71.40%
+ 552  93                         88.67%    passed     78.44%
+ 553  87                         88.67%    passed     75.18%
+ 554  66                         88.67%    passed     76.49%
+ 555  55                         88.67%    passed     78.44%
+ 556  Z-13-002                    1.26%    passed     84.77%
+ 557  Z-13-009                    2.79%    passed     87.88%
+ 558  Z-15-116                    1.22%    passed     82.97%
+ 559  Z-15-148                    4.81%    passed     63.11%
+ 560  Z-14-146                    3.14%    passed     82.32%
+ 561  REGION_5_2019-13            2.78%    passed     86.13%
+ 562  Z-12-088                    3.52%    passed     89.50%
+ 563  Z-12-001                    4.54%    passed     91.74%
+ 564  Z-16-013                    4.65%    passed     64.67%
+ 565  Z-15-119                   50.81%    passed     15.16%
+ 566  RADDL3-1038                10.63%    passed     31.55%
+ 567  Z14-142                     2.78%    passed     84.97%
+ 568  REGION_5_2018-50            2.78%    passed     84.79%
+ 569  Z15-185                     2.19%    passed     88.51%
+ 570  Z-16-159                    4.29%    passed     68.80%
+ 571  Z-12-118                    7.86%    passed     60.91%
+ 572  RADDL1-16-154               5.39%    passed     70.29%
+ 573  Z-16-186                    4.43%    passed     68.40%
+ 574  REGION_5_2018-100           2.80%    passed     79.64%
+ 575  Z-15-019                    1.68%    passed     91.17%
+ 576  Z-14-138                    2.07%    passed     89.89%
+ 577  Z12-012                     4.34%    passed     87.86%
+ 578  Z-14-149                   10.43%    passed     86.12%
+ 579  Z14-152                     1.23%    passed     80.80%
+ 580  Z-12-134                    6.15%    passed     63.82%
+ 581  REGION_5_2018-311           2.81%    passed     90.50%
+ 582  REGION_5_2018-304           2.79%    passed     84.10%
+ 583  Z-12-212                    1.45%    passed     87.35%
+ 584  REGION_5_2019-1             2.78%    passed     83.77%
+ 585  Z-15-130                    4.63%    passed     65.97%
+ 586  BAI/BAINCR/2019-01/can      1.21%    passed     88.13%
+ 587  BAI/BAINCR/2019-02/can      1.21%    passed     89.86%
+ 588  BAI/BAINCR/2019-03/can      1.21%    passed     82.43%
+ 589  BAI/BAI4A/2019-01/can       1.22%    passed     81.80%
+ 590  BAI/BAI3/2019-01/fel        1.21%    passed     88.82%
+ 591  4B-22-13                    3.24%    passed     89.05%
+ 592  4B-22-16                    3.38%    passed     86.84%
+ 593  4B-22-17                    3.18%    passed     88.52%
+ 594  4B-22-20                    3.38%    passed     89.76%
+ 595  4B-22-21                    3.49%    passed     91.71%
+ 596  4B-22-28                    3.07%    passed     92.25%
+ 597  4B-22-30                    4.20%    passed     85.52%
+ 598  4B-22-31                    3.20%    passed     93.70%
+ 599  4B-22-35                    3.19%    passed     89.58%
+ 600  4B-22-40                    3.29%    passed     88.78%
+ 601  4B-22-41                    5.52%    passed     98.02%
+ 602  4B-22-42                    3.03%    passed     97.15%
+ 603  Z-98-134                   16.70%    passed     80.80%
+ 604  Z-98-206                   21.27%    passed     84.61%
+ 605  Z-98-285                    6.21%    passed     94.09%
+ 606  Z-98-286                    8.13%    passed     93.82%
+ 607  Z-98-335                   20.64%    passed     70.69%
+ 608  R10-688                     3.43%    passed     87.73%
+ 609  R10-711                     5.32%    passed     92.37%
+ 610  R10-824                     4.10%    passed     93.90%
+ 611  R10-856                     5.73%    passed     92.38%
+ 612  R10-989                     5.30%    passed     88.81%
+ 613  R10-990                     3.38%    passed     94.73%
+ 614  RADDL1-16-153               3.07%    passed     89.73%
+ 615  RADDL1-16-166               5.09%    passed     96.38%
+ 616  RADDL3-16-1008              3.22%    passed     90.08%
+ 617  RADDL3-16-521               3.11%    passed     89.21%
+ 618  Z-04-664                   10.18%    passed     85.00%
+ 619  Z-05-102                    5.14%    passed     93.68%
+ 620  Z-05-191                    7.14%    passed     84.83%
+ 621  Z-05-557                    3.55%    passed     92.93%
+ 622  Z-05-96                     5.21%    passed     87.85%
+ 623  Z-06-150                    6.06%    passed     95.43%
+ 624  Z-06-295                    3.04%    passed     92.74%
+ 625  Z-06-39                     1.37%    passed     75.99%
+ 626  Z-07-07                     3.09%    passed     91.33%
+ 627  Z-07-222                   13.32%    passed     83.87%
+ 628  Z-07-22                     3.03%    passed     88.37%
+ 629  Z-07-351                    3.07%    passed     92.08%
+ 630  Z-07-366                    7.05%    passed     83.79%
+ 631  Z-07-387                    3.07%    passed     90.46%
+ 632  Z-07-38                     1.35%    passed     89.76%
+ 633  Z-07-398                    3.08%    passed     89.54%
+ 634  Z-07-403                    3.10%    passed     92.97%
+ 635  Z-07-407                    3.09%    passed     93.37%
+ 636  Z-08-351                    7.65%    passed     75.90%
+ 637  Z-08-359                    5.29%    passed     84.24%
+ 638  Z-09-94                     3.05%    passed     91.42%
+ 639  Z-12-029                    3.07%    passed     90.29%
+ 640  Z-12-034                   16.21%    passed     90.20%
+ 641  Z-12-060                    3.12%    passed     97.11%
+ 642  Z-13-020                    3.24%    passed     91.90%
+ 643  Z-13-037                   17.84%    passed     57.30%
+ 644  Z-13-065                    3.53%    passed     87.96%
+ 645  Z-13-071                    3.09%    passed     90.86%
+ 646  Z-13-086                    3.06%    passed     91.74%
+ 647  Z-13-089                    1.40%    passed     82.30%
+ 648  Z-13-098                    2.14%    passed     90.22%
+ 649  Z-13-134                    3.12%    passed     85.89%
+ 650  Z-13-135                    3.08%    passed     92.92%
+ 651  Z-13-161                    3.07%    passed     91.30%
+ 652  Z-13-171                    1.65%    passed     89.44%
+ 653  Z-13-184                    1.70%    passed     94.07%
+ 654  Z-13-204                    2.48%    passed     87.89%
+ 655  Z-13-216                    1.82%    passed     86.89%
+ 656  Z-13-234                    1.69%    passed     86.98%
+ 657  Z-13-259                    3.07%    passed     92.31%
+ 658  Z-14-023                    3.17%    passed     94.70%
+ 659  Z-14-05                     1.35%    passed     83.69%
+ 660  Z-15-163                    3.05%    passed     88.88%
+ 661  Z-16-196                    3.32%    passed     88.94%
+ 662  Z-22-103                    3.09%    passed     96.70%
+ 663  Z-98-1061                   3.82%    passed     96.37%
+ 664  Z-98-433                    3.10%    passed     92.92%
+ 665  Z-98-454                    3.63%    passed     89.64%
+ 666  Z-98-515                    3.16%    passed     93.56%
+ 667  Z-98-616                    3.19%    passed     96.02%
+ 668  Z-98-667                   16.03%    passed     73.89%
+ 669  Z-98-712                   16.06%    passed     97.51%
+ 670  Z-98-718                    9.03%    passed     68.81%
+ 671  Z-98-780                    7.91%    passed     92.78%
+ 672  Z-98-823                   11.01%    passed     85.56%
+ 673  Z-98-838                    9.15%    passed     92.81%
+ 674  Z-98-860                    9.59%    passed     92.70%
+ 675  153                         3.08%    passed     84.00%
+ 676  4A-22-104                   3.13%    passed     96.40%
+ 677  4A-22-40                    1.51%    passed     82.99%
+ 678  4A-22-98                    1.45%    passed     87.39%
+ 679  4B-21-126                   1.48%    passed     89.53%
+ 680  4B-21-29                    1.46%    passed     91.48%
+ 681  4B-21-310                   3.13%    passed     88.74%
+ 682  4B-21-35                    3.12%    passed     86.72%
+ 683  4B-21-412                   1.39%    passed     91.01%
+ 684  4B-21-421                   1.46%    passed     89.50%
+ 685  4B-21-423                   3.16%    passed     92.95%
+ 686  4B-21-528                   1.37%    passed     89.72%
+ 687  4B-21622                    1.55%    passed     89.11%
+ 688  4B-22-114                   1.45%    passed     88.47%
+ 689  4B-22-15                    1.39%    passed     87.50%
+ 690  4B-2422                     3.10%    passed     90.91%
+ 691  4B-2922HM                   1.51%    passed     86.60%
+ 692  4B-2922JG                   1.53%    passed     86.60%
+ 693  R10-714                     3.48%    passed     93.86%
+ 694  R10-907                     3.41%    passed     89.37%
+ 695  R10-920                     3.29%    passed     92.62%
+ 696  R11-21-61                   1.42%    passed     74.02%
+ 697  R11-21-63                   3.13%    passed     90.48%
+ 698  R1-21-148                   3.11%    passed     98.18%
+ 699  R2-081                      3.13%    passed     88.88%
+ 700  R3-731                      3.09%    passed     87.12%
+ 701  R5-09                       1.37%    passed     77.45%
+ 702  R5-21-115                   1.42%    passed     91.32%
+ 703  R5-21-119                   1.37%    passed     89.08%
+ 704  R5-21-128                   1.40%    passed     84.17%
+ 705  R5-21-132                   1.39%    passed     86.34%
+ 706  R6-21-4511                  3.15%    passed     96.60%
+ 707  R6-21-4600                  3.17%    passed     91.76%
+ 708  R6-4342                     3.57%    passed     96.38%
+ 709  R6-4568                     3.32%    passed     93.90%
+ 710  R9-010                      3.32%    passed     94.66%
+ 711  R9-074                      3.22%    passed     91.61%
+ 712  R9-089                      5.67%    passed     96.62%
+ 713  R9-105                      1.98%    passed     75.92%
+ 714  RADDL3-1045                 3.09%    passed     92.01%
+ 715  RADDL3-15-172               3.12%    passed     97.39%
+ 716  RADDL3-16-468               3.12%    passed     92.69%
+ 717  RADDL3-16-627               5.03%    passed     88.67%
+ 718  RADDL3-845                  3.16%    passed     92.58%
+ 719  RADDL5-005                  1.38%    passed     88.08%
+ 720  Z-12-012                    3.12%    passed     90.67%
+ 721  Z-12-149                    3.11%    passed     94.10%
+ 722  Z-12-208                    3.16%    passed     95.68%
+ 723  Z-13-032                    1.83%    passed     86.24%
+ 724  Z-13-036                    3.07%    passed     93.08%
+ 725  Z-13-066                    1.37%    passed     87.04%
+ 726  Z-13-073                    3.38%    passed     91.51%
+ 727  Z-13-094                    1.39%    passed     88.94%
+ 728  Z-13-096                    1.39%    passed     90.57%
+ 729  Z-14-033                    3.13%    passed     96.38%
+ 730  Z-14-106                    7.49%    passed     93.27%
+ 731  Z-14-136                    3.20%    passed     82.39%
+ 732  Z-14-182                    3.10%    passed     94.24%
+ 733  Z-14-243                    1.69%    passed     90.50%
+ 734  Z-15-001                    1.39%    passed     84.35%
+ 735  Z-15-009                    5.65%    passed     95.51%
+ 736  Z-16-082                    1.45%    passed     87.42%
+ 737  Z-16-150                    3.15%    passed     92.20%
+ 738  Z-16-151                    1.50%    passed     95.27%
+ 739  Z-16-209                    1.65%    passed     97.13%
+ 740  Z-16-210                    1.41%    passed     90.72%
+ 741  Z-16-211                    1.40%    passed     84.99%
+ 742  4A-22-171                   3.08%    passed     93.38%
+ 743  4A-22-203                   5.63%    passed     78.54%
+ 744  4B-22-37                    3.12%    passed     97.36%
+ 745  4B-22-39                    3.10%    passed     97.11%
+ 746  4B-22-44                    3.10%    passed     96.96%
+ 747  4B-22-45                    3.13%    passed     96.20%
+ 748  4B-23-01                    3.07%    passed     96.75%
+ 749  4B-23-02                    3.08%    passed     97.69%
+ 750  4B-23-03                    1.32%    passed     86.96%
+ 751  4B-23-04                    1.35%    passed     87.49%
+ 752  4B-23-05                    3.16%    passed     96.49%
+ 753  4B-23-06                    3.09%    passed     97.50%
+ 754  4B-23-07                    3.09%    passed     96.68%
+ 755  4B-23-11                    3.09%    passed     97.64%
+ 756  4B-23-12                    3.12%    passed     97.06%
+ 757  4B-23-13                    3.07%    passed     97.47%
+ 758  4B-23-15                    3.13%    passed     97.04%
+ 759  4B-23-16                    3.10%    passed     97.74%
+ 760  4B-23-17                    3.12%    passed     97.91%
+ 761  4B-23-19                    3.11%    passed     97.80%
+ 762  H-23-011Sk_12              11.90%    passed     96.27%
+ 763  R11-22-002                  2.01%    passed     88.40%
+ 764  R5-21-136                   3.05%    passed     90.32%
+ 765  R5-21-140                   1.38%    passed     91.61%
+ 766  R5-22-008                   3.09%    passed     89.27%
+ 767  R6-21-4375                  3.28%    passed     95.54%
+ 768  R7-21-161                   5.13%    passed     63.31%
+ 769  Z-13-081                    4.06%    passed     85.42%
+ 770  Z-14-058                    4.81%    passed     72.73%
+ 771  Z-14-098                    3.17%    passed     88.97%
+ 772  Z-14-101                    5.54%    passed     96.04%
+ 773  Z-14-126                    3.06%    passed     91.09%
+ 774  Z-14-142                    3.06%    passed     88.95%
+ 775  Z-17-046                    1.34%    passed     82.97%
+ 776  Z-17-174                    3.08%    passed     85.20%
+ 777  Z-17-177                    1.37%    passed     83.70%
+ 778  Z-17-193                    3.28%    passed     90.43%
+ 779  Z-17-200                    3.08%    passed     95.75%
+ 780  Z-17-217                    3.29%    passed     88.78%
+ 781  Z-17-221                    4.99%    passed     85.84%
+ 782  Z-17-57                     1.47%    passed     75.53%
+ 783  Z-18-001                    3.09%    passed     91.16%
+ 784  Z-18-114                    3.05%    passed     89.92%
+ 785  Z-18-159                    3.10%    passed     90.39%
+ 786  Z-18-224                    9.17%    passed     98.60%
+ 787  Z-18-251                    3.05%    passed     91.83%
+ 788  Z-19-029                    3.65%    passed     83.73%
+ 789  Z-19-123                    9.68%    passed     85.37%
+ 790  Z-19-136                    7.54%    passed     93.67%
+ 791  Z-19-88                     3.07%    passed     89.25%
+ 792  Z-20-01                     1.37%    passed     87.30%
+ 793  Z-20-110                    3.07%    passed     91.80%
+ 794  Z-20-24                     3.07%    passed     90.46%
+ 795  Z-20-33                     3.06%    passed     90.54%
+ 796  Z-20-51                     3.08%    passed     90.39%
+ 797  Z-22-119                    3.21%    passed     97.39%
+ 798  Z-22-121                    9.97%    passed     89.21%
+ 799  Z-23-01                     3.07%    passed     89.22%
+ 800  Z-23-01Sa                   4.97%    passed     87.83%
+ 801  18-120                      1.21%    passed     77.31%
+ 802  19-050                      1.21%    passed     67.31%
+ 803  19-045                      1.21%    passed     74.88%
+ 804  19-022                      1.21%    passed     86.59%
+ 805  19-015                      1.21%    passed     76.75%
+ 806  19-011                      1.21%    passed     73.87%
+ 807  19-004                      1.21%    passed     73.13%
+ 808  18-225                      1.21%    passed     76.39%
+ 809  18-224                      1.21%    passed     73.87%
+ 810  18-223                      1.21%    passed     84.00%
+ 811  18-221                      1.21%    passed     78.12%
+ 812  18-216                      1.21%    passed     75.77%
+ 813  18-214                      1.21%    passed     73.89%
+ 814  18-209                      1.21%    passed     75.43%
+ 815  18-199                      1.21%    passed     75.87%
+ 816  18-196                      1.21%    passed     75.81%
+ 817  18-194                      1.21%    passed     71.46%
+ 818  18-191                      1.21%    passed     72.63%
+ 819  18-188                      1.21%    passed     75.87%
+ 820  18-183                      1.21%    passed     77.57%
+ 821  18-181                      1.21%    passed     77.30%
+ 822  18-179                      1.21%    passed     72.29%
+ 823  18-174                      1.21%    passed     76.82%
+ 824  18-172                      1.21%    passed     81.17%
+ 825  18-164                      1.21%    passed     67.08%
+ 826  18-163                      1.21%    passed     80.00%
+ 827  18-162                      1.21%    passed     77.73%
+ 828  18-153                      1.21%    passed     76.81%
+ 829  18-151                      1.21%    passed     82.88%
+ 830  18-147                      1.21%    passed     76.88%
+ 831  18-144                      1.21%    passed     74.49%
+ 832  18-142                      1.21%    passed     75.91%
+ 833  18-138                      1.21%    passed     79.10%
+ 834  18-135                      1.21%    passed     79.83%
+ 835  18-133                      1.21%    passed     76.76%
+ 836  18-130                      1.21%    passed     78.17%
+ 837  18-121                      1.21%    passed     75.00%
+ 838  18-118                      1.21%    passed     67.69%
+ 839  18-116                      1.21%    passed     73.27%
+ 840  18-114                      1.21%    passed     68.38%
+ 841  18-107                      1.21%    passed     74.53%
+ 842  18-106                      1.21%    passed     84.64%
+ 843  18-103                      1.21%    passed     78.98%
+ 844  18-102                      1.21%    passed     73.32%
+ 845  18-101                      1.21%    passed     80.00%
+ 846  18-099                      1.21%    passed     80.00%
+ 847  18-096                      1.21%    passed     82.85%
+ 848  18-094                      1.21%    passed     80.64%
+ 849  18-092                      1.21%    passed     80.50%
+WARNING: 499 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                      51.82%  8 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: LC550024 is identical to LC550018 but kept for subsequent analysis
+NOTE: LC550020 is identical to LC550019 but kept for subsequent analysis
+NOTE: 121 is identical to LC550022 but kept for subsequent analysis
+NOTE: 120 is identical to LC550023 but kept for subsequent analysis
+NOTE: 87 is identical to LC550025 but kept for subsequent analysis
+NOTE: 66 is identical to LC550026 but kept for subsequent analysis
+NOTE: Z-13-002 is identical to MN726836 but kept for subsequent analysis
+NOTE: Z-13-009 is identical to MN726837 but kept for subsequent analysis
+NOTE: Z-15-116 is identical to MN726839 but kept for subsequent analysis
+NOTE: Z-15-148 is identical to MN726840 but kept for subsequent analysis
+NOTE: Z-14-146 is identical to MN726841 but kept for subsequent analysis
+NOTE: REGION_5_2019-13 is identical to MN726842 but kept for subsequent analysis
+NOTE: Z-12-001 is identical to MN726845 but kept for subsequent analysis
+NOTE: Z-16-013 is identical to MN726848 but kept for subsequent analysis
+NOTE: RADDL3-1038 is identical to MN726850 but kept for subsequent analysis
+NOTE: REGION_5_2018-50 is identical to MN726852 but kept for subsequent analysis
+NOTE: Z15-185 is identical to MN726854 but kept for subsequent analysis
+NOTE: Z-16-159 is identical to MN726855 but kept for subsequent analysis
+NOTE: Z-12-118 is identical to MN726856 but kept for subsequent analysis
+NOTE: Z-16-186 is identical to MN726858 but kept for subsequent analysis
+NOTE: REGION_5_2018-100 is identical to MN726860 but kept for subsequent analysis
+NOTE: Z-15-019 is identical to MN726861 but kept for subsequent analysis
+NOTE: Z-14-138 is identical to MN726866 but kept for subsequent analysis
+NOTE: Z-14-149 is identical to MN726870 but kept for subsequent analysis
+NOTE: Z14-152 is identical to MN726873 but kept for subsequent analysis
+NOTE: Z-12-134 is identical to MN726874 but kept for subsequent analysis
+NOTE: REGION_5_2018-311 is identical to MN726875 but kept for subsequent analysis
+NOTE: REGION_5_2018-304 is identical to MN726876 but kept for subsequent analysis
+NOTE: Z-12-212 is identical to MN726879 but kept for subsequent analysis
+NOTE: REGION_5_2019-1 is identical to MN726880 but kept for subsequent analysis
+NOTE: Z-15-130 is identical to MN726881 but kept for subsequent analysis
+NOTE: KP860182 is identical to KF501180 but kept for subsequent analysis
+NOTE: JX944597 is identical to JX944569 but kept for subsequent analysis
+NOTE: KX434508 is identical to KX434507 but kept for subsequent analysis
+NOTE: RV/NCR.PHL/2005/Z-05-149 is identical to RV/R4A.PHL/2004/Z-04-042 but kept for subsequent analysis
+NOTE: RV/R4A.PHL/2004/Z-04-420 is identical to RV/R4A.PHL/2004/Z-04-389 but kept for subsequent analysis
+NOTE: RV/NCR.PHL/2005/Z-05-465 is identical to RV/NCR.PHL/2005/Z-05-168 but kept for subsequent analysis
+NOTE: RV/NCR.PHL/2005/Z-05-299 is identical to RV/NCR.PHL/2005/Z-05-187 but kept for subsequent analysis
+NOTE: RV/R4A.PHL/2006/Z-06-362 is identical to RV/R4A.PHL/2006/Z-06-163 but kept for subsequent analysis
+NOTE: RV/R4A.PHL/2006/Z-06-361 is identical to RV/R4A.PHL/2006/Z-06-357 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2008/TRa-088 is identical to RV/R3.PHL/2008/TRa-002 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2008/TRa-049 is identical to RV/R3.PHL/2008/TRa-006 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2008/TRa-091 is identical to RV/R3.PHL/2008/TRa-010 but kept for subsequent analysis
+NOTE: RV/R10.PHL/2008/TRa-025 is identical to RV/R10.PHL/2008/TRa-014 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2008/TRa-048 is identical to RV/R3.PHL/2008/TRa-016 but kept for subsequent analysis
+NOTE: RV/R1.PHL/2008/TRa-094 is identical to RV/R3.PHL/2008/TRa-021 but kept for subsequent analysis
+NOTE: RV/R10.PHL/2008/TRa-057 is identical to RV/R10.PHL/2008/TRa-026 but kept for subsequent analysis
+NOTE: RV/R10.PHL/2008/TRa-053 is identical to RV/R10.PHL/2008/TRa-027 but kept for subsequent analysis
+NOTE: RV/R10.PHL/2009/TRa-197 is identical to RV/R10.PHL/2008/TRa-028 but kept for subsequent analysis
+NOTE: RV/R5.PHL/2008/TRa-032 is identical to RV/R5.PHL/2008/TRa-031 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2008/TRa-061 is identical to RV/R3.PHL/2008/TRa-051 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2008/TRa-087 is identical to RV/R3.PHL/2008/TRa-059 but kept for subsequent analysis
+NOTE: RV/R7.PHL/2008/TRa-080 is identical to RV/R7.PHL/2008/TRa-077 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2008/TRa-095 is identical to RV/R3.PHL/2008/TRa-089 but kept for subsequent analysis
+NOTE: RV/R7.PHL/2008/TRa-101 is identical to RV/R7.PHL/2008/TRa-096 but kept for subsequent analysis
+NOTE: RV/R7.PHL/2009/TRa-177 is identical to RV/R7.PHL/2008/TRa-098 but kept for subsequent analysis
+NOTE: RV/R10.PHL/2009/TRa-186 is identical to RV/R10.PHL/2008/TRa-107 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2009/TRa-134 is identical to RV/R3.PHL/2009/TRa-115 but kept for subsequent analysis
+NOTE: RV/R5.PHL/2008/TRa-123 is identical to RV/R5.PHL/2008/TRa-120 but kept for subsequent analysis
+NOTE: RV/R7.PHL/2009/TRa-237 is identical to RV/R7.PHL/2009/TRa-147 but kept for subsequent analysis
+NOTE: RV/R7.PHL/2009/TRa-178 is identical to RV/R7.PHL/2009/TRa-172 but kept for subsequent analysis
+NOTE: RV/R5.PHL/2009/TRa-226 is identical to RV/R5.PHL/2009/TRa-225 but kept for subsequent analysis
+NOTE: RV/CAR.PHL/2009/TRa-234 is identical to RV/R1.PHL/2009/TRa-233 but kept for subsequent analysis
+NOTE: RV/R7.PHL/2008/TRa-084 is identical to RV/R7.PHL/2009/TRa-240 but kept for subsequent analysis
+NOTE: RV/R1.PHL/2009/TRa-266 is identical to RV/R1.PHL/2009/TRa-262 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2012/TRa-312 is identical to RV/R3.PHL/2012/TRa-306 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2013/TRa-350 is identical to RV/R3.PHL/2012/TRa-308 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2013/TRa-533 is identical to RV/R3.PHL/2012/TRa-313 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2013/TRa-348 is identical to RV/R3.PHL/2012/TRa-314 but kept for subsequent analysis
+NOTE: RV/R1.PHL/2012/TRa-324 is identical to RV/R1.PHL/2012/TRa-320 but kept for subsequent analysis
+NOTE: RV/R1.PHL/2012/TRa-383 is identical to RV/R1.PHL/2012/TRa-323 but kept for subsequent analysis
+NOTE: RV/R1.PHL/2012/TRa-377 is identical to RV/R1.PHL/2012/TRa-325 but kept for subsequent analysis
+NOTE: RV/R5.PHL/2013/TRa-425 is identical to RV/R5.PHL/2012/TRa-337 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2013/TRa-462 is identical to RV/R3.PHL/2013/TRa-347 but kept for subsequent analysis
+NOTE: RV/R5.PHL/2012/TRa-360 is identical to RV/R5.PHL/2012/TRa-356 but kept for subsequent analysis
+NOTE: RV/R5.PHL/2013/TRa-422 is identical to RV/R5.PHL/2013/TRa-365 but kept for subsequent analysis
+NOTE: RV/R1.PHL/2012/TRa-379 is identical to RV/R1.PHL/2012/TRa-376 but kept for subsequent analysis
+NOTE: RV/R1.PHL/2013/TRa-573 is identical to RV/R1.PHL/2012/TRa-382 but kept for subsequent analysis
+NOTE: RV/R4B.PHL/2011/TRa-394 is identical to RV/R4B.PHL/2011/TRa-392 but kept for subsequent analysis
+NOTE: RV/R4B.PHL/2012/TRa-402 is identical to RV/R4B.PHL/2012/TRa-400 but kept for subsequent analysis
+NOTE: RV/CAR.PHL/2013/TRa-407 is identical to RV/R1.PHL/2013/TRa-406 but kept for subsequent analysis
+NOTE: RV/R4A.PHL/2013/TRa-485 is identical to RV/CAR.PHL/2013/TRa-409 but kept for subsequent analysis
+NOTE: RV/R2.PHL/2013/TRa-507 is identical to RV/R2.PHL/2013/TRa-435 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2013/TRa-459 is identical to RV/R3.PHL/2013/TRa-453 but kept for subsequent analysis
+NOTE: RV/CAR.PHL/2013/TRa-571 is identical to RV/CAR.PHL/2013/TRa-500 but kept for subsequent analysis
+NOTE: RV/R3.PHL/2013/TRa-552 is identical to RV/R3.PHL/2013/TRa-534 but kept for subsequent analysis
+NOTE: 18-101 is identical to 18-163 but kept for subsequent analysis
+NOTE: 50 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: LC550027 (identical to LC550018) is ignored but added at the end
+NOTE: 140 (identical to LC550018) is ignored but added at the end
+NOTE: 93 (identical to LC550018) is ignored but added at the end
+NOTE: 55 (identical to LC550018) is ignored but added at the end
+NOTE: LC550021 (identical to LC550019) is ignored but added at the end
+NOTE: 132 (identical to LC550019) is ignored but added at the end
+NOTE: 131 (identical to LC550019) is ignored but added at the end
+NOTE: 130 (identical to LC550019) is ignored but added at the end
+NOTE: KP860183 (identical to KF501180) is ignored but added at the end
+NOTE: RV/R3.PHL/2008/TRa-063 (identical to RV/R4A.PHL/2004/Z-04-042) is ignored but added at the end
+NOTE: RV/R1.PHL/2009/TRa-209 (identical to RV/R4A.PHL/2006/Z-06-163) is ignored but added at the end
+NOTE: RV/R3.PHL/2008/TRa-066 (identical to RV/R3.PHL/2008/TRa-006) is ignored but added at the end
+NOTE: RV/R3.PHL/2008/TRa-090 (identical to RV/R3.PHL/2008/TRa-006) is ignored but added at the end
+NOTE: RV/R3.PHL/2009/TRa-204 (identical to RV/R3.PHL/2008/TRa-010) is ignored but added at the end
+NOTE: RV/R10.PHL/2009/TRa-254 (identical to RV/R10.PHL/2008/TRa-014) is ignored but added at the end
+NOTE: RV/R10.PHL/2009/TRa-249 (identical to RV/R10.PHL/2008/TRa-026) is ignored but added at the end
+NOTE: RV/R10.PHL/2009/TRa-250 (identical to RV/R10.PHL/2008/TRa-026) is ignored but added at the end
+NOTE: RV/R10.PHL/2009/TRa-255 (identical to RV/R10.PHL/2008/TRa-028) is ignored but added at the end
+NOTE: RV/R3.PHL/2008/TRa-093 (identical to RV/R3.PHL/2008/TRa-051) is ignored but added at the end
+NOTE: RV/R3.PHL/2008/TRa-111 (identical to RV/R3.PHL/2008/TRa-051) is ignored but added at the end
+NOTE: RV/R3.PHL/2009/TRa-130 (identical to RV/R3.PHL/2008/TRa-051) is ignored but added at the end
+NOTE: RV/R7.PHL/2008/TRa-103 (identical to RV/R7.PHL/2008/TRa-077) is ignored but added at the end
+NOTE: RV/R3.PHL/2009/TRa-135 (identical to RV/R3.PHL/2009/TRa-115) is ignored but added at the end
+NOTE: RV/R5.PHL/2009/TRa-272 (identical to RV/R5.PHL/2009/TRa-225) is ignored but added at the end
+NOTE: RV/R1.PHL/2009/TRa-267 (identical to RV/R1.PHL/2009/TRa-262) is ignored but added at the end
+NOTE: RV/R1.PHL/2010/TRa-298 (identical to RV/R1.PHL/2009/TRa-262) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-349 (identical to RV/R3.PHL/2012/TRa-306) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-458 (identical to RV/R3.PHL/2012/TRa-306) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-460 (identical to RV/R3.PHL/2012/TRa-306) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-465 (identical to RV/R3.PHL/2012/TRa-306) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-466 (identical to RV/R3.PHL/2012/TRa-306) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-457 (identical to RV/R3.PHL/2012/TRa-308) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-535 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-538 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-540 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-543 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-544 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-545 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-550 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-551 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-554 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-583 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-586 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-587 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-589 (identical to RV/R3.PHL/2012/TRa-313) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-446 (identical to RV/R3.PHL/2012/TRa-314) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-461 (identical to RV/R3.PHL/2013/TRa-453) is ignored but added at the end
+NOTE: RV/R1.PHL/2013/TRa-572 (identical to RV/CAR.PHL/2013/TRa-500) is ignored but added at the end
+NOTE: RV/R3.PHL/2013/TRa-588 (identical to RV/R3.PHL/2013/TRa-534) is ignored but added at the end
+NOTE: 18-099 (identical to 18-163) is ignored but added at the end
+Alignment was printed to philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta.uniqueseq.phy
+Creating fast initial parsimony tree by random order stepwise addition...
+44.564 seconds, parsimony score: 12890 (based on 4699 sites)
+Generating 1000 samples for ultrafast bootstrap (seed: 560662)...
+
+NOTE: 864 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 11 CPU cores
+8 trees examined
+Threads: 1 / Time: 11.977 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -399129
+Threads: 2 / Time: 5.697 sec / Speedup: 2.102 / Efficiency: 105% / LogL: -399129
+Threads: 3 / Time: 3.904 sec / Speedup: 3.068 / Efficiency: 102% / LogL: -399129
+Threads: 4 / Time: 3.664 sec / Speedup: 3.269 / Efficiency: 82% / LogL: -399129
+Threads: 5 / Time: 4.567 sec / Speedup: 2.623 / Efficiency: 52% / LogL: -399129
+BEST NUMBER OF THREADS: 4
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -105997.449
+2. Current log-likelihood: -95228.940
+3. Current log-likelihood: -95088.450
+4. Current log-likelihood: -95053.062
+5. Current log-likelihood: -95024.980
+6. Current log-likelihood: -94998.870
+7. Current log-likelihood: -94975.135
+8. Current log-likelihood: -94954.978
+9. Current log-likelihood: -94939.090
+10. Current log-likelihood: -94928.045
+11. Current log-likelihood: -94921.195
+12. Current log-likelihood: -94917.375
+13. Current log-likelihood: -94915.400
+14. Current log-likelihood: -94914.395
+15. Current log-likelihood: -94913.867
+16. Current log-likelihood: -94913.562
+17. Current log-likelihood: -94913.366
+18. Current log-likelihood: -94913.224
+19. Current log-likelihood: -94913.116
+Optimal log-likelihood: -94913.004
+Rate parameters:  A-C: 1.61922  A-G: 9.79903  A-T: 0.56472  C-G: 0.26345  C-T: 12.11540  G-T: 1.00000
+Base frequencies:  A: 0.281  C: 0.221  G: 0.238  T: 0.260
+Site proportion and rates:  (0.515,0.078) (0.067,0.255) (0.057,0.259) (0.035,0.277) (0.297,2.356) (0.030,7.362)
+Parameters optimization took 19 rounds (156.127 sec)
+Computing ML distances based on estimated model parameters... 59.212 sec
+WARNING: Some pairwise ML distances are too long (saturated)
+Computing BIONJ tree...
+0.477 seconds
+Log-likelihood of BIONJ tree: -98171.589
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 22.486 second
+Computing log-likelihood of 98 initial trees ... 35.016 seconds
+Current best score: -94320.587
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -93931.210
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -93912.503
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 7: -93863.236
+Iteration 10 / LogL: -94042.129 / Time: 0h:9m:45s
+Iteration 20 / LogL: -93881.422 / Time: 0h:13m:35s
+Finish initializing candidate tree set (20)
+Current best tree score: -93863.236 / CPU time: 560.418
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 21: -93851.631
+Iteration 30 / LogL: -93872.049 / Time: 0h:17m:23s (0h:52m:14s left)
+Iteration 40 / LogL: -93865.378 / Time: 0h:20m:56s (0h:41m:56s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 41: -93848.024
+Iteration 50 / LogL: -93858.270 / Time: 0h:24m:3s (0h:43m:18s left)
+Log-likelihood cutoff on original alignment: -93980.992
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 54: -93794.853
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 57: -93792.174
+Iteration 60 / LogL: -93799.858 / Time: 0h:35m:5s (0h:56m:27s left)
+Iteration 70 / LogL: -93798.636 / Time: 0h:38m:37s (0h:47m:46s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 77: -93791.590
+Iteration 80 / LogL: -93798.108 / Time: 0h:42m:32s (0h:51m:18s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 82: -93784.971
+Iteration 90 / LogL: -93807.847 / Time: 0h:45m:35s (0h:46m:21s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 96: -93783.653
+Iteration 100 / LogL: -93805.747 / Time: 0h:48m:2s (0h:45m:52s left)
+Log-likelihood cutoff on original alignment: -93887.760
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.938
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -93898.126 / Time: 0h:50m:50s (0h:41m:21s left)
+Iteration 120 / LogL: -93919.775 / Time: 0h:53m:17s (0h:35m:19s left)
+Iteration 130 / LogL: -93794.530 / Time: 0h:55m:52s (0h:29m:55s left)
+Iteration 140 / LogL: -93816.009 / Time: 0h:58m:43s (0h:25m:1s left)
+Iteration 150 / LogL: -93797.924 / Time: 1h:1m:6s (0h:20m:15s left)
+Log-likelihood cutoff on original alignment: -93877.512
+Iteration 160 / LogL: -93809.333 / Time: 1h:3m:56s (0h:15m:54s left)
+Iteration 170 / LogL: -93893.462 / Time: 1h:6m:19s (0h:11m:38s left)
+Iteration 180 / LogL: -93785.242 / Time: 1h:8m:52s (0h:7m:36s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 183: -93782.716
+Iteration 190 / LogL: -93806.157 / Time: 1h:11m:39s (0h:34m:53s left)
+Iteration 200 / LogL: -93790.546 / Time: 1h:14m:16s (0h:30m:40s left)
+Log-likelihood cutoff on original alignment: -93860.004
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.973
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 210 / LogL: -94230.290 / Time: 1h:16m:51s (0h:32m:46s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 220: -93781.679
+Iteration 220 / LogL: -93781.679 / Time: 1h:19m:44s (0h:36m:4s left)
+Iteration 230 / LogL: -93804.545 / Time: 1h:22m:13s (0h:32m:1s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 233: -93781.574
+Iteration 240 / LogL: -94024.726 / Time: 1h:24m:39s (0h:32m:39s left)
+Iteration 250 / LogL: -93802.895 / Time: 1h:27m:36s (0h:28m:57s left)
+Log-likelihood cutoff on original alignment: -93860.004
+Iteration 260 / LogL: -93793.090 / Time: 1h:30m:7s (0h:25m:11s left)
+Iteration 270 / LogL: -93826.950 / Time: 1h:32m:36s (0h:21m:30s left)
+Iteration 280 / LogL: -93785.612 / Time: 1h:34m:58s (0h:17m:53s left)
+Iteration 290 / LogL: -93818.629 / Time: 1h:37m:40s (0h:14m:25s left)
+Iteration 300 / LogL: -93811.528 / Time: 1h:40m:20s (0h:10m:59s left)
+Log-likelihood cutoff on original alignment: -93860.004
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.985
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 310 / LogL: -93855.199 / Time: 1h:43m:4s (0h:29m:48s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 313: -93780.792
+Iteration 320 / LogL: -93808.864 / Time: 1h:45m:54s (0h:30m:39s left)
+Iteration 330 / LogL: -93790.633 / Time: 1h:48m:16s (0h:27m:7s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 333: -93780.440
+Iteration 340 / LogL: -94052.679 / Time: 1h:50m:45s (0h:30m:10s left)
+Iteration 350 / LogL: -93855.433 / Time: 1h:53m:34s (0h:26m:50s left)
+Log-likelihood cutoff on original alignment: -93860.004
+Iteration 360 / LogL: -93785.943 / Time: 1h:56m:30s (0h:23m:32s left)
+Iteration 370 / LogL: -93834.716 / Time: 1h:58m:59s (0h:20m:11s left)
+Iteration 380 / LogL: -93782.073 / Time: 2h:1m:43s (0h:16m:55s left)
+Iteration 390 / LogL: -93780.823 / Time: 2h:4m:17s (0h:13m:39s left)
+Iteration 400 / LogL: -93831.607 / Time: 2h:6m:35s (0h:10m:24s left)
+Log-likelihood cutoff on original alignment: -93860.004
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.992
+Iteration 410 / LogL: -93780.860 / Time: 2h:8m:54s (0h:28m:12s left)
+Iteration 420 / LogL: -93786.265 / Time: 2h:11m:46s (0h:25m:1s left)
+Iteration 430 / LogL: -94118.996 / Time: 2h:14m:10s (0h:21m:46s left)
+TREE SEARCH COMPLETED AFTER 434 ITERATIONS / Time: 2h:15m:7s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -93780.440
+2. Current log-likelihood: -93780.407
+3. Current log-likelihood: -93780.369
+4. Current log-likelihood: -93780.321
+5. Current log-likelihood: -93780.267
+6. Current log-likelihood: -93780.207
+7. Current log-likelihood: -93780.138
+8. Current log-likelihood: -93780.059
+9. Current log-likelihood: -93779.971
+10. Current log-likelihood: -93779.872
+11. Current log-likelihood: -93779.764
+12. Current log-likelihood: -93779.645
+13. Current log-likelihood: -93779.516
+14. Current log-likelihood: -93779.381
+15. Current log-likelihood: -93779.239
+16. Current log-likelihood: -93779.092
+17. Current log-likelihood: -93778.943
+18. Current log-likelihood: -93778.790
+19. Current log-likelihood: -93778.637
+20. Current log-likelihood: -93778.486
+21. Current log-likelihood: -93778.336
+22. Current log-likelihood: -93778.189
+23. Current log-likelihood: -93778.047
+24. Current log-likelihood: -93777.909
+25. Current log-likelihood: -93777.776
+26. Current log-likelihood: -93777.649
+27. Current log-likelihood: -93777.529
+28. Current log-likelihood: -93777.415
+29. Current log-likelihood: -93777.306
+30. Current log-likelihood: -93777.202
+31. Current log-likelihood: -93777.106
+32. Current log-likelihood: -93777.013
+33. Current log-likelihood: -93776.924
+34. Current log-likelihood: -93776.836
+35. Current log-likelihood: -93776.751
+36. Current log-likelihood: -93776.669
+37. Current log-likelihood: -93776.589
+38. Current log-likelihood: -93776.513
+39. Current log-likelihood: -93776.439
+40. Current log-likelihood: -93776.368
+41. Current log-likelihood: -93776.301
+42. Current log-likelihood: -93776.235
+43. Current log-likelihood: -93776.171
+44. Current log-likelihood: -93776.108
+45. Current log-likelihood: -93776.046
+46. Current log-likelihood: -93775.987
+47. Current log-likelihood: -93775.926
+48. Current log-likelihood: -93775.872
+49. Current log-likelihood: -93775.822
+50. Current log-likelihood: -93775.774
+51. Current log-likelihood: -93775.729
+52. Current log-likelihood: -93775.684
+53. Current log-likelihood: -93775.641
+54. Current log-likelihood: -93775.606
+55. Current log-likelihood: -93775.595
+56. Current log-likelihood: -93775.562
+57. Current log-likelihood: -93775.541
+58. Current log-likelihood: -93775.509
+59. Current log-likelihood: -93775.499
+60. Current log-likelihood: -93775.470
+61. Current log-likelihood: -93775.441
+62. Current log-likelihood: -93775.421
+63. Current log-likelihood: -93775.403
+64. Current log-likelihood: -93775.385
+65. Current log-likelihood: -93775.367
+66. Current log-likelihood: -93775.349
+67. Current log-likelihood: -93775.332
+68. Current log-likelihood: -93775.314
+69. Current log-likelihood: -93775.298
+Optimal log-likelihood: -93775.288
+Rate parameters:  A-C: 1.62604  A-G: 9.81792  A-T: 0.57405  C-G: 0.25476  C-T: 12.34184  G-T: 1.00000
+Base frequencies:  A: 0.281  C: 0.221  G: 0.238  T: 0.260
+Site proportion and rates:  (0.629,0.087) (0.114,1.502) (0.121,1.798) (0.116,3.427) (0.020,7.209) (0.001,28.910)
+Parameters optimization took 69 rounds (336.023 sec)
+BEST SCORE FOUND : -93775.288
+Creating bootstrap support values...
+Split supports printed to NEXUS file philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta.splits.nex
+Total tree length: 2.039
+
+Total number of iterations: 434
+CPU time used for tree search: 30445.799 sec (8h:27m:25s)
+Wall-clock time used for tree search: 7852.298 sec (2h:10m:52s)
+Total CPU time used: 32845.050 sec (9h:7m:25s)
+Total wall-clock time used: 8445.752 sec (2h:20m:45s)
+
+Computing bootstrap consensus tree...
+Reading input file philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta.splits.nex...
+799 taxa and 5857 splits.
+Consensus tree written to philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta.contree
+Reading input trees file philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta.contree
+Log-likelihood of consensus tree: -93777.420
+
+Analysis results written to: 
+  IQ-TREE report:                philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta.iqtree
+  Maximum-likelihood tree:       philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta.treefile
+  Likelihood distances:          philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta.splits.nex
+  Consensus tree:                philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta.contree
+  Screen log file:               philippines_all_designate/Alignment/philippines_all_designate_combined_aligned.fasta.log
+
+Date and Time: Wed Feb 28 18:02:22 2024

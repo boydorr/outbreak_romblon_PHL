@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Lineage Dynamics</title>
+
+<script src="report_files/header-attrs-2.22/header-attrs.js"></script>
+<script src="report_files/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="report_files/bootstrap-3.3.5/css/united.min.css" rel="stylesheet" />
+<script src="report_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="report_files/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="report_files/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="report_files/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="report_files/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="report_files/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="report_files/navigation-1.1/tabsets.js"></script>
+<link href="report_files/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
+<script src="report_files/pagedtable-1.1/js/pagedtable.js"></script>
+<script src="report_files/htmlwidgets-1.6.2/htmlwidgets.js"></script>
+<script src="report_files/plotly-binding-4.10.2/plotly.js"></script>
+<script src="report_files/typedarray-0.1/typedarray.min.js"></script>
+<link href="report_files/crosstalk-1.2.0/css/crosstalk.min.css" rel="stylesheet" />
+<script src="report_files/crosstalk-1.2.0/js/crosstalk.min.js"></script>
+<link href="report_files/plotly-htmlwidgets-css-2.11.1/plotly-htmlwidgets.css" rel="stylesheet" />
+<script src="report_files/plotly-main-2.11.1/plotly-latest.min.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Lineage Dynamics</h1>
+
+</div>
+
+
+<style type="text/css">
+h1, h2{
+  text-align: center;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+body{
+  margin-top: 75px;
+  font-family: Helvetica;
+  font-weight: lighter;
+  font-size: 14pt;
+}
+
+</style>
+<p><span class="math inline">\(~\)</span></p>
+<div id="study-overview" class="section level2">
+<h2>Study Overview</h2>
+<p><span class="math inline">\(~\)</span> <span
+class="math inline">\(~\)</span></p>
+<p>This study contains 746 sequences from between 1994 and 2024.This
+sequence data came from 1 different countries.</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Country</th>
+<th align="right">Number of Sequences</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Philippines</td>
+<td align="right">746</td>
+</tr>
+</tbody>
+</table>
+<p><strong><strong>Table 1.</strong> Numbers of sequences by area.
+</strong></p>
+<p><span class="math inline">\(~\)</span> <span
+class="math inline">\(~\)</span></p>
+<div style="page-break-after: always;"></div>
+</div>
+<div id="lineages-overview" class="section level2">
+<h2>Lineages Overview</h2>
+<p><span class="math inline">\(~\)</span> <span
+class="math inline">\(~\)</span></p>
+<p>Several well-defined RABV clades circulate globally, within two major
+phylogenetic groups; bat-related and dog-related. The dog-related group
+is split into 6 different clades according to Troupin et al. (2016).
+These clades are: Africa 2, Africa 3, Cosmopolitan, Arctic, Asian and
+Indian. The majority of Nigerian sequences fall within the Africa 2
+clade.</p>
+<p><img src="troupin.png" alt="Clades" /> <strong><strong>Figure
+1.</strong> Global rabies clades. </strong> Phylogeny of all global
+rabies clades as defined by Troupin et al. (2016). <em>taken from <a
+href="https://doi.org/10.1371/journal.ppat.1006041"
+class="uri">https://doi.org/10.1371/journal.ppat.1006041</a></em></p>
+<p><span class="math inline">\(~\)</span></p>
+<p>The MAD DOG (Method for Assignment, Definition and Designation Of
+Global lineages) tool is an updated lineage designation and assignment
+tool for rabies virus based on the dynamic nomenclature used for
+SARS-CoV-2 by Rambaut et al. (2020). This tool defines sequences beyond
+the clade and subclade level, allowing increased definition. Application
+of this tool can be used to generate detailed information to inform
+control efforts and monitor progress towards the elimination of rabies
+virus.</p>
+<p><span class="math inline">\(~\)</span></p>
+<p>Details of the tool can be found at <a
+href="https://doi.org/10.5281/zenodo.5503916"
+class="uri">https://doi.org/10.5281/zenodo.5503916</a></p>
+<p><span class="math inline">\(~\)</span></p>
+<p>For more information see: <a
+href="https://doi.org/10.1101/2021.10.13.464180"
+class="uri">https://doi.org/10.1101/2021.10.13.464180</a></p>
+<p><span class="math inline">\(~\)</span> <span
+class="math inline">\(~\)</span> A total of 18 lineages have been
+detected in this study. 5 lineages are included here that have not been
+seen in this study, but are direct parents of lineages in this study, so
+are included for relevant evolutionary investigations.There are 11
+existing lineages relevant to this study.</p>
+<table>
+<colgroup>
+<col width="20%" />
+<col width="29%" />
+<col width="12%" />
+<col width="11%" />
+<col width="7%" />
+<col width="18%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">lineage</th>
+<th align="left">country</th>
+<th align="right">year_first</th>
+<th align="right">year_last</th>
+<th align="right">n_seqs</th>
+<th align="left">parent</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Asian SEA4_A1</td>
+<td align="left">c(“Japan”, “Philippines”)</td>
+<td align="right">1994</td>
+<td align="right">2020</td>
+<td align="right">170</td>
+<td align="left">Asian_A1</td>
+</tr>
+<tr class="even">
+<td align="left">Asian SEA4_A1.1</td>
+<td align="left">Philippines</td>
+<td align="right">2012</td>
+<td align="right">2016</td>
+<td align="right">36</td>
+<td align="left">Asian SEA4_A1</td>
+</tr>
+<tr class="odd">
+<td align="left">Asian SEA4_A1.1.2</td>
+<td align="left">c(“Japan”, “Philippines”)</td>
+<td align="right">2006</td>
+<td align="right">2019</td>
+<td align="right">193</td>
+<td align="left">Asian SEA4_A1.1</td>
+</tr>
+<tr class="even">
+<td align="left">Asian SEA4_A1.2</td>
+<td align="left">Philippines</td>
+<td align="right">1994</td>
+<td align="right">2019</td>
+<td align="right">206</td>
+<td align="left">Asian SEA4_A1</td>
+</tr>
+<tr class="odd">
+<td align="left">Asian SEA5_A1.3</td>
+<td align="left">Taiwan</td>
+<td align="right">2013</td>
+<td align="right">2013</td>
+<td align="right">1</td>
+<td align="left">Asian SEA5_A1</td>
+</tr>
+<tr class="even">
+<td align="left">Indian-Sub_A1.1</td>
+<td align="left">India</td>
+<td align="right">1997</td>
+<td align="right">2014</td>
+<td align="right">1</td>
+<td align="left">Indian-Sub_A1</td>
+</tr>
+<tr class="odd">
+<td align="left">Asian SEA5_A1</td>
+<td align="left">Taiwan</td>
+<td align="right">2013</td>
+<td align="right">2014</td>
+<td align="right">0</td>
+<td align="left">Asian</td>
+</tr>
+<tr class="even">
+<td align="left">Asian_A1</td>
+<td align="left">Taiwan</td>
+<td align="right">2012</td>
+<td align="right">2013</td>
+<td align="right">0</td>
+<td align="left">Asian</td>
+</tr>
+<tr class="odd">
+<td align="left">Indian-Sub_A1</td>
+<td align="left">c(“China”, “Nepal”)</td>
+<td align="right">2003</td>
+<td align="right">2018</td>
+<td align="right">0</td>
+<td align="left">Indian-Sub</td>
+</tr>
+<tr class="even">
+<td align="left">Asian</td>
+<td align="left"></td>
+<td align="right">NA</td>
+<td align="right">NA</td>
+<td align="right">0</td>
+<td align="left">RABV</td>
+</tr>
+<tr class="odd">
+<td align="left">Indian-Sub</td>
+<td align="left"></td>
+<td align="right">NA</td>
+<td align="right">NA</td>
+<td align="right">0</td>
+<td align="left">RABV</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Table 2.</strong> Details of lineages relevant to this study.
+First and last years refer to the first and most recent years the
+lineage has been detected prior to this study.</p>
+<p>There are 12 new lineages identified in this dataset.</p>
+<table>
+<colgroup>
+<col width="19%" />
+<col width="31%" />
+<col width="11%" />
+<col width="10%" />
+<col width="7%" />
+<col width="19%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">lineage</th>
+<th align="left">country</th>
+<th align="right">year_first</th>
+<th align="right">year_last</th>
+<th align="right">n_seqs</th>
+<th align="left">parent</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Asian SEA4_E1.1</td>
+<td align="left">Philippines</td>
+<td align="right">2022</td>
+<td align="right">2024</td>
+<td align="right">13</td>
+<td align="left">Asian SEA4_E1</td>
+</tr>
+<tr class="even">
+<td align="left">Asian SEA4_E1</td>
+<td align="left">Philippines</td>
+<td align="right">2023</td>
+<td align="right">2023</td>
+<td align="right">7</td>
+<td align="left">Asian SEA4_C1.1.1</td>
+</tr>
+<tr class="odd">
+<td align="left">Asian SEA4_D1.1</td>
+<td align="left">Philippines</td>
+<td align="right">2008</td>
+<td align="right">2009</td>
+<td align="right">14</td>
+<td align="left">Asian SEA4_D1</td>
+</tr>
+<tr class="even">
+<td align="left">Asian SEA4_D1</td>
+<td align="left">Philippines</td>
+<td align="right">2008</td>
+<td align="right">2022</td>
+<td align="right">8</td>
+<td align="left">Asian SEA4_B1.1.1</td>
+</tr>
+<tr class="odd">
+<td align="left">Asian SEA4_C1.1.1</td>
+<td align="left">Philippines</td>
+<td align="right">2012</td>
+<td align="right">2019</td>
+<td align="right">6</td>
+<td align="left">Asian SEA4_C1.1</td>
+</tr>
+<tr class="even">
+<td align="left">Asian SEA4_C1.1</td>
+<td align="left">Philippines</td>
+<td align="right">2008</td>
+<td align="right">2019</td>
+<td align="right">35</td>
+<td align="left">Asian SEA4_C1</td>
+</tr>
+<tr class="odd">
+<td align="left">Asian SEA4_C1</td>
+<td align="left">Philippines</td>
+<td align="right">2005</td>
+<td align="right">2022</td>
+<td align="right">7</td>
+<td align="left">Asian SEA4_A1.2.2</td>
+</tr>
+<tr class="even">
+<td align="left">Asian SEA4_B1.1.1</td>
+<td align="left">Philippines</td>
+<td align="right">2008</td>
+<td align="right">2009</td>
+<td align="right">7</td>
+<td align="left">Asian SEA4_B1.1</td>
+</tr>
+<tr class="odd">
+<td align="left">Asian SEA4_B1.1</td>
+<td align="left">Philippines</td>
+<td align="right">2013</td>
+<td align="right">2022</td>
+<td align="right">5</td>
+<td align="left">Asian SEA4_B1</td>
+</tr>
+<tr class="even">
+<td align="left">Asian SEA4_B1</td>
+<td align="left">c(“Philippines”, “Thailand”)</td>
+<td align="right">2004</td>
+<td align="right">2022</td>
+<td align="right">6</td>
+<td align="left">Asian SEA4_A1.1.2</td>
+</tr>
+<tr class="odd">
+<td align="left">Asian SEA4_A1.3</td>
+<td align="left">Philippines</td>
+<td align="right">1994</td>
+<td align="right">2013</td>
+<td align="right">5</td>
+<td align="left">Asian SEA4_A1</td>
+</tr>
+<tr class="even">
+<td align="left">Asian SEA4_A1.2.2</td>
+<td align="left">Philippines</td>
+<td align="right">1998</td>
+<td align="right">2013</td>
+<td align="right">4</td>
+<td align="left">Asian SEA4_A1.2</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Table 3.</strong> Details of new lineages identified in this
+study. First and last years refer to the first and most recent years the
+lineage has been detected.</p>
+<div class="plotly html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-ba05e680846478f5ed1e" style="width:672px;height:480px;"></div>
+<script type="application/json" data-for="htmlwidget-ba05e680846478f5ed1e">{"x":{"visdat":{"a06d11502bee":["function () ","plotlyVisDat"]},"cur_data":"a06d11502bee","attrs":{"a06d11502bee":{"labels":["Asian SEA4_E1.1","Asian SEA4_E1","Asian SEA4_D1.1","Asian SEA4_D1","Asian SEA4_C1.1.1","Asian SEA4_C1.1","Asian SEA4_C1","Asian SEA4_B1.1.1","Asian SEA4_B1.1","Asian SEA4_B1","Asian SEA4_A1.3","Asian SEA4_A1.2.2","Asian SEA4_A1","Asian SEA4_A1.1","Asian SEA4_A1.1.2","Asian SEA4_A1.2","Asian SEA5_A1.3","Indian-Sub_A1.1","Asian SEA5_A1","Asian_A1","Indian-Sub_A1","Asian","Indian-Sub"],"parents":["Asian SEA4_E1","Asian SEA4_C1.1.1","Asian SEA4_D1","Asian SEA4_B1.1.1","Asian SEA4_C1.1","Asian SEA4_C1","Asian SEA4_A1.2.2","Asian SEA4_B1.1","Asian SEA4_B1","Asian SEA4_A1.1.2","Asian SEA4_A1","Asian SEA4_A1.2","Asian_A1","Asian SEA4_A1","Asian SEA4_A1.1","Asian SEA4_A1","Asian SEA5_A1","Indian-Sub_A1","Asian","Asian","Indian-Sub","RABV","RABV"],"values":[13,7,14,8,6,35,7,7,5,6,5,4,170,36,193,206,1,1,0,0,0,0,0],"marker":{"colors":["#1C9099","#2A949F","#3999A6","#479EAD","#56A2B4","#64A7BB","#73ACC2","#81B1C9","#90B5D0","#9EBAD7","#A9BEDC","#B1C2DE","#B8C6E0","#BFCAE2","#C7CEE4","#CED2E7","#D5D6E9","#D95F0E","#DDDAEB","#E4DEED","#FEC44F","#ECE2F0","#FFF7BC"]},"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"sunburst"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"hovermode":"closest","showlegend":false},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Asian SEA4_E1.1","Asian SEA4_E1","Asian SEA4_D1.1","Asian SEA4_D1","Asian SEA4_C1.1.1","Asian SEA4_C1.1","Asian SEA4_C1","Asian SEA4_B1.1.1","Asian SEA4_B1.1","Asian SEA4_B1","Asian SEA4_A1.3","Asian SEA4_A1.2.2","Asian SEA4_A1","Asian SEA4_A1.1","Asian SEA4_A1.1.2","Asian SEA4_A1.2","Asian SEA5_A1.3","Indian-Sub_A1.1","Asian SEA5_A1","Asian_A1","Indian-Sub_A1","Asian","Indian-Sub"],"parents":["Asian SEA4_E1","Asian SEA4_C1.1.1","Asian SEA4_D1","Asian SEA4_B1.1.1","Asian SEA4_C1.1","Asian SEA4_C1","Asian SEA4_A1.2.2","Asian SEA4_B1.1","Asian SEA4_B1","Asian SEA4_A1.1.2","Asian SEA4_A1","Asian SEA4_A1.2","Asian_A1","Asian SEA4_A1","Asian SEA4_A1.1","Asian SEA4_A1","Asian SEA5_A1","Indian-Sub_A1","Asian","Asian","Indian-Sub","RABV","RABV"],"values":[13,7,14,8,6,35,7,7,5,6,5,4,170,36,193,206,1,1,0,0,0,0,0],"marker":{"color":"rgba(31,119,180,1)","colors":["#1C9099","#2A949F","#3999A6","#479EAD","#56A2B4","#64A7BB","#73ACC2","#81B1C9","#90B5D0","#9EBAD7","#A9BEDC","#B1C2DE","#B8C6E0","#BFCAE2","#C7CEE4","#CED2E7","#D5D6E9","#D95F0E","#DDDAEB","#E4DEED","#FEC44F","#ECE2F0","#FFF7BC"],"line":{"color":"rgba(255,255,255,1)"}},"type":"sunburst","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p><strong>Figure 2.</strong> Sunburst plot showing hierarchal
+relationships of lineages. Bar length corresponds to number of
+sequences. Plot is interactive. Hover over bars to see details, and
+click to zoom in on sections. </p>
+</div>
+<div id="lineage-changes-over-time" class="section level2">
+<h2>Lineage Changes Over Time</h2>
+<p>The sequences span 30 years from 1994 to 2024. The year with the
+greatest number of sequences is 2009 with 124 sequences.The most
+prevalent lineage is Asian SEA4_A1.2 with 206 sequences.</p>
+<p><img src="report_files/figure-html/years_graph-1.png" /><!-- -->
+<span class="math inline">\(~\)</span></p>
+<p><strong>Figure 4.</strong> <em>Above:</em> Number of sequences per
+year, with bars split by lineage. <em>Below:</em> Pie chart indicating
+proportions of lineages.</p>
+</div>
+<div id="areas-to-investigate" class="section level2">
+<h2>Areas to Investigate</h2>
+<p>There are no potentially emerging or undersampled lineages in this
+dataset! <span class="math inline">\(~\)</span> <strong>Table
+5.</strong> Details of potentially emerging or undersampled lineages
+relevant to this study. First and last years refer to the first and most
+recent years the lineage has been detected.</p>
+<p>There are no singletons of interest in this dataset! <span
+class="math inline">\(~\)</span> <strong>Table 6.</strong> Summary of
+singletons of interest relevant to this study. There are no singletons
+of interest in this dataset! <span class="math inline">\(~\)</span>
+<strong>Table 7.</strong> Details of individual singletons of interest
+relevant to this study.</p>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
