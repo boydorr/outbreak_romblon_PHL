@@ -5,12 +5,12 @@ library(ggspatial)
 library(dplyr)
 
 ## Reading in mapping data
-province <- st_read(dsn = here("gis_data", "PHL"), layer = "PHLsmallTEST_fixed")
-municipality <- st_read(dsn = here("gis_data", "PHL"), layer = "PHL_municipality")
-municipality_loc <- read.csv(here("gis_data", "PHL", "PHL_municipality_centroids.csv"))
+province <- st_read(dsn = here("data/gis"), layer = "PHLsmallTEST_fixed")
+municipality <- st_read(dsn = here("data/gis"), layer = "PHL_municipality")
+municipality_loc <- read.csv(here("data/gis", "PHL_municipality_centroids.csv"))
 
 ## Reading in metadata
-dat_cluster3 <- read.csv("processed_data/romblon_subtrees/cluster3.csv")
+dat_cluster3 <- read.csv("output/phylogenetic/romblon_subtrees/cluster3.csv")
 dat_cluster3 <- dat_cluster3 %>% filter(isTip == "TRUE" & Province == "Romblon")
 
 ## process GIS data
@@ -37,6 +37,7 @@ cluster3.map <- ggplot() +
   # geom_point(data = dat_cluster, aes(x = Lon,
   #                                    y = Lat,
   #                                    fill = factor(lineage_chain)),size=3, pch=21) +
+  coord_sf(xlim = c(121.8,122.4), ylim = c(12,12.75), expand = FALSE) +
   geom_jitter(data = dat_cluster3, aes(x = Lon,
                                       y = Lat, fill = factor(lineage_chain)),
               width = 0.02, height = 0.02,size=3, pch=21) +

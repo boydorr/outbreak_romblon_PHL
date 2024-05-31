@@ -3,11 +3,12 @@ library(sf)
 library(here)
 library(ggthemes)
 library(ggspatial)
+library(ggplot2)
 
 ## Reading in mapping data
-province <- st_read(dsn = here("gis_data", "PHL"), layer = "PHLsmallTEST_fixed")
-municipality <- st_read(dsn = here("gis_data", "PHL"), layer = "PHL_municipality")
-municipality_loc <- read.csv(here("gis_data", "PHL", "PHL_municipality_centroids.csv"))
+  province <- st_read(dsn = here("data/gis"), layer = "PHLsmallTEST_fixed")
+municipality <- st_read(dsn = here("data/gis"), layer = "PHL_municipality")
+
 
 
 # scale_fill_manual(values=c("deeppink","blue4","lightsalmon","darkred"),
@@ -29,12 +30,12 @@ philippines <- ggplot() +
   geom_sf(data=batangas , fill="deeppink",col="black")+
   geom_sf(data=laguna , fill="blue4",col="black")+
   geom_sf(data=quezon , fill="lightsalmon",col="black")+
-  geom_sf(data=romblon , fill="darkred",col="black")+
+  geom_sf(data=romblon , fill=alpha("darkred",0.5),col="black")+
   geom_sf(data=bulacan , fill="purple",col="black")+
   geom_sf(data=metro , fill="pink",col="black")+
-coord_sf(xlim = c(120,123), ylim = c(12,16), expand = FALSE) +
-  
+coord_sf(xlim = c(120.5,123.4), ylim = c(11.5,15.5), expand = FALSE) +
   theme_map() +#this is to differently format your map, feel free to remove :) 
+  geom_text(aes(x= 121.8, y = 12.5), label = "Tablas\nIsland", color = "black", size = 3,fontface = "bold")+
   theme(panel.background = element_rect(fill = "white"),
         panel.border= element_rect(color = "black", fill=NA),
         axis.ticks = element_blank(),

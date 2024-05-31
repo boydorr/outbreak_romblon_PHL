@@ -5,12 +5,12 @@ library(dplyr)
 library(ggspatial)
 
 ## Reading in mapping data
-province <- st_read(dsn = here("gis_data", "PHL"), layer = "PHLsmallTEST_fixed")
-municipality <- st_read(dsn = here("gis_data", "PHL"), layer = "PHL_municipality")
-municipality_loc <- read.csv(here("gis_data", "PHL", "PHL_municipality_centroids.csv"))
+province <- st_read(dsn = here("data/gis"), layer = "PHLsmallTEST_fixed")
+municipality <- st_read(dsn = here("data/gis"), layer = "PHL_municipality")
+municipality_loc <- read.csv(here("data/gis", "PHL_municipality_centroids.csv"))
 
 ## Reading in metadata
-dat_cluster2 <- read.csv("processed_data/romblon_subtrees/cluster2_cases.csv")
+dat_cluster2 <- read.csv("output/phylogenetic/romblon_subtrees/cluster2_cases.csv")
 # remove the label filter if want to plot related tc 3 cases
 dat_cluster2 <- dat_cluster2 %>% filter(isTip == "TRUE" & Province == "Romblon" & label=="H-23-011Sk_12")
 dat_cluster2$cluster <- "2"
@@ -45,6 +45,7 @@ cluster2.map <- ggplot() +
                                        y = Lat, fill = as.factor(lineage_chain)),
               width = 0.02, height = 0.02,size=3, pch=21) +
   guides(fill="none")+
+  coord_sf(xlim = c(121.8,122.4), ylim = c(12,12.75), expand = FALSE) +
   theme_map(); #this is to differently format your map, feel free to remove :) 
 cluster2.map
 

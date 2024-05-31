@@ -7,14 +7,13 @@ library(ggthemes)
 library(dplyr)
 
 ## Reading in mapping data
-province <- st_read(dsn = here("gis_data", "PHL"), layer = "PHLsmallTEST_fixed")
-province_loc <- read.csv("gis_data/PHL/PHL_province_centroids.csv")
-municipality <- st_read(dsn = here("gis_data", "PHL"), layer = "PHL_municipality")
+province <- st_read(dsn = here("data/gis"), layer = "PHLsmallTEST_fixed")
+municipality <- st_read(dsn = here("data/gis"), layer = "PHL_municipality")
+municipality_loc <- read.csv(here("data/gis", "PHL_municipality_centroids.csv"))
 #province_cropped <- province %>% filter(NAME_1 == "Romblon, Batangas, Bulacan, Laguna, Metropolitan Manila, Quezon")
-municipality_loc <- read.csv(here("gis_data", "PHL", "PHL_municipality_centroids.csv"))
 
 ## Reading in metadata
-dat_cluster <- read.csv("processed_data/romblon_subtrees/cluster1.csv")
+dat_cluster <- read.csv("output/phylogenetic/romblon_subtrees/cluster1.csv")
 dat_cluster <- dat_cluster %>% filter(isTip == "TRUE" & Province == "Romblon")
 
 
@@ -41,6 +40,7 @@ cluster1.map <- ggplot() +
           linewidth = 0.4,
           colour = "#ADB5BD")+
   geom_sf(data=romblon , fill="darkred", alpha=0.5)+
+  coord_sf(xlim = c(121.8,122.4), ylim = c(12,12.75), expand = FALSE) +
   # geom_point(data = dat_cluster, aes(x = Lon,
   #                                    y = Lat,
   #                                    fill = factor(lineage_chain)),size=3, pch=21) +
