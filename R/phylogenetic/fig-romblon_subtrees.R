@@ -34,6 +34,7 @@ tc$lineage_chain=paste0("chain",tc$lineage_chain)
 
 # add tc info to metadata
 all_phl.annot<- merge(all_phl.annot, tc, by = 'Sample.ID', all.x = TRUE)
+write.csv(all_phl.annot,"output/phylogenetic/concatenated_alignment/ph_metadata_merged_by_id_581_withTC.csv", row.names = F)
 
 # foundation tree plot:  aesthetics, ladderize
 gplot <- ggtree(all_phl.tree, mrsd='2023-03-01',ladderize = TRUE, size=0.1) %<+% all_phl.annot
