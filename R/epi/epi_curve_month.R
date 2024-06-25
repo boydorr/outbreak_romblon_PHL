@@ -1,4 +1,4 @@
-## Code used to create figure 1a 
+## Code used to create figure 2a 
 
 library(tidyverse)
 library(zoo)
@@ -60,11 +60,11 @@ yearly_plot =
 yearly_plot
 
 ## Export as png
-png(filename = "output/figures/fig1a.png",width = 750, height = 250)
+png(filename = "output/figures/fig2a.png",width = 750, height = 250)
 yearly_plot
 dev.off()
 
 ## Export as pdf
-pdf(file = "output/figures/fig1a.pdf",width = 12, height = 4)
+pdf(file = "output/figures/fig2a.pdf",width = 12, height = 4)
 yearly_plot
 dev.off()
