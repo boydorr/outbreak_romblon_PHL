@@ -5,6 +5,8 @@ library(janitor)
 library(zoo)
 library(ggthemes)
 library(ggspatial)
+
+## Code used to create epi map of cases (fig 2c)
 dat_outbreak <- read_csv("data/clean/dat_animal.csv")
 dat_human <- read_csv("data/clean/dat_human.csv")
 
@@ -106,13 +108,14 @@ dat_outbreak_grp <- dat_outbreak_grp %>%
 
 
 map_plot <- ggplot() + 
-  geom_sf(data = municipality_df_romblon,
-          alpha = 0,
-          linewidth = 0.4) +
   geom_sf(data = village, 
+          alpha = 0.1,
+          colour = "grey80",
+          linewidth = 0.3) +
+  geom_sf(data = municipality_df_romblon,
+          col = "grey50",
           alpha = 0,
-          colour = "#ADB5BD",
-          linewidth = 0.4) +
+          linewidth = 0.6) +
   coord_sf(xlim = c(121.8,122.4), ylim = c(12,12.75), expand = FALSE) +
   geom_point(data = dat_outbreak_grp, aes(x = Lon,
                                           y = Lat,
@@ -136,12 +139,12 @@ map_plot <- ggplot() +
   annotation_scale(location = "br", width_hint = 0.25)
 map_plot
 
-png(filename="output/figures/fig1d.png", width = 550, height = 450)
+png(filename="output/figures/fig2c.png", width = 550, height = 450)
 map_plot
 dev.off()
 
 
-pdf(file = "output/figures/fig1d.pdf",width = 8, height = 7)
+pdf(file = "output/figures/fig2c.pdf",width = 8, height = 7)
 map_plot
 dev.off()
 

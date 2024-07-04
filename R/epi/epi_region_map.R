@@ -4,11 +4,17 @@ library(ggthemes)
 library(here)
 library(ggspatial)
 
-## Code used to create fig1c highlighting the region around Romblon and the ports
+## Code used to create fig1a, 1b and 1c highlighting the region around Romblon and the ports
 
 ## Reading in mapping data
 province <- st_read(dsn = here("data", "gis"), layer = "PHLsmallTEST_fixed")
 province_romblon <- province %>% filter(NAME_1 == "Romblon")
+
+municipality <- st_read(dsn = here("data", "gis"), layer = "PHL_municipality")
+municipality_romblon <- municipality %>% filter(NAME_1 == "Romblon")
+municipality_df_romblon_cropped <- municipality_romblon %>% 
+  filter(NAME_2 != "Corcuera" & NAME_2 != "Banton" & NAME_2 != "Concepcion" & NAME_2 != "San Fernando" & NAME_2 != "Cajidiocan" & NAME_2 != "Magdiwang")
+
 
 ## GIS location of Manila, RADDL 4b and RITM
 manila <- list("Longitude" =  14.5995, "Latitude" =  120.9842)
@@ -19,6 +25,8 @@ ports = read_csv("data/clean/ports.csv")
 
 ports_romblon = ports %>% filter(Name != "airport")
 airport = ports %>% filter(Name == "airport")
+
+
 
 
 map = ggplot() + 
@@ -36,7 +44,7 @@ map = ggplot() +
   geom_point(data = ports_romblon, 
              aes(y = Longitude,
                  x = Latitude),
-                 colour = "dodgerblue3"
+             colour = "dodgerblue3"
   ) +
   geom_point(aes(y = manila$Longitude,
                  x = manila$Latitude),
@@ -58,19 +66,83 @@ map = ggplot() +
              shape = 18,
              size = 2.5
   ) +
-  # geom_sf(data = municipality_romblon, linewidth = 0.2, alpha = 0) +
   coord_sf(xlim = c(120.5,123.4), ylim = c(11,14.8), expand = FALSE) +
   theme_map() +
   theme(panel.border = element_rect(colour = "black", fill=NA, linewidth=1),
-        panel.background = element_rect(fill = "aliceblue")) +
-  annotation_scale(location = "bl", width_hint = 0.25)
+        panel.background = element_rect(fill = "white")) +
+  annotation_scale(style="ticks")
 
 map
 
-png(filename="output/figures/fig1c.png", width = 550, height = 450)
+png(filename="output/figures/fig1b.png", width = 550, height = 450)
+map
+dev.off()  
+
+pdf(file="output/figures/fig1b.pdf", width = 5.729, height = 4.6875)
 map
 dev.off()  
 
-pdf(file="output/figures/fig1c.pdf", width = 5.729, height = 4.6875)
-map
+
+
+mimaropa =  c("Oriental Mindoro", "Occidental Mindoro", "Palawan", "Romblon", "Marinduque")
+
+province_exclude = province %>% 
+  rowwise() %>% 
+  filter( !(NAME_1 %in% mimaropa))
+
+
+map_region = ggplot() + 
+  geom_sf(data = province,
+          fill = "lightgrey",
+          col = "lightgrey",
+          linewidth = 0.5) +
+  geom_sf(data = province_romblon,
+          linewidth = 0.5,
+          col = "lightgrey",
+          fill = "lightgrey") +
+  geom_sf(data = province_exclude,
+          fill = "dimgrey",
+          col = "dimgrey",
+          linewidth = 0.5) +
+  
+  theme_map() 
+
+pdf(file="output/figures/fig1a.pdf", width = 5.4, height = 4.3)
+map_region
 dev.off()  
+
+
+
+map_munic = ggplot() + 
+  geom_sf(data = municipality_df_romblon_cropped,
+          aes(fill = NAME_2),
+          alpha = 0.8, 
+          colour = "dimgrey",
+          linewidth = 0.5) +
+  scale_fill_manual(values = pals::kelly(),name = "Municipality") +
+  geom_point(aes(y = airport$Longitude,
+                 x = airport$Latitude),
+             col = "goldenrod1"
+  ) +
+  geom_point(data = ports_romblon, 
+             aes(y = Longitude,
+                 x = Latitude),
+             colour = "dodgerblue3"
+  ) +
+  coord_sf(xlim = c(121.79,122.42), ylim = c(12,12.75), expand = FALSE) +
+  geom_text(aes(x= 121.98, y = 12.67), label = "Tablas\nIsland", color = "black", size = 4,fontface = "bold") +
+  geom_text(aes(x= 122.35, y = 12.65), label = "Romblon\nIsland", color = "black", size = 4,fontface = "bold") +
+  geom_text(aes(x= 121.85, y = 12.1), label = "San Jose\nIsland", color = "black", size = 4,fontface = "bold") +
+  theme_minimal(base_size = 12) +
+  theme(legend.position = "left",
+        panel.grid.major = element_blank(),
+        axis.text=element_blank(),
+        axis.ticks=element_blank(),
+        axis.title = element_blank())
+
+map_munic
+
+pdf(file="output/figures/fig1c.pdf", width = 5.4, height = 4.3)
+map_munic
+dev.off()  
+

@@ -18,7 +18,7 @@ dat_outbreak_delay <- dat_outbreak %>%
   filter(!is.na(tests_raddl_rdt) | !is.na(tests_speedier)) %>% 
   filter(tests_raddl_rdt != "Unknown")
 
-## creat one date for the laboratory date
+## create one date for the laboratory date
 dat_outbreak_delay <- dat_outbreak_delay %>% 
   mutate(date_lab_confirmation = as.Date(ifelse(is.na(date_tests_raddl), date_tests_speedier, date_tests_raddl))) %>% 
   mutate(date_lab_confirmation = as.Date(ifelse(is.na(date_lab_confirmation), date_sample_collection, date_lab_confirmation)))
@@ -67,8 +67,46 @@ l_model <- lm(time_delay ~ 1, ani_td_death)
 confint(l_model, level=0.95)
 
 ## Calculate the average number of exposures
-dat_outbreak <- dat_outbreak %>% 
+dat_outbreak_exp <- dat_outbreak %>% 
   filter(case_status != "dFAT Negative") %>% 
   mutate(exposures = as.numeric(exposures))
 
-mean(dat_outbreak$exposures, na.rm = T)
+mean(dat_outbreak_exp$exposures, na.rm = T)
+
+
+
+## Time delay between biting incident and PEP
+##  only interested in confirmed and probable cases
+ani_td_pep <- dat_outbreak %>% filter(exposures >= 1)
+
+
+ani_td_pep <- ani_td_pep %>% filter(!is.na(date_biting_incident)) 
+
+ani_td_pep <- ani_td_pep %>% 
+  mutate(pep_date = ifelse(is.na(pep_date), pep_date_init, pep_date)) %>% 
+  filter(!is.na(pep_date)) %>% 
+  mutate(pep_date = as.Date(pep_date))
+
+ani_td_pep <- ani_td_pep %>% 
+  mutate(time_delay =  pep_date - date_biting_incident) %>% 
+  mutate(time_delay = as.numeric(time_delay))
+
+mean(ani_td_pep$time_delay)
+median(ani_td_pep$time_delay)
+
+l_model <- lm(time_delay ~ 1, ani_td_pep)
+confint(l_model, level=0.95)
+
+#% of rabies-negative dogs had a history of rabies vaccination.
+
+dat_outbreak_vac = dat_outbreak %>% 
+  filter(case_status == "dFAT Negative")
+
+dat_outbreak_vac <- dat_outbreak_vac %>% 
+  mutate(vacstatus_biting_animal = ifelse(is.na(vacstatus_biting_animal), "Unknown",vacstatus_biting_animal))
+
+table(dat_outbreak_vac$vacstatus_biting_animal)
+nrow(dat_outbreak_vac)
+
+(nrow(dat_outbreak_vac[dat_outbreak_vac$vacstatus_biting_animal == "Vaccinated",])/nrow(dat_outbreak_vac))*100
+

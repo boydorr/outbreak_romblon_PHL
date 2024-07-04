@@ -1,142 +1,54 @@
-case_no,samples_sequenced_seq_id,barangay,municipality,province,case_status,date_sample_collection,date_biting_incident,date_lab_submission_form,date_animal_died,biting_animal,is_owned_biting_animal,date_tests_raddl,date_tests_ritm,date_tests_pvo,date_tests_mao,date_tests_speedier,tests_speedier,tests_raddl_rdt,tests_pvo,tests_mao,exposures,date,month_year
-OM-1,NA,Malinao,Naujan,Oriental Mindoro,Confirmed,NA,NA,2020-02-10,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-02-10,Feb 2020
-OM-2,NA,B. Del Mundo,Mansalay,Oriental Mindoro,Confirmed,NA,NA,2020-04-02,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-04-02,Apr 2020
-OM-3,NA,Del Pilar,Naujan,Oriental Mindoro,Confirmed,NA,NA,2020-09-26,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-09-26,Sep 2020
-OM-4,NA,Sapul,Calapan City,Oriental Mindoro,Confirmed,NA,NA,2020-01-26,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-01-26,Jan 2020
-OM-5,NA,San Narciso,Victoria,Oriental Mindoro,Confirmed,NA,NA,2021-02-09,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2021-02-09,Feb 2021
-OM-6,NA,Tabinay,Puerto Galera,Oriental Mindoro,Confirmed,NA,NA,2021-03-05,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2021-03-05,Mar 2021
-OM-7,NA,Tabinay,Puerto Galera,Oriental Mindoro,Confirmed,NA,NA,2021-03-10,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2021-03-10,Mar 2021
-OM-8,NA,Santo Nino,Puerto Galera,Oriental Mindoro,Confirmed,NA,NA,2021-03-29,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2021-03-29,Mar 2021
-OM-9,NA,Malapad,Baco,Oriental Mindoro,Confirmed,NA,NA,2021-04-14,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2021-04-14,Apr 2021
-OM-10,NA,Salong,Calapan City,Oriental Mindoro,Confirmed,NA,NA,2021-04-23,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2021-04-23,Apr 2021
-OM-11,NA,San Isidro,Puerto Galera,Oriental Mindoro,Confirmed,NA,NA,2022-01-05,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-01-05,Jan 2022
-OM-12,NA,Mayabig,Baco,Oriental Mindoro,Confirmed,NA,NA,2022-01-14,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-01-14,Jan 2022
-OM-13,NA,Anilao,Bongabong,Oriental Mindoro,Confirmed,NA,NA,2022-02-09,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-02-09,Feb 2022
-OM-14,NA,Mangangan I,Baco,Oriental Mindoro,Confirmed,NA,NA,2022-02-09,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-02-09,Feb 2022
-OM-15,NA,Mangangan I,Baco,Oriental Mindoro,Confirmed,NA,NA,2022-02-16,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-02-16,Feb 2022
-OM-16,NA,Dalajican,Roxas,Oriental Mindoro,Confirmed,NA,NA,2022-02-17,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-02-17,Feb 2022
-OM-17,NA,Libertad,Roxas,Oriental Mindoro,Confirmed,NA,NA,2023-03-02,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2023-03-02,Mar 2023
-OM-18,NA,Tagumpay,Baco,Oriental Mindoro,Confirmed,NA,NA,2022-03-07,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-03-07,Mar 2022
-OM-19,NA,Santa Teresita,Mansalay,Oriental Mindoro,Confirmed,NA,NA,2022-04-22,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-04-22,Apr 2022
-OM-20,NA,Polusahi,Bongabong,Oriental Mindoro,Confirmed,NA,NA,2022-04-29,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-04-29,Apr 2022
-OM-21,NA,Narra,Gloria,Oriental Mindoro,Confirmed,NA,NA,2022-05-08,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-05-08,May 2022
-OM-22,NA,Don Pedro,Mansalay,Oriental Mindoro,Confirmed,NA,NA,2022-05-19,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-05-19,May 2022
-OM-23,NA,NA,Pinamalayan,Oriental Mindoro,Confirmed,NA,NA,2022-05-31,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-05-31,May 2022
-OM-24,NA,NA,Baco,Oriental Mindoro,Confirmed,NA,NA,2022-07-27,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-07-27,Jul 2022
-OM-25,NA,NA,Baco,Oriental Mindoro,Confirmed,NA,NA,2022-08-12,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2022-08-12,Aug 2022
-OM-26,NA,Bayanan,Pola,Oriental Mindoro,Confirmed,2022-08-15,2022-08-14,2022-08-15,NA,Dog,Yes,2022-08-18,2022-12-07,NA,NA,NA,NA,RDT+,NA,NA,1,2022-08-14,Aug 2022
-R-9,4B-22-37,San Isidro,Alcantara,Romblon,Confirmed,2022-10-02,2022-09-30,2022-10-01,2022-10-01,Dog,Yes,2022-10-17,2022-12-07,NA,NA,NA,NA,RDT+,NA,NA,1,2022-09-30,Sep 2022
-R-4,4B-22-39,San Isidro,Alcantara,Romblon,Confirmed,2022-10-21,2022-10-17,2022-10-21,2022-10-21,Dog,Yes,NA,2022-12-07,NA,NA,NA,NA,NA,NA,NA,4,2022-10-17,Oct 2022
-OM-27,NA,Bagumbayan,Roxas,Oriental Mindoro,Confirmed,2022-10-25,2022-10-22,2022-10-25,NA,Dog,Yes,2022-10-28,2022-12-07,NA,NA,NA,NA,RDT+,NA,NA,3,2022-10-22,Oct 2022
-M-5,NA,Bangbangalon,Boac,Marinduque,Probable,2023-10-23,2023-10-13,2023-10-23,2023-10-15,Dog,Yes,2023-11-03,NA,NA,NA,NA,NA,NA,NA,NA,3,2023-10-13,Oct 2023
-M-6,NA,Bangbangalon,Boac,Marinduque,Probable,2023-10-23,NA,2023-10-23,2023-10-16,Dog,No,2023-11-03,NA,NA,NA,NA,NA,NA,NA,NA,0,2023-10-23,Oct 2023
-R-3,Z-22-103,Paroyhog,Santa Maria,Romblon,Confirmed,2022-11-21,2022-11-18,NA,2022-11-18,Dog,Yes,NA,2022-11-22,NA,NA,2022-11-21,RDT+,NA,NA,NA,3,2022-11-18,Nov 2022
-R-75,4B-22-45,Concepcion Sur,Santa Maria,Romblon,Confirmed,2022-12-12,NA,2022-12-29,2022-12-12,Dog,No,NA,2023-01-04,NA,NA,NA,NA,NA,NA,NA,0,2022-12-12,Dec 2022
-R-5,4B-22-41,Dapawan,Odiongan,Romblon,Confirmed,2022-11-24,2022-11-23,2022-12-05,2022-11-24,Dog,Yes,2022-12-05,2022-12-07,NA,NA,NA,NA,RDT+,NA,NA,3,2022-11-23,Nov 2022
-OM-28,NA,Balugo,Mansalay,Oriental Mindoro,Confirmed,2022-12-02,2022-12-02,2022-12-02,NA,Dog,Yes,2022-12-05,2022-12-07,NA,NA,NA,NA,RDT+,NA,NA,1,2022-12-02,Dec 2022
-R-6,4B-22-42,Bonlao,Alcantara,Romblon,Confirmed,2022-11-26,2022-11-24,2022-11-26,2022-11-26,Dog,Yes,2022-12-05,2022-12-07,NA,NA,NA,NA,RDT+,NA,NA,1,2022-11-24,Nov 2022
-R-7,NA,Dapawan,Odiongan,Romblon,Confirmed,2022-12-10,NA,2022-12-10,2022-12-10,Dog,Yes,2022-12-15,2023-01-06,NA,NA,NA,NA,RDT-,NA,NA,0,2022-12-10,Dec 2022
-R-15,4B-22-44,Dapawan,Odiongan,Romblon,Confirmed,2022-12-11,NA,2022-12-11,2022-12-11,Dog,Yes,2022-12-15,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2022-12-11,Dec 2022
-R-10,Z-22-121,Carmen,San Agustin,Romblon,Confirmed,2022-12-19,2022-12-13,2022-12-28,2022-12-18,Dog,Yes,NA,2023-01-04,NA,NA,NA,NA,NA,NA,NA,1,2022-12-13,Dec 2022
-R-14,Z-22-119,Tulay,Odiongan,Romblon,Confirmed,2022-12-25,2022-12-25,2022-12-28,2022-12-25,Dog,Yes,NA,2023-01-04,NA,NA,NA,NA,NA,NA,NA,1,2022-12-25,Dec 2022
-R-17,4B-23-02,Dapawan,Odiongan,Romblon,Confirmed,2023-01-13,NA,2023-01-13,2023-01-13,Dog,Yes,NA,2023-02-03,NA,NA,NA,NA,NA,NA,NA,0,2023-01-13,Jan 2023
-R-20,4B-23-01,Concepcion Norte,Santa Maria,Romblon,Confirmed,2023-01-20,NA,NA,2023-01-19,Dog,Yes,NA,2023-02-03,NA,NA,NA,NA,NA,NA,NA,0,2023-01-20,Jan 2023
-R-18,4B-23-03,Sugod,San Agustin,Romblon,Confirmed,2023-01-21,2023-01-20,2023-01-21,2023-01-21,Dog,No,NA,2023-02-03,NA,NA,NA,NA,NA,NA,NA,4,2023-01-20,Jan 2023
-R-21,4B-23-05,Sugod,San Agustin,Romblon,Confirmed,2023-01-30,NA,2023-01-30,2023-01-27,Dog,Yes,NA,2023-02-03,NA,NA,NA,NA,NA,NA,NA,0,2023-01-30,Jan 2023
-R-22,4B-23-04,Carmen,San Agustin,Romblon,Confirmed,2023-01-31,NA,2023-01-31,2023-01-30,Dog,Yes,NA,2023-02-03,NA,NA,NA,NA,NA,NA,NA,0,2023-01-31,Jan 2023
-OM-29,NA,Odiong,Roxas,Oriental Mindoro,Confirmed,2023-03-16,2023-03-13,2023-03-16,2023-03-15,Dog,Yes,2023-03-20,2023-03-27,NA,NA,NA,NA,RDT+,NA,NA,1,2023-03-13,Mar 2023
-R-23,4B-23-06,Concepcion Norte,Santa Maria,Romblon,Confirmed,2023-01-31,2023-01-10,NA,2023-01-31,Dog,Yes,NA,2023-02-03,NA,NA,NA,NA,NA,NA,NA,0,2023-01-10,Jan 2023
-OM-30,NA,Bigaan,San Teodoro,Oriental Mindoro,Confirmed,2023-03-21,2023-03-20,2023-03-21,2023-03-20,Dog,Yes,2023-03-21,2023-03-27,NA,NA,NA,NA,RDT+,NA,NA,1,2023-03-20,Mar 2023
-R-28,4B-23-07,Concepcion Sur,Santa Maria,Romblon,Confirmed,2023-02-09,NA,2023-02-09,2023-02-07,Dog,No,NA,2023-02-13,NA,NA,NA,NA,NA,NA,NA,0,2023-02-09,Feb 2023
-R-31,4B-23-13,Rizal,Odiongan,Romblon,Confirmed,2023-02-22,2023-02-05,2023-02-22,2023-02-19,Dog,Yes,NA,2023-02-28,NA,NA,NA,NA,RDT+,RDT+,NA,1,2023-02-05,Feb 2023
-R-29,4B-23-11,Juncarlo,San Andres,Romblon,Confirmed,NA,NA,2023-02-09,NA,Dog,Yes,NA,2023-02-13,NA,NA,NA,NA,NA,NA,NA,1,2023-02-09,Feb 2023
-R-33,4B-23-12,Concepcion Norte,Santa Maria,Romblon,Confirmed,2023-02-15,2023-02-14,2023-02-15,2023-02-14,Dog,Yes,NA,2023-02-28,NA,NA,NA,NA,NA,NA,NA,1,2023-02-14,Feb 2023
-R-30,4B-23-15,Poctoy,Odiongan,Romblon,Confirmed,2023-02-22,NA,NA,2023-02-16,Dog,No,NA,2023-02-28,NA,NA,NA,NA,RDT+,RDT+,NA,0,2023-02-22,Feb 2023
-R-34,4B-23-16,Dapawan,Odiongan,Romblon,Confirmed,2023-02-28,NA,2023-03-02,2023-02-28,Dog,Yes,NA,2023-03-06,NA,NA,NA,NA,NA,NA,NA,0,2023-02-28,Feb 2023
-R-35,4B-23-17,Poctoy,Odiongan,Romblon,Confirmed,2023-03-01,NA,2023-03-02,2023-03-01,Dog,No,NA,2023-03-06,NA,NA,NA,NA,NA,NA,NA,0,2023-03-01,Mar 2023
-R-37,4B-23-19,Mahabang Baybay,San Agustin,Romblon,Confirmed,2023-03-01,NA,2023-03-02,2023-03-01,Dog,No,NA,2023-03-06,NA,NA,NA,NA,NA,NA,NA,0,2023-03-01,Mar 2023
-R-2,NA,Cabolutan,San Agustin,Romblon,Confirmed,2022-11-17,2022-11-14,NA,2022-11-17,Dog,Yes,NA,2022-11-23,NA,NA,NA,NA,NA,NA,NA,2,2022-11-14,Nov 2022
-R-13,NA,Paroyhog,Santa Maria,Romblon,Confirmed,2022-12-28,NA,NA,2022-12-27,Dog,Yes,NA,2023-01-13,NA,NA,NA,NA,NA,NA,NA,0,2022-12-28,Dec 2022
-R-16,NA,Carmen,San Agustin,Romblon,Confirmed,2023-01-03,2023-01-03,NA,2023-01-03,Dog,No,NA,2023-01-13,NA,NA,NA,NA,NA,NA,NA,1,2023-01-03,Jan 2023
-R-39,NA,Gabawan,Odiongan,Romblon,Confirmed,2023-03-13,2023-03-10,2023-03-22,2023-03-13,Dog,No,2023-03-23,2023-03-27,NA,NA,NA,NA,RDT+,NA,NA,1,2023-03-10,Mar 2023
-R-38,NA,Canduyong,Odiongan,Romblon,Confirmed,2023-03-15,2023-03-14,2023-03-22,2023-03-15,Dog,Yes,2023-03-23,2023-03-27,NA,NA,NA,NA,RDT+,NA,NA,1,2023-03-14,Mar 2023
-R-42,NA,Gui-Ob,Alcantara,Romblon,Confirmed,2023-04-05,NA,2023-04-13,2023-04-05,Dog,No,NA,2023-05-02,NA,NA,NA,NA,RDT+,NA,NA,0,2023-04-05,Apr 2023
-R-43,NA,Punta,Looc,Romblon,Confirmed,2023-04-13,NA,2023-05-15,2023-04-13,Dog,Yes,2023-05-16,2023-05-16,NA,NA,NA,NA,RDT+,NA,NA,0,2023-04-13,Apr 2023
-R-44,NA,Pangulo,Calatrava,Romblon,Confirmed,2023-04-20,2023-04-19,2023-05-15,2023-04-20,Dog,Yes,2023-05-16,2023-05-16,NA,NA,NA,NA,RDT+,NA,NA,1,2023-04-19,Apr 2023
-R-48,NA,Cagbuaya,San Agustin,Romblon,Confirmed,2023-05-23,NA,2023-06-05,2023-05-23,Dog,Yes,2023-06-06,2023-06-06,NA,NA,NA,NA,RDT+,NA,NA,1,2023-05-23,May 2023
-M-33,NA,Maybo,Boac,Marinduque,Probable,2023-12-29,NA,NA,NA,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2023-12-29,Dec 2023
-R-59,NA,Carmen,San Agustin,Romblon,Confirmed,2023-07-04,2023-07-01,2023-08-14,2023-07-04,Dog,No,2023-08-18,NA,NA,NA,NA,NA,RDT+,NA,NA,3,2023-07-01,Jul 2023
-OM-33,NA,Dalajican,San Jose,Oriental Mindoro,Confirmed,2023-05-05,NA,2023-05-05,2023-05-05,Dog,No,2023-05-08,2023-05-05,NA,NA,NA,NA,RDT+,NA,NA,3,2023-05-05,May 2023
-R-56,NA,Matutuna,San Andres,Romblon,Confirmed,2023-07-07,2023-07-04,2023-07-13,2023-07-04,Dog,Yes,2023-07-13,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-07-04,Jul 2023
-R-58,NA,Linawan,San Andres,Romblon,Confirmed,2023-08-03,2023-08-03,2023-08-10,2023-08-03,Dog,No,2023-08-10,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-08-03,Aug 2023
-R-62,NA,Mat-I,Santa Fe,Romblon,Confirmed,2023-08-21,NA,2023-09-04,2023-08-21,Dog,No,2023-09-05,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-08-21,Aug 2023
-R-61,NA,Mat-I,Santa Fe,Romblon,Confirmed,2023-08-29,NA,2023-09-04,2023-08-29,Dog,No,2023-09-05,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-08-29,Aug 2023
-R-63,NA,Concepcion Norte,Santa Maria,Romblon,Confirmed,2023-09-11,2023-09-09,2023-09-25,2023-09-11,Dog,No,2023-09-27,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-09-09,Sep 2023
-R-65,NA,Bachawan,San Agustin,Romblon,Confirmed,2023-09-30,2023-09-27,2023-11-06,2023-09-30,Dog,Yes,2023-11-07,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-09-27,Sep 2023
-R-66,NA,Poblacion,Alcantara,Romblon,Confirmed,2023-10-17,NA,2023-11-06,2023-10-17,Dog,No,2023-11-07,NA,NA,NA,NA,NA,RDT+,RDT-,NA,0,2023-10-17,Oct 2023
-R-68,NA,Tabugon,Santa Fe,Romblon,Confirmed,2023-10-24,2023-10-24,2023-11-06,2023-10-24,Dog,No,2023-11-07,NA,NA,NA,NA,NA,RDT+,RDT+,NA,1,2023-10-24,Oct 2023
-OM-35,NA,Libtong,Roxas,Oriental Mindoro,Confirmed,2023-08-01,2023-07-31,2023-08-01,2023-07-31,Dog,Yes,2023-08-02,NA,NA,NA,NA,NA,RDT+,NA,NA,2,2023-07-31,Jul 2023
-R-67,NA,Pangulo,Calatrava,Romblon,Confirmed,2023-10-26,2023-10-25,2023-11-06,2023-10-25,Dog,Yes,2023-11-07,NA,NA,NA,NA,NA,RDT+,RDT+,NA,1,2023-10-25,Oct 2023
-OM-36,NA,San Isidro,Puerto Galera,Oriental Mindoro,Confirmed,2023-08-23,2023-08-23,2023-08-23,2023-08-23,Dog,Yes,2023-08-25,NA,NA,NA,NA,NA,RDT+,NA,NA,2,2023-08-23,Aug 2023
-OM-37,NA,Bagumbayan I,Bongabong,Oriental Mindoro,Confirmed,2023-08-31,2023-08-30,2023-08-31,2023-08-30,Dog,No,2023-09-01,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-08-30,Aug 2023
-R-69,NA,Poblacion,Looc,Romblon,Confirmed,2023-11-13,NA,2023-12-18,2023-11-13,Dog,No,2023-12-19,NA,NA,NA,NA,NA,RDT+,RDT+,NA,0,2023-11-13,Nov 2023
-R-74,NA,Sugod,San Agustin,Romblon,Confirmed,2023-12-07,NA,NA,2023-12-07,Dog,Yes,2023-12-19,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-12-07,Dec 2023
-R-45,NA,Concepcion Sur,Santa Maria,Romblon,Probable,NA,2022-12-26,NA,NA,Dog,Don't know,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2022-12-26,Dec 2022
-R-46,NA,Tulay,Odiongan,Romblon,Probable,NA,2023-01-01,NA,NA,Dog,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2023-01-01,Jan 2023
-R-1,NA,Paroyhog,Santa Maria,Romblon,Probable,NA,2022-11-12,NA,2022-11-12,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2022-11-12,Nov 2022
-OM-38,NA,Poblacion III,Victoria,Oriental Mindoro,Confirmed,2023-10-02,2023-10-02,2023-10-02,2023-10-02,Dog,Yes,2023-10-03,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-10-02,Oct 2023
-R-70,NA,Poblacion,Alcantara,Romblon,Confirmed,2023-12-12,NA,NA,2023-12-12,Dog,Yes,2023-12-19,NA,2023-12-15,NA,NA,NA,RDT+,RDT+,NA,1,2023-12-12,Dec 2023
-R-72,NA,San Roque,Alcantara,Romblon,Confirmed,2023-12-14,NA,2023-12-18,2023-12-14,Dog,No,2023-12-19,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-12-14,Dec 2023
-M-1,NA,Apitong,Boac,Marinduque,Confirmed,2023-09-24,NA,NA,2023-09-24,Pig,Yes,2023-09-28,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-09-24,Sep 2023
-M-2,NA,Balogo,Boac,Marinduque,Confirmed,2023-10-06,NA,NA,2023-10-10,Dog,No,2023-10-16,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-10-06,Oct 2023
-M-3,NA,Agumaymayan,Boac,Marinduque,Confirmed,2023-10-09,2023-10-06,2023-10-10,2023-10-09,Dog,Yes,2023-10-16,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-10-06,Oct 2023
-OM-40,NA,Malayong,Gloria,Oriental Mindoro,Confirmed,2023-10-20,2023-10-20,2023-10-20,2023-10-20,Dog,Yes,2023-11-03,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-10-20,Oct 2023
-M-4,NA,Laylay,Boac,Marinduque,Confirmed,2023-10-23,NA,NA,NA,Dog,NA,2023-11-03,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-10-23,Oct 2023
-R-40,NA,Sugod,San Agustin,Romblon,Confirmed,NA,NA,2023-03-31,NA,Dog,Yes,NA,2023-04-03,NA,NA,NA,NA,NA,NA,NA,1,2023-03-31,Mar 2023
-M-7,NA,Bangbangalon,Boac,Marinduque,Confirmed,2023-10-23,NA,2023-10-23,2023-10-16,Dog,No,2023-11-03,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-10-23,Oct 2023
-M-8,NA,Isok I,Boac,Marinduque,Confirmed,2023-10-21,NA,2023-10-26,2023-10-21,Dog,No,2023-11-03,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-10-21,Oct 2023
-M-9,NA,Bocboc,Mogpog,Marinduque,Confirmed,2023-10-23,2023-10-22,2023-10-26,2023-10-23,Dog,No,2023-11-03,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-10-22,Oct 2023
-M-10,NA,Pili,Boac,Marinduque,Confirmed,2023-10-23,2023-10-22,2023-10-26,2023-10-23,Dog,Yes,2023-11-03,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-10-22,Oct 2023
-OM-41,NA,Ilag,San Teodoro,Oriental Mindoro,Confirmed,2023-11-16,2023-11-15,2023-11-16,2023-11-16,Dog,No,2023-11-17,NA,NA,NA,NA,NA,RDT+,NA,NA,3,2023-11-15,Nov 2023
-M-11,NA,Tabi,Boac,Marinduque,Confirmed,2023-11-08,2023-11-08,2023-11-10,2023-11-08,Dog,Yes,2023-11-13,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-11-08,Nov 2023
-M-12,NA,Pili,Boac,Marinduque,Confirmed,2023-11-08,2023-11-08,2023-11-10,2023-11-08,Dog,No,2023-11-13,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-11-08,Nov 2023
-M-13,NA,Maligaya,Boac,Marinduque,Confirmed,2023-11-08,NA,2023-11-10,2023-11-08,Dog,No,2023-11-13,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-11-08,Nov 2023
-M-14,NA,Maligaya,Boac,Marinduque,Confirmed,2023-11-07,NA,2023-11-10,2023-11-07,Dog,No,2023-11-13,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-11-07,Nov 2023
-OM-42,NA,San Isidro,Puerto Galera,Oriental Mindoro,Confirmed,2023-11-17,2023-11-11,2023-11-17,2023-11-17,Dog,Yes,2023-11-20,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-11-11,Nov 2023
-M-15,NA,Balimbing,Boac,Marinduque,Confirmed,NA,NA,NA,NA,Dog,Yes,2023-12-07,NA,NA,NA,NA,NA,RDT+,RDT+,NA,0,2023-12-07,Dec 2023
-M-16,NA,Poras,Boac,Marinduque,Confirmed,2023-11-24,NA,NA,2023-11-24,Dog,Yes,2023-12-07,NA,NA,NA,NA,NA,RDT+,RDT+,NA,0,2023-11-24,Nov 2023
-M-20,NA,Lupac,Boac,Marinduque,Confirmed,2023-11-26,NA,NA,2023-11-26,Goat,Yes,2023-12-07,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-11-26,Nov 2023
-M-21,NA,Maligaya,Boac,Marinduque,Confirmed,2023-11-28,2023-11-28,NA,2023-11-28,Dog,Yes,2023-12-07,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-11-28,Nov 2023
-M-22,NA,Laon,Mogpog,Marinduque,Confirmed,2023-11-28,NA,NA,2023-11-28,Dog,No,2023-12-07,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-11-28,Nov 2023
-M-23,NA,Poctoy,Boac,Marinduque,Confirmed,2023-11-27,2023-11-27,NA,2023-11-27,Dog,Yes,2023-12-07,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-11-27,Nov 2023
-M-24,NA,Cawit,Boac,Marinduque,Confirmed,2023-11-27,2023-11-27,NA,2023-11-27,Dog,No,2023-12-07,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-11-27,Nov 2023
-M-25,NA,Bunganay,Boac,Marinduque,Confirmed,2023-11-30,NA,NA,2023-11-30,Dog,No,2023-12-07,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-11-30,Nov 2023
-M-26,NA,Tabigue,Boac,Marinduque,Confirmed,2023-12-05,NA,NA,2023-12-05,Pig,Yes,2023-12-14,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-12-05,Dec 2023
-M-27,NA,Hinapulan,Boac,Marinduque,Confirmed,2023-12-05,NA,NA,2023-12-05,Dog,Yes,2023-12-14,NA,NA,NA,NA,NA,RDT+,NA,NA,0,2023-12-05,Dec 2023
-R-41,NA,Dubduban,San Agustin,Romblon,Confirmed,NA,NA,2023-03-31,NA,Dog,Yes,NA,2023-04-03,NA,NA,NA,NA,NA,NA,NA,1,2023-03-31,Mar 2023
-OM-39,NA,Tacligan,San Teodoro,Oriental Mindoro,Probable,2023-10-26,2023-10-25,2023-10-26,2023-10-26,Dog,Yes,2023-10-31,NA,NA,NA,NA,NA,NA,NA,NA,2,2023-10-25,Oct 2023
-M-29,NA,Dampulan,Torrijos,Marinduque,Confirmed,2024-01-05,NA,NA,2024-01-05,Dog,No,2024-01-16,NA,NA,NA,NA,NA,RDT+,RDT+,NA,1,2024-01-05,Jan 2024
-M-30,NA,Malusak,Boac,Marinduque,Confirmed,2024-01-09,NA,NA,2024-01-09,Dog,No,2024-01-16,NA,NA,NA,NA,NA,RDT+,RDT+,NA,1,2024-01-09,Jan 2024
-M-31,NA,Masiga,Gasan,Marinduque,Confirmed,2024-01-09,NA,NA,2024-01-09,Dog,Yes,2024-01-16,NA,NA,NA,NA,NA,RDT+,RDT+,NA,0,2024-01-09,Jan 2024
-OM-43,NA,Bigaan,San Teodoro,Oriental Mindoro,Confirmed,2024-01-10,2024-01-10,NA,2024-01-10,Dog,No,2024-01-16,NA,NA,NA,NA,NA,RDT+,NA,NA,2,2024-01-10,Jan 2024
-M-34,NA,Buangan,Torrijos,Marinduque,Confirmed,2024-01-16,NA,2024-02-01,2024-01-15,Dog,Yes,2024-02-02,NA,NA,NA,NA,NA,RDT+,RDT+,NA,1,2024-01-16,Jan 2024
-M-35,NA,Masiga,Gasan,Marinduque,Confirmed,2024-01-29,NA,2024-02-01,2024-01-18,Dog,Yes,2024-02-02,NA,NA,NA,NA,NA,RDT+,RDT+,NA,0,2024-01-29,Jan 2024
-OM-45,NA,Poblacion,Bansud,Oriental Mindoro,Confirmed,2024-01-17,2024-01-16,NA,2024-01-16,Dog,Yes,2024-01-22,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2024-01-16,Jan 2024
-OM-46,NA,Balatero,Puerto Galera,Oriental Mindoro,Confirmed,2024-01-29,2024-01-25,NA,2024-01-27,Dog,Yes,2024-01-30,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2024-01-25,Jan 2024
-M-36,NA,Santol,Boac,Marinduque,Probable,2024-01-19,NA,NA,2024-01-18,Dog,NA,NA,NA,NA,NA,NA,NA,RDT-,NA,NA,NA,2024-01-19,Jan 2024
-M-37,NA,Lupac,Boac,Marinduque,Confirmed,2024-01-23,NA,2024-02-01,2024-01-23,Dog,No,2024-02-02,NA,NA,NA,NA,NA,RDT+,NA,NA,NA,2024-01-23,Jan 2024
-M-38,NA,Laylay,Boac,Marinduque,Confirmed,2024-01-24,NA,2024-02-01,2024-01-24,Dog,No,2024-02-02,NA,NA,NA,NA,NA,RDT+,NA,NA,N/A,2024-01-24,Jan 2024
-M-39,NA,Masiga,Gasan,Marinduque,Confirmed,2024-01-25,NA,2024-02-01,2024-01-25,Dog,No,2024-02-02,NA,NA,NA,NA,NA,RDT+,NA,NA,N/A,2024-01-25,Jan 2024
-M-40,NA,Poblacion,Torrijos,Marinduque,Confirmed,2024-01-25,NA,2024-02-01,2024-01-25,Dog,No,2024-02-02,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2024-01-25,Jan 2024
-M-41,NA,Tampus,Boac,Marinduque,Confirmed,2024-01-31,NA,2024-02-01,2024-01-31,Dog,Yes,2024-02-02,NA,NA,NA,NA,NA,RDT+,NA,NA,N/A,2024-01-31,Jan 2024
-M-42,NA,San Isidro,Santa Cruz,Marinduque,Confirmed,2024-01-31,NA,2024-02-01,2024-01-31,Dog,Yes,2024-02-02,NA,NA,NA,NA,NA,RDT+,NA,NA,5,2024-01-31,Jan 2024
-M-45,NA,Tiguion,Gasan,Marinduque,Probable,2024-02-01,NA,NA,2024-02-01,Dog,NA,NA,NA,NA,NA,NA,NA,RDT-,NA,NA,NA,2024-02-01,Feb 2024
-R-53,NA,Dubduban,San Agustin,Romblon,Confirmed,NA,NA,NA,NA,Dog,Yes,2023-06-27,NA,NA,NA,NA,NA,RDT+,NA,NA,NA,2023-06-27,Jun 2023
-OM-48,NA,Canubing I,Calapan City,Oriental Mindoro,Confirmed,2024-02-15,2024-02-12,2024-02-15,NA,Dog,Yes,2024-02-16,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2024-02-12,Feb 2024
-M-47,NA,Tabi,Boac,Marinduque,Confirmed,2024-02-01,NA,NA,2024-02-01,Dog,No,2024-02-16,NA,NA,NA,NA,NA,RDT+,NA,NA,NA,2024-02-01,Feb 2024
-M-48,NA,Barangay IV,Buenavista,Marinduque,Confirmed,2024-02-01,NA,NA,2024-01-31,Dog,No,2024-02-16,NA,NA,NA,NA,NA,RDT+,NA,NA,NA,2024-02-01,Feb 2024
-M-50,NA,Daykitin,Buenavista,Marinduque,Confirmed,2024-02-08,NA,NA,2024-02-08,Pig,Yes,2024-02-16,NA,NA,NA,NA,NA,RDT+,NA,NA,NA,2024-02-08,Feb 2024
-M-51,NA,Bangbangalon,Boac,Marinduque,Confirmed,2024-02-20,NA,2024-02-22,2024-02-20,Dog,No,2024-02-23,NA,NA,NA,NA,NA,RDT+,NA,NA,NA,2024-02-20,Feb 2024
-M-52,NA,Barangay I,Buenavista,Marinduque,Confirmed,2024-02-16,2024-02-16,2024-02-22,2024-02-17,Dog,Yes,2024-02-23,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2024-02-16,Feb 2024
-OC-1,NA,NA,Rizal,Occidental Mindoro,Confirmed,2023-08-09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2023-08-09,Aug 2023
-OC-2,NA,NA,Rizal,Occidental Mindoro,Confirmed,2023-08-21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2023-08-21,Aug 2023
+case_no,samples_sequenced_seq_id,barangay,municipality,province,case_status,date_sample_collection,date_biting_incident,date_lab_submission_form,date_animal_died,biting_animal,is_owned_biting_animal,date_tests_raddl,date_tests_ritm,date_tests_pvo,date_tests_mao,date_tests_speedier,tests_speedier,tests_raddl_rdt,tests_pvo,tests_mao,exposures,pep_date,pep_date_init,vacstatus_biting_animal,date,month_year
+R-9,4B-22-37,San Isidro,Alcantara,Romblon,Confirmed,2022-10-02,2022-09-30,2022-10-01,2022-10-01,Dog,Yes,2022-10-17,2022-12-07,NA,NA,NA,NA,RDT+,NA,NA,1,NA,NA,Unvaccinated,2022-09-30,Sep 2022
+R-4,4B-22-39,San Isidro,Alcantara,Romblon,Confirmed,2022-10-21,2022-10-17,2022-10-21,2022-10-21,Dog,Yes,NA,2022-12-07,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,Unvaccinated,2022-10-17,Oct 2022
+R-2,NA,Cabolutan,San Agustin,Romblon,Confirmed,2022-11-17,2022-11-14,NA,2022-11-17,Dog,Yes,NA,2022-11-23,NA,NA,NA,NA,NA,NA,NA,2,2022-11-17,2022-11-17,Unvaccinated,2022-11-14,Nov 2022
+R-3,Z-22-103,Paroyhog,Santa Maria,Romblon,Confirmed,2022-11-21,2022-11-18,NA,2022-11-18,Dog,Yes,NA,2022-11-22,NA,NA,2022-11-21,RDT+,NA,NA,NA,3,2022-11-18,2022-11-18,Unvaccinated,2022-11-18,Nov 2022
+R-5,4B-22-41,Dapawan,Odiongan,Romblon,Confirmed,2022-11-24,2022-11-23,2022-12-05,2022-11-24,Dog,Yes,2022-12-05,2022-12-07,NA,NA,NA,NA,RDT+,NA,NA,3,NA,NA,Vaccinated,2022-11-23,Nov 2022
+R-6,4B-22-42,Bonlao,Alcantara,Romblon,Confirmed,2022-11-26,2022-11-24,2022-11-26,2022-11-26,Dog,Yes,2022-12-05,2022-12-07,NA,NA,NA,NA,RDT+,NA,NA,1,NA,NA,Unvaccinated,2022-11-24,Nov 2022
+R-7,NA,Dapawan,Odiongan,Romblon,Confirmed,2022-12-10,NA,2022-12-10,2022-12-10,Dog,Yes,2022-12-15,2023-01-06,NA,NA,NA,NA,RDT-,NA,NA,0,NA,NA,NA,2022-12-10,Dec 2022
+R-15,4B-22-44,Dapawan,Odiongan,Romblon,Confirmed,2022-12-11,NA,2022-12-11,2022-12-11,Dog,Yes,2022-12-15,NA,NA,NA,NA,NA,RDT+,NA,NA,1,NA,NA,Unvaccinated,2022-12-11,Dec 2022
+R-75,4B-22-45,Concepcion Sur,Santa Maria,Romblon,Confirmed,2022-12-12,NA,2022-12-29,2022-12-12,Dog,No,NA,2023-01-04,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,Unvaccinated,2022-12-12,Dec 2022
+R-10,Z-22-121,Carmen,San Agustin,Romblon,Confirmed,2022-12-19,2022-12-13,2022-12-28,2022-12-18,Dog,Yes,NA,2023-01-04,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,2022-12-13,Dec 2022
+R-14,Z-22-119,Tulay,Odiongan,Romblon,Confirmed,2022-12-25,2022-12-25,2022-12-28,2022-12-25,Dog,Yes,NA,2023-01-04,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,Unvaccinated,2022-12-25,Dec 2022
+R-13,NA,Paroyhog,Santa Maria,Romblon,Confirmed,2022-12-28,NA,NA,2022-12-27,Dog,Yes,NA,2023-01-13,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,2022-12-28,Dec 2022
+R-16,NA,Carmen,San Agustin,Romblon,Confirmed,2023-01-03,2023-01-03,NA,2023-01-03,Dog,No,NA,2023-01-13,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,2023-01-03,Jan 2023
+R-17,4B-23-02,Dapawan,Odiongan,Romblon,Confirmed,2023-01-13,NA,2023-01-13,2023-01-13,Dog,Yes,NA,2023-02-03,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,Unvaccinated,2023-01-13,Jan 2023
+R-20,4B-23-01,Concepcion Norte,Santa Maria,Romblon,Confirmed,2023-01-20,NA,NA,2023-01-19,Dog,Yes,NA,2023-02-03,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,Vaccinated,2023-01-20,Jan 2023
+R-18,4B-23-03,Sugod,San Agustin,Romblon,Confirmed,2023-01-21,2023-01-20,2023-01-21,2023-01-21,Dog,No,NA,2023-02-03,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,Unknown,2023-01-20,Jan 2023
+R-21,4B-23-05,Sugod,San Agustin,Romblon,Confirmed,2023-01-30,NA,2023-01-30,2023-01-27,Dog,Yes,NA,2023-02-03,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,2023-01-30,Jan 2023
+R-22,4B-23-04,Carmen,San Agustin,Romblon,Confirmed,2023-01-31,NA,2023-01-31,2023-01-30,Dog,Yes,NA,2023-02-03,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,Vaccinated,2023-01-31,Jan 2023
+R-23,4B-23-06,Concepcion Norte,Santa Maria,Romblon,Confirmed,2023-01-31,2023-01-10,NA,2023-01-31,Dog,Yes,NA,2023-02-03,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,Unvaccinated,2023-01-10,Jan 2023
+R-28,4B-23-07,Concepcion Sur,Santa Maria,Romblon,Confirmed,2023-02-09,NA,2023-02-09,2023-02-07,Dog,No,NA,2023-02-13,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,2023-02-09,Feb 2023
+R-33,4B-23-12,Concepcion Norte,Santa Maria,Romblon,Confirmed,2023-02-15,2023-02-14,2023-02-15,2023-02-14,Dog,Yes,NA,2023-02-28,NA,NA,NA,NA,NA,NA,NA,1,2023-02-14,NA,Vaccinated,2023-02-14,Feb 2023
+R-30,4B-23-15,Poctoy,Odiongan,Romblon,Confirmed,2023-02-22,NA,NA,2023-02-16,Dog,No,NA,2023-02-28,NA,NA,NA,NA,RDT+,RDT+,NA,0,NA,NA,Unvaccinated,2023-02-22,Feb 2023
+R-31,4B-23-13,Rizal,Odiongan,Romblon,Confirmed,2023-02-22,2023-02-05,2023-02-22,2023-02-19,Dog,Yes,NA,2023-02-28,NA,NA,NA,NA,RDT+,RDT+,NA,1,NA,NA,Vaccinated,2023-02-05,Feb 2023
+R-34,4B-23-16,Dapawan,Odiongan,Romblon,Confirmed,2023-02-28,NA,2023-03-02,2023-02-28,Dog,Yes,NA,2023-03-06,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,Unknown,2023-02-28,Feb 2023
+R-35,4B-23-17,Poctoy,Odiongan,Romblon,Confirmed,2023-03-01,NA,2023-03-02,2023-03-01,Dog,No,NA,2023-03-06,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,Unknown,2023-03-01,Mar 2023
+R-37,4B-23-19,Mahabang Baybay,San Agustin,Romblon,Confirmed,2023-03-01,NA,2023-03-02,2023-03-01,Dog,No,NA,2023-03-06,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,Unvaccinated,2023-03-01,Mar 2023
+R-39,NA,Gabawan,Odiongan,Romblon,Confirmed,2023-03-13,2023-03-10,2023-03-22,2023-03-13,Dog,No,2023-03-23,2023-03-27,NA,NA,NA,NA,RDT+,NA,NA,1,2023-03-10,NA,Unknown,2023-03-10,Mar 2023
+R-38,NA,Canduyong,Odiongan,Romblon,Confirmed,2023-03-15,2023-03-14,2023-03-22,2023-03-15,Dog,Yes,2023-03-23,2023-03-27,NA,NA,NA,NA,RDT+,NA,NA,1,NA,NA,Unvaccinated,2023-03-14,Mar 2023
+R-42,NA,Gui-Ob,Alcantara,Romblon,Confirmed,2023-04-05,NA,2023-04-13,2023-04-05,Dog,No,NA,2023-05-02,NA,NA,NA,NA,RDT+,NA,NA,0,NA,NA,Unknown,2023-04-05,Apr 2023
+R-43,NA,Punta,Looc,Romblon,Confirmed,2023-04-13,NA,2023-05-15,2023-04-13,Dog,Yes,2023-05-16,2023-05-16,NA,NA,NA,NA,RDT+,NA,NA,0,NA,NA,Vaccinated,2023-04-13,Apr 2023
+R-44,NA,Pangulo,Calatrava,Romblon,Confirmed,2023-04-20,2023-04-19,2023-05-15,2023-04-20,Dog,Yes,2023-05-16,2023-05-16,NA,NA,NA,NA,RDT+,NA,NA,1,NA,2023-04-20,Unknown,2023-04-19,Apr 2023
+R-48,NA,Cagbuaya,San Agustin,Romblon,Confirmed,2023-05-23,NA,2023-06-05,2023-05-23,Dog,Yes,2023-06-06,2023-06-06,NA,NA,NA,NA,RDT+,NA,NA,1,2023-05-23,2023-05-23,Unvaccinated,2023-05-23,May 2023
+R-59,NA,Carmen,San Agustin,Romblon,Confirmed,2023-07-04,2023-07-01,2023-08-14,2023-07-04,Dog,No,2023-08-18,NA,NA,NA,NA,NA,RDT+,NA,NA,3,2023-07-01,2023-07-01,Unvaccinated,2023-07-01,Jul 2023
+R-56,NA,Matutuna,San Andres,Romblon,Confirmed,2023-07-07,2023-07-04,2023-07-13,2023-07-04,Dog,Yes,2023-07-13,NA,NA,NA,NA,NA,RDT+,NA,NA,1,NA,NA,Unvaccinated,2023-07-04,Jul 2023
+R-58,NA,Linawan,San Andres,Romblon,Confirmed,2023-08-03,2023-08-03,2023-08-10,2023-08-03,Dog,No,2023-08-10,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-08-03,2023-08-03,Unknown,2023-08-03,Aug 2023
+R-62,NA,Mat-I,Santa Fe,Romblon,Confirmed,2023-08-21,NA,2023-09-04,2023-08-21,Dog,No,2023-09-05,NA,NA,NA,NA,NA,RDT+,NA,NA,0,NA,NA,Unknown,2023-08-21,Aug 2023
+R-61,NA,Mat-I,Santa Fe,Romblon,Confirmed,2023-08-29,NA,2023-09-04,2023-08-29,Dog,No,2023-09-05,NA,NA,NA,NA,NA,RDT+,NA,NA,0,NA,NA,Unknown,2023-08-29,Aug 2023
+R-63,NA,Concepcion Norte,Santa Maria,Romblon,Confirmed,2023-09-11,2023-09-09,2023-09-25,2023-09-11,Dog,No,2023-09-27,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-09-14,2023-09-14,Unknown,2023-09-09,Sep 2023
+R-65,NA,Bachawan,San Agustin,Romblon,Confirmed,2023-09-30,2023-09-27,2023-11-06,2023-09-30,Dog,Yes,2023-11-07,NA,NA,NA,NA,NA,RDT+,NA,NA,1,2023-09-27,2023-09-27,Unvaccinated,2023-09-27,Sep 2023
+R-66,NA,Poblacion,Alcantara,Romblon,Confirmed,2023-10-17,NA,2023-11-06,2023-10-17,Dog,No,2023-11-07,NA,NA,NA,NA,NA,RDT+,RDT-,NA,0,NA,NA,Unknown,2023-10-17,Oct 2023
+R-68,NA,Tabugon,Santa Fe,Romblon,Confirmed,2023-10-24,2023-10-24,2023-11-06,2023-10-24,Dog,No,2023-11-07,NA,NA,NA,NA,NA,RDT+,RDT+,NA,1,2023-10-24,2023-10-24,Unknown,2023-10-24,Oct 2023
+R-67,NA,Pangulo,Calatrava,Romblon,Confirmed,2023-10-26,2023-10-25,2023-11-06,2023-10-25,Dog,Yes,2023-11-07,NA,NA,NA,NA,NA,RDT+,RDT+,NA,1,2023-10-26,2023-10-26,Unknown,2023-10-25,Oct 2023
+R-69,NA,Poblacion,Looc,Romblon,Confirmed,2023-11-13,NA,2023-12-18,2023-11-13,Dog,No,2023-12-19,NA,NA,NA,NA,NA,RDT+,RDT+,NA,0,NA,NA,Unknown,2023-11-13,Nov 2023
+R-74,NA,Sugod,San Agustin,Romblon,Confirmed,2023-12-07,NA,NA,2023-12-07,Dog,Yes,2023-12-19,NA,NA,NA,NA,NA,RDT+,NA,NA,1,NA,NA,Unvaccinated,2023-12-07,Dec 2023
+R-70,NA,Poblacion,Alcantara,Romblon,Confirmed,2023-12-12,NA,NA,2023-12-12,Dog,Yes,2023-12-19,NA,2023-12-15,NA,NA,NA,RDT+,RDT+,NA,1,NA,NA,Unvaccinated,2023-12-12,Dec 2023
+R-72,NA,San Roque,Alcantara,Romblon,Confirmed,2023-12-14,NA,2023-12-18,2023-12-14,Dog,No,2023-12-19,NA,NA,NA,NA,NA,RDT+,NA,NA,0,NA,NA,Unknown,2023-12-14,Dec 2023
+R-45,NA,Concepcion Sur,Santa Maria,Romblon,Probable,NA,2022-12-26,NA,NA,Dog,Don't know,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,Unknown,2022-12-26,Dec 2022
+R-46,NA,Tulay,Odiongan,Romblon,Probable,NA,2023-01-01,NA,NA,Dog,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,Unvaccinated,2023-01-01,Jan 2023
+R-1,NA,Paroyhog,Santa Maria,Romblon,Probable,NA,2022-11-12,NA,2022-11-12,Dog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2022-11-18,2022-11-18,NA,2022-11-12,Nov 2022
+R-29,4B-23-11,Juncarlo,San Andres,Romblon,Confirmed,NA,NA,2023-02-09,NA,Dog,Yes,NA,2023-02-13,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,Unvaccinated,2023-02-09,Feb 2023
+R-40,NA,Sugod,San Agustin,Romblon,Confirmed,NA,NA,2023-03-31,NA,Dog,Yes,NA,2023-04-03,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,2023-03-31,Mar 2023
+R-41,NA,Dubduban,San Agustin,Romblon,Confirmed,NA,NA,2023-03-31,NA,Dog,Yes,NA,2023-04-03,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,2023-03-31,Mar 2023
+R-53,NA,Dubduban,San Agustin,Romblon,Confirmed,NA,NA,NA,NA,Dog,Yes,2023-06-27,NA,NA,NA,NA,NA,RDT+,NA,NA,NA,NA,NA,Unvaccinated,2023-06-27,Jun 2023
