@@ -3,6 +3,7 @@ library(janitor)
 library(zoo)
 library(ggthemes)
 
+## Code used to create weekly epi curve (figure 2b)
 dat_outbreak <- read_csv("data/clean/dat_animal.csv")
 dat_human <- read_csv("data/clean/dat_human.csv")
 
@@ -82,12 +83,12 @@ plot_weekly_epi_curve <- function(dat_outbreak, dat_human){
 
 plot_weekly_epi_curve(dat_outbreak,dat_human)
 
-png(filename = "output/figures/fig1b.png",width = 800, height = 150)
+png(filename = "output/figures/fig2b.png",width = 800, height = 150)
 plot_weekly_epi_curve(dat_outbreak,dat_human)
 dev.off()
 
 
-pdf(file = "output/figures/fig1b.pdf",width = 12, height = 2)
+pdf(file = "output/figures/fig2b.pdf",width = 12, height = 2)
 plot_weekly_epi_curve(dat_outbreak,dat_human)
 dev.off()
 
