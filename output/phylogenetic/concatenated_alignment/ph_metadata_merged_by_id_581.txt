@@ -1,0 +1,582 @@
+Sample.ID	NCBI.accession	Sample.collection.date	Host.species	Region	Province	Municipality	Barangay	Location	source	corrected_date	decimal_date	outbreak
+03006PHI	EU086203	2000	Homo sapiens	NA	NA	NA	NA	-	rabv-glue	1/1/00	2000	Other
+03007PHI	EU086204	2001	Homo sapiens	NA	NA	NA	NA	-	rabv-glue	1/1/01	2001	Other
+04030PHI	EU086155	2004	Homo sapiens	NA	NA	NA	NA	-	rabv-glue	1/1/04	2004	Other
+120	LC550023	2019	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region III, Nueva Ecija"	rabv-glue	1/1/19	2019	Other
+121	LC550022	2019	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/19	2019	Other
+130	LC550021	2019	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/19	2019	Other
+131	LC550020	2019	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/19	2019	Other
+132	LC550019	2019	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/19	2019	Other
+140	LC550018	2019	Canis lupus familiaris	Central Luzon	Zambales	NA	NA	"Region III, Zambales"	rabv-glue	1/1/19	2019	Other
+18-092	OQ326757	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-094	OQ326761	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-096	OQ326764	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-099	OQ326750	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-101	OQ326755	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-102	OQ326752	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-103	OQ326754	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-106	OQ326751	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-107	OQ326749	2018	Canine	Davao Region	NA	Compostela Valley	NA	NA	genbank	1/1/18	2018	Other
+18-114	OQ326756	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-116	OQ326753	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-118	OQ326758	2018	Canine	Davao Region	NA	Digos Cogon	NA	NA	genbank	1/1/18	2018	Other
+18-120	OQ326762	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-121	OQ326766	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-130	OQ326759	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-133	OQ326760	2018	Canine	Davao Region	NA	Tagum	NA	NA	genbank	1/1/18	2018	Other
+18-135	OQ326767	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-138	OQ326748	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-142	OQ326784	2018	Canine	Davao Region	NA	Nabunturan	NA	NA	genbank	1/1/18	2018	Other
+18-144	OQ326776	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-147	OQ326772	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-151	OQ326774	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-153	OQ326773	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-162	OQ326744	2018	Canine	Davao Region	NA	Samal	NA	NA	genbank	1/1/18	2018	Other
+18-163	OQ326747	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-164	OQ326738	2018	Canine	Davao Region	NA	Digos	NA	NA	genbank	1/1/18	2018	Other
+18-172	OQ326737	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-174	OQ326743	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-179	OQ326775	2018	Canine	Davao Region	NA	Cotabato	NA	NA	genbank	1/1/18	2018	Other
+18-181	OQ326783	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-183	OQ326777	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-188	OQ326746	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-191	OQ326768	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-194	OQ326780	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-196	OQ326779	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-199	OQ326736	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-209	OQ326781	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-214	OQ326745	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-216	OQ326742	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-221	OQ326782	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-223	OQ326778	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-224	OQ326769	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+18-225	OQ326771	2018	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/18	2018	Other
+19-004	OQ326740	2019	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/19	2019	Other
+19-011	OQ326741	2019	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/19	2019	Other
+19-015	OQ326739	2019	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/19	2019	Other
+19-022	OQ326770	2019	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/19	2019	Other
+19-045	OQ326763	2019	Canine	Davao Region	NA	Davao	NA	NA	genbank	1/1/19	2019	Other
+19-050	OQ326765	2019	Canine	Davao Region	NA	Panabo	NA	NA	genbank	1/1/19	2019	Other
+4A-22-203	NA	11-Feb-22	Canis familiaris	Calabarzon	Quezon	NA	Guiang-Guiang	Lucena	this paper	2/11/22	2022.112329	Other
+4B-22-37	NA	1-Oct-22	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	San Isidro	Alcantara	this paper	10/1/22	2022.747945	Romblon_new
+4B-22-39	NA	21-Oct-22	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	San Isidro	Alcantara	this paper	10/21/22	2022.80274	Romblon_new
+4B-22-41	NA	24-Nov-22	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Dapawan	Odiongan	this paper	11/24/22	2022.89589	Romblon_new
+4B-22-42	NA	26-Nov-22	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Bonlao	Alcantara	this paper	11/26/22	2022.90137	Romblon_new
+4B-22-44	NA	11-Dec-22	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Dapawan	Odiongan	this paper	12/11/22	2022.942466	Romblon_new
+4B-22-45	NA	12-Dec-22	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Concepcion Sur	Santa Maria	this paper	12/12/22	2022.945205	Romblon_new
+4B-23-01	NA	20-Jan-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Concepcion Norte	Santa Maria	this paper	1/20/23	2023.052055	Romblon_new
+4B-23-02	NA	13-Jan-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Dapawan	Odiongan	this paper	1/13/23	2023.032877	Romblon_new
+4B-23-03	NA	22-Jan-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Sugod	San Agustin	this paper	1/22/23	2023.057534	Romblon_new
+4B-23-04	NA	31-Jan-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Carmen	San Agustin	this paper	1/31/23	2023.082192	Romblon_new
+4B-23-05	NA	20-Jan-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Sugod	San Agustin	this paper	1/20/23	2023.052055	Romblon_new
+4B-23-06	NA	2-Feb-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Concepcion Norte	Santa Maria	this paper	2/2/23	2023.087671	Romblon_new
+4B-23-07	NA	7-Feb-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Concepcion Sur	Santa Maria	this paper	2/7/23	2023.10137	Romblon_new
+4B-23-11	NA	7-Feb-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Jun Carlo	San Andres	this paper	2/7/23	2023.10137	Romblon_new
+4B-23-12	NA	14-Feb-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Concepcion Norte	Santa Maria	this paper	2/14/23	2023.120548	Romblon_new
+4B-23-13	NA	9-Feb-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Rizal	Odiongan	this paper	2/9/23	2023.106849	Romblon_new
+4B-23-15	NA	16-Feb-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Poctoy	Odiongan	this paper	2/16/23	2023.126027	Romblon_new
+4B-23-16	NA	28-Feb-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Dapawan	Odiongan	this paper	2/28/23	2023.158904	Romblon_new
+4B-23-17	NA	1-Mar-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Poctoy	Odiongan	this paper	3/1/23	2023.161644	Romblon_new
+4B-23-19	NA	1-Mar-23	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Mahabang Baybay	San Agustin	this paper	3/1/23	2023.161644	Romblon_new
+55	LC550027	2019	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/19	2019	Other
+66	LC550026	2019	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/19	2019	Other
+87	LC550025	2019	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/19	2019	Other
+93	LC550024	2019	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/19	2019	Other
+94270PHI	EU086200	1994	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/94	1994	Other
+94272PHI	KX148259	1994	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/94	1994	Other
+94273PHI	EU086201	1994	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/94	1994	Other
+94275PHI	KX148263	1994	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/94	1994	Other
+94278PHI	KX148262	1994	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/94	1994	Other
+94280PHI	EU086202	1994	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/94	1994	Other
+94281PHI	KX148261	1994	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/94	1994	Other
+A12_1952	KC792091	2009	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/09	2009	Other
+A12_1959	KC792092	2009	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/09	2009	Other
+A12_1964	KC792093	2009	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/09	2009	Other
+A12_1969	KC792094	2009	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/09	2009	Other
+A12_1973	KC792095	2009	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/09	2009	Other
+A12_1977	KC792096	2009	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/09	2009	Other
+A12_1978	KC792097	2009	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/09	2009	Other
+BAI/BAI3/2019-01/fel	MN857171	2019	feline	National Capital Region	Bulacan	NA	NA	"San Miguel, Bulacan"	rabv-glue	1/1/19	2019	Other
+BAI/BAI4A/2019-01/can	MN857170	2019	Canis familiaris	Calabarzon	Rizal	NA	NA	"Angono, Rizal"	rabv-glue	1/1/19	2019	Other
+BAI/BAINCR/2019-01/can	MN857167	2019	Canis familiaris	National Capital Region	NA	NA	NA	Caloocan City	rabv-glue	1/1/19	2019	Other
+BAI/BAINCR/2019-02/can	MN857168	2019	Canis familiaris	National Capital Region	NA	NA	NA	Quezon City	rabv-glue	1/1/19	2019	Other
+BAI/BAINCR/2019-03/can	MN857169	2019	Canis familiaris	National Capital Region	NA	NA	NA	Pasay City	rabv-glue	1/1/19	2019	Other
+H-23-011Sk_12	NA	2-Feb-23	Homo sapiens	Southwestern Tagalog Region	Romblon	NA	Concepcion Sur	Santa Maria	this paper	2/2/23	2023.087671	Romblon_new
+PHI103	AB116577	2001	12153119	Northern Mindanao	NA	NA	NA	Mindanao Island	rabv-glue	1/1/01	2001	Other
+PHI114	AB116578	2001	12153119	Northern Mindanao	NA	NA	NA	Mindanao Island	rabv-glue	1/1/01	2001	Other
+Philippin_dog	KC792240	2013	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/13	2013	Other
+RADDL1-16-154	MN726857	2016	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/16	2016	Other
+RADDL3-1038	MN726850	2015	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/15	2015	Other
+RADDL3-1045	MN726863	2015	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/15	2015	Other
+RADDL3-15-172	MN726859	2015	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/15	2015	Other
+RADDL3-845	MN726864	2016	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/16	2016	Other
+RADDL5-005	MN726877	2015	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/15	2015	Other
+REGION_5_2018-100	MN726860	2018	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/18	2018	Other
+REGION_5_2018-304	MN726876	2018	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/18	2018	Other
+REGION_5_2018-311	MN726875	2018	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/18	2018	Other
+REGION_5_2018-50	MN726852	2018	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/18	2018	Other
+REGION_5_2019-1	MN726880	2019	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/19	2019	Other
+REGION_5_2019-13	MN726842	2019	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/19	2019	Other
+RV/CAR.PHL/2009/TRa-198	AB563973	2009	Canis lupus familiaris	Cordillera Administrative Region	Mountain Province	NA	NA	"CAR, Mountain Province"	rabv-glue	1/1/09	2009	Other
+RV/CAR.PHL/2009/TRa-199	AB563974	2009	Canis lupus familiaris	Cordillera Administrative Region	Mountain Province	NA	NA	"CAR, Mountain Province"	rabv-glue	1/1/09	2009	Other
+RV/CAR.PHL/2009/TRa-200	AB563975	2009	Canis lupus familiaris	Cordillera Administrative Region	Mountain Province	NA	NA	"CAR, Mountain Province"	rabv-glue	1/1/09	2009	Other
+RV/CAR.PHL/2009/TRa-222	AB563992	2009	Canis lupus familiaris	Cordillera Administrative Region	Mountain Province	NA	NA	"CAR, Mountain Province"	rabv-glue	1/1/09	2009	Other
+RV/CAR.PHL/2009/TRa-224	AB563993	2009	Canis lupus familiaris	Cordillera Administrative Region	Ifugao	NA	NA	"CAR, ifugao"	rabv-glue	1/1/09	2009	Other
+RV/CAR.PHL/2009/TRa-234	AB564000	2009	-	Cordillera Administrative Region	NA	NA	NA	Bontoc	rabv-glue	1/1/09	2009	Other
+RV/CAR.PHL/2009/TRa-285	AB733961	2009	Canis lupus familiaris	Cordillera Administrative Region	Mountain Province	NA	NA	"CAR, Mountain Province"	rabv-glue	1/1/09	2009	Other
+RV/CAR.PHL/2010/TRa-289	AB733962	2010	Canis lupus familiaris	Cordillera Administrative Region	Ifugao	NA	NA	"CAR, Ifgao"	rabv-glue	1/1/10	2010	Other
+RV/CAR.PHL/2010/TRa-291	AB771910	2010	Canis lupus familiaris	Cordillera Administrative Region	Kalinga	NA	NA	"CAR, Kalinga Apayao"	rabv-glue	1/1/10	2010	Other
+RV/CAR.PHL/2013/TRa-370	LC018525	2013	Canis lupus familiaris	Cordillera Administrative Region	Kalinga	NA	NA	"CAR, Kalinga Apayao"	rabv-glue	1/1/13	2013	Other
+RV/CAR.PHL/2013/TRa-405	LC018545	2013	Canis lupus familiaris	Cordillera Administrative Region	Ifugao	NA	NA	"CAR, Ifugao"	rabv-glue	1/1/13	2013	Other
+RV/CAR.PHL/2013/TRa-407	LC018547	2013	Canis lupus familiaris	Cordillera Administrative Region	Ifugao	NA	NA	"CAR, Ifugao"	rabv-glue	1/1/13	2013	Other
+RV/CAR.PHL/2013/TRa-409	LC018548	2013	Canis lupus familiaris	Cordillera Administrative Region	Benguet	NA	NA	"CAR, Benguet"	rabv-glue	1/1/13	2013	Other
+RV/CAR.PHL/2013/TRa-500	LC018586	2013	Canis lupus familiaris	Cordillera Administrative Region	Mountain Province	NA	NA	"CAR, Mountain Province"	rabv-glue	1/1/13	2013	Other
+RV/CAR.PHL/2013/TRa-510	LC068918	2013	Canis lupus familiaris	Cordillera Administrative Region	Ifugao	NA	NA	"Cordillera Administrative Region (CAR), Ifugao"	rabv-glue	1/1/13	2013	Other
+RV/CAR.PHL/2013/TRa-571	LC068941	2013	Canis lupus familiaris	Cordillera Administrative Region	Mountain Province	NA	NA	"Cordillera Administrative Region (CAR), Mountain Province"	rabv-glue	1/1/13	2013	Other
+RV/NCR.PHL/2004/Z-04-421	AB563796	2004	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/04	2004	Other
+RV/NCR.PHL/2004/Z-04-522	AB683584	2004	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/04	2004	Other
+RV/NCR.PHL/2004/Z-04-534	AB563799	2004	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/04	2004	Other
+RV/NCR.PHL/2004/Z-04-646	AB733963	2004	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/04	2004	Other
+RV/NCR.PHL/2005/Z-05-009	AB563800	2005	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/05	2005	Other
+RV/NCR.PHL/2005/Z-05-090	AB563803	2005	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/05	2005	Other
+RV/NCR.PHL/2005/Z-05-149	AB563805	2005	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/05	2005	Other
+RV/NCR.PHL/2005/Z-05-168	AB563806	2005	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/05	2005	Other
+RV/NCR.PHL/2005/Z-05-187	AB563808	2005	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/05	2005	Other
+RV/NCR.PHL/2005/Z-05-285	AB563810	2005	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/05	2005	Other
+RV/NCR.PHL/2005/Z-05-299	AB563811	2005	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/05	2005	Other
+RV/NCR.PHL/2005/Z-05-373	AB563812	2005	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/05	2005	Other
+RV/NCR.PHL/2005/Z-05-396	AB563813	2005	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/05	2005	Other
+RV/NCR.PHL/2005/Z-05-424	AB563814	2005	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/05	2005	Other
+RV/NCR.PHL/2005/Z-05-465	AB563815	2005	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/05	2005	Other
+RV/NCR.PHL/2005/Z-05-466	AB563816	2005	Canis lupus familiaris	National Capital Region	Metropolitan Manila	NA	NA	"NCR, Metro Manila"	rabv-glue	1/1/05	2005	Other
+RV/R1.PHL/2008/TRa-094	AB563909	2008	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/08	2008	Other
+RV/R1.PHL/2009/TRa-150	AB563951	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-151	AB563952	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-153	AB563953	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-154	AB563954	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-156	AB683601	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region 1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-157	AB563955	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-159	AB563956	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-161	AB563957	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-208	AB563981	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-209	AB563982	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-210	AB563983	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-213	AB563984	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-214	AB563985	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-215	AB563986	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-216	AB563987	2009	Canis lupus familiaris	Ilocos Region	La Union	NA	NA	"Region1, Launion"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-218	AB563988	2009	Canis lupus familiaris	Ilocos Region	La Union	NA	NA	"Region1, Launion"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-219	AB563989	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-220	AB563990	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-221	AB563991	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-233	AB563999	2009	Canis lupus familiaris	Ilocos Region	Ilocos Sur	NA	NA	"Region1, Ilocos Sur"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-256	AB733964	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-257	AB733965	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-258	AB733966	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-259	AB733967	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-260	AB733968	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-262	AB771911	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Regoin 1,Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-263	AB733969	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-265	AB733970	2009	Canis lupus familiaris	Ilocos Region	Ilocos Sur	NA	NA	"Region1, Ilocos Sur"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-266	AB771912	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Regoin 1,Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2009/TRa-267	AB771913	2009	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Regoin 1,Pangasinan"	rabv-glue	1/1/09	2009	Other
+RV/R1.PHL/2010/TRa-286	AB733971	2010	Canis lupus familiaris	Ilocos Region	Ilocos Sur	NA	NA	"Region1, Ilocos Sur"	rabv-glue	1/1/10	2010	Other
+RV/R1.PHL/2010/TRa-287	AB771914	2010	Canis lupus familiaris	Ilocos Region	Ilocos Sur	NA	NA	"Regoin 1, Ilocos Sur"	rabv-glue	1/1/10	2010	Other
+RV/R1.PHL/2010/TRa-298	AB771915	2010	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Regoin 1,Pangasinan"	rabv-glue	1/1/10	2010	Other
+RV/R1.PHL/2010/TRa-299	AB733972	2010	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/10	2010	Other
+RV/R1.PHL/2010/TRa-300	AB733973	2010	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"Region1, Pangasinan"	rabv-glue	1/1/10	2010	Other
+RV/R1.PHL/2012/TRa-320	LC018497	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-323	LC018498	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-324	LC018499	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-325	LC018500	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-327	LC018501	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-375	LC018526	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-376	LC018527	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-377	LC018528	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-378	LC018529	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-379	LC018530	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-381	LC018531	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-382	LC018532	2012	Canis lupus familiaris	Ilocos Region	La Union	NA	NA	"I, La Union"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-383	LC018533	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2012/TRa-384	LC018534	2012	Canis lupus familiaris	Ilocos Region	Pangasinan	NA	NA	"I, Pangasinan"	rabv-glue	1/1/12	2012	Other
+RV/R1.PHL/2013/TRa-406	LC018546	2013	Canis lupus familiaris	Ilocos Region	Ilocos Sur	NA	NA	"I, Ilocos Sur"	rabv-glue	1/1/13	2013	Other
+RV/R1.PHL/2013/TRa-569	LC068940	2013	Canis lupus familiaris	Ilocos Region	Ilocos Sur	NA	NA	"Region I, Ilocos Sur"	rabv-glue	1/1/13	2013	Other
+RV/R1.PHL/2013/TRa-572	LC068942	2013	Canis lupus familiaris	Ilocos Region	La Union	NA	NA	"Region I, La Union"	rabv-glue	1/1/13	2013	Other
+RV/R1.PHL/2013/TRa-573	LC068943	2013	Canis lupus familiaris	Ilocos Region	La Union	NA	NA	"Region I, La Union"	rabv-glue	1/1/13	2013	Other
+RV/R10.PHL/2008/TRa-014	AB563845	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-024	AB563852	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-025	AB563853	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-026	AB563854	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-027	AB563855	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-028	AB563856	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-030	AB563857	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-052	AB563871	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-053	AB563872	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-054	AB563873	2008	Canis lupus familiaris	Northern Mindanao	Lanao del Norte	NA	NA	"Region10, Lanao del Norte"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-055	AB563874	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-056	AB563875	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-057	AB563876	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-058	AB563877	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region 10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-104	AB563919	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-107	AB563920	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2008/TRa-108	AB563921	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2009/TRa-109	AB563922	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-110	AB563923	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-184	AB683589	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-186	AB683590	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-189	AB683591	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-191	AB563970	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-194	AB683648	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region 10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-195	AB683649	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region 10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-196	AB563971	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-197	AB563972	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-242	AB564008	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-243	AB564009	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-244	AB564010	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-246	AB564011	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-247	AB771920	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Regoin 10, Misamis Orientale"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-248	AB564012	2008	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R10.PHL/2009/TRa-249	AB564013	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-250	AB564014	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-251	AB564015	2009	Canis lupus familiaris	Northern Mindanao	Lanao del Norte	NA	NA	"Region10, Lanao del Norte"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-252	AB564016	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-253	AB564017	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-254	AB564018	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R10.PHL/2009/TRa-255	AB564019	2009	Canis lupus familiaris	Northern Mindanao	Misamis Oriental	NA	NA	"Region10, Misamis Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R11.PHL/2005/Z-05-186	AB563807	2005	Canis lupus familiaris	Davao Region	Davao del Sur	NA	NA	"Region11, Davao del Sur"	rabv-glue	1/1/05	2005	Other
+RV/R2.PHL/2009/TRa-142	AB563946	2009	Canis lupus familiaris	Cagayan Valley	Cagayan	NA	NA	"Region2, Cagayan"	rabv-glue	1/1/09	2009	Other
+RV/R2.PHL/2009/TRa-279	AB733974	2009	Canis lupus familiaris	Cagayan Valley	Isabela	NA	NA	"Region2, Isabela City"	rabv-glue	1/1/09	2009	Other
+RV/R2.PHL/2009/TRa-283	AB733975	2009	Canis lupus familiaris	Cagayan Valley	Isabela	NA	NA	"Region2, Isabela City"	rabv-glue	1/1/09	2009	Other
+RV/R2.PHL/2009/TRa-284	AB733976	2009	Canis lupus familiaris	Cagayan Valley	Isabela	NA	NA	"Region2, Isabela City"	rabv-glue	1/1/09	2009	Other
+RV/R2.PHL/2013/TRa-435	LC018555	2013	Canis lupus familiaris	Cagayan Valley	Cagayan	NA	NA	"II, Cagayan"	rabv-glue	1/1/13	2013	Other
+RV/R2.PHL/2013/TRa-437	LC018556	2013	Canis lupus familiaris	Cagayan Valley	Nueva Vizcaya	NA	NA	"II, Nueva Vizcaya"	rabv-glue	1/1/13	2013	Other
+RV/R2.PHL/2013/TRa-439	LC018557	2013	Canis lupus familiaris	Cagayan Valley	Cagayan	NA	NA	"II, Cagayan"	rabv-glue	1/1/13	2013	Other
+RV/R2.PHL/2013/TRa-503	LC018587	2013	Canis lupus familiaris	Cagayan Valley	Nueva Vizcaya	NA	NA	"II, Nueva Vizcaya"	rabv-glue	1/1/13	2013	Other
+RV/R2.PHL/2013/TRa-504	LC018588	2013	Canis lupus familiaris	Cagayan Valley	Nueva Vizcaya	NA	NA	"II, Nueva Vizcaya"	rabv-glue	1/1/13	2013	Other
+RV/R2.PHL/2013/TRa-505	LC018589	2013	Canis lupus familiaris	Cagayan Valley	Isabela	NA	NA	"II, Isabela"	rabv-glue	1/1/13	2013	Other
+RV/R2.PHL/2013/TRa-506	LC018590	2013	Canis lupus familiaris	Cagayan Valley	Cagayan	NA	NA	"II, Cagayan"	rabv-glue	1/1/13	2013	Other
+RV/R2.PHL/2013/TRa-507	LC018591	2013	Canis lupus familiaris	Cordillera Administrative Region	Kalinga	NA	NA	"CAR, Kalinga Apayao"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2004/Z-04-519	AB563798	2004	Canis lupus familiaris	Central Luzon	Aurora	NA	NA	"Region3, Aurora"	rabv-glue	1/1/04	2004	Other
+RV/R3.PHL/2005/Z-05-198	AB563809	2005	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/05	2005	Other
+RV/R3.PHL/2005/Z-05-507	AB563817	2005	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region3, Bulacan"	rabv-glue	1/1/05	2005	Other
+RV/R3.PHL/2008/TRa-002	AB563838	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-006	AB563840	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-009	AB563841	2008	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-010	AB563842	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-011	AB563843	2008	Canis lupus familiaris	Central Luzon	Zambales	NA	NA	"Region3, Zambales"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-013	AB563844	2008	Canis lupus familiaris	Central Luzon	Tarlac	NA	NA	"Region3, Tarlac"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-016	AB563846	2008	Canis lupus familiaris	Central Luzon	Zambales	NA	NA	"Region3, Zambales"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-017	AB683585	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-018	AB563847	2008	Canis lupus familiaris	Central Luzon	Zambales	NA	NA	"Region3, Zambales"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-019	AB563848	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-020	AB563849	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-021	AB563850	2008	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-022	AB563851	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-038	AB563863	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-040	AB563864	2008	Canis lupus familiaris	Central Luzon	Zambales	NA	NA	"Region3, Zambales"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-041	AB563865	2008	Canis lupus familiaris	Central Luzon	Tarlac	NA	NA	"Region3, Tarlac"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-045	AB563866	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region 3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-047	AB563867	2008	Canis lupus familiaris	Central Luzon	Zambales	NA	NA	"Region3, Zambales"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-048	AB563868	2008	Canis lupus familiaris	Central Luzon	Zambales	NA	NA	"Region3, Zambales"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-049	AB563869	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-051	AB563870	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-059	AB563878	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-060	AB563879	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-061	AB563880	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-062	AB563881	2008	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-063	AB563882	2008	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-064	AB563883	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-065	AB563884	2008	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-066	AB563885	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-086	AB563901	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-087	AB563902	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-088	AB563903	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-089	AB563904	2008	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-090	AB563905	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-091	AB563906	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-092	AB563907	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-093	AB563908	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-095	AB563910	2008	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-111	AB563924	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-112	AB563925	2008	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2008/TRa-119	AB563932	2008	Canis lupus familiaris	Central Luzon	Zambales	NA	NA	"Region 3, Zambales"	rabv-glue	1/1/08	2008	Other
+RV/R3.PHL/2009/TRa-113	AB563926	2009	Canis lupus familiaris	Central Luzon	Zambales	NA	NA	"Region3, Zambales"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-114	AB563927	2009	Canis lupus familiaris	Central Luzon	Zambales	NA	NA	"Region3, Zambales"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-115	AB563928	2009	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-116	AB563929	2009	Canis lupus familiaris	Central Luzon	Zambales	NA	NA	"Region3, Zambales"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-117	AB563930	2009	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-118	AB563931	2009	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-127	AB563937	2009	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-128	AB563938	2009	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-129	AB563939	2009	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-130	AB563940	2009	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-131	AB563941	2009	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region 3, Pampanga"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-132	AB683586	2009	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-133	AB563942	2009	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-134	AB563943	2009	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-135	AB563944	2009	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-136	AB563945	2009	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-201	AB563976	2009	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-202	AB563977	2009	Canis lupus familiaris	Central Luzon	Zambales	NA	NA	"Region3, Zambales"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-204	AB563978	2009	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-205	AB563979	2009	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region3, Nueva Ecija"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2009/TRa-206	AB563980	2009	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region3, Pampanga"	rabv-glue	1/1/09	2009	Other
+RV/R3.PHL/2012/TRa-302	LC018482	2012	Canis lupus familiaris	Central Luzon	Tarlac	NA	NA	"III, Tarlac"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-303	LC018483	2012	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-305	LC018484	2012	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"III, Pampanga"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-306	LC018485	2012	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"III, Nueva Ecija"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-307	LC018486	2012	Canis lupus familiaris	Central Luzon	Tarlac	NA	NA	"III, Tarlac"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-308	LC018487	2012	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-309	LC018488	2012	Canis lupus familiaris	Central Luzon	Tarlac	NA	NA	"III, Tarlac"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-310	LC018489	2012	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-311	LC018490	2012	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-312	LC018491	2012	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"III, Nueva Ecija"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-313	LC018492	2012	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-314	LC018493	2012	Canis lupus familiaris	Central Luzon	Tarlac	NA	NA	"III, Tarlac"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-315	LC018494	2012	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-317	LC018495	2012	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2012/TRa-318	LC018496	2012	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2013/TRa-313	LC018596	2012	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/12	2012	Other
+RV/R3.PHL/2013/TRa-346	LC018508	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-347	LC018509	2013	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"III, Nueva Ecija"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-348	LC018510	2013	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"III, Nueva Ecija"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-349	LC018511	2013	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"III, Nueva Ecija"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-350	LC018512	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-351	LC018513	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-352	LC018514	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-353	LC018515	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-354	LC018516	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-441	LC018558	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-442	LC018559	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-443	LC018560	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-444	LC018561	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-445	LC018562	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-446	LC018563	2013	Canis lupus familiaris	Central Luzon	Tarlac	NA	NA	"III, Tarlac"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-447	LC018564	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-448	LC018565	2013	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"III, Nueva Ecija"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-449	LC018566	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-450	LC018567	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-451	LC018568	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-452	LC018569	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-453	LC018570	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-454	LC018571	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-455	LC018572	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-456	LC018573	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-457	LC018574	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-458	LC018575	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-459	LC018576	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-460	LC018577	2013	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"III, Nueva Ecija"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-461	LC018578	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-462	LC018579	2013	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"III, Nueva Ecija"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-463	LC018580	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-464	LC018581	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-465	LC018582	2013	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"III, Nueva Ecija"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-466	LC018583	2013	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"III, Nueva Ecija"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-509	LC068917	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-533	LC068919	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-534	LC068920	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-535	LC068921	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-536	LC068922	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-537	LC068923	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-538	LC068924	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-540	LC068925	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-541	LC068926	2013	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region III, Nueva Ecija"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-542	LC068927	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-543	LC068928	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-544	LC068929	2013	Felis catus	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-545	LC068930	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-547	LC068931	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-548	LC068932	2013	Canis lupus familiaris	Ilocos Region	Bulacan	NA	NA	"Region I, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-549	LC068933	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-550	LC068934	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-551	LC068935	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-552	LC068936	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-554	LC068937	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-556	LC068938	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-557	LC068939	2013	Canis lupus familiaris	Central Luzon	Bulacan	NA	NA	"Region III, Bulacan"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-581	LC068944	2013	Canis lupus familiaris	Central Luzon	Tarlac	NA	NA	"Region III, Tarlac"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-582	LC068945	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-583	LC068946	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-584	LC068947	2013	Canis lupus familiaris	Central Luzon	Nueva Ecija	NA	NA	"Region III, Nueva Ecija"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-586	LC068948	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-587	LC068949	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-588	LC068950	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R3.PHL/2013/TRa-589	LC068951	2013	Canis lupus familiaris	Central Luzon	Pampanga	NA	NA	"Region III, Pampanga"	rabv-glue	1/1/13	2013	Other
+RV/R4A.PHL/2004/Z-04-042	AB563791	2004	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"Region4A, Cavite"	rabv-glue	1/1/04	2004	Other
+RV/R4A.PHL/2004/Z-04-211	AB563792	2004	Canis lupus familiaris	Calabarzon	Laguna	NA	NA	"Region 4A, Laguna"	rabv-glue	1/1/04	2004	Other
+RV/R4A.PHL/2004/Z-04-389	AB563793	2004	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"Region 4A, Cavite"	rabv-glue	1/1/04	2004	Other
+RV/R4A.PHL/2004/Z-04-401	AB563794	2004	Canis lupus familiaris	Calabarzon	Rizal	NA	NA	"Region4A, Rizal"	rabv-glue	1/1/04	2004	Other
+RV/R4A.PHL/2004/Z-04-420	AB563795	2004	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"Region 4A, Cavite"	rabv-glue	1/1/04	2004	Other
+RV/R4A.PHL/2004/Z-04-470	AB683587	2004	Canis lupus familiaris	Calabarzon	Laguna	NA	NA	"Region4A, Laguna"	rabv-glue	1/1/04	2004	Other
+RV/R4A.PHL/2004/Z-04-480	AB563797	2004	Canis lupus familiaris	Calabarzon	Laguna	NA	NA	"Region4A, Laguna"	rabv-glue	1/1/04	2004	Other
+RV/R4A.PHL/2005/Z-05-012	AB563801	2005	Canis lupus familiaris	Calabarzon	Laguna	NA	NA	"R4A, Laguna"	rabv-glue	1/1/05	2005	Other
+RV/R4A.PHL/2005/Z-05-017	AB563802	2005	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"R4A, Cavite"	rabv-glue	1/1/05	2005	Other
+RV/R4A.PHL/2005/Z-05-123	AB563804	2005	Canis lupus familiaris	Calabarzon	Laguna	NA	NA	"R4A, Laguna"	rabv-glue	1/1/05	2005	Other
+RV/R4A.PHL/2006/Z-06-039	AB563818	2006	Canis lupus familiaris	Calabarzon	Batangas	NA	NA	"R4A, Batangas"	rabv-glue	1/1/06	2006	Other
+RV/R4A.PHL/2006/Z-06-163	AB563819	2006	Canis lupus familiaris	Calabarzon	Laguna	NA	NA	"Region4A, Laguna"	rabv-glue	1/1/06	2006	Other
+RV/R4A.PHL/2006/Z-06-197	AB563820	2006	Canis lupus familiaris	Calabarzon	Batangas	NA	NA	"Region4A, Batangas"	rabv-glue	1/1/06	2006	Other
+RV/R4A.PHL/2006/Z-06-222	AB563822	2006	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"Region4A, Cavite"	rabv-glue	1/1/06	2006	Other
+RV/R4A.PHL/2006/Z-06-231	AB563823	2006	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"Region4A, Cavite"	rabv-glue	1/1/06	2006	Other
+RV/R4A.PHL/2006/Z-06-342	AB563824	2006	Canis lupus familiaris	Calabarzon	Laguna	NA	NA	"Region4A, Laguna"	rabv-glue	1/1/06	2006	Other
+RV/R4A.PHL/2006/Z-06-345	AB563825	2006	Canis lupus familiaris	Calabarzon	Batangas	NA	NA	"R4A, Batangas"	rabv-glue	1/1/06	2006	Other
+RV/R4A.PHL/2006/Z-06-348	AB563826	2006	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"Region4A, Cavite"	rabv-glue	1/1/06	2006	Other
+RV/R4A.PHL/2006/Z-06-357	AB563827	2006	Canis lupus familiaris	Calabarzon	Batangas	NA	NA	"Region4A, Batangas"	rabv-glue	1/1/06	2006	Other
+RV/R4A.PHL/2006/Z-06-361	AB563828	2006	Canis lupus familiaris	Calabarzon	Laguna	NA	NA	"Region4A, Laguna"	rabv-glue	1/1/06	2006	Other
+RV/R4A.PHL/2006/Z-06-362	AB563829	2006	Canis lupus familiaris	Calabarzon	Batangas	NA	NA	"Region4A, Batangas"	rabv-glue	1/1/06	2006	Other
+RV/R4A.PHL/2006/Z-06-365	AB563830	2006	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"Region4A, Cavite"	rabv-glue	1/1/06	2006	Other
+RV/R4A.PHL/2007/Z-07-189	AB563832	2007	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"Region4A, Cavite"	rabv-glue	1/1/07	2007	Other
+RV/R4A.PHL/2007/Z-07-243	AB563833	2007	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"Region4A, Cavite"	rabv-glue	1/1/07	2007	Other
+RV/R4A.PHL/2007/Z-07-252	AB563834	2007	Canis lupus familiaris	Calabarzon	Quezon	NA	NA	"R4A, Quezon"	rabv-glue	1/1/07	2007	Other
+RV/R4A.PHL/2007/Z-07-307	AB563835	2007	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"R4A, Cavite"	rabv-glue	1/1/07	2007	Other
+RV/R4A.PHL/2007/Z-07-317	AB563836	2007	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"Region4A, Cavite"	rabv-glue	1/1/07	2007	Other
+RV/R4A.PHL/2007/Z-07-330	AB563837	2007	Canis lupus familiaris	Calabarzon	Cavite	NA	NA	"Region4A, Cavite"	rabv-glue	1/1/07	2007	Other
+RV/R4A.PHL/2011/TRa-393	LC018536	2011	Canis lupus familiaris	Calabarzon	Laguna	NA	NA	"IV-A, Laguna"	rabv-glue	1/1/11	2011	Other
+RV/R4A.PHL/2012/TRa-398	LC018540	2012	Canis lupus familiaris	Calabarzon	Quezon	NA	NA	"IV-A, Quezon"	rabv-glue	1/1/12	2012	Other
+RV/R4A.PHL/2012/TRa-401	LC018542	2012	Canis lupus familiaris	Calabarzon	Batangas	NA	NA	"IV-A, Batangas"	rabv-glue	1/1/12	2012	Other
+RV/R4A.PHL/2012/TRa-404	LC018544	2012	Canis lupus familiaris	Calabarzon	Batangas	NA	NA	"IV-A, Batangas"	rabv-glue	1/1/12	2012	Other
+RV/R4A.PHL/2013/TRa-485	LC068916	2013	Canis lupus familiaris	Southwestern Tagalog Region	Batangas	NA	NA	"Region IV, Batangas"	rabv-glue	1/1/13	2013	Other
+RV/R4B.PHL/2006/Z-06-197	AB698023	2006	Canis lupus familiaris	Calabarzon	Batangas	NA	NA	"Region 4A, Batangas"	rabv-glue	1/1/06	2006	Other
+RV/R4B.PHL/2006/Z-06-203	AB563821	2006	Canis lupus familiaris	Southwestern Tagalog Region	Oriental Mindoro	NA	NA	"Region4B, Oriental Mindoro"	rabv-glue	1/1/06	2006	Other
+RV/R4B.PHL/2006/Z-06-408	AB563831	2006	Canis lupus familiaris	Southwestern Tagalog Region	Oriental Mindoro	NA	NA	"R4B, Oriental Mindoro"	rabv-glue	1/1/06	2006	Other
+RV/R4B.PHL/2011/TRa-392	LC018535	2011	Canis lupus familiaris	Southwestern Tagalog Region	Romblon	NA	NA	"IV-B, Romblon"	rabv-glue	1/1/11	2011	Romblon_old
+RV/R4B.PHL/2011/TRa-394	LC018537	2011	Canis lupus familiaris	Southwestern Tagalog Region	Romblon	NA	NA	"IV-B, Romblon"	rabv-glue	1/1/11	2011	Romblon_old
+RV/R4B.PHL/2011/TRa-396	LC018538	2011	Canis lupus familiaris	Southwestern Tagalog Region	Romblon	NA	NA	"IV-B, Romblon"	rabv-glue	1/1/11	2011	Romblon_old
+RV/R4B.PHL/2012/TRa-397	LC018539	2012	Canis lupus familiaris	Southwestern Tagalog Region	Romblon	NA	NA	"IV-B, Romblon"	rabv-glue	1/1/12	2012	Romblon_old
+RV/R4B.PHL/2012/TRa-400	LC018541	2012	Canis lupus familiaris	Southwestern Tagalog Region	Romblon	NA	NA	"IV-B, Romblon"	rabv-glue	1/1/12	2012	Romblon_old
+RV/R4B.PHL/2012/TRa-402	LC018543	2012	Canis lupus familiaris	Southwestern Tagalog Region	Romblon	NA	NA	"IV-B, Romblon"	rabv-glue	1/1/12	2012	Romblon_old
+RV/R4B.PHL/2013/TRa-486	LC018584	2013	Canis lupus familiaris	Southwestern Tagalog Region	Palawan	NA	NA	"IV-B, Palawan"	rabv-glue	1/1/13	2013	Other
+RV/R4B.PHL/2013/TRa-487	LC018585	2013	Canis lupus familiaris	Southwestern Tagalog Region	Palawan	NA	NA	"IV-B, Palawan"	rabv-glue	1/1/13	2013	Other
+RV/R5.PHL/2008/TRa-005	AB563839	2008	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region5, Albay"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-031	AB563858	2008	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region5, Albay"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-032	AB563859	2008	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region5, Albay"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-034	AB563860	2008	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region5, Albay"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-036	AB563861	2008	Canis lupus familiaris	Bicol Region	Camarines Sur	NA	NA	"Region5, Camarines Sur"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-037	AB563862	2008	Canis lupus familiaris	Bicol Region	Camarines Sur	NA	NA	"Region5, Camarines Sur"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-067	AB563886	2008	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region5, Albay"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-071	AB563887	2008	Canis lupus familiaris	Bicol Region	Camarines Sur	NA	NA	"Region5, Camarines Sur"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-072	AB563888	2008	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region5, Albay"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-073	AB563889	2008	Canis lupus familiaris	Bicol Region	Sorsogon	NA	NA	"Region5, Sorsogon"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-120	AB563933	2008	Canis lupus familiaris	Bicol Region	Catanduanes	NA	NA	"Region5, Catanduanes"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-121	AB563934	2008	Canis lupus familiaris	Bicol Region	Camarines Sur	NA	NA	"Region5, Camarines Sur"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-122	AB563935	2008	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region 5, Albay"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2008/TRa-123	AB563936	2008	Canis lupus familiaris	Bicol Region	Catanduanes	NA	NA	"Region5, Catanduanes"	rabv-glue	1/1/08	2008	Other
+RV/R5.PHL/2009/TRa-183	AB563969	2009	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region5, Albay"	rabv-glue	1/1/09	2009	Other
+RV/R5.PHL/2009/TRa-225	AB563994	2009	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region5, Albay"	rabv-glue	1/1/09	2009	Other
+RV/R5.PHL/2009/TRa-226	AB563995	2009	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region5, Albay"	rabv-glue	1/1/09	2009	Other
+RV/R5.PHL/2009/TRa-227	AB563996	2009	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region5, Albay"	rabv-glue	1/1/09	2009	Other
+RV/R5.PHL/2009/TRa-229	AB563997	2009	Canis lupus familiaris	Bicol Region	Catanduanes	NA	NA	"Region5, Catanduanes"	rabv-glue	1/1/09	2009	Other
+RV/R5.PHL/2009/TRa-231	AB563998	2009	Canis lupus familiaris	Bicol Region	Camarines Norte	NA	NA	"Region5, Camarines Norte"	rabv-glue	1/1/09	2009	Other
+RV/R5.PHL/2009/TRa-268	AB733977	2009	Canis lupus familiaris	Bicol Region	Sorsogon	NA	NA	"Region5, Sorsogon"	rabv-glue	1/1/09	2009	Other
+RV/R5.PHL/2009/TRa-269	AB771916	2009	Canis lupus familiaris	Bicol Region	Catanduanes	NA	NA	"Regoin 5, Catanduanes"	rabv-glue	1/1/09	2009	Other
+RV/R5.PHL/2009/TRa-271	AB771917	2009	Canis lupus familiaris	Bicol Region	Camarines Norte	NA	NA	"Regoin 5, Camarines Norte"	rabv-glue	1/1/09	2009	Other
+RV/R5.PHL/2009/TRa-272	AB733978	2009	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region5, Albay"	rabv-glue	1/1/09	2009	Other
+RV/R5.PHL/2009/TRa-273	AB733979	2009	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"Region5, Albay"	rabv-glue	1/1/09	2009	Other
+RV/R5.PHL/2012/TRa-337	LC018502	2012	Canis lupus familiaris	Bicol Region	Camarines Sur	NA	NA	"V, Camarines Sur"	rabv-glue	1/1/12	2012	Other
+RV/R5.PHL/2012/TRa-338	LC018503	2012	Canis lupus familiaris	Bicol Region	Catanduanes	NA	NA	"V, Catanduanes"	rabv-glue	1/1/12	2012	Other
+RV/R5.PHL/2012/TRa-339	LC018504	2012	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"V, Albay"	rabv-glue	1/1/12	2012	Other
+RV/R5.PHL/2012/TRa-340	LC018505	2012	Canis lupus familiaris	Bicol Region	Camarines Norte	NA	NA	"V, Camarines Norte"	rabv-glue	1/1/12	2012	Other
+RV/R5.PHL/2012/TRa-343	LC018506	2012	Canis lupus familiaris	Bicol Region	Camarines Norte	NA	NA	"V, Camarines Norte"	rabv-glue	1/1/12	2012	Other
+RV/R5.PHL/2012/TRa-344	LC018507	2012	Canis lupus familiaris	Bicol Region	Camarines Sur	NA	NA	"V, Camarines Sur"	rabv-glue	1/1/12	2012	Other
+RV/R5.PHL/2012/TRa-355	LC018517	2012	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"V, Albay"	rabv-glue	1/1/12	2012	Other
+RV/R5.PHL/2012/TRa-356	LC018518	2012	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"V, Albay"	rabv-glue	1/1/12	2012	Other
+RV/R5.PHL/2012/TRa-357	LC018519	2012	Canis lupus familiaris	Bicol Region	Sorsogon	NA	NA	"V, Sorsogon"	rabv-glue	1/1/12	2012	Other
+RV/R5.PHL/2012/TRa-358	LC018520	2012	Canis lupus familiaris	Bicol Region	Camarines Norte	NA	NA	"V, Camarines Norte"	rabv-glue	1/1/12	2012	Other
+RV/R5.PHL/2012/TRa-360	LC018521	2012	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"V, Albay"	rabv-glue	1/1/12	2012	Other
+RV/R5.PHL/2012/TRa-362	LC018522	2012	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"V, Albay"	rabv-glue	1/1/12	2012	Other
+RV/R5.PHL/2013/TRa-364	LC018523	2013	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"V, Albay"	rabv-glue	1/1/13	2013	Other
+RV/R5.PHL/2013/TRa-365	LC018524	2013	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"V, Albay"	rabv-glue	1/1/13	2013	Other
+RV/R5.PHL/2013/TRa-421	LC018549	2013	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"V, Albay"	rabv-glue	1/1/13	2013	Other
+RV/R5.PHL/2013/TRa-422	LC018550	2013	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"V, Albay"	rabv-glue	1/1/13	2013	Other
+RV/R5.PHL/2013/TRa-425	LC018551	2013	Canis lupus familiaris	Bicol Region	Camarines Sur	NA	NA	"V, Camarines Sur"	rabv-glue	1/1/13	2013	Other
+RV/R5.PHL/2013/TRa-426	LC018552	2013	Canis lupus familiaris	Bicol Region	Camarines Sur	NA	NA	"V, Camarines Sur"	rabv-glue	1/1/13	2013	Other
+RV/R5.PHL/2013/TRa-427	LC018553	2013	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"V, Albay"	rabv-glue	1/1/13	2013	Other
+RV/R5.PHL/2013/TRa-429	LC018554	2013	Canis lupus familiaris	Bicol Region	Albay	NA	NA	"V, Albay"	rabv-glue	1/1/13	2013	Other
+RV/R7.PHL/2008/TRa-074	AB563890	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-075	AB563891	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-076	AB563892	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-077	AB563893	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-078	AB563894	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-079	AB563895	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-080	AB563896	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-081	AB563897	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region 7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-082	AB563898	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region 7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-083	AB563899	2008	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region 7, Negros Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-084	AB683588	2008	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-085	AB563900	2008	-	Central Visayas	NA	NA	NA	Valencia	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-096	AB563911	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-097	AB563912	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-098	AB563913	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-099	AB563914	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-100	AB563915	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-101	AB563916	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-102	AB563917	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2008/TRa-103	AB563918	2008	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/08	2008	Other
+RV/R7.PHL/2009/TRa-143	AB563947	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-144	AB563948	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-145	AB563949	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-147	AB563950	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-164	AB563958	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-165	AB563959	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-166	AB563960	2009	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-167	AB563961	2009	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-168	AB563962	2009	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-170	AB563963	2009	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-172	AB563964	2009	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-173	AB563965	2009	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-176	AB563966	2009	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-177	AB563967	2009	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-178	AB563968	2009	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region7, Cebu"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-179	AB683652	2009	Canis lupus familiaris	Central Visayas	Cebu	NA	NA	"Region 7, Cebu"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-235	AB564001	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-236	AB564002	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-237	AB564003	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-238	AB564004	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-239	AB564005	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-240	AB564006	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+RV/R7.PHL/2009/TRa-241	AB564007	2009	Canis lupus familiaris	Central Visayas	Negros Oriental	NA	NA	"Region7, Negros Oriental"	rabv-glue	1/1/09	2009	Other
+V1371PHIL	DQ275546	2004	Felis catus	NA	NA	NA	NA	-	rabv-glue	1/1/04	2004	Other
+V1372PHIL	DQ275550	2004	Felis catus	NA	NA	NA	NA	-	rabv-glue	1/1/04	2004	Other
+V1373PHIL	DQ275549	2004	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/04	2004	Other
+V1374PHIL	DQ275547	2004	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/04	2004	Other
+V1375PHIL	DQ275548	2004	Canis familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/04	2004	Other
+Z-12-001	MN726845	2012	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/12	2012	Other
+Z-12-088	MN726843	2012	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/12	2012	Other
+Z-12-118	MN726856	2012	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/12	2012	Other
+Z-12-134	MN726874	2012	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/12	2012	Other
+Z-12-149	MN726853	2012	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/12	2012	Other
+Z-12-212	MN726879	2012	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/12	2012	Other
+Z-13-002	MN726836	2013	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/13	2013	Other
+Z-13-009	MN726837	2013	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/13	2013	Other
+Z-13-032	MN726862	2013	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/13	2013	Other
+Z-13-066	MN726878	2018	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/18	2018	Other
+Z-13-071	MN726871	2013	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/13	2013	Other
+Z-13-094	MN726838	2013	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/13	2013	Other
+Z-13-096	MN726869	2013	Felis catus	NA	NA	NA	NA	-	rabv-glue	1/1/13	2013	Other
+Z-14-033	MN726844	2014	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/14	2014	Other
+Z-14-098	NA	29-Apr-14	Canis familiaris	Calabarzon	Batangas	NA	Dita	Cuenca	this paper	4/29/14	2014.323288	Other
+Z-14-136	MN726865	2014	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/14	2014	Other
+Z-14-138	MN726866	2014	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/14	2014	Other
+Z-14-146	MN726841	2014	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/14	2014	Other
+Z-14-149	MN726870	2014	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/14	2014	Other
+Z-15-001	MN726846	2015	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/15	2015	Other
+Z-15-019	MN726861	2015	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/15	2015	Other
+Z-15-116	MN726839	2015	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/15	2015	Other
+Z-15-119	MN726849	2015	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/15	2015	Other
+Z-15-130	MN726881	2015	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/15	2015	Other
+Z-15-148	MN726840	2015	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/15	2015	Other
+Z-16-013	MN726848	2016	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/16	2016	Other
+Z-16-082	MN726868	24-May-16	Canis familiaris	Calabarzon	Laguna	NA	Caingin	Sta. Rosa	this paper	5/24/16	2016.393443	Other
+Z-16-159	MN726855	2016	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/16	2016	Other
+Z-16-186	MN726858	2016	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/16	2016	Other
+Z-16-209	MN726872	2017	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/17	2017	Other
+Z-16-210	MN726847	2017	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/17	2017	Other
+Z-16-211	MN726882	2019	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/19	2019	Other
+Z-17-046	NA	6-Mar-17	Canis familiaris	Calabarzon	Batangas	NA	Bgy. San Fernando	Sto. Tomas	this paper	3/6/17	2017.175342	Other
+Z-18-224	NA	28-Oct-18	Canis familiaris	National Capital Region	Metropolitan Manila	NA	Camarin Rd.	Caloocan	this paper	10/28/18	2018.821918	Other
+Z-22-103	NA	21-Nov-22	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Paroyhog	Santa Maria	this paper	11/21/22	2022.887671	Romblon_new
+Z-22-119	NA	28-Dec-22	Canis familiaris	NA	Romblon	NA	Tulay	Odiongan	this paper	12/28/22	2022.989041	Romblon_new
+Z-22-121	NA	19-Dec-22	Canis familiaris	Southwestern Tagalog Region	Romblon	NA	Carmen	San Agustin	this paper	12/19/22	2022.964384	Romblon_new
+Z12-012	MN726867	2012	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/12	2012	Other
+Z14-142	MN726851	2014	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/14	2014	Other
+Z14-152	MN726873	2014	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/14	2014	Other
+Z15-185	MN726854	2015	Canis lupus familiaris	NA	NA	NA	NA	-	rabv-glue	1/1/15	2015	Other

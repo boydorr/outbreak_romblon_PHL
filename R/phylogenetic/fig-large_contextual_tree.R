@@ -117,5 +117,34 @@ dev.off()
 
 
 ##### 
-library(phytools)
-pruned<-collapseTree(all_phl.tree.time,fsize=0.5)
+# collapse related nodes for subtree
+library(castor)
+test=collapse_tree_at_resolution(all_phl.tree.time@phylo, resolution=4, rename_collapsed_nodes = T)$tree
+
+# tree plots:  aesthetics, ladderize
+zoom <- ggtree(test, mrsd='2023-03-01',ladderize = TRUE, size=0.1) %<+% all_phl.annot
+
+# highlight the romblon cases 
+zoom.tree=
+  zoom +  layout_rectangular()+
+  labs(caption="Time (years)")+
+  theme_tree2()+
+  scale_x_continuous(breaks=seq(1890,2020, 10), minor_breaks=seq(1890, 2030, 5)) +
+  geom_fruit(
+    geom=geom_star,
+    mapping=aes(subset=(!is.na(outbreak)),fill=lineage_chain,  starshape=lineage_chain),
+    position="identity",colour="black",
+    starstroke=0.1, size=2
+  )+
+  scale_fill_manual(name = "Lineage",
+                    labels =  c('2', '3','1,4,5'),
+                    values=c("#B80058","#EBAC23","#008CF9"), na.translate=FALSE) +   
+  scale_starshape_manual(name = "Lineage",
+                         labels =  c('2', '3','1,4,5'),
+                         values=c(1,1,1), na.translate=FALSE)+
+  guides(fill = guide_legend(order=1,nrow=2,override.aes = list(size = 5),title.position = "top"), starshape=guide_legend(order=1,nrow=2,title.position = "top"))+
+  theme(panel.grid.major   = element_line(color="darkgrey", linewidth=.2,linetype="dotted"),
+        panel.grid.minor   = element_blank(),
+        panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        axis.text.x = element_text(angle = 45,vjust = 0.5)) + theme(legend.position = c(0.2, 0.5));zoom.tree
