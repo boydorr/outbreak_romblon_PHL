@@ -3,12 +3,12 @@ LEAST-SQUARE METHODS TO ESTIMATE RATES AND DATES - v.2.4.4
 
 
 Input files:
-  i                                               Input tree file : /Users/kirstyn.brunker/Library/CloudStorage/OneDrive-UniversityofGlasgow/Documents/GitHub/Romblon_Outbreak/upload/processed_data/trees/all_rooted.nwk
-  d                                               Input date file : /Users/kirstyn.brunker/Library/CloudStorage/OneDrive-UniversityofGlasgow/Documents/GitHub/Romblon_Outbreak/upload/processed_data/trees/all.dates.txt
+  i                                               Input tree file : /Users/criseldabautista/Documents/GitHub/outbreak_romblon_PHL copy/output/phylogenetic/trees/all_rooted.nwk
+  d                                               Input date file : /Users/criseldabautista/Documents/GitHub/outbreak_romblon_PHL copy/output/phylogenetic/trees/all.dates.txt
   p                                                Partition file : No
   g                                               Given outgroups : No
 Output file:
-  o                                                  Output file  : processed_data/dated_trees/all_wgsrate_lsd_CI
+  o                                                  Output file  : output/phylogenetic/dated_trees/all_wgsrate_lsd_CI
 Parameters:
   a                                                     Root date : No
   z                                                     Tips date : No
@@ -17,7 +17,7 @@ Parameters:
   v                                                With variances : Yes, use variances based on input branch lengths
   b                              Adjusted parameter for variances : To estimate
   r                                             Estimate the root : No
-  w                                       Given substitution rate : /var/folders/32/3fczvgqs6jv5qbf9j7sscqwh0000gq/T//Rtmpn1YQza/file79bfeada062
+  w                                       Given substitution rate : /var/folders/f0/x1bk0stx7h98jfc3y2g6q4jh0000gn/T//Rtmp8Nn55i/file47bb75544a9a
   n                                             Multiple data set : No
   f                                  Compute confidence intervals : Yes, sampling 1000 times
   q                  Standard deviation of lognormal relaxed clock: 0.2 (for computing confidence intervals)

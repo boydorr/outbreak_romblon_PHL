@@ -1,0 +1,1086 @@
+DATASET_COLORSTRIP
+
+SEPARATOR TAB
+BORDER_WIDTH	0.5
+MARGIN	5
+STRIP_WIDTH	25
+COLOR	#ffffff
+DATASET_LABEL	Province
+
+LEGEND_COLORS	#cc7266	#9fcc33	#99ccb1	#668acc	#b133cc	#cc9999	#cc5733	#b7cc99	#66cca2	#3357cc	#c999cc	#ccab99	#96cc66	#33cc9f	#999fcc	#cc66c6	#cc9666	#69cc33	#99ccc3	#6666cc	#cc33b0	#cc8d33	#a5cc99	#66ccc5	#4433cc	#cc99bd	#ccbd99	#72cc66	#33c3cc	#a599cc	#cc66a2	#ccba66	#33cc33	#99c3cc	#8966cc	#cc337b	#ccc333	#99cc9f	#66adcc	#7b33cc	#cc99ab	#c9cc99	#66cc7e	#338dcc	#b799cc	#cc667e	#bacc66	#33cc69	#99b1cc	#ae66cc	#cc3345
+LEGEND_LABELS	Albay	Antique	Aurora	Bataan	Batangas	Benguet	Bukidnon	Bulacan	Cagayan	Camarines Norte	Camarines Sur	Catanduanes	Cavite	Cebu	Compostela Valley	Cotabato	Davao Del Norte	Davao del Norte	Davao del Sur	Davao del Sur 	Guimaras	Ifugao	Ilocos Sur	Iloilo	Isabela	Kalinga	La Union	Laguna	Lanao del Norte	Metropolitan Manila	Metropolitan Manila 	Misamis Oriental	Misamis Oriental 	Mountain Province	Negros Oriental	Nueva Ecija	Nueva Vizcaya	Occidental Mindoro	Oriental Mindoro	Palawan	Pampanga	Pangasinan	Quezon	Rizal	Romblon	Sorsogon	Tarlac	Zambales	Zamboanga Del Norte	Zamboanga Del Sur	Zamboanga Sibugay
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+LEGEND_TITLE	Province
+
+DATA
+#NODE_ID COLOR LABEL_OR_STYLE
+n1	#33cc9f	Cebu
+n8	#8966cc	Negros Oriental
+n1414	#66ccc5	Iloilo
+n1515	#7b33cc	Palawan
+n2626	#72cc66	Laguna
+n11	#33cc9f	Cebu
+n66	#33cc9f	Cebu
+n88	#8966cc	Negros Oriental
+n99	#8966cc	Negros Oriental
+n15	#66ccc5	Iloilo
+R6-4342	#66ccc5	Iloilo
+RV/R4B.PHL/2013/TRa-487	#7b33cc	Palawan
+RV/R4B.PHL/2013/TRa-486	#7b33cc	Palawan
+n1717	#72cc66	Laguna
+n26	#99cc9f	Occidental Mindoro
+n27	#72cc66	Laguna
+n2828	#72cc66	Laguna
+RV/R4B.PHL/2006/Z-06-203	#66adcc	Oriental Mindoro
+n2	#33cc9f	Cebu
+n3	#33cc9f	Cebu
+n55	#33cc9f	Cebu
+n7	#33cc9f	Cebu
+n77	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-099	#33cc9f	Cebu
+n9	#8966cc	Negros Oriental
+RV/R7.PHL/2008/TRa-083	#8966cc	Negros Oriental
+R6-4568	#cc33b0	Guimaras
+n10	#8966cc	Negros Oriental
+R6-21-4375	#66ccc5	Iloilo
+R6-21-4600	#66ccc5	Iloilo
+n18	#72cc66	Laguna
+Z-98-335	#72cc66	Laguna
+Z-17-57	#99cc9f	Occidental Mindoro
+Z-13-216	#99cc9f	Occidental Mindoro
+Z-98-780	#72cc66	Laguna
+n3030	#72cc66	Laguna
+n7171	#72cc66	Laguna
+RV/R4A.PHL/2004/Z-04-401	#338dcc	Rizal
+n22	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-076	#33cc9f	Cebu
+n33	#33cc9f	Cebu
+n5	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-075	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-082	#33cc9f	Cebu
+n6	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-081	#33cc9f	Cebu
+RV/R7.PHL/2009/TRa-168	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-079	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-097	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-078	#33cc9f	Cebu
+RV/R7.PHL/2009/TRa-176	#33cc9f	Cebu
+RV/R7.PHL/2009/TRa-166	#33cc9f	Cebu
+RV/R7.PHL/2009/TRa-237	#8966cc	Negros Oriental
+RV/R7.PHL/2009/TRa-147	#8966cc	Negros Oriental
+n1010	#8966cc	Negros Oriental
+n1111	#8966cc	Negros Oriental
+n13	#8966cc	Negros Oriental
+n1313	#8966cc	Negros Oriental
+RV/R7.PHL/2009/TRa-235	#8966cc	Negros Oriental
+RV/R7.PHL/2008/TRa-084	#8966cc	Negros Oriental
+RV/R7.PHL/2009/TRa-240	#8966cc	Negros Oriental
+n1818	#72cc66	Laguna
+n2525	#72cc66	Laguna
+n28	#b133cc	Batangas
+Z-98-712	#72cc66	Laguna
+Z-98-454	#a599cc	Metropolitan Manila
+n31	#72cc66	Laguna
+RV/R4A.PHL/2004/Z-04-470	#72cc66	Laguna
+RV/R4A.PHL/2005/Z-05-012	#72cc66	Laguna
+n73	#a5cc99	Ilocos Sur
+R7-21-161	#33cc9f	Cebu
+RV/R7.PHL/2009/TRa-170	#33cc9f	Cebu
+RV/R7.PHL/2009/TRa-178	#33cc9f	Cebu
+RV/R7.PHL/2009/TRa-172	#33cc9f	Cebu
+RV/R7.PHL/2009/TRa-179	#33cc9f	Cebu
+n4	#33cc9f	Cebu
+RV/R7.PHL/2009/TRa-167	#33cc9f	Cebu
+n44	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-100	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-103	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-080	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-077	#33cc9f	Cebu
+RV/R7.PHL/2009/TRa-173	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-101	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-096	#33cc9f	Cebu
+RV/R7.PHL/2009/TRa-236	#8966cc	Negros Oriental
+RV/R7.PHL/2009/TRa-145	#8966cc	Negros Oriental
+n12	#8966cc	Negros Oriental
+RV/R7.PHL/2008/TRa-085	#8966cc	Negros Oriental
+n1212	#8966cc	Negros Oriental
+RV/R7.PHL/2009/TRa-164	#8966cc	Negros Oriental
+RV/R7.PHL/2009/TRa-143	#8966cc	Negros Oriental
+RV/R7.PHL/2009/TRa-144	#8966cc	Negros Oriental
+RV/R7.PHL/2009/TRa-241	#8966cc	Negros Oriental
+A12_1978	#8966cc	Negros Oriental
+RV/R7.PHL/2009/TRa-238	#8966cc	Negros Oriental
+n19	#b133cc	Batangas
+n2222	#72cc66	Laguna
+Z-12-034	#72cc66	Laguna
+Z-08-359	#72cc66	Laguna
+Z-98-718	#b133cc	Batangas
+Z-06-150	#b133cc	Batangas
+n30	#96cc66	Cavite
+Z-98-206	#72cc66	Laguna
+RV/R4B.PHL/2006/Z-06-197	#b133cc	Batangas
+n3131	#66cc7e	Quezon
+n32	#b133cc	Batangas
+n3232	#72cc66	Laguna
+R10-989	#ccba66	Misamis Oriental
+n4242	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-110	#ccba66	Misamis Oriental
+RV/R1.PHL/2010/TRa-287	#a5cc99	Ilocos Sur
+n7777	#a5cc99	Ilocos Sur
+RV/R7.PHL/2009/TRa-177	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-098	#33cc9f	Cebu
+A12_1952	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-102	#33cc9f	Cebu
+RV/R7.PHL/2008/TRa-074	#33cc9f	Cebu
+A12_1964	#8966cc	Negros Oriental
+RV/R7.PHL/2009/TRa-165	#8966cc	Negros Oriental
+A12_1977	#8966cc	Negros Oriental
+RV/R7.PHL/2009/TRa-239	#8966cc	Negros Oriental
+n1919	#b133cc	Batangas
+n21	#b133cc	Batangas
+n23	#72cc66	Laguna
+Z-13-098	#a599cc	Metropolitan Manila
+Z-98-1061	#96cc66	Cavite
+Z-98-134	#96cc66	Cavite
+Z-98-860	#66cc7e	Quezon
+Z-98-286	#66cc7e	Quezon
+RV/R4A.PHL/2006/Z-06-345	#b133cc	Batangas
+RV/R4A.PHL/2006/Z-06-197	#b133cc	Batangas
+Z-98-285	#72cc66	Laguna
+Z-98-667	#72cc66	Laguna
+RV/R4B.PHL/2006/Z-06-408	#66adcc	Oriental Mindoro
+n3838	#ccba66	Misamis Oriental
+R9-089	#cc3345	Zamboanga Sibugay
+n43	#ccba66	Misamis Oriental
+RV/R11.PHL/2005/Z-05-186	#99ccc3	Davao del Sur
+n68	#999fcc	Compostela Valley
+n6868	#99ccc3	Davao del Sur
+R11-21-61	#ccba66	Misamis Oriental
+n74	#99c3cc	Mountain Province
+n7676	#a5cc99	Ilocos Sur
+RV/R1.PHL/2009/TRa-218	#ccbd99	La Union
+RV/R3.PHL/2013/TRa-509	#b7cc99	Bulacan
+n78	#a5cc99	Ilocos Sur
+RV/R2.PHL/2009/TRa-142	#66cca2	Cagayan
+n163163	#cc99ab	Pampanga
+n165165	#cc99ab	Pampanga
+Z-13-065	#b133cc	Batangas
+n20	#b133cc	Batangas
+Z-19-029	#b133cc	Batangas
+n2121	#b133cc	Batangas
+n2323	#72cc66	Laguna
+Z-13-037	#72cc66	Laguna
+n38	#99ccc3	Davao del Sur
+n39	#ccba66	Misamis Oriental
+n4141	#ccba66	Misamis Oriental
+n4343	#ccba66	Misamis Oriental
+n45	#ccba66	Misamis Oriental
+n50	#ccba66	Misamis Oriental
+n5252	#99ccc3	Davao del Sur
+n6363	#99ccc3	Davao del Sur
+19-050	#69cc33	Davao del Norte
+18-162	#69cc33	Davao del Norte
+18-142	#999fcc	Compostela Valley
+18-107	#999fcc	Compostela Valley
+n69	#99ccc3	Davao del Sur
+18-191	#99ccc3	Davao del Sur
+n7474	#99c3cc	Mountain Province
+n7575	#99c3cc	Mountain Province
+RV/R1.PHL/2013/TRa-569	#a5cc99	Ilocos Sur
+RV/CAR.PHL/2013/TRa-407	#cc8d33	Ifugao
+RV/R1.PHL/2013/TRa-406	#a5cc99	Ilocos Sur
+RV/R1.PHL/2010/TRa-286	#a5cc99	Ilocos Sur
+RV/R1.PHL/2009/TRa-265	#a5cc99	Ilocos Sur
+n80	#4433cc	Isabela
+n147147	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-216	#ccbd99	La Union
+RV/R4A.PHL/2006/Z-06-039	#b133cc	Batangas
+n158158	#ccab99	Catanduanes
+Z-98-838	#a599cc	Metropolitan Manila
+Z-98-616	#b7cc99	Bulacan
+n160160	#cc337b	Nueva Ecija
+n164	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-064	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-022	#cc99ab	Pampanga
+n165	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-019	#cc99ab	Pampanga
+n166	#cc99ab	Pampanga
+RV/R3.PHL/2012/TRa-305	#cc99ab	Pampanga
+H-23-011Sk_12	#b799cc	Romblon
+n168168	#a599cc	Metropolitan Manila
+n2020	#b133cc	Batangas
+Z-16-209	#66cc7e	Quezon
+Z-12-212	#b133cc	Batangas
+Z-14-146	#b133cc	Batangas
+Z-14-149	#72cc66	Laguna
+n24	#72cc66	Laguna
+n3737	#ae66cc	Zamboanga Del Sur
+R10-688	#cc5733	Bukidnon
+18-118	#99ccc3	Davao del Sur
+18-164	#99ccc3	Davao del Sur
+n3939	#cc66c6	Cotabato
+n40	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-058	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-250	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-249	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-057	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-026	#ccba66	Misamis Oriental
+R10-990	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-186	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-107	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-108	#ccba66	Misamis Oriental
+n4444	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-196	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-030	#ccba66	Misamis Oriental
+n4545	#ccba66	Misamis Oriental
+n47	#ccba66	Misamis Oriental
+R9-105	#99b1cc	Zamboanga Del Norte
+RV/R10.PHL/2009/TRa-189	#ccba66	Misamis Oriental
+n53	#99ccc3	Davao del Sur
+n6060	#99ccc3	Davao del Sur
+n64	#99ccc3	Davao del Sur
+18-214	#99ccc3	Davao del Sur
+n6666	#99ccc3	Davao del Sur
+18-133	#6666cc	Davao del Sur 
+n6969	#99ccc3	Davao del Sur
+n70	#99ccc3	Davao del Sur
+n75	#a5cc99	Ilocos Sur
+RV/CAR.PHL/2009/TRa-222	#99c3cc	Mountain Province
+RV/CAR.PHL/2009/TRa-285	#99c3cc	Mountain Province
+RV/CAR.PHL/2009/TRa-224	#cc8d33	Ifugao
+n76	#99c3cc	Mountain Province
+RV/CAR.PHL/2009/TRa-198	#99c3cc	Mountain Province
+RV/R2.PHL/2013/TRa-506	#66cca2	Cagayan
+RV/R2.PHL/2013/TRa-505	#4433cc	Isabela
+n8080	#4433cc	Isabela
+n8181	#4433cc	Isabela
+RV/R2.PHL/2013/TRa-507	#cc99bd	Kalinga
+RV/R2.PHL/2013/TRa-435	#66cca2	Cagayan
+RV/R3.PHL/2005/Z-05-507	#b7cc99	Bulacan
+n137	#cc337b	Nueva Ecija
+n140	#c9cc99	Pangasinan
+n148	#c9cc99	Pangasinan
+n156	#72cc66	Laguna
+RV/R4A.PHL/2004/Z-04-211	#72cc66	Laguna
+n158	#cc667e	Sorsogon
+RV/R5.PHL/2009/TRa-269	#ccab99	Catanduanes
+RV/R5.PHL/2009/TRa-229	#ccab99	Catanduanes
+RV/R5.PHL/2008/TRa-123	#ccab99	Catanduanes
+RV/R5.PHL/2008/TRa-120	#ccab99	Catanduanes
+n161	#cc337b	Nueva Ecija
+n163	#cc337b	Nueva Ecija
+n164164	#cc99ab	Pampanga
+RV/R3.PHL/2009/TRa-129	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-045	#cc99ab	Pampanga
+RV/R3.PHL/2009/TRa-130	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-111	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-093	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-061	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-051	#cc99ab	Pampanga
+n166166	#cc99ab	Pampanga
+RV/R3.PHL/2009/TRa-204	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-091	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-010	#cc99ab	Pampanga
+Z-98-515	#a599cc	Metropolitan Manila
+n169	#a599cc	Metropolitan Manila
+Z-13-184	#b133cc	Batangas
+Z-13-171	#b133cc	Batangas
+Z-14-243	#72cc66	Laguna
+n2424	#72cc66	Laguna
+R9-074	#ae66cc	Zamboanga Del Sur
+R9-010	#ae66cc	Zamboanga Del Sur
+18-179	#cc66c6	Cotabato
+R11-21-63	#cc66c6	Cotabato
+R10-856	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-195	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-054	#33c3cc	Lanao del Norte
+n46	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-251	#33c3cc	Lanao del Norte
+n4747	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-253	#ccba66	Misamis Oriental
+n5353	#99ccc3	Davao del Sur
+n57	#99ccc3	Davao del Sur
+18-151	#99ccc3	Davao del Sur
+n61	#99ccc3	Davao del Sur
+18-223	#99ccc3	Davao del Sur
+n6464	#99ccc3	Davao del Sur
+18-221	#99ccc3	Davao del Sur
+18-209	#99ccc3	Davao del Sur
+18-174	#99ccc3	Davao del Sur
+18-183	#99ccc3	Davao del Sur
+n67	#99ccc3	Davao del Sur
+R11-22-002	#cc9666	Davao Del Norte
+18-099	#99ccc3	Davao del Sur
+18-101	#99ccc3	Davao del Sur
+18-163	#99ccc3	Davao del Sur
+18-094	#99ccc3	Davao del Sur
+18-106	#99ccc3	Davao del Sur
+18-114	#99ccc3	Davao del Sur
+18-120	#99ccc3	Davao del Sur
+18-188	#99ccc3	Davao del Sur
+18-196	#99ccc3	Davao del Sur
+18-153	#99ccc3	Davao del Sur
+RV/CAR.PHL/2009/TRa-234	#a5cc99	Ilocos Sur
+RV/R1.PHL/2009/TRa-233	#a5cc99	Ilocos Sur
+RV/CAR.PHL/2009/TRa-200	#99c3cc	Mountain Province
+RV/CAR.PHL/2009/TRa-199	#99c3cc	Mountain Province
+RV/R2.PHL/2009/TRa-284	#4433cc	Isabela
+RV/R3.PHL/2013/TRa-582	#cc99ab	Pampanga
+n81	#cc8d33	Ifugao
+n82	#4433cc	Isabela
+R2-081	#66cca2	Cagayan
+n87	#c999cc	Camarines Sur
+n136	#96cc66	Cavite
+n137137	#cc337b	Nueva Ecija
+n140140	#c9cc99	Pangasinan
+n141141	#c9cc99	Pangasinan
+n148148	#c9cc99	Pangasinan
+n152	#c9cc99	Pangasinan
+RV/CAR.PHL/2010/TRa-289	#cc8d33	Ifugao
+RV/CAR.PHL/2010/TRa-291	#cc99bd	Kalinga
+RV/R4A.PHL/2005/Z-05-123	#72cc66	Laguna
+Z-06-39	#b133cc	Batangas
+RV/R5.PHL/2009/TRa-268	#cc667e	Sorsogon
+RV/R5.PHL/2008/TRa-073	#cc667e	Sorsogon
+n161161	#cc337b	Nueva Ecija
+RV/R3.PHL/2008/TRa-095	#cc337b	Nueva Ecija
+RV/R3.PHL/2008/TRa-089	#cc337b	Nueva Ecija
+RV/R3.PHL/2009/TRa-128	#cc337b	Nueva Ecija
+RV/R3.PHL/2008/TRa-065	#cc337b	Nueva Ecija
+RV/R3.PHL/2009/TRa-127	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-086	#cc99ab	Pampanga
+RV/R3.PHL/2009/TRa-117	#cc99ab	Pampanga
+RV/R3.PHL/2009/TRa-118	#cc99ab	Pampanga
+RV/R3.PHL/2009/TRa-135	#cc99ab	Pampanga
+RV/R3.PHL/2009/TRa-134	#cc337b	Nueva Ecija
+RV/R3.PHL/2009/TRa-115	#cc99ab	Pampanga
+n169169	#a599cc	Metropolitan Manila
+n173173	#a599cc	Metropolitan Manila
+Z-13-204	#72cc66	Laguna
+n25	#72cc66	Laguna
+R10-907	#ccba66	Misamis Oriental
+R10-824	#33cc33	Misamis Oriental 
+R10-714	#33cc33	Misamis Oriental 
+RV/R10.PHL/2009/TRa-109	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-055	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-184	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-053	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-027	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-052	#ccba66	Misamis Oriental
+n4646	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-243	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-024	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-246	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-254	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-025	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-014	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-056	#ccba66	Misamis Oriental
+n48	#ccba66	Misamis Oriental
+n4848	#ccba66	Misamis Oriental
+n54	#99ccc3	Davao del Sur
+n56	#99ccc3	Davao del Sur
+n5757	#99ccc3	Davao del Sur
+18-092	#99ccc3	Davao del Sur
+n6161	#99ccc3	Davao del Sur
+18-138	#99ccc3	Davao del Sur
+19-011	#99ccc3	Davao del Sur
+19-015	#99ccc3	Davao del Sur
+18-181	#99ccc3	Davao del Sur
+18-172	#99ccc3	Davao del Sur
+RV/CAR.PHL/2013/TRa-510	#cc8d33	Ifugao
+RV/CAR.PHL/2013/TRa-405	#cc8d33	Ifugao
+RV/CAR.PHL/2013/TRa-370	#cc99bd	Kalinga
+RV/R2.PHL/2013/TRa-504	#ccc333	Nueva Vizcaya
+RV/R2.PHL/2013/TRa-437	#ccc333	Nueva Vizcaya
+n8282	#4433cc	Isabela
+RV/R1.PHL/2013/TRa-572	#ccbd99	La Union
+RV/CAR.PHL/2013/TRa-571	#99c3cc	Mountain Province
+RV/CAR.PHL/2013/TRa-500	#99c3cc	Mountain Province
+n8787	#c999cc	Camarines Sur
+n8888	#cc7266	Albay
+n100	#c999cc	Camarines Sur
+RV/R5.PHL/2008/TRa-036	#c999cc	Camarines Sur
+RV/R2.PHL/2013/TRa-439	#66cca2	Cagayan
+RV/NCR.PHL/2005/Z-05-009	#a599cc	Metropolitan Manila
+Z-98-823	#96cc66	Cavite
+Z-98-433	#96cc66	Cavite
+n138	#cc337b	Nueva Ecija
+RV/R3.PHL/2004/Z-04-519	#99ccb1	Aurora
+RV/R3.PHL/2005/Z-05-198	#cc337b	Nueva Ecija
+RV/R3.PHL/2008/TRa-047	#33cc69	Zambales
+RV/R3.PHL/2008/TRa-041	#bacc66	Tarlac
+n139139	#cc337b	Nueva Ecija
+n141	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-154	#c9cc99	Pangasinan
+n142	#c9cc99	Pangasinan
+RV/R1.PHL/2010/TRa-298	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-267	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-266	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-262	#c9cc99	Pangasinan
+n146146	#cc337b	Nueva Ecija
+n149	#c9cc99	Pangasinan
+n150150	#c9cc99	Pangasinan
+n151151	#c9cc99	Pangasinan
+n152152	#c9cc99	Pangasinan
+RV/R3.PHL/2009/TRa-202	#33cc69	Zambales
+n162	#cc99ab	Pampanga
+RV/R3.PHL/2012/TRa-307	#bacc66	Tarlac
+RV/R3.PHL/2009/TRa-131	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-013	#bacc66	Tarlac
+n170	#a599cc	Metropolitan Manila
+Z-05-557	#a599cc	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-424	#a599cc	Metropolitan Manila
+Z-05-102	#a599cc	Metropolitan Manila
+RV/NCR.PHL/2004/Z-04-534	#a599cc	Metropolitan Manila
+n174	#96cc66	Cavite
+RV/NCR.PHL/2005/Z-05-299	#a599cc	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-187	#a599cc	Metropolitan Manila
+RV/NCR.PHL/2004/Z-04-421	#a599cc	Metropolitan Manila
+RV/R4A.PHL/2007/Z-07-307	#96cc66	Cavite
+n174174	#a599cc	Metropolitan Manila
+RV/R3.PHL/2008/TRa-063	#cc337b	Nueva Ecija
+RV/NCR.PHL/2005/Z-05-149	#a599cc	Metropolitan Manila
+RV/R4A.PHL/2004/Z-04-042	#96cc66	Cavite
+n189	#a599cc	Metropolitan Manila
+Z-13-081	#72cc66	Laguna
+Z-13-234	#72cc66	Laguna
+R10-920	#cc5733	Bukidnon
+R10-711	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-252	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-242	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-247	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-244	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-194	#ccba66	Misamis Oriental
+n49	#ccba66	Misamis Oriental
+n4949	#ccba66	Misamis Oriental
+n5454	#99ccc3	Davao del Sur
+18-194	#99ccc3	Davao del Sur
+n5656	#99ccc3	Davao del Sur
+18-103	#99ccc3	Davao del Sur
+n58	#99ccc3	Davao del Sur
+n59	#99ccc3	Davao del Sur
+18-096	#99ccc3	Davao del Sur
+19-022	#99ccc3	Davao del Sur
+RV/R2.PHL/2009/TRa-283	#4433cc	Isabela
+RV/R2.PHL/2009/TRa-279	#4433cc	Isabela
+RV/R5.PHL/2012/TRa-358	#3357cc	Camarines Norte
+RV/R5.PHL/2008/TRa-071	#c999cc	Camarines Sur
+n89	#cc7266	Albay
+n9191	#cc7266	Albay
+RV/R5.PHL/2012/TRa-339	#cc7266	Albay
+n93	#cc7266	Albay
+RV/R5.PHL/2009/TRa-271	#3357cc	Camarines Norte
+n94	#3357cc	Camarines Norte
+RV/R5.PHL/2012/TRa-338	#ccab99	Catanduanes
+n100100	#c999cc	Camarines Sur
+RV/R5.PHL/2008/TRa-037	#c999cc	Camarines Sur
+RV/R5.PHL/2008/TRa-121	#c999cc	Camarines Sur
+n103	#a599cc	Metropolitan Manila
+n131131	#cc7266	Albay
+n134134	#a599cc	Metropolitan Manila
+n138138	#cc337b	Nueva Ecija
+RV/R3.PHL/2009/TRa-205	#cc337b	Nueva Ecija
+RV/R3.PHL/2013/TRa-462	#cc337b	Nueva Ecija
+RV/R3.PHL/2013/TRa-347	#cc337b	Nueva Ecija
+RV/R1.PHL/2009/TRa-259	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-220	#c9cc99	Pangasinan
+n142142	#c9cc99	Pangasinan
+RV/R3.PHL/2013/TRa-581	#bacc66	Tarlac
+RV/R3.PHL/2013/TRa-584	#cc337b	Nueva Ecija
+RV/R3.PHL/2013/TRa-541	#cc337b	Nueva Ecija
+RV/R3.PHL/2013/TRa-466	#cc337b	Nueva Ecija
+RV/R3.PHL/2013/TRa-465	#cc337b	Nueva Ecija
+RV/R3.PHL/2013/TRa-460	#cc337b	Nueva Ecija
+RV/R3.PHL/2013/TRa-458	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-349	#cc337b	Nueva Ecija
+RV/R3.PHL/2012/TRa-312	#cc337b	Nueva Ecija
+RV/R3.PHL/2012/TRa-306	#cc337b	Nueva Ecija
+RV/R3.PHL/2013/TRa-448	#cc337b	Nueva Ecija
+RADDL3-1045	#668acc	Bataan
+n149149	#c9cc99	Pangasinan
+RV/R3.PHL/2012/TRa-309	#bacc66	Tarlac
+n151	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-256	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-263	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-159	#c9cc99	Pangasinan
+n153	#c9cc99	Pangasinan
+n153153	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-257	#c9cc99	Pangasinan
+n162162	#bacc66	Tarlac
+RV/R3.PHL/2008/TRa-060	#cc99ab	Pampanga
+RV/R3.PHL/2012/TRa-302	#bacc66	Tarlac
+RV/NCR.PHL/2005/Z-05-090	#a599cc	Metropolitan Manila
+n170170	#a599cc	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-465	#a599cc	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-168	#a599cc	Metropolitan Manila
+n171	#a599cc	Metropolitan Manila
+RV/R4A.PHL/2006/Z-06-231	#96cc66	Cavite
+RV/R4A.PHL/2007/Z-07-189	#96cc66	Cavite
+RV/R4A.PHL/2007/Z-07-317	#96cc66	Cavite
+RV/R4A.PHL/2006/Z-06-365	#96cc66	Cavite
+n175	#96cc66	Cavite
+RV/R4A.PHL/2004/Z-04-420	#96cc66	Cavite
+RV/R4A.PHL/2004/Z-04-389	#96cc66	Cavite
+n176176	#a599cc	Metropolitan Manila
+n189189	#66cc7e	Quezon
+n191	#a599cc	Metropolitan Manila
+RV/R10.PHL/2009/TRa-255	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-197	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-028	#ccba66	Misamis Oriental
+RV/R10.PHL/2008/TRa-104	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-191	#ccba66	Misamis Oriental
+RV/R10.PHL/2009/TRa-248	#ccba66	Misamis Oriental
+n5555	#99ccc3	Davao del Sur
+18-116	#99ccc3	Davao del Sur
+18-135	#99ccc3	Davao del Sur
+18-225	#99ccc3	Davao del Sur
+n5858	#99ccc3	Davao del Sur
+18-102	#99ccc3	Davao del Sur
+n5959	#99ccc3	Davao del Sur
+18-224	#99ccc3	Davao del Sur
+n8989	#cc7266	Albay
+RV/R5.PHL/2013/TRa-427	#cc7266	Albay
+n92	#cc7266	Albay
+RV/R5.PHL/2008/TRa-072	#cc7266	Albay
+RV/R5.PHL/2008/TRa-005	#cc7266	Albay
+RV/R5.PHL/2008/TRa-032	#cc7266	Albay
+RV/R5.PHL/2008/TRa-031	#cc7266	Albay
+n9494	#3357cc	Camarines Norte
+RV/R5.PHL/2009/TRa-231	#3357cc	Camarines Norte
+RV/R5.PHL/2012/TRa-344	#c999cc	Camarines Sur
+RV/R5.PHL/2013/TRa-425	#c999cc	Camarines Sur
+RV/R5.PHL/2012/TRa-337	#c999cc	Camarines Sur
+RV/NCR.PHL/2005/Z-05-373	#a599cc	Metropolitan Manila
+Z-12-029	#a599cc	Metropolitan Manila
+n103103	#cc337b	Nueva Ecija
+Z-07-387	#66cc7e	Quezon
+Z-07-366	#b133cc	Batangas
+RV/R5.PHL/2009/TRa-183	#cc7266	Albay
+n132	#cc7266	Albay
+n135	#a599cc	Metropolitan Manila
+n135135	#a599cc	Metropolitan Manila
+RV/R3.PHL/2009/TRa-132	#cc337b	Nueva Ecija
+RV/R3.PHL/2008/TRa-062	#cc337b	Nueva Ecija
+RV/R3.PHL/2009/TRa-113	#33cc69	Zambales
+RV/R1.PHL/2009/TRa-215	#c9cc99	Pangasinan
+A12_1969	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-213	#c9cc99	Pangasinan
+n143	#c9cc99	Pangasinan
+n143143	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-153	#c9cc99	Pangasinan
+n144144	#c9cc99	Pangasinan
+n145145	#c9cc99	Pangasinan
+n146	#c9cc99	Pangasinan
+n150	#c9cc99	Pangasinan
+RV/R1.PHL/2008/TRa-094	#c9cc99	Pangasinan
+RV/R3.PHL/2008/TRa-021	#cc337b	Nueva Ecija
+RV/R3.PHL/2008/TRa-009	#cc337b	Nueva Ecija
+RV/R1.PHL/2009/TRa-210	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-150	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-156	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-157	#c9cc99	Pangasinan
+n154	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-258	#c9cc99	Pangasinan
+RV/R1.PHL/2012/TRa-377	#c9cc99	Pangasinan
+RV/R1.PHL/2012/TRa-325	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-214	#c9cc99	Pangasinan
+RV/R3.PHL/2013/TRa-446	#bacc66	Tarlac
+RV/R3.PHL/2013/TRa-348	#cc337b	Nueva Ecija
+RV/R3.PHL/2012/TRa-314	#bacc66	Tarlac
+Z-07-38	#96cc66	Cavite
+Z-07-351	#a599cc	Metropolitan Manila
+n171171	#a599cc	Metropolitan Manila
+Z-13-086	#338dcc	Rizal
+RV/R4A.PHL/2004/Z-04-480	#72cc66	Laguna
+RV/R4A.PHL/2007/Z-07-243	#96cc66	Cavite
+RV/R4A.PHL/2007/Z-07-330	#96cc66	Cavite
+RV/R4A.PHL/2006/Z-06-348	#96cc66	Cavite
+Z-07-407	#a599cc	Metropolitan Manila
+n177	#a599cc	Metropolitan Manila
+n179179	#a599cc	Metropolitan Manila
+n190	#66cc7e	Quezon
+n190190	#66cc7e	Quezon
+n191191	#96cc66	Cavite
+n192	#a599cc	Metropolitan Manila
+19-004	#99ccc3	Davao del Sur
+19-045	#99ccc3	Davao del Sur
+18-121	#99ccc3	Davao del Sur
+18-199	#99ccc3	Davao del Sur
+18-144	#99ccc3	Davao del Sur
+18-147	#99ccc3	Davao del Sur
+n60	#99ccc3	Davao del Sur
+n90	#cc7266	Albay
+153	#cc7266	Albay
+RV/R5.PHL/2008/TRa-122	#cc7266	Albay
+RV/R5.PHL/2009/TRa-227	#cc7266	Albay
+RV/R5.PHL/2008/TRa-034	#cc7266	Albay
+n95	#3357cc	Camarines Norte
+n97	#cc7266	Albay
+RV/R3.PHL/2009/TRa-201	#cc337b	Nueva Ecija
+RV/R3.PHL/2009/TRa-136	#cc337b	Nueva Ecija
+R6-21-4511	#9fcc33	Antique
+n132132	#cc7266	Albay
+RV/R5.PHL/2009/TRa-272	#cc7266	Albay
+RV/R5.PHL/2009/TRa-226	#cc7266	Albay
+RV/R5.PHL/2009/TRa-225	#cc7266	Albay
+A12_1973	#cc7266	Albay
+RV/R5.PHL/2008/TRa-067	#cc7266	Albay
+RV/R5.PHL/2009/TRa-273	#cc7266	Albay
+Z-04-664	#a599cc	Metropolitan Manila
+Z-05-191	#a599cc	Metropolitan Manila
+V1372PHIL	#a599cc	Metropolitan Manila
+Z-05-96	#a599cc	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-285	#a599cc	Metropolitan Manila
+RV/NCR.PHL/2004/Z-04-646	#a599cc	Metropolitan Manila
+RV/R1.PHL/2012/TRa-379	#c9cc99	Pangasinan
+RV/R1.PHL/2012/TRa-376	#c9cc99	Pangasinan
+RADDL1-16-153	#c9cc99	Pangasinan
+RADDL3-16-1008	#cc337b	Nueva Ecija
+n144	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-151	#c9cc99	Pangasinan
+n145	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-161	#c9cc99	Pangasinan
+RV/R1.PHL/2012/TRa-383	#c9cc99	Pangasinan
+RV/R1.PHL/2012/TRa-323	#c9cc99	Pangasinan
+RV/R1.PHL/2012/TRa-384	#c9cc99	Pangasinan
+RV/R1.PHL/2012/TRa-381	#c9cc99	Pangasinan
+RV/R1.PHL/2012/TRa-378	#c9cc99	Pangasinan
+RV/R1.PHL/2010/TRa-300	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-260	#c9cc99	Pangasinan
+RV/R1.PHL/2012/TRa-324	#c9cc99	Pangasinan
+RV/R1.PHL/2012/TRa-320	#c9cc99	Pangasinan
+n172	#a599cc	Metropolitan Manila
+n172172	#a599cc	Metropolitan Manila
+n176	#a599cc	Metropolitan Manila
+Z-13-094	#96cc66	Cavite
+n177177	#a599cc	Metropolitan Manila
+Z-09-94	#a599cc	Metropolitan Manila
+n180	#a599cc	Metropolitan Manila
+n181	#a599cc	Metropolitan Manila
+RV/NCR.PHL/2005/Z-05-466	#a599cc	Metropolitan Manila
+Z-07-403	#66cc7e	Quezon
+RV/R4A.PHL/2007/Z-07-252	#66cc7e	Quezon
+RV/R4A.PHL/2012/TRa-398	#66cc7e	Quezon
+4A-22-98	#66cc7e	Quezon
+4A-22-40	#b133cc	Batangas
+Z-08-351	#96cc66	Cavite
+Z-07-22	#96cc66	Cavite
+RV/NCR.PHL/2005/Z-05-396	#a599cc	Metropolitan Manila
+RV/R4A.PHL/2012/TRa-401	#b133cc	Batangas
+n192192	#b133cc	Batangas
+n193	#a599cc	Metropolitan Manila
+18-130	#99ccc3	Davao del Sur
+18-216	#99ccc3	Davao del Sur
+n9090	#cc7266	Albay
+REGION_5_2018-100	#cc7266	Albay
+n9595	#3357cc	Camarines Norte
+RV/R5.PHL/2012/TRa-343	#3357cc	Camarines Norte
+RV/R5.PHL/2012/TRa-362	#cc7266	Albay
+RV/R5.PHL/2012/TRa-355	#cc7266	Albay
+n105	#cc99ab	Pampanga
+n106	#c9cc99	Pangasinan
+n133	#cc7266	Albay
+RV/R5.PHL/2013/TRa-429	#cc7266	Albay
+n133133	#cc7266	Albay
+n134	#cc7266	Albay
+RV/R5.PHL/2012/TRa-357	#cc667e	Sorsogon
+RV/R5.PHL/2012/TRa-360	#cc7266	Albay
+RV/R5.PHL/2012/TRa-356	#cc7266	Albay
+RV/R1.PHL/2009/TRa-221	#c9cc99	Pangasinan
+RV/R1.PHL/2012/TRa-327	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-219	#c9cc99	Pangasinan
+RV/R1.PHL/2012/TRa-375	#c9cc99	Pangasinan
+RV/R1.PHL/2009/TRa-208	#c9cc99	Pangasinan
+Z-13-036	#a599cc	Metropolitan Manila
+Z-13-020	#a599cc	Metropolitan Manila
+Z-14-058	#338dcc	Rizal
+n173	#a599cc	Metropolitan Manila
+Z-13-032	#a599cc	Metropolitan Manila
+Z-12-088	#a599cc	Metropolitan Manila
+Z-13-071	#a599cc	Metropolitan Manila
+n178	#a599cc	Metropolitan Manila
+RV/R3.PHL/2012/TRa-303	#b7cc99	Bulacan
+n180180	#96cc66	Cavite
+Z-14-126	#a599cc	Metropolitan Manila
+n182	#ccbd99	La Union
+RV/R1.PHL/2009/TRa-209	#c9cc99	Pangasinan
+RV/R4A.PHL/2006/Z-06-362	#b133cc	Batangas
+RV/R4A.PHL/2006/Z-06-163	#72cc66	Laguna
+n182182	#a599cc	Metropolitan Manila
+RV/R4A.PHL/2006/Z-06-342	#72cc66	Laguna
+RV/NCR.PHL/2004/Z-04-522	#a599cc	Metropolitan Manila
+Z-06-295	#b133cc	Batangas
+RV/R4A.PHL/2006/Z-06-361	#72cc66	Laguna
+RV/R4A.PHL/2006/Z-06-357	#b133cc	Batangas
+RV/R4A.PHL/2006/Z-06-222	#96cc66	Cavite
+n193193	#a599cc	Metropolitan Manila
+n206	#96cc66	Cavite
+n91	#cc7266	Albay
+REGION_5_2018-50	#cc7266	Albay
+REGION_5_2018-304	#cc7266	Albay
+n96	#3357cc	Camarines Norte
+RV/R5.PHL/2012/TRa-340	#3357cc	Camarines Norte
+RV/R5.PHL/2013/TRa-426	#c999cc	Camarines Sur
+n105105	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-088	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-002	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-090	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-066	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-049	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-006	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-447	#b7cc99	Bulacan
+55	#cc99ab	Pampanga
+93	#cc99ab	Pampanga
+140	#33cc69	Zambales
+n106106	#c9cc99	Pangasinan
+66	#cc99ab	Pampanga
+n116	#c9cc99	Pangasinan
+R5-09	#cc7266	Albay
+R5-21-119	#cc667e	Sorsogon
+RV/R5.PHL/2013/TRa-422	#cc7266	Albay
+RV/R5.PHL/2013/TRa-365	#cc7266	Albay
+RV/R5.PHL/2013/TRa-421	#cc7266	Albay
+RV/R5.PHL/2013/TRa-364	#cc7266	Albay
+RV/R4A.PHL/2013/TRa-485	#b133cc	Batangas
+RV/CAR.PHL/2013/TRa-409	#cc9999	Benguet
+Z14-152	#a599cc	Metropolitan Manila
+Z-15-148	#a599cc	Metropolitan Manila
+n178178	#a599cc	Metropolitan Manila
+Z-13-073	#a599cc	Metropolitan Manila
+Z-13-134	#a599cc	Metropolitan Manila
+Z-12-134	#96cc66	Cavite
+Z-13-161	#72cc66	Laguna
+RADDL1-16-154	#c9cc99	Pangasinan
+RV/R1.PHL/2013/TRa-573	#ccbd99	La Union
+RV/R1.PHL/2012/TRa-382	#ccbd99	La Union
+n183	#a599cc	Metropolitan Manila
+n184	#72cc66	Laguna
+Z-12-149	#66adcc	Oriental Mindoro
+RV/R4A.PHL/2005/Z-05-017	#96cc66	Cavite
+n194	#66adcc	Oriental Mindoro
+n202	#a599cc	Metropolitan Manila
+n206206	#96cc66	Cavite
+Z-07-07	#96cc66	Cavite
+n208208	#96cc66	Cavite
+REGION_5_2019-1	#cc7266	Albay
+REGION_5_2019-13	#cc7266	Albay
+n9696	#3357cc	Camarines Norte
+R5-21-128	#c999cc	Camarines Sur
+n9898	#cc7266	Albay
+n9999	#cc7266	Albay
+RADDL5-005	#c999cc	Camarines Sur
+A12_1959	#cc99ab	Pampanga
+RV/R3.PHL/2009/TRa-133	#cc99ab	Pampanga
+n107	#c9cc99	Pangasinan
+RV/R1.PHL/2010/TRa-299	#c9cc99	Pangasinan
+RV/R3.PHL/2013/TRa-464	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-456	#b7cc99	Bulacan
+BAI/BAINCR/2019-01/can	#a599cc	Metropolitan Manila
+RV/R3.PHL/2013/TRa-352	#b7cc99	Bulacan
+n111111	#a599cc	Metropolitan Manila
+n113	#c9cc99	Pangasinan
+RV/R3.PHL/2013/TRa-557	#b7cc99	Bulacan
+n115115	#b7cc99	Bulacan
+n116116	#b7cc99	Bulacan
+n119119	#b7cc99	Bulacan
+n179	#a599cc	Metropolitan Manila
+Z-13-096	#a599cc	Metropolitan Manila
+V1373PHIL	#a599cc	Metropolitan Manila
+Z-17-174	#a599cc	Metropolitan Manila
+Z-15-001	#338dcc	Rizal
+Z-17-193	#66cc7e	Quezon
+Z-16-186	#338dcc	Rizal
+Z-07-398	#72cc66	Laguna
+n184184	#b133cc	Batangas
+n194194	#66adcc	Oriental Mindoro
+n195195	#66adcc	Oriental Mindoro
+n199199	#66adcc	Oriental Mindoro
+n202202	#33cc69	Zambales
+n204	#a599cc	Metropolitan Manila
+n207	#96cc66	Cavite
+Z-15-119	#a599cc	Metropolitan Manila
+n209	#96cc66	Cavite
+Z-07-222	#96cc66	Cavite
+n214	#96cc66	Cavite
+R5-21-140	#3357cc	Camarines Norte
+R5-21-115	#3357cc	Camarines Norte
+R5-21-136	#cc7266	Albay
+REGION_5_2018-311	#cc7266	Albay
+R5-22-008	#cc7266	Albay
+R5-21-132	#cc7266	Albay
+n107107	#c9cc99	Pangasinan
+n110110	#c9cc99	Pangasinan
+n112	#a599cc	Metropolitan Manila
+n112112	#a599cc	Metropolitan Manila
+n113113	#b799cc	Romblon
+n114114	#c9cc99	Pangasinan
+RV/R3.PHL/2013/TRa-445	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-547	#b7cc99	Bulacan
+n117	#b799cc	Romblon
+Z-18-224	#a599cc	Metropolitan Manila
+RV/R3.PHL/2013/TRa-451	#b7cc99	Bulacan
+RV/R3.PHL/2012/TRa-310	#b7cc99	Bulacan
+130	#b7cc99	Bulacan
+131	#b7cc99	Bulacan
+132	#b7cc99	Bulacan
+n120	#b7cc99	Bulacan
+n122122	#b7cc99	Bulacan
+n123	#b7cc99	Bulacan
+121	#b7cc99	Bulacan
+Z-14-138	#cc66a2	Metropolitan Manila 
+Z-13-002	#a599cc	Metropolitan Manila
+RV/R4A.PHL/2012/TRa-404	#b133cc	Batangas
+n185	#b133cc	Batangas
+RV/R4A.PHL/2011/TRa-393	#72cc66	Laguna
+n195	#66adcc	Oriental Mindoro
+4B-2922JG	#66adcc	Oriental Mindoro
+n196	#66adcc	Oriental Mindoro
+n196196	#66adcc	Oriental Mindoro
+n198	#66adcc	Oriental Mindoro
+4B-2422	#99cc9f	Occidental Mindoro
+4B-21-29	#66adcc	Oriental Mindoro
+n200	#66adcc	Oriental Mindoro
+RV/R3.PHL/2008/TRa-018	#33cc69	Zambales
+n203	#33cc69	Zambales
+n203203	#33cc69	Zambales
+RV/R3.PHL/2008/TRa-048	#33cc69	Zambales
+RV/R3.PHL/2008/TRa-016	#33cc69	Zambales
+RV/R3.PHL/2008/TRa-011	#33cc69	Zambales
+RV/R3.PHL/2008/TRa-119	#33cc69	Zambales
+n204204	#a599cc	Metropolitan Manila
+RV/R3.PHL/2008/TRa-017	#cc99ab	Pampanga
+n207207	#96cc66	Cavite
+Z-18-114	#b133cc	Batangas
+Z-13-089	#96cc66	Cavite
+Z-13-066	#96cc66	Cavite
+n209209	#96cc66	Cavite
+n213213	#96cc66	Cavite
+n214214	#96cc66	Cavite
+n215	#96cc66	Cavite
+n108	#c9cc99	Pangasinan
+n110	#cc337b	Nueva Ecija
+RV/R3.PHL/2013/TRa-449	#b7cc99	Bulacan
+n111	#c9cc99	Pangasinan
+4A-22-104	#b133cc	Batangas
+Z-17-200	#72cc66	Laguna
+Z-14-101	#a599cc	Metropolitan Manila
+Z-16-151	#96cc66	Cavite
+BAI/BAINCR/2019-02/can	#a599cc	Metropolitan Manila
+RV/R4B.PHL/2011/TRa-394	#b799cc	Romblon
+RV/R4B.PHL/2011/TRa-392	#b799cc	Romblon
+RV/R4B.PHL/2011/TRa-396	#b799cc	Romblon
+n114	#b799cc	Romblon
+n115	#b7cc99	Bulacan
+RV/R3.PHL/2012/TRa-318	#b7cc99	Bulacan
+n117117	#b799cc	Romblon
+n119	#b799cc	Romblon
+4B-23-11	#b799cc	Romblon
+RV/R3.PHL/2013/TRa-452	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-589	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-587	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-586	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-583	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-554	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-551	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-550	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-545	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-544	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-543	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-540	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-538	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-535	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-533	#cc99ab	Pampanga
+RV/R3.PHL/2012/TRa-313	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-536	#b7cc99	Bulacan
+n120120	#b7cc99	Bulacan
+n121	#b7cc99	Bulacan
+n121121	#cc99ab	Pampanga
+n122	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-353	#b7cc99	Bulacan
+Z-14-182	#b7cc99	Bulacan
+RADDL3-16-521	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-454	#b7cc99	Bulacan
+n123123	#b7cc99	Bulacan
+BAI/BAI3/2019-01/fel	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-455	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-457	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-350	#b7cc99	Bulacan
+RV/R3.PHL/2012/TRa-308	#b7cc99	Bulacan
+n185185	#b133cc	Batangas
+n188188	#b133cc	Batangas
+4B-22-40	#66adcc	Oriental Mindoro
+4B-22-20	#66adcc	Oriental Mindoro
+4B-22-13	#66adcc	Oriental Mindoro
+4B-22-35	#66adcc	Oriental Mindoro
+4B-22-16	#66adcc	Oriental Mindoro
+4B-22-17	#66adcc	Oriental Mindoro
+4B-22-21	#66adcc	Oriental Mindoro
+4B-22-31	#66adcc	Oriental Mindoro
+n198198	#66adcc	Oriental Mindoro
+4B-22-15	#66adcc	Oriental Mindoro
+4B-21-126	#66adcc	Oriental Mindoro
+4B-21-423	#66adcc	Oriental Mindoro
+n200200	#66adcc	Oriental Mindoro
+RV/R3.PHL/2009/TRa-114	#33cc69	Zambales
+RV/R3.PHL/2008/TRa-112	#cc99ab	Pampanga
+RV/R3.PHL/2009/TRa-116	#33cc69	Zambales
+RV/R3.PHL/2008/TRa-040	#33cc69	Zambales
+n205	#cc99ab	Pampanga
+n205205	#cc99ab	Pampanga
+n208	#96cc66	Cavite
+4A-22-171	#96cc66	Cavite
+n211	#96cc66	Cavite
+Z-14-136	#96cc66	Cavite
+Z-14-106	#96cc66	Cavite
+Z-15-019	#a599cc	Metropolitan Manila
+Z-12-118	#96cc66	Cavite
+Z-13-259	#96cc66	Cavite
+Z-13-009	#96cc66	Cavite
+n215215	#96cc66	Cavite
+Z-12-060	#96cc66	Cavite
+Z-12-001	#72cc66	Laguna
+n109	#b7cc99	Bulacan
+Z-12-208	#a599cc	Metropolitan Manila
+RADDL3-15-172	#cc337b	Nueva Ecija
+120	#cc337b	Nueva Ecija
+R1-21-148	#c9cc99	Pangasinan
+RADDL1-16-166	#c9cc99	Pangasinan
+RV/R4B.PHL/2012/TRa-402	#b799cc	Romblon
+RV/R4B.PHL/2012/TRa-400	#b799cc	Romblon
+RV/R4B.PHL/2012/TRa-397	#b799cc	Romblon
+RV/R3.PHL/2013/TRa-442	#b7cc99	Bulacan
+RV/R3.PHL/2012/TRa-315	#b7cc99	Bulacan
+4B-22-41	#b799cc	Romblon
+4B-22-44	#b799cc	Romblon
+4B-23-02	#b799cc	Romblon
+4B-23-13	#b799cc	Romblon
+n118	#b799cc	Romblon
+4B-23-15	#b799cc	Romblon
+Z-22-103	#b799cc	Romblon
+4B-22-42	#b799cc	Romblon
+4B-22-37	#b799cc	Romblon
+4B-22-39	#b799cc	Romblon
+n118118	#b799cc	Romblon
+4B-23-07	#b799cc	Romblon
+4B-23-17	#b799cc	Romblon
+Z-22-119	#b799cc	Romblon
+4B-23-16	#b799cc	Romblon
+4B-23-19	#b799cc	Romblon
+4B-23-05	#b799cc	Romblon
+RV/R3.PHL/2013/TRa-549	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-346	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-443	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-542	#cc99ab	Pampanga
+RADDL3-16-468	#cc99ab	Pampanga
+RADDL3-1038	#cc99ab	Pampanga
+R3-731	#cc337b	Nueva Ecija
+RV/R3.PHL/2013/TRa-461	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-459	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-453	#cc99ab	Pampanga
+RADDL3-845	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-463	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-588	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-552	#cc99ab	Pampanga
+RV/R3.PHL/2013/TRa-534	#cc99ab	Pampanga
+Z-18-159	#b7cc99	Bulacan
+87	#cc99ab	Pampanga
+n124	#b7cc99	Bulacan
+RADDL3-16-627	#b7cc99	Bulacan
+Z-14-098	#b133cc	Batangas
+n186	#b133cc	Batangas
+Z-12-012	#b133cc	Batangas
+Z12-012	#b133cc	Batangas
+4B-21-35	#66adcc	Oriental Mindoro
+4B-21-310	#66adcc	Oriental Mindoro
+n199	#66adcc	Oriental Mindoro
+n201	#66adcc	Oriental Mindoro
+n201201	#66adcc	Oriental Mindoro
+4B-21-421	#66adcc	Oriental Mindoro
+RV/R3.PHL/2008/TRa-092	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-038	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-087	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-059	#cc99ab	Pampanga
+RV/R3.PHL/2009/TRa-206	#cc99ab	Pampanga
+RV/R3.PHL/2008/TRa-020	#cc99ab	Pampanga
+Z-16-210	#a599cc	Metropolitan Manila
+Z-13-135	#96cc66	Cavite
+Z-15-116	#72cc66	Laguna
+n211211	#96cc66	Cavite
+Z-18-251	#72cc66	Laguna
+n212212	#96cc66	Cavite
+n216	#96cc66	Cavite
+n216216	#96cc66	Cavite
+Z-14-05	#96cc66	Cavite
+Z-14-033	#66cc7e	Quezon
+Z-14-023	#72cc66	Laguna
+RV/R3.PHL/2013/TRa-548	#b7cc99	Bulacan
+4B-22-45	#b799cc	Romblon
+4B-23-01	#b799cc	Romblon
+4B-23-12	#b799cc	Romblon
+4B-23-06	#b799cc	Romblon
+Z-15-009	#a599cc	Metropolitan Manila
+Z-20-110	#72cc66	Laguna
+RV/R3.PHL/2013/TRa-556	#b7cc99	Bulacan
+n128	#b7cc99	Bulacan
+n129	#b7cc99	Bulacan
+Z-16-082	#72cc66	Laguna
+n186186	#b133cc	Batangas
+4B-21-528	#66adcc	Oriental Mindoro
+4B-21-412	#66adcc	Oriental Mindoro
+4B-22-30	#66adcc	Oriental Mindoro
+4B-2922HM	#66adcc	Oriental Mindoro
+4B-21622	#66adcc	Oriental Mindoro
+4B-22-114	#66adcc	Oriental Mindoro
+4B-22-28	#66adcc	Oriental Mindoro
+Z-16-013	#72cc66	Laguna
+Z-16-196	#96cc66	Cavite
+n212	#96cc66	Cavite
+Z-17-217	#96cc66	Cavite
+n213	#a599cc	Metropolitan Manila
+Z-18-001	#96cc66	Cavite
+Z-15-130	#96cc66	Cavite
+Z-16-159	#96cc66	Cavite
+Z-17-221	#96cc66	Cavite
+Z-20-01	#96cc66	Cavite
+Z-15-163	#96cc66	Cavite
+Z-14-142	#72cc66	Laguna
+Z-16-211	#72cc66	Laguna
+Z15-185	#a599cc	Metropolitan Manila
+n125	#338dcc	Rizal
+n126	#a599cc	Metropolitan Manila
+RV/R3.PHL/2012/TRa-317	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-313	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-351	#b7cc99	Bulacan
+n128128	#b7cc99	Bulacan
+n129129	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-354	#b7cc99	Bulacan
+n187	#b133cc	Batangas
+4A-22-203	#66cc7e	Quezon
+Z-19-123	#96cc66	Cavite
+Z-17-177	#96cc66	Cavite
+Z-20-33	#a599cc	Metropolitan Manila
+BAI/BAINCR/2019-03/can	#a599cc	Metropolitan Manila
+n125125	#338dcc	Rizal
+BAI/BAI4A/2019-01/can	#338dcc	Rizal
+n126126	#a599cc	Metropolitan Manila
+Z-16-150	#a599cc	Metropolitan Manila
+RV/R3.PHL/2013/TRa-450	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-537	#b7cc99	Bulacan
+n130	#b7cc99	Bulacan
+RV/R3.PHL/2013/TRa-444	#b7cc99	Bulacan
+n187187	#b799cc	Romblon
+Z-17-046	#b133cc	Batangas
+Z-20-51	#338dcc	Rizal
+Z-19-88	#338dcc	Rizal
+Z-20-24	#a599cc	Metropolitan Manila
+n127	#72cc66	Laguna
+RV/R3.PHL/2013/TRa-441	#cc99ab	Pampanga
+RV/R3.PHL/2012/TRa-311	#b7cc99	Bulacan
+n188	#b799cc	Romblon
+4B-23-03	#b799cc	Romblon
+n127127	#72cc66	Laguna
+Z-19-136	#72cc66	Laguna
+Z-22-121	#b799cc	Romblon
+4B-23-04	#b799cc	Romblon
+Z-23-01Sa	#72cc66	Laguna
+Z-23-01	#72cc66	Laguna

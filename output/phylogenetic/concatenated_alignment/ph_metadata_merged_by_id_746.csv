@@ -1,0 +1,747 @@
+Sample.ID,,Region,Province,year,country,assignment,NCBI.accession,Sample.collection.date,Host.species,Municipality,Barangay,Location,source,corrected_date,decimal_date,outbreak
+55,,Ilocos Region,Pampanga,2019,Philippines,SEA4,LC550027,2019,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2019,2019,Other
+66,,Ilocos Region,Pampanga,2019,Philippines,SEA4,LC550026,2019,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2019,2019,Other
+87,,Ilocos Region,Pampanga,2019,Philippines,SEA4,LC550025,2019,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2019,2019,Other
+93,,Ilocos Region,Pampanga,2019,Philippines,SEA4,LC550024,2019,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2019,2019,Other
+120,,Ilocos Region,Nueva Ecija,2019,Philippines,SEA4,LC550023,2019,Canis lupus familiaris,NA,NA,"Region III, Nueva Ecija",rabv-glue,01/01/2019,2019,Other
+121,,Ilocos Region,Bulacan,2019,Philippines,SEA4,LC550022,2019,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2019,2019,Other
+130,,Ilocos Region,Bulacan,2019,Philippines,SEA4,LC550021,2019,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2019,2019,Other
+131,,Ilocos Region,Bulacan,2019,Philippines,SEA4,LC550020,2019,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2019,2019,Other
+132,,Ilocos Region,Bulacan,2019,Philippines,SEA4,LC550019,2019,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2019,2019,Other
+140,,Ilocos Region,Zambales,2019,Philippines,SEA4,LC550018,2019,Canis lupus familiaris,NA,NA,"Region III, Zambales",rabv-glue,01/01/2019,2019,Other
+03006PHI,,NA,NA,2000,Philippines,SEA4,EU086203,2000,Homo sapiens,NA,NA,-,rabv-glue,01/01/2000,2000,Other
+03007PHI,,NA,NA,2001,Philippines,SEA4,EU086204,2001,Homo sapiens,NA,NA,-,rabv-glue,01/01/2001,2001,Other
+04030PHI,,NA,NA,2004,Philippines,SEA4,EU086155,2004,Homo sapiens,NA,NA,-,rabv-glue,01/01/2004,2004,Other
+94270PHI,,NA,,1994,Philippines,SEA4,EU086200,1994,Canis familiaris,NA,NA,-,rabv-glue,01/01/1994,1994,Other
+18-092,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326757,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-094,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326761,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-096,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326764,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-099,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326750,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-101,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326755,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-102,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326752,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-103,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326754,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-106,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326751,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-107,,Davao Region,Compostela Valley,2018,Philippines,SEA4,OQ326749,2018,Canine,Compostela Valley,NA,NA,genbank,01/01/2018,2018,Other
+18-114,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326756,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-116,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326753,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-118,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326758,2018,Canine,Digos Cogon,NA,NA,genbank,01/01/2018,2018,Other
+18-120,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326762,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-121,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326766,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-130,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326759,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-133,,Davao Region,Davao del Sur ,2018,Philippines,SEA4,OQ326760,2018,Canine,Tagum,NA,NA,genbank,01/01/2018,2018,Other
+18-135,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326767,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-138,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326748,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-142,,Davao Region,Compostela Valley,2018,Philippines,SEA4,OQ326784,2018,Canine,Nabunturan,NA,NA,genbank,01/01/2018,2018,Other
+18-144,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326776,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-147,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326772,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-151,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326774,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-153,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326773,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-162,,Davao Region,Davao del Norte,2018,Philippines,SEA4,OQ326744,2018,Canine,Samal,NA,NA,genbank,01/01/2018,2018,Other
+18-163,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326747,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-164,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326738,2018,Canine,Digos,NA,NA,genbank,01/01/2018,2018,Other
+18-172,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326737,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-174,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326743,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-179,,Davao Region,Cotabato,2018,Philippines,SEA4,OQ326775,2018,Canine,Cotabato,NA,NA,genbank,01/01/2018,2018,Other
+18-181,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326783,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-183,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326777,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-188,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326746,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-191,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326768,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-194,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326780,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-196,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326779,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-199,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326736,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-209,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326781,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-214,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326745,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-216,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326742,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-221,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326782,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-223,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326778,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-224,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326769,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+18-225,,Davao Region,Davao del Sur,2018,Philippines,SEA4,OQ326771,2018,Canine,Davao,NA,NA,genbank,01/01/2018,2018,Other
+19-004,,Davao Region,Davao del Sur,2019,Philippines,SEA4,OQ326740,2019,Canine,Davao,NA,NA,genbank,01/01/2019,2019,Other
+19-011,,Davao Region,Davao del Sur,2019,Philippines,SEA4,OQ326741,2019,Canine,Davao,NA,NA,genbank,01/01/2019,2019,Other
+19-015,,Davao Region,Davao del Sur,2019,Philippines,SEA4,OQ326739,2019,Canine,Davao,NA,NA,genbank,01/01/2019,2019,Other
+19-022,,Davao Region,Davao del Sur,2019,Philippines,SEA4,OQ326770,2019,Canine,Davao,NA,NA,genbank,01/01/2019,2019,Other
+19-045,,Davao Region,Davao del Sur,2019,Philippines,SEA4,OQ326763,2019,Canine,Davao,NA,NA,genbank,01/01/2019,2019,Other
+19-050,,Davao Region,Davao del Norte,2019,Philippines,SEA4,OQ326765,2019,Canine,Panabo,NA,NA,genbank,01/01/2019,2019,Other
+94272PHI,,NA,,1994,Philippines,SEA4,KX148259,1994,Canis familiaris,NA,NA,-,rabv-glue,01/01/1994,1994,Other
+94273PHI,,NA,,1994,Philippines,SEA4,EU086201,1994,Canis familiaris,NA,NA,-,rabv-glue,01/01/1994,1994,Other
+94275PHI,,NA,,1994,Philippines,SEA4,KX148263,1994,Canis familiaris,NA,NA,-,rabv-glue,01/01/1994,1994,Other
+94278PHI,,NA,,1994,Philippines,SEA4,KX148262,1994,Canis familiaris,NA,NA,-,rabv-glue,01/01/1994,1994,Other
+94280PHI,,NA,,1994,Philippines,SEA4,EU086202,1994,Canis familiaris,NA,NA,-,rabv-glue,01/01/1994,1994,Other
+94281PHI,,NA,,1994,Philippines,SEA4,KX148261,1994,Canis familiaris,NA,NA,-,rabv-glue,01/01/1994,1994,Other
+A12_1952,,NA,,2009,Philippines,SEA4,KC792091,2009,Canis familiaris,NA,NA,-,rabv-glue,01/01/2009,2009,Other
+A12_1959,,NA,,2009,Philippines,SEA4,KC792092,2009,Canis familiaris,NA,NA,-,rabv-glue,01/01/2009,2009,Other
+A12_1964,,NA,,2009,Philippines,SEA4,KC792093,2009,Canis familiaris,NA,NA,-,rabv-glue,01/01/2009,2009,Other
+A12_1969,,NA,,2009,Philippines,SEA4,KC792094,2009,Canis familiaris,NA,NA,-,rabv-glue,01/01/2009,2009,Other
+A12_1973,,NA,,2009,Philippines,SEA4,KC792095,2009,Canis familiaris,NA,NA,-,rabv-glue,01/01/2009,2009,Other
+A12_1977,,NA,,2009,Philippines,SEA4,KC792096,2009,Canis familiaris,NA,NA,-,rabv-glue,01/01/2009,2009,Other
+A12_1978,,NA,,2009,Philippines,SEA4,KC792097,2009,Canis familiaris,NA,NA,-,rabv-glue,01/01/2009,2009,Other
+BAI/BAI3/2019-01/fel,,National Capital Region,Bulacan,2019,Philippines,SEA4,MN857171,2019,feline,NA,NA,"San Miguel, Bulacan",rabv-glue,01/01/2019,2019,Other
+BAI/BAI4A/2019-01/can,,Calabarzon,Rizal,2019,Philippines,SEA4,MN857170,2019,Canis familiaris,NA,NA,"Angono, Rizal",rabv-glue,01/01/2019,2019,Other
+BAI/BAINCR/2019-01/can,,National Capital Region,Metropolitan Manila,2019,Philippines,SEA4,MN857167,2019,Canis familiaris,NA,NA,Caloocan City,rabv-glue,01/01/2019,2019,Other
+BAI/BAINCR/2019-02/can,,National Capital Region,Metropolitan Manila,2019,Philippines,SEA4,MN857168,2019,Canis familiaris,NA,NA,Quezon City,rabv-glue,01/01/2019,2019,Other
+BAI/BAINCR/2019-03/can,,National Capital Region,Metropolitan Manila,2019,Philippines,SEA4,MN857169,2019,Canis familiaris,NA,NA,Pasay City,rabv-glue,01/01/2019,2019,Other
+PHI103,,Northern Mindanao,,2001,Philippines,SEA4,AB116577,2001,12153119,NA,NA,Mindanao Island,rabv-glue,01/01/2001,2001,Other
+PHI114,,Northern Mindanao,,2001,Philippines,SEA4,AB116578,2001,12153119,NA,NA,Mindanao Island,rabv-glue,01/01/2001,2001,Other
+Philippin_dog,,NA,,2013,Philippines,SEA4,KC792240,2013,Canis familiaris,NA,NA,-,rabv-glue,01/01/2013,2013,Other
+RADDL1-16-154,,Ilocos Region ,Pangasinan,2016,Philippines,SEA4,MN726857,2016,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2016,2016,Other
+RADDL3-1038,,Central Luzon,Pampanga,2015,Philippines,SEA4,MN726850,2015,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2015,2015,Other
+REGION_5_2018-100,,Bicol Region,Albay,2018,Philippines,SEA4,MN726860,2018,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2018,2018,Other
+REGION_5_2018-304,,Bicol Region,Albay,2018,Philippines,SEA4,MN726876,2018,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2018,2018,Other
+REGION_5_2018-311,,Bicol Region,Albay,2018,Philippines,SEA4,MN726875,2018,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2018,2018,Other
+REGION_5_2018-50,,Bicol Region,Albay,2018,Philippines,SEA4,MN726852,2018,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2018,2018,Other
+REGION_5_2019-1,,Bicol Region,Albay,2019,Philippines,SEA4,MN726880,2019,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2019,2019,Other
+REGION_5_2019-13,,Bicol Region,Albay,2019,Philippines,SEA4,MN726842,2019,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2019,2019,Other
+RV/CAR.PHL/2009/TRa-198,,Cordillera Administrative Region,Mountain Province,2009,Philippines,SEA4,AB563973,2009,Canis lupus familiaris,NA,NA,"CAR, Mountain Province",rabv-glue,01/01/2009,2009,Other
+RV/CAR.PHL/2009/TRa-199,,Cordillera Administrative Region,Mountain Province,2009,Philippines,SEA4,AB563974,2009,Canis lupus familiaris,NA,NA,"CAR, Mountain Province",rabv-glue,01/01/2009,2009,Other
+RV/CAR.PHL/2009/TRa-200,,Cordillera Administrative Region,Mountain Province,2009,Philippines,SEA4,AB563975,2009,Canis lupus familiaris,NA,NA,"CAR, Mountain Province",rabv-glue,01/01/2009,2009,Other
+RV/CAR.PHL/2009/TRa-222,,Cordillera Administrative Region,Mountain Province,2009,Philippines,SEA4,AB563992,2009,Canis lupus familiaris,NA,NA,"CAR, Mountain Province",rabv-glue,01/01/2009,2009,Other
+RV/CAR.PHL/2009/TRa-224,,Cordillera Administrative Region,Ifugao,2009,Philippines,SEA4,AB563993,2009,Canis lupus familiaris,NA,NA,"CAR, ifugao",rabv-glue,01/01/2009,2009,Other
+RV/CAR.PHL/2009/TRa-234,,Cordillera Administrative Region,,2009,Philippines,SEA4,AB564000,2009,-,NA,NA,Bontoc,rabv-glue,01/01/2009,2009,Other
+RV/CAR.PHL/2009/TRa-285,,Cordillera Administrative Region,Mountain Province,2009,Philippines,SEA4,AB733961,2009,Canis lupus familiaris,NA,NA,"CAR, Mountain Province",rabv-glue,01/01/2009,2009,Other
+RV/CAR.PHL/2010/TRa-289,,Cordillera Administrative Region,Ifugao,2010,Philippines,SEA4,AB733962,2010,Canis lupus familiaris,NA,NA,"CAR, Ifgao",rabv-glue,01/01/2010,2010,Other
+RV/CAR.PHL/2010/TRa-291,,Cordillera Administrative Region,Kalinga,2010,Philippines,SEA4,AB771910,2010,Canis lupus familiaris,NA,NA,"CAR, Kalinga Apayao",rabv-glue,01/01/2010,2010,Other
+RV/CAR.PHL/2013/TRa-370,,Cordillera Administrative Region,Kalinga,2013,Philippines,SEA4,LC018525,2013,Canis lupus familiaris,NA,NA,"CAR, Kalinga Apayao",rabv-glue,01/01/2013,2013,Other
+RV/CAR.PHL/2013/TRa-405,,Cordillera Administrative Region,Ifugao,2013,Philippines,SEA4,LC018545,2013,Canis lupus familiaris,NA,NA,"CAR, Ifugao",rabv-glue,01/01/2013,2013,Other
+RV/CAR.PHL/2013/TRa-407,,Cordillera Administrative Region,Ifugao,2013,Philippines,SEA4,LC018547,2013,Canis lupus familiaris,NA,NA,"CAR, Ifugao",rabv-glue,01/01/2013,2013,Other
+RV/CAR.PHL/2013/TRa-409,,Cordillera Administrative Region,Benguet,2013,Philippines,SEA4,LC018548,2013,Canis lupus familiaris,NA,NA,"CAR, Benguet",rabv-glue,01/01/2013,2013,Other
+RV/CAR.PHL/2013/TRa-500,,Cordillera Administrative Region,Mountain Province,2013,Philippines,SEA4,LC018586,2013,Canis lupus familiaris,NA,NA,"CAR, Mountain Province",rabv-glue,01/01/2013,2013,Other
+RV/CAR.PHL/2013/TRa-510,,Cordillera Administrative Region,Ifugao,2013,Philippines,SEA4,LC068918,2013,Canis lupus familiaris,NA,NA,"Cordillera Administrative Region (CAR), Ifugao",rabv-glue,01/01/2013,2013,Other
+RV/CAR.PHL/2013/TRa-571,,Cordillera Administrative Region,Mountain Province,2013,Philippines,SEA4,LC068941,2013,Canis lupus familiaris,NA,NA,"Cordillera Administrative Region (CAR), Mountain Province",rabv-glue,01/01/2013,2013,Other
+RV/NCR.PHL/2004/Z-04-421,,National Capital Region,Metropolitan Manila,2004,Philippines,SEA4,AB563796,2004,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2004,2004,Other
+RV/NCR.PHL/2004/Z-04-522,,National Capital Region,Metropolitan Manila,2004,Philippines,SEA4,AB683584,2004,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2004,2004,Other
+RV/NCR.PHL/2004/Z-04-534,,National Capital Region,Metropolitan Manila,2004,Philippines,SEA4,AB563799,2004,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2004,2004,Other
+RV/NCR.PHL/2004/Z-04-646,,National Capital Region,Metropolitan Manila,2004,Philippines,SEA4,AB733963,2004,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2004,2004,Other
+RV/NCR.PHL/2005/Z-05-009,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,AB563800,2005,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2005,2005,Other
+RV/NCR.PHL/2005/Z-05-090,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,AB563803,2005,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2005,2005,Other
+RV/NCR.PHL/2005/Z-05-149,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,AB563805,2005,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2005,2005,Other
+RV/NCR.PHL/2005/Z-05-168,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,AB563806,2005,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2005,2005,Other
+RV/NCR.PHL/2005/Z-05-187,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,AB563808,2005,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2005,2005,Other
+RV/NCR.PHL/2005/Z-05-285,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,AB563810,2005,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2005,2005,Other
+RV/NCR.PHL/2005/Z-05-299,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,AB563811,2005,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2005,2005,Other
+RV/NCR.PHL/2005/Z-05-373,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,AB563812,2005,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2005,2005,Other
+RV/NCR.PHL/2005/Z-05-396,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,AB563813,2005,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2005,2005,Other
+RV/NCR.PHL/2005/Z-05-424,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,AB563814,2005,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2005,2005,Other
+RV/NCR.PHL/2005/Z-05-465,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,AB563815,2005,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2005,2005,Other
+RV/NCR.PHL/2005/Z-05-466,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,AB563816,2005,Canis lupus familiaris,NA,NA,"NCR, Metro Manila",rabv-glue,01/01/2005,2005,Other
+RV/R1.PHL/2008/TRa-094,,Ilocos Region,Pangasinan,2008,Philippines,SEA4,AB563909,2008,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2008,2008,Other
+RV/R1.PHL/2009/TRa-150,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563951,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-151,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563952,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-153,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563953,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-154,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563954,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-156,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB683601,2009,Canis lupus familiaris,NA,NA,"Region 1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-157,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563955,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-159,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563956,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-161,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563957,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-208,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563981,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-209,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563982,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-210,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563983,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-213,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563984,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-214,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563985,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-215,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563986,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-216,,Ilocos Region,La Union,2009,Philippines,SEA4,AB563987,2009,Canis lupus familiaris,NA,NA,"Region1, Launion",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-218,,Ilocos Region,La Union,2009,Philippines,SEA4,AB563988,2009,Canis lupus familiaris,NA,NA,"Region1, Launion",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-219,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563989,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-220,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563990,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-221,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB563991,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-233,,Ilocos Region,Ilocos Sur,2009,Philippines,SEA4,AB563999,2009,Canis lupus familiaris,NA,NA,"Region1, Ilocos Sur",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-256,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB733964,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-257,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB733965,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-258,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB733966,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-259,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB733967,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-260,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB733968,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-262,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB771911,2009,Canis lupus familiaris,NA,NA,"Regoin 1,Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-263,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB733969,2009,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-265,,Ilocos Region,Ilocos Sur,2009,Philippines,SEA4,AB733970,2009,Canis lupus familiaris,NA,NA,"Region1, Ilocos Sur",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-266,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB771912,2009,Canis lupus familiaris,NA,NA,"Regoin 1,Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2009/TRa-267,,Ilocos Region,Pangasinan,2009,Philippines,SEA4,AB771913,2009,Canis lupus familiaris,NA,NA,"Regoin 1,Pangasinan",rabv-glue,01/01/2009,2009,Other
+RV/R1.PHL/2010/TRa-286,,Ilocos Region,Ilocos Sur,2010,Philippines,SEA4,AB733971,2010,Canis lupus familiaris,NA,NA,"Region1, Ilocos Sur",rabv-glue,01/01/2010,2010,Other
+RV/R1.PHL/2010/TRa-287,,Ilocos Region,Ilocos Sur,2010,Philippines,SEA4,AB771914,2010,Canis lupus familiaris,NA,NA,"Regoin 1, Ilocos Sur",rabv-glue,01/01/2010,2010,Other
+RV/R1.PHL/2010/TRa-298,,Ilocos Region,Pangasinan,2010,Philippines,SEA4,AB771915,2010,Canis lupus familiaris,NA,NA,"Regoin 1,Pangasinan",rabv-glue,01/01/2010,2010,Other
+RV/R1.PHL/2010/TRa-299,,Ilocos Region,Pangasinan,2010,Philippines,SEA4,AB733972,2010,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2010,2010,Other
+RV/R1.PHL/2010/TRa-300,,Ilocos Region,Pangasinan,2010,Philippines,SEA4,AB733973,2010,Canis lupus familiaris,NA,NA,"Region1, Pangasinan",rabv-glue,01/01/2010,2010,Other
+RV/R1.PHL/2012/TRa-320,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018497,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-323,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018498,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-324,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018499,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-325,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018500,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-327,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018501,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-375,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018526,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-376,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018527,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-377,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018528,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-378,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018529,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-379,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018530,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-381,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018531,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-382,,Ilocos Region,La Union,2012,Philippines,SEA4,LC018532,2012,Canis lupus familiaris,NA,NA,"I, La Union",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-383,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018533,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2012/TRa-384,,Ilocos Region,Pangasinan,2012,Philippines,SEA4,LC018534,2012,Canis lupus familiaris,NA,NA,"I, Pangasinan",rabv-glue,01/01/2012,2012,Other
+RV/R1.PHL/2013/TRa-406,,Ilocos Region,Ilocos Sur,2013,Philippines,SEA4,LC018546,2013,Canis lupus familiaris,NA,NA,"I, Ilocos Sur",rabv-glue,01/01/2013,2013,Other
+RV/R1.PHL/2013/TRa-569,,Ilocos Region,Ilocos Sur,2013,Philippines,SEA4,LC068940,2013,Canis lupus familiaris,NA,NA,"Region I, Ilocos Sur",rabv-glue,01/01/2013,2013,Other
+RV/R1.PHL/2013/TRa-572,,Ilocos Region,La Union,2013,Philippines,SEA4,LC068942,2013,Canis lupus familiaris,NA,NA,"Region I, La Union",rabv-glue,01/01/2013,2013,Other
+RV/R1.PHL/2013/TRa-573,,Ilocos Region,La Union,2013,Philippines,SEA4,LC068943,2013,Canis lupus familiaris,NA,NA,"Region I, La Union",rabv-glue,01/01/2013,2013,Other
+RV/R10.PHL/2008/TRa-014,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563845,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-024,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563852,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-025,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563853,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-026,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563854,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-027,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563855,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-028,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563856,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-030,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563857,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-052,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563871,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-053,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563872,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-054,,Northern Mindanao,Lanao del Norte,2008,Philippines,SEA4,AB563873,2008,Canis lupus familiaris,NA,NA,"Region10, Lanao del Norte",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-055,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563874,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-056,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563875,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-057,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563876,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-058,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563877,2008,Canis lupus familiaris,NA,NA,"Region 10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-104,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563919,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-107,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563920,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2008/TRa-108,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB563921,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2009/TRa-109,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB563922,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-110,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB563923,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-184,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB683589,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-186,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB683590,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-189,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB683591,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-191,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB563970,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-194,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB683648,2009,Canis lupus familiaris,NA,NA,"Region 10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-195,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB683649,2009,Canis lupus familiaris,NA,NA,"Region 10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-196,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB563971,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-197,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB563972,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-242,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB564008,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-243,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB564009,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-244,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB564010,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-246,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB564011,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-247,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB771920,2009,Canis lupus familiaris,NA,NA,"Regoin 10, Misamis Orientale",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-248,,Northern Mindanao,Misamis Oriental,2008,Philippines,SEA4,AB564012,2008,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R10.PHL/2009/TRa-249,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB564013,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-250,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB564014,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-251,,Northern Mindanao,Lanao del Norte,2009,Philippines,SEA4,AB564015,2009,Canis lupus familiaris,NA,NA,"Region10, Lanao del Norte",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-252,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB564016,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-253,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB564017,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-254,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB564018,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R10.PHL/2009/TRa-255,,Northern Mindanao,Misamis Oriental,2009,Philippines,SEA4,AB564019,2009,Canis lupus familiaris,NA,NA,"Region10, Misamis Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R11.PHL/2005/Z-05-186,,Davao Region,Davao del Sur,2005,Philippines,SEA4,AB563807,2005,Canis lupus familiaris,NA,NA,"Region11, Davao del Sur",rabv-glue,01/01/2005,2005,Other
+RV/R2.PHL/2009/TRa-142,,Cagayan Valley,Cagayan,2009,Philippines,SEA4,AB563946,2009,Canis lupus familiaris,NA,NA,"Region2, Cagayan",rabv-glue,01/01/2009,2009,Other
+RV/R2.PHL/2009/TRa-279,,Cagayan Valley,Isabela,2009,Philippines,SEA4,AB733974,2009,Canis lupus familiaris,NA,NA,"Region2, Isabela City",rabv-glue,01/01/2009,2009,Other
+RV/R2.PHL/2009/TRa-283,,Cagayan Valley,Isabela,2009,Philippines,SEA4,AB733975,2009,Canis lupus familiaris,NA,NA,"Region2, Isabela City",rabv-glue,01/01/2009,2009,Other
+RV/R2.PHL/2009/TRa-284,,Cagayan Valley,Isabela,2009,Philippines,SEA4,AB733976,2009,Canis lupus familiaris,NA,NA,"Region2, Isabela City",rabv-glue,01/01/2009,2009,Other
+RV/R2.PHL/2013/TRa-435,,Ilocos Region,Cagayan,2013,Philippines,SEA4,LC018555,2013,Canis lupus familiaris,NA,NA,"II, Cagayan",rabv-glue,01/01/2013,2013,Other
+RV/R2.PHL/2013/TRa-437,,Ilocos Region,Nueva Vizcaya,2013,Philippines,SEA4,LC018556,2013,Canis lupus familiaris,NA,NA,"II, Nueva Vizcaya",rabv-glue,01/01/2013,2013,Other
+RV/R2.PHL/2013/TRa-439,,Ilocos Region,Cagayan,2013,Philippines,SEA4,LC018557,2013,Canis lupus familiaris,NA,NA,"II, Cagayan",rabv-glue,01/01/2013,2013,Other
+RV/R2.PHL/2013/TRa-503,,Ilocos Region,Nueva Vizcaya,2013,Philippines,SEA4,LC018587,2013,Canis lupus familiaris,NA,NA,"II, Nueva Vizcaya",rabv-glue,01/01/2013,2013,Other
+RV/R2.PHL/2013/TRa-504,,Ilocos Region,Nueva Vizcaya,2013,Philippines,SEA4,LC018588,2013,Canis lupus familiaris,NA,NA,"II, Nueva Vizcaya",rabv-glue,01/01/2013,2013,Other
+RV/R2.PHL/2013/TRa-505,,Ilocos Region,Isabela,2013,Philippines,SEA4,LC018589,2013,Canis lupus familiaris,NA,NA,"II, Isabela",rabv-glue,01/01/2013,2013,Other
+RV/R2.PHL/2013/TRa-506,,Ilocos Region,Cagayan,2013,Philippines,SEA4,LC018590,2013,Canis lupus familiaris,NA,NA,"II, Cagayan",rabv-glue,01/01/2013,2013,Other
+RV/R2.PHL/2013/TRa-507,,Cordillera Administrative Region,Kalinga,2013,Philippines,SEA4,LC018591,2013,Canis lupus familiaris,NA,NA,"CAR, Kalinga Apayao",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2004/Z-04-519,,Central Luzon,Aurora,2004,Philippines,SEA4,AB563798,2004,Canis lupus familiaris,NA,NA,"Region3, Aurora",rabv-glue,01/01/2004,2004,Other
+RV/R3.PHL/2005/Z-05-198,,Central Luzon,Nueva Ecija,2005,Philippines,SEA4,AB563809,2005,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2005,2005,Other
+RV/R3.PHL/2005/Z-05-507,,Central Luzon,Bulacan,2005,Philippines,SEA4,AB563817,2005,Canis lupus familiaris,NA,NA,"Region3, Bulacan",rabv-glue,01/01/2005,2005,Other
+RV/R3.PHL/2008/TRa-002,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563838,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-006,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563840,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-009,,Central Luzon,Nueva Ecija,2008,Philippines,SEA4,AB563841,2008,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-010,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563842,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-011,,Central Luzon,Zambales,2008,Philippines,SEA4,AB563843,2008,Canis lupus familiaris,NA,NA,"Region3, Zambales",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-013,,Central Luzon,Tarlac,2008,Philippines,SEA4,AB563844,2008,Canis lupus familiaris,NA,NA,"Region3, Tarlac",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-016,,Central Luzon,Zambales,2008,Philippines,SEA4,AB563846,2008,Canis lupus familiaris,NA,NA,"Region3, Zambales",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-017,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB683585,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-018,,Central Luzon,Zambales,2008,Philippines,SEA4,AB563847,2008,Canis lupus familiaris,NA,NA,"Region3, Zambales",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-019,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563848,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-020,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563849,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-021,,Central Luzon,Nueva Ecija,2008,Philippines,SEA4,AB563850,2008,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-022,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563851,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-038,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563863,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-040,,Central Luzon,Zambales,2008,Philippines,SEA4,AB563864,2008,Canis lupus familiaris,NA,NA,"Region3, Zambales",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-041,,Central Luzon,Tarlac,2008,Philippines,SEA4,AB563865,2008,Canis lupus familiaris,NA,NA,"Region3, Tarlac",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-045,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563866,2008,Canis lupus familiaris,NA,NA,"Region 3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-047,,Central Luzon,Zambales,2008,Philippines,SEA4,AB563867,2008,Canis lupus familiaris,NA,NA,"Region3, Zambales",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-048,,Central Luzon,Zambales,2008,Philippines,SEA4,AB563868,2008,Canis lupus familiaris,NA,NA,"Region3, Zambales",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-049,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563869,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-051,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563870,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-059,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563878,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-060,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563879,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-061,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563880,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-062,,Central Luzon,Nueva Ecija,2008,Philippines,SEA4,AB563881,2008,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-063,,Central Luzon,Nueva Ecija,2008,Philippines,SEA4,AB563882,2008,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-064,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563883,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-065,,Central Luzon,Nueva Ecija,2008,Philippines,SEA4,AB563884,2008,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-066,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563885,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-086,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563901,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-087,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563902,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-088,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563903,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-089,,Central Luzon,Nueva Ecija,2008,Philippines,SEA4,AB563904,2008,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-090,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563905,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-091,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563906,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-092,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563907,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-093,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563908,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-095,,Central Luzon,Nueva Ecija,2008,Philippines,SEA4,AB563910,2008,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-111,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563924,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-112,,Central Luzon,Pampanga,2008,Philippines,SEA4,AB563925,2008,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2008/TRa-119,,Central Luzon,Zambales,2008,Philippines,SEA4,AB563932,2008,Canis lupus familiaris,NA,NA,"Region 3, Zambales",rabv-glue,01/01/2008,2008,Other
+RV/R3.PHL/2009/TRa-113,,Central Luzon,Zambales,2009,Philippines,SEA4,AB563926,2009,Canis lupus familiaris,NA,NA,"Region3, Zambales",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-114,,Central Luzon,Zambales,2009,Philippines,SEA4,AB563927,2009,Canis lupus familiaris,NA,NA,"Region3, Zambales",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-115,,Central Luzon,Pampanga,2009,Philippines,SEA4,AB563928,2009,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-116,,Central Luzon,Zambales,2009,Philippines,SEA4,AB563929,2009,Canis lupus familiaris,NA,NA,"Region3, Zambales",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-117,,Central Luzon,Pampanga,2009,Philippines,SEA4,AB563930,2009,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-118,,Central Luzon,Pampanga,2009,Philippines,SEA4,AB563931,2009,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-127,,Central Luzon,Pampanga,2009,Philippines,SEA4,AB563937,2009,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-128,,Central Luzon,Nueva Ecija,2009,Philippines,SEA4,AB563938,2009,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-129,,Central Luzon,Pampanga,2009,Philippines,SEA4,AB563939,2009,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-130,,Central Luzon,Pampanga,2009,Philippines,SEA4,AB563940,2009,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-131,,Central Luzon,Pampanga,2009,Philippines,SEA4,AB563941,2009,Canis lupus familiaris,NA,NA,"Region 3, Pampanga",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-132,,Central Luzon,Nueva Ecija,2009,Philippines,SEA4,AB683586,2009,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-133,,Central Luzon,Pampanga,2009,Philippines,SEA4,AB563942,2009,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-134,,Central Luzon,Nueva Ecija,2009,Philippines,SEA4,AB563943,2009,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-135,,Central Luzon,Pampanga,2009,Philippines,SEA4,AB563944,2009,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-136,,Central Luzon,Nueva Ecija,2009,Philippines,SEA4,AB563945,2009,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-201,,Central Luzon,Nueva Ecija,2009,Philippines,SEA4,AB563976,2009,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-202,,Central Luzon,Zambales,2009,Philippines,SEA4,AB563977,2009,Canis lupus familiaris,NA,NA,"Region3, Zambales",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-204,,Central Luzon,Pampanga,2009,Philippines,SEA4,AB563978,2009,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-205,,Central Luzon,Nueva Ecija,2009,Philippines,SEA4,AB563979,2009,Canis lupus familiaris,NA,NA,"Region3, Nueva Ecija",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2009/TRa-206,,Central Luzon,Pampanga,2009,Philippines,SEA4,AB563980,2009,Canis lupus familiaris,NA,NA,"Region3, Pampanga",rabv-glue,01/01/2009,2009,Other
+RV/R3.PHL/2012/TRa-302,,Ilocos Region,Tarlac,2012,Philippines,SEA4,LC018482,2012,Canis lupus familiaris,NA,NA,"III, Tarlac",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-303,,Ilocos Region,Bulacan,2012,Philippines,SEA4,LC018483,2012,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-305,,Ilocos Region,Pampanga,2012,Philippines,SEA4,LC018484,2012,Canis lupus familiaris,NA,NA,"III, Pampanga",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-306,,Ilocos Region,Nueva Ecija,2012,Philippines,SEA4,LC018485,2012,Canis lupus familiaris,NA,NA,"III, Nueva Ecija",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-307,,Ilocos Region,Tarlac,2012,Philippines,SEA4,LC018486,2012,Canis lupus familiaris,NA,NA,"III, Tarlac",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-308,,Ilocos Region,Bulacan,2012,Philippines,SEA4,LC018487,2012,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-309,,Ilocos Region,Tarlac,2012,Philippines,SEA4,LC018488,2012,Canis lupus familiaris,NA,NA,"III, Tarlac",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-310,,Ilocos Region,Bulacan,2012,Philippines,SEA4,LC018489,2012,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-311,,Ilocos Region,Bulacan,2012,Philippines,SEA4,LC018490,2012,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-312,,Ilocos Region,Nueva Ecija,2012,Philippines,SEA4,LC018491,2012,Canis lupus familiaris,NA,NA,"III, Nueva Ecija",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-313,,Ilocos Region,Bulacan,2012,Philippines,SEA4,LC018492,2012,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-314,,Ilocos Region,Tarlac,2012,Philippines,SEA4,LC018493,2012,Canis lupus familiaris,NA,NA,"III, Tarlac",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-315,,Ilocos Region,Bulacan,2012,Philippines,SEA4,LC018494,2012,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-317,,Ilocos Region,Bulacan,2012,Philippines,SEA4,LC018495,2012,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2012/TRa-318,,Ilocos Region,Bulacan,2012,Philippines,SEA4,LC018496,2012,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2013/TRa-313,,Ilocos Region,Bulacan,2012,Philippines,SEA4,LC018596,2012,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2012,2012,Other
+RV/R3.PHL/2013/TRa-346,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC018508,2013,Canis lupus familiaris,NA,NA,"III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-347,,Ilocos Region,Nueva Ecija,2013,Philippines,SEA4,LC018509,2013,Canis lupus familiaris,NA,NA,"III, Nueva Ecija",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-348,,Ilocos Region,Nueva Ecija,2013,Philippines,SEA4,LC018510,2013,Canis lupus familiaris,NA,NA,"III, Nueva Ecija",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-349,,Ilocos Region,Nueva Ecija,2013,Philippines,SEA4,LC018511,2013,Canis lupus familiaris,NA,NA,"III, Nueva Ecija",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-350,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018512,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-351,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018513,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-352,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018514,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-353,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018515,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-354,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018516,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-441,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC018558,2013,Canis lupus familiaris,NA,NA,"III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-442,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018559,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-443,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018560,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-444,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018561,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-445,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018562,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-446,,Ilocos Region,Tarlac,2013,Philippines,SEA4,LC018563,2013,Canis lupus familiaris,NA,NA,"III, Tarlac",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-447,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018564,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-448,,Ilocos Region,Nueva Ecija,2013,Philippines,SEA4,LC018565,2013,Canis lupus familiaris,NA,NA,"III, Nueva Ecija",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-449,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018566,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-450,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018567,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-451,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018568,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-452,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018569,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-453,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC018570,2013,Canis lupus familiaris,NA,NA,"III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-454,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018571,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-455,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018572,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-456,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018573,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-457,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC018574,2013,Canis lupus familiaris,NA,NA,"III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-458,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC018575,2013,Canis lupus familiaris,NA,NA,"III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-459,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC018576,2013,Canis lupus familiaris,NA,NA,"III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-460,,Ilocos Region,Nueva Ecija,2013,Philippines,SEA4,LC018577,2013,Canis lupus familiaris,NA,NA,"III, Nueva Ecija",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-461,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC018578,2013,Canis lupus familiaris,NA,NA,"III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-462,,Ilocos Region,Nueva Ecija,2013,Philippines,SEA4,LC018579,2013,Canis lupus familiaris,NA,NA,"III, Nueva Ecija",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-463,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC018580,2013,Canis lupus familiaris,NA,NA,"III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-464,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC018581,2013,Canis lupus familiaris,NA,NA,"III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-465,,Ilocos Region,Nueva Ecija,2013,Philippines,SEA4,LC018582,2013,Canis lupus familiaris,NA,NA,"III, Nueva Ecija",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-466,,Ilocos Region,Nueva Ecija,2013,Philippines,SEA4,LC018583,2013,Canis lupus familiaris,NA,NA,"III, Nueva Ecija",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-509,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC068917,2013,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-533,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068919,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-534,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068920,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-535,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC068921,2013,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-536,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC068922,2013,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-537,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC068923,2013,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-538,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC068924,2013,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-540,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068925,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-541,,Ilocos Region,Nueva Ecija,2013,Philippines,SEA4,LC068926,2013,Canis lupus familiaris,NA,NA,"Region III, Nueva Ecija",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-542,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068927,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-543,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068928,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-544,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068929,2013,Felis catus,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-545,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068930,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-547,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC068931,2013,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-548,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC068932,2013,Canis lupus familiaris,NA,NA,"Region I, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-549,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068933,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-550,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068934,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-551,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068935,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-552,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068936,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-554,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC068937,2013,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-556,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC068938,2013,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-557,,Ilocos Region,Bulacan,2013,Philippines,SEA4,LC068939,2013,Canis lupus familiaris,NA,NA,"Region III, Bulacan",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-581,,Ilocos Region,Tarlac,2013,Philippines,SEA4,LC068944,2013,Canis lupus familiaris,NA,NA,"Region III, Tarlac",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-582,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068945,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-583,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068946,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-584,,Ilocos Region,Nueva Ecija,2013,Philippines,SEA4,LC068947,2013,Canis lupus familiaris,NA,NA,"Region III, Nueva Ecija",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-586,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068948,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-587,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068949,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-588,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068950,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R3.PHL/2013/TRa-589,,Ilocos Region,Pampanga,2013,Philippines,SEA4,LC068951,2013,Canis lupus familiaris,NA,NA,"Region III, Pampanga",rabv-glue,01/01/2013,2013,Other
+RV/R4A.PHL/2004/Z-04-042,,Calabarzon,Cavite,2004,Philippines,SEA4,AB563791,2004,Canis lupus familiaris,NA,NA,"Region4A, Cavite",rabv-glue,01/01/2004,2004,Other
+RV/R4A.PHL/2004/Z-04-211,,Calabarzon,Laguna,2004,Philippines,SEA4,AB563792,2004,Canis lupus familiaris,NA,NA,"Region 4A, Laguna",rabv-glue,01/01/2004,2004,Other
+RV/R4A.PHL/2004/Z-04-389,,Calabarzon,Cavite,2004,Philippines,SEA4,AB563793,2004,Canis lupus familiaris,NA,NA,"Region 4A, Cavite",rabv-glue,01/01/2004,2004,Other
+RV/R4A.PHL/2004/Z-04-401,,Calabarzon,Rizal,2004,Philippines,SEA4,AB563794,2004,Canis lupus familiaris,NA,NA,"Region4A, Rizal",rabv-glue,01/01/2004,2004,Other
+RV/R4A.PHL/2004/Z-04-420,,Calabarzon,Cavite,2004,Philippines,SEA4,AB563795,2004,Canis lupus familiaris,NA,NA,"Region 4A, Cavite",rabv-glue,01/01/2004,2004,Other
+RV/R4A.PHL/2004/Z-04-470,,Calabarzon,Laguna,2004,Philippines,SEA4,AB683587,2004,Canis lupus familiaris,NA,NA,"Region4A, Laguna",rabv-glue,01/01/2004,2004,Other
+RV/R4A.PHL/2004/Z-04-480,,Calabarzon,Laguna,2004,Philippines,SEA4,AB563797,2004,Canis lupus familiaris,NA,NA,"Region4A, Laguna",rabv-glue,01/01/2004,2004,Other
+RV/R4A.PHL/2005/Z-05-012,,Calabarzon,Laguna,2005,Philippines,SEA4,AB563801,2005,Canis lupus familiaris,NA,NA,"R4A, Laguna",rabv-glue,01/01/2005,2005,Other
+RV/R4A.PHL/2005/Z-05-017,,Calabarzon,Cavite,2005,Philippines,SEA4,AB563802,2005,Canis lupus familiaris,NA,NA,"R4A, Cavite",rabv-glue,01/01/2005,2005,Other
+RV/R4A.PHL/2005/Z-05-123,,Calabarzon,Laguna,2005,Philippines,SEA4,AB563804,2005,Canis lupus familiaris,NA,NA,"R4A, Laguna",rabv-glue,01/01/2005,2005,Other
+RV/R4A.PHL/2006/Z-06-039,,Calabarzon,Batangas,2006,Philippines,SEA4,AB563818,2006,Canis lupus familiaris,NA,NA,"R4A, Batangas",rabv-glue,01/01/2006,2006,Other
+RV/R4A.PHL/2006/Z-06-163,,Calabarzon,Laguna,2006,Philippines,SEA4,AB563819,2006,Canis lupus familiaris,NA,NA,"Region4A, Laguna",rabv-glue,01/01/2006,2006,Other
+RV/R4A.PHL/2006/Z-06-197,,Calabarzon,Batangas,2006,Philippines,SEA4,AB563820,2006,Canis lupus familiaris,NA,NA,"Region4A, Batangas",rabv-glue,01/01/2006,2006,Other
+RV/R4A.PHL/2006/Z-06-222,,Calabarzon,Cavite,2006,Philippines,SEA4,AB563822,2006,Canis lupus familiaris,NA,NA,"Region4A, Cavite",rabv-glue,01/01/2006,2006,Other
+RV/R4A.PHL/2006/Z-06-231,,Calabarzon,Cavite,2006,Philippines,SEA4,AB563823,2006,Canis lupus familiaris,NA,NA,"Region4A, Cavite",rabv-glue,01/01/2006,2006,Other
+RV/R4A.PHL/2006/Z-06-342,,Calabarzon,Laguna,2006,Philippines,SEA4,AB563824,2006,Canis lupus familiaris,NA,NA,"Region4A, Laguna",rabv-glue,01/01/2006,2006,Other
+RV/R4A.PHL/2006/Z-06-345,,Calabarzon,Batangas,2006,Philippines,SEA4,AB563825,2006,Canis lupus familiaris,NA,NA,"R4A, Batangas",rabv-glue,01/01/2006,2006,Other
+RV/R4A.PHL/2006/Z-06-348,,Calabarzon,Cavite,2006,Philippines,SEA4,AB563826,2006,Canis lupus familiaris,NA,NA,"Region4A, Cavite",rabv-glue,01/01/2006,2006,Other
+RV/R4A.PHL/2006/Z-06-357,,Calabarzon,Batangas,2006,Philippines,SEA4,AB563827,2006,Canis lupus familiaris,NA,NA,"Region4A, Batangas",rabv-glue,01/01/2006,2006,Other
+RV/R4A.PHL/2006/Z-06-361,,Calabarzon,Laguna,2006,Philippines,SEA4,AB563828,2006,Canis lupus familiaris,NA,NA,"Region4A, Laguna",rabv-glue,01/01/2006,2006,Other
+RV/R4A.PHL/2006/Z-06-362,,Calabarzon,Batangas,2006,Philippines,SEA4,AB563829,2006,Canis lupus familiaris,NA,NA,"Region4A, Batangas",rabv-glue,01/01/2006,2006,Other
+RV/R4A.PHL/2006/Z-06-365,,Calabarzon,Cavite,2006,Philippines,SEA4,AB563830,2006,Canis lupus familiaris,NA,NA,"Region4A, Cavite",rabv-glue,01/01/2006,2006,Other
+RV/R4A.PHL/2007/Z-07-189,,Calabarzon,Cavite,2007,Philippines,SEA4,AB563832,2007,Canis lupus familiaris,NA,NA,"Region4A, Cavite",rabv-glue,01/01/2007,2007,Other
+RV/R4A.PHL/2007/Z-07-243,,Calabarzon,Cavite,2007,Philippines,SEA4,AB563833,2007,Canis lupus familiaris,NA,NA,"Region4A, Cavite",rabv-glue,01/01/2007,2007,Other
+RV/R4A.PHL/2007/Z-07-252,,Calabarzon,Quezon,2007,Philippines,SEA4,AB563834,2007,Canis lupus familiaris,NA,NA,"R4A, Quezon",rabv-glue,01/01/2007,2007,Other
+RV/R4A.PHL/2007/Z-07-307,,Calabarzon,Cavite,2007,Philippines,SEA4,AB563835,2007,Canis lupus familiaris,NA,NA,"R4A, Cavite",rabv-glue,01/01/2007,2007,Other
+RV/R4A.PHL/2007/Z-07-317,,Calabarzon,Cavite,2007,Philippines,SEA4,AB563836,2007,Canis lupus familiaris,NA,NA,"Region4A, Cavite",rabv-glue,01/01/2007,2007,Other
+RV/R4A.PHL/2007/Z-07-330,,Calabarzon,Cavite,2007,Philippines,SEA4,AB563837,2007,Canis lupus familiaris,NA,NA,"Region4A, Cavite",rabv-glue,01/01/2007,2007,Other
+RV/R4A.PHL/2011/TRa-393,,Calabarzon,Laguna,2011,Philippines,SEA4,LC018536,2011,Canis lupus familiaris,NA,NA,"IV-A, Laguna",rabv-glue,01/01/2011,2011,Other
+RV/R4A.PHL/2012/TRa-398,,Calabarzon,Quezon,2012,Philippines,SEA4,LC018540,2012,Canis lupus familiaris,NA,NA,"IV-A, Quezon",rabv-glue,01/01/2012,2012,Other
+RV/R4A.PHL/2012/TRa-401,,Calabarzon,Batangas,2012,Philippines,SEA4,LC018542,2012,Canis lupus familiaris,NA,NA,"IV-A, Batangas",rabv-glue,01/01/2012,2012,Other
+RV/R4A.PHL/2012/TRa-404,,Calabarzon,Batangas,2012,Philippines,SEA4,LC018544,2012,Canis lupus familiaris,NA,NA,"IV-A, Batangas",rabv-glue,01/01/2012,2012,Other
+RV/R4A.PHL/2013/TRa-485,,Bicol Region,Batangas,2013,Philippines,SEA4,LC068916,2013,Canis lupus familiaris,NA,NA,"Region IV, Batangas",rabv-glue,01/01/2013,2013,Other
+RV/R4B.PHL/2006/Z-06-197,,Calabarzon,Batangas,2006,Philippines,SEA4,AB698023,2006,Canis lupus familiaris,NA,NA,"Region 4A, Batangas",rabv-glue,01/01/2006,2006,Other
+Z-13-216,,Southwestern Tagalog Region,Occidental Mindoro,2014,Philippines,SEA4,NA,25/10/2013,Canis familiaris,NA,Bgy. 2,Mamburao,this paper,10/25/13,2013.813699,Occidental Mindoro
+Z-17-57,,Southwestern Tagalog Region,Occidental Mindoro,2017,Philippines,SEA4,NA,29/03/2017,Canis familiaris,NA,Magbag,San Jose,this paper,3/29/17,2017.238356,Occidental Mindoro
+4B-2422,,Southwestern Tagalog Region,Occidental Mindoro,2022,Philippines,SEA4,NA,04/02/2022,Canis familiaris,NA,Concepcion,Calintaan,this paper,04/02/2022,2022.249315,Occidental Mindoro_new
+RV/R4B.PHL/2006/Z-06-203,,Southwestern Tagalog Region,Oriental Mindoro,2006,Philippines,SEA4,AB563821,2006,Canis lupus familiaris,NA,NA,"Region4B, Oriental Mindoro",rabv-glue,01/01/2006,2006,Oriental Mindoro
+RV/R4B.PHL/2006/Z-06-408,,Southwestern Tagalog Region,Oriental Mindoro,2006,Philippines,SEA4,AB563831,2006,Canis lupus familiaris,NA,NA,"R4B, Oriental Mindoro",rabv-glue,01/01/2006,2006,Oriental Mindoro
+4B-21-29,,Southwestern Tagalog Region,Oriental Mindoro,2022,Philippines,SEA4,NA,09/02/2021,Canis familiaris,NA,San Narciso,Victoria,this paper,09/02/2021,2021.668493,Oriental Mindoro_new
+4B-21-35,,Southwestern Tagalog Region,Oriental Mindoro,2021,Philippines,SEA4,NA,05/03/2021,Canis familiaris,NA,Tabinay,Puerto Galera,this paper,05/03/2021,2021.334247,Oriental Mindoro_new
+4B-21-310,,Southwestern Tagalog Region,Oriental Mindoro,2022,Philippines,SEA4,NA,10/03/2021,Canis familiaris,NA,Tabinay,Puerto Galera,this paper,10/03/2021,2021.753425,Oriental Mindoro_new
+RV/R5.PHL/2008/TRa-005,,Bicol Region,Albay,2008,Philippines,SEA4,AB563839,2008,Canis lupus familiaris,NA,NA,"Region5, Albay",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-031,,Bicol Region,Albay,2008,Philippines,SEA4,AB563858,2008,Canis lupus familiaris,NA,NA,"Region5, Albay",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-032,,Bicol Region,Albay,2008,Philippines,SEA4,AB563859,2008,Canis lupus familiaris,NA,NA,"Region5, Albay",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-034,,Bicol Region,Albay,2008,Philippines,SEA4,AB563860,2008,Canis lupus familiaris,NA,NA,"Region5, Albay",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-036,,Bicol Region,Camarines Sur,2008,Philippines,SEA4,AB563861,2008,Canis lupus familiaris,NA,NA,"Region5, Camarines Sur",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-037,,Bicol Region,Camarines Sur,2008,Philippines,SEA4,AB563862,2008,Canis lupus familiaris,NA,NA,"Region5, Camarines Sur",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-067,,Bicol Region,Albay,2008,Philippines,SEA4,AB563886,2008,Canis lupus familiaris,NA,NA,"Region5, Albay",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-071,,Bicol Region,Camarines Sur,2008,Philippines,SEA4,AB563887,2008,Canis lupus familiaris,NA,NA,"Region5, Camarines Sur",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-072,,Bicol Region,Albay,2008,Philippines,SEA4,AB563888,2008,Canis lupus familiaris,NA,NA,"Region5, Albay",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-073,,Bicol Region,Sorsogon,2008,Philippines,SEA4,AB563889,2008,Canis lupus familiaris,NA,NA,"Region5, Sorsogon",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-120,,Bicol Region,Catanduanes,2008,Philippines,SEA4,AB563933,2008,Canis lupus familiaris,NA,NA,"Region5, Catanduanes",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-121,,Bicol Region,Camarines Sur,2008,Philippines,SEA4,AB563934,2008,Canis lupus familiaris,NA,NA,"Region5, Camarines Sur",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-122,,Bicol Region,Albay,2008,Philippines,SEA4,AB563935,2008,Canis lupus familiaris,NA,NA,"Region 5, Albay",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2008/TRa-123,,Bicol Region,Catanduanes,2008,Philippines,SEA4,AB563936,2008,Canis lupus familiaris,NA,NA,"Region5, Catanduanes",rabv-glue,01/01/2008,2008,Other
+RV/R5.PHL/2009/TRa-183,,Bicol Region,Albay,2009,Philippines,SEA4,AB563969,2009,Canis lupus familiaris,NA,NA,"Region5, Albay",rabv-glue,01/01/2009,2009,Other
+RV/R5.PHL/2009/TRa-225,,Bicol Region,Albay,2009,Philippines,SEA4,AB563994,2009,Canis lupus familiaris,NA,NA,"Region5, Albay",rabv-glue,01/01/2009,2009,Other
+RV/R5.PHL/2009/TRa-226,,Bicol Region,Albay,2009,Philippines,SEA4,AB563995,2009,Canis lupus familiaris,NA,NA,"Region5, Albay",rabv-glue,01/01/2009,2009,Other
+RV/R5.PHL/2009/TRa-227,,Bicol Region,Albay,2009,Philippines,SEA4,AB563996,2009,Canis lupus familiaris,NA,NA,"Region5, Albay",rabv-glue,01/01/2009,2009,Other
+RV/R5.PHL/2009/TRa-229,,Bicol Region,Catanduanes,2009,Philippines,SEA4,AB563997,2009,Canis lupus familiaris,NA,NA,"Region5, Catanduanes",rabv-glue,01/01/2009,2009,Other
+RV/R5.PHL/2009/TRa-231,,Bicol Region,Camarines Norte,2009,Philippines,SEA4,AB563998,2009,Canis lupus familiaris,NA,NA,"Region5, Camarines Norte",rabv-glue,01/01/2009,2009,Other
+RV/R5.PHL/2009/TRa-268,,Bicol Region,Sorsogon,2009,Philippines,SEA4,AB733977,2009,Canis lupus familiaris,NA,NA,"Region5, Sorsogon",rabv-glue,01/01/2009,2009,Other
+RV/R5.PHL/2009/TRa-269,,Bicol Region,Catanduanes,2009,Philippines,SEA4,AB771916,2009,Canis lupus familiaris,NA,NA,"Regoin 5, Catanduanes",rabv-glue,01/01/2009,2009,Other
+RV/R5.PHL/2009/TRa-271,,Bicol Region,Camarines Norte,2009,Philippines,SEA4,AB771917,2009,Canis lupus familiaris,NA,NA,"Regoin 5, Camarines Norte",rabv-glue,01/01/2009,2009,Other
+RV/R5.PHL/2009/TRa-272,,Bicol Region,Albay,2009,Philippines,SEA4,AB733978,2009,Canis lupus familiaris,NA,NA,"Region5, Albay",rabv-glue,01/01/2009,2009,Other
+RV/R5.PHL/2009/TRa-273,,Bicol Region,Albay,2009,Philippines,SEA4,AB733979,2009,Canis lupus familiaris,NA,NA,"Region5, Albay",rabv-glue,01/01/2009,2009,Other
+RV/R5.PHL/2012/TRa-337,,Bicol Region,Camarines Sur,2012,Philippines,SEA4,LC018502,2012,Canis lupus familiaris,NA,NA,"V, Camarines Sur",rabv-glue,01/01/2012,2012,Other
+RV/R5.PHL/2012/TRa-338,,Bicol Region,Catanduanes,2012,Philippines,SEA4,LC018503,2012,Canis lupus familiaris,NA,NA,"V, Catanduanes",rabv-glue,01/01/2012,2012,Other
+RV/R5.PHL/2012/TRa-339,,Bicol Region,Albay,2012,Philippines,SEA4,LC018504,2012,Canis lupus familiaris,NA,NA,"V, Albay",rabv-glue,01/01/2012,2012,Other
+RV/R5.PHL/2012/TRa-340,,Bicol Region,Camarines Norte,2012,Philippines,SEA4,LC018505,2012,Canis lupus familiaris,NA,NA,"V, Camarines Norte",rabv-glue,01/01/2012,2012,Other
+RV/R5.PHL/2012/TRa-343,,Bicol Region,Camarines Norte,2012,Philippines,SEA4,LC018506,2012,Canis lupus familiaris,NA,NA,"V, Camarines Norte",rabv-glue,01/01/2012,2012,Other
+RV/R5.PHL/2012/TRa-344,,Bicol Region,Camarines Sur,2012,Philippines,SEA4,LC018507,2012,Canis lupus familiaris,NA,NA,"V, Camarines Sur",rabv-glue,01/01/2012,2012,Other
+RV/R5.PHL/2012/TRa-355,,Bicol Region,Albay,2012,Philippines,SEA4,LC018517,2012,Canis lupus familiaris,NA,NA,"V, Albay",rabv-glue,01/01/2012,2012,Other
+RV/R5.PHL/2012/TRa-356,,Bicol Region,Albay,2012,Philippines,SEA4,LC018518,2012,Canis lupus familiaris,NA,NA,"V, Albay",rabv-glue,01/01/2012,2012,Other
+RV/R5.PHL/2012/TRa-357,,Bicol Region,Sorsogon,2012,Philippines,SEA4,LC018519,2012,Canis lupus familiaris,NA,NA,"V, Sorsogon",rabv-glue,01/01/2012,2012,Other
+RV/R5.PHL/2012/TRa-358,,Bicol Region,Camarines Norte,2012,Philippines,SEA4,LC018520,2012,Canis lupus familiaris,NA,NA,"V, Camarines Norte",rabv-glue,01/01/2012,2012,Other
+RV/R5.PHL/2012/TRa-360,,Bicol Region,Albay,2012,Philippines,SEA4,LC018521,2012,Canis lupus familiaris,NA,NA,"V, Albay",rabv-glue,01/01/2012,2012,Other
+RV/R5.PHL/2012/TRa-362,,Bicol Region,Albay,2012,Philippines,SEA4,LC018522,2012,Canis lupus familiaris,NA,NA,"V, Albay",rabv-glue,01/01/2012,2012,Other
+RV/R5.PHL/2013/TRa-364,,Bicol Region,Albay,2013,Philippines,SEA4,LC018523,2013,Canis lupus familiaris,NA,NA,"V, Albay",rabv-glue,01/01/2013,2013,Other
+RV/R5.PHL/2013/TRa-365,,Bicol Region,Albay,2013,Philippines,SEA4,LC018524,2013,Canis lupus familiaris,NA,NA,"V, Albay",rabv-glue,01/01/2013,2013,Other
+RV/R5.PHL/2013/TRa-421,,Bicol Region,Albay,2013,Philippines,SEA4,LC018549,2013,Canis lupus familiaris,NA,NA,"V, Albay",rabv-glue,01/01/2013,2013,Other
+RV/R5.PHL/2013/TRa-422,,Bicol Region,Albay,2013,Philippines,SEA4,LC018550,2013,Canis lupus familiaris,NA,NA,"V, Albay",rabv-glue,01/01/2013,2013,Other
+RV/R5.PHL/2013/TRa-425,,Bicol Region,Camarines Sur,2013,Philippines,SEA4,LC018551,2013,Canis lupus familiaris,NA,NA,"V, Camarines Sur",rabv-glue,01/01/2013,2013,Other
+RV/R5.PHL/2013/TRa-426,,Bicol Region,Camarines Sur,2013,Philippines,SEA4,LC018552,2013,Canis lupus familiaris,NA,NA,"V, Camarines Sur",rabv-glue,01/01/2013,2013,Other
+RV/R5.PHL/2013/TRa-427,,Bicol Region,Albay,2013,Philippines,SEA4,LC018553,2013,Canis lupus familiaris,NA,NA,"V, Albay",rabv-glue,01/01/2013,2013,Other
+RV/R5.PHL/2013/TRa-429,,Bicol Region,Albay,2013,Philippines,SEA4,LC018554,2013,Canis lupus familiaris,NA,NA,"V, Albay",rabv-glue,01/01/2013,2013,Other
+RV/R7.PHL/2008/TRa-074,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563890,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-075,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563891,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-076,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563892,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-077,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563893,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-078,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563894,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-079,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563895,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-080,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563896,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-081,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563897,2008,Canis lupus familiaris,NA,NA,"Region 7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-082,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563898,2008,Canis lupus familiaris,NA,NA,"Region 7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-083,,Central Visayas,Negros Oriental,2008,Philippines,SEA4,AB563899,2008,Canis lupus familiaris,NA,NA,"Region 7, Negros Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-084,,Central Visayas,Negros Oriental,2008,Philippines,SEA4,AB683588,2008,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-085,,Central Visayas,,2008,Philippines,SEA4,AB563900,2008,-,NA,NA,Valencia,rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-096,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563911,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-097,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563912,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-098,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563913,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-099,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563914,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-100,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563915,2008,Canis lupus familiaris,NA,NA,"Region7, cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-101,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563916,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-102,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563917,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2008/TRa-103,,Central Visayas,Cebu,2008,Philippines,SEA4,AB563918,2008,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2008,2008,Other
+RV/R7.PHL/2009/TRa-143,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB563947,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-144,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB563948,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-145,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB563949,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-147,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB563950,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-164,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB563958,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-165,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB563959,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-166,,Central Visayas,Cebu,2009,Philippines,SEA4,AB563960,2009,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-167,,Central Visayas,Cebu,2009,Philippines,SEA4,AB563961,2009,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-168,,Central Visayas,Cebu,2009,Philippines,SEA4,AB563962,2009,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-170,,Central Visayas,Cebu,2009,Philippines,SEA4,AB563963,2009,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-172,,Central Visayas,Cebu,2009,Philippines,SEA4,AB563964,2009,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-173,,Central Visayas,Cebu,2009,Philippines,SEA4,AB563965,2009,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-176,,Central Visayas,Cebu,2009,Philippines,SEA4,AB563966,2009,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-177,,Central Visayas,Cebu,2009,Philippines,SEA4,AB563967,2009,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-178,,Central Visayas,Cebu,2009,Philippines,SEA4,AB563968,2009,Canis lupus familiaris,NA,NA,"Region7, Cebu",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-179,,Central Visayas,Cebu,2009,Philippines,SEA4,AB683652,2009,Canis lupus familiaris,NA,NA,"Region 7, Cebu",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-235,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB564001,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-236,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB564002,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-237,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB564003,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-238,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB564004,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-239,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB564005,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-240,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB564006,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+RV/R7.PHL/2009/TRa-241,,Central Visayas,Negros Oriental,2009,Philippines,SEA4,AB564007,2009,Canis lupus familiaris,NA,NA,"Region7, Negros Oriental",rabv-glue,01/01/2009,2009,Other
+V1371PHIL,,NA,,2004,Philippines,SEA4,DQ275546,2004,Felis catus,NA,NA,-,rabv-glue,01/01/2004,2004,Other
+V1372PHIL,,NA,,2004,Philippines,SEA4,DQ275550,2004,Felis catus,NA,NA,-,rabv-glue,01/01/2004,2004,Other
+V1373PHIL,,NA,,2004,Philippines,SEA4,DQ275549,2004,Canis familiaris,NA,NA,-,rabv-glue,01/01/2004,2004,Other
+V1374PHIL,,NA,,2004,Philippines,SEA4,DQ275547,2004,Canis familiaris,NA,NA,-,rabv-glue,01/01/2004,2004,Other
+V1375PHIL,,NA,,2004,Philippines,SEA4,DQ275548,2004,Canis familiaris,NA,NA,-,rabv-glue,01/01/2004,2004,Other
+Z-12-001,,Calabarzon,Laguna,2012,Philippines,SEA4,MN726845,2012,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2012,2012,Other
+Z-12-088,,National Capital Region,Metropolitan Manila,2012,Philippines,SEA4,MN726843,2012,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2012,2012,Other
+Z-12-118,,Calabarzon,Cavite,2012,Philippines,SEA4,MN726856,2012,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2012,2012,Other
+Z-12-134,,Calabarzon,Cavite,2012,Philippines,SEA4,MN726874,2012,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2012,2012,Other
+4B-21-412,,Southwestern Tagalog Region,Oriental Mindoro,2022,Philippines,SEA4,NA,12/04/2021,Canis familiaris,NA,Sto Nino,Puerto Galera,this paper,12/04/2021,2021.923288,Oriental Mindoro_new
+Z-12-212,,Calabarzon,Batangas,2012,Philippines,SEA4,MN726879,2012,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2012,2012,Other
+Z-13-002,,National Capital Region,Metropolitan Manila,2013,Philippines,SEA4,MN726836,2013,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2013,2013,Other
+Z-13-009,,Calabarzon,Cavite,2013,Philippines,SEA4,MN726837,2013,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2013,2013,Other
+4B-22-15,,Southwestern Tagalog Region,Oriental Mindoro,2022,Philippines,SEA4,NA,05/01/2022,Canis familiaris,NA,San Isidro,Puerto Galera,this paper,05/01/2022,2022.328767,Oriental Mindoro_new
+Z-14-138,,National Capital Region,Metropolitan Manila ,2014,Philippines,SEA4,MN726866,2014,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2014,2014,Other
+Z-14-146,,Calabarzon,Batangas,2014,Philippines,SEA4,MN726841,2014,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2014,2014,Other
+Z-14-149,,Calabarzon,Laguna,2014,Philippines,SEA4,MN726870,2014,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2014,2014,Other
+Z-15-019,,National Capital Region,Metropolitan Manila,2015,Philippines,SEA4,MN726861,2015,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2015,2015,Other
+Z-15-116,,Calabarzon,Laguna,2015,Philippines,SEA4,MN726839,2015,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2015,2015,Other
+Z-15-119,,National Capital Region,Metropolitan Manila,2015,Philippines,SEA4,MN726849,2015,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2015,2015,Other
+Z-15-130,,Calabarzon,Cavite,2015,Philippines,SEA4,MN726881,2015,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2015,2015,Other
+Z-15-148,,National Capital Region,Metropolitan Manila,2015,Philippines,SEA4,MN726840,2015,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2015,2015,Other
+Z-16-013,,Calabarzon,Laguna,2016,Philippines,SEA4,MN726848,2016,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2016,2016,Other
+Z-16-159,,Calabarzon,Cavite,2016,Philippines,SEA4,MN726855,2016,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2016,2016,Other
+Z-16-186,,Calabarzon,Rizal,2016,Philippines,SEA4,MN726858,2016,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2016,2016,Other
+Z12-012,,,,2012,Philippines,SEA4,MN726867,2012,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2012,2012,Other
+Z14-142,,,,2014,Philippines,SEA4,MN726851,2014,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2014,2014,Other
+Z14-152,,National Capital Region,Metropolitan Manila,2014,Philippines,SEA4,MN726873,2014,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2014,2014,Other
+Z15-185,,National Capital Region,Metropolitan Manila,2015,Philippines,SEA4,MN726854,2015,Canis lupus familiaris,NA,NA,-,rabv-glue,01/01/2015,2015,Other
+153,,Bicol Region,Albay,2018,Philippines,SEA4,NA,17/05/2018,Canis familiaris,NA,Paulog,Ligao,this paper,5/17/18,2018.372603,Other
+4A-22-104,,Calabarzon,Batangas,2022,Philippines,SEA4,NA,25/01/2022,Canis familiaris,NA,Sabang,Lipa,this paper,1/25/22,2022.065753,Other
+4A-22-171,,Calabarzon,Cavite,2022,Philippines,SEA4,NA,06/02/2022,Canis familiaris,NA,Buenavista,General Trias,this paper,06/02/2022,2022.416438,Other
+4A-22-203,,Calabarzon,Quezon,2023,Philippines,SEA4,NA,11/02/2022,Canis familiaris,NA,Guiang-Guiang,Lucena,this paper,11/02/2022,2022.835616,Other
+4A-22-40,,Calabarzon,Batangas,2023,Philippines,SEA4,NA,10/01/2022,Canis familiaris,NA,NA,Batangas,this paper,10/01/2022,2022.747945,Other
+4A-22-98,,Calabarzon,Quezon,2022,Philippines,SEA4,NA,22/01/2022,Canis familiaris,NA,Baguio,Tayabas,this paper,1/22/22,2022.057534,Other
+4B-2922HM,,Southwestern Tagalog Region,Oriental Mindoro,2023,Philippines,SEA4,NA,09/02/2022,Canis familiaris,NA,Mangangan,Baco,this paper,09/02/2022,2022.668493,Oriental Mindoro_new
+4B-2922JG,,Southwestern Tagalog Region,Oriental Mindoro,2023,Philippines,SEA4,NA,09/02/2022,Canis familiaris,NA,Anilao,Bongabong,this paper,09/02/2022,2022.668493,Oriental Mindoro_new
+4B-22-17,,Southwestern Tagalog Region,Oriental Mindoro,2023,Philippines,SEA4,NA,08/05/2022,Canis familiaris,NA,Narra,Gloria,this paper,08/05/2022,2022.591781,Oriental Mindoro_new
+4B-22-30,,Southwestern Tagalog Region,Oriental Mindoro,2023,Philippines,SEA4,NA,12/08/2022,Canis familiaris,NA,Bangkatan,Baco,this paper,12/08/2022,2022.934247,Oriental Mindoro_new
+4B-22-40,,Southwestern Tagalog Region,Oriental Mindoro,2022,Philippines,SEA4,NA,02/12/2022,Canis familiaris,NA,Balugo,Mansalay,this paper,02/12/2022,2022.115068,Oriental Mindoro_new
+4B-22-114,,Southwestern Tagalog Region,Oriental Mindoro,2022,Philippines,SEA4,NA,14/01/2022,Canis familiaris,NA,Mayabig,Baco,this paper,1/14/22,2022.035616,Oriental Mindoro_new
+4B-21-126,,Southwestern Tagalog Region,Oriental Mindoro,2021,Philippines,SEA4,NA,26/01/2021,Canis familiaris,NA,Sapul,Calapan,this paper,1/26/21,2021.068493,Oriental Mindoro_new
+4B-22-35,,Southwestern Tagalog Region,Oriental Mindoro,2023,Philippines,SEA4,NA,25/10/2022,Canis familiaris,NA,Bagumbayan,Roxas,this paper,10/25/22,2022.813699,Oriental Mindoro_new
+4B-21622,,Southwestern Tagalog Region,Oriental Mindoro,2022,Philippines,SEA4,NA,16/02/2022,Canis familiaris,NA,Mangangan,Baco,this paper,2/16/22,2022.126027,Oriental Mindoro_new
+4B-21-421,,Southwestern Tagalog Region,Oriental Mindoro,2021,Philippines,SEA4,NA,14/04/2021,Canis familiaris,NA,Malapad,Baco,this paper,4/14/21,2021.282192,Oriental Mindoro_new
+4B-22-13,,Southwestern Tagalog Region,Oriental Mindoro,2022,Philippines,SEA4,NA,22/04/2022,Canis familiaris,NA,Teresita,Mansalay,this paper,4/22/22,2022.30411,Oriental Mindoro_new
+4B-21-423,,Southwestern Tagalog Region,Oriental Mindoro,2021,Philippines,SEA4,NA,23/04/2021,Canis familiaris,NA,Camilmil,Calapan,this paper,4/23/21,2021.306849,Oriental Mindoro_new
+4B-22-16,,Southwestern Tagalog Region,Oriental Mindoro,2022,Philippines,SEA4,NA,28/04/2022,Canis familiaris,NA,Orcenuma,Bongabong,this paper,4/28/22,2022.320548,Oriental Mindoro_new
+4B-22-20,,Southwestern Tagalog Region,Oriental Mindoro,2022,Philippines,SEA4,NA,19/05/2022,Canis familiaris,NA,Don Pedro,Mansalay,this paper,5/19/22,2022.378082,Oriental Mindoro_new
+4B-21-528,,Southwestern Tagalog Region,Oriental Mindoro,2021,Philippines,SEA4,NA,28/05/2021,Canis familiaris,NA,Aninuan,Puerto Galera,this paper,5/28/21,2021.40274,Oriental Mindoro_new
+4B-22-21,,Southwestern Tagalog Region,Oriental Mindoro,2022,Philippines,SEA4,NA,31/05/2022,Canis familiaris,NA,Panggulayan,Pinamalayan,this paper,5/31/22,2022.410959,Oriental Mindoro_new
+Z-12-149,,Southwestern Tagalog Region,Oriental Mindoro,2012,Philippines,SEA4,MN726853,28/06/2012,Canis familiaris,NA,Palayan,Pinamalayan,this paper,6/28/12,2012.489071,Oriental Mindoro_new
+4B-22-28,,Southwestern Tagalog Region,Oriental Mindoro,2023,Philippines,SEA4,NA,27/07/2022,Canis familiaris,NA,Mangangan,Baco,this paper,7/27/22,2022.567123,Oriental Mindoro_new
+4B-22-31,,Southwestern Tagalog Region,Oriental Mindoro,2023,Philippines,SEA4,NA,18/08/2022,Canis familiaris,NA,Bayanan,Pola,this paper,8/18/22,2022.627397,Oriental Mindoro_new
+RV/R4B.PHL/2013/TRa-486,,Southwestern Tagalog Region,Palawan,2013,Philippines,SEA4,LC018584,2013,Canis lupus familiaris,NA,NA,"IV-B, Palawan",rabv-glue,01/01/2013,2013,Palawan
+RV/R4B.PHL/2013/TRa-487,,Southwestern Tagalog Region,Palawan,2013,Philippines,SEA4,LC018585,2013,Canis lupus familiaris,NA,NA,"IV-B, Palawan",rabv-glue,01/01/2013,2013,Palawan
+4B-22-37,,Southwestern Tagalog Region,Romblon,2022,Philippines,SEA4,NA,01/10/2022,Canis familiaris,NA,San Isidro,Alcantara,this paper,01/10/2022,2022.024658,Romblon_new
+4B-22-39,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,21/10/2022,Canis familiaris,NA,San Isidro,Alcantara,this paper,10/21/22,2022.80274,Romblon_new
+4B-22-44,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,11/12/2022,Canis familiaris,NA,Dapawan,Odiongan,this paper,11/12/2022,2022.863014,Romblon_new
+Z-22-103,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,21/11/2022,Canis familiaris,NA,Paroyhog,Santa Maria,this paper,11/21/22,2022.887671,Romblon_new
+4B-22-41,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,24/11/2022,Canis familiaris,NA,Dapawan,Odiongan,this paper,11/24/22,2022.89589,Romblon_new
+4B-22-42,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,26/11/2022,Canis familiaris,NA,Bonlao,Alcantara,this paper,11/26/22,2022.90137,Romblon_new
+4B-22-45,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,12/12/2022,Canis familiaris,NA,Concepcion Sur,Santa Maria,this paper,12/12/2022,2022.945205,Romblon_new
+Z-22-121,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,19/12/2022,Canis familiaris,NA,Carmen,San Agustin,this paper,12/19/22,2022.964384,Romblon_new
+Z-22-119,,Southwestern Tagalog Region ,Romblon,2023,Philippines,SEA4,NA,28/12/2022,Canis familiaris,NA,Tulay,Odiongan,this paper,12/28/22,2022.989041,Romblon_new
+4B-23-17,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,01/03/2023,Canis familiaris,NA,Poctoy,Odiongan,this paper,01/03/2023,2023.005479,Romblon_new
+4B-23-19,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,01/03/2023,Canis familiaris,NA,Mahabang Baybay,San Agustin,this paper,01/03/2023,2023.005479,Romblon_new
+4B-23-02,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,13/01/2023,Canis familiaris,NA,Dapawan,Odiongan,this paper,1/13/23,2023.032877,Romblon_new
+4B-23-01,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,20/01/2023,Canis familiaris,NA,Concepcion Norte,Santa Maria,this paper,1/20/23,2023.052055,Romblon_new
+4B-23-05,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,20/01/2023,Canis familiaris,NA,Sugod,San Agustin,this paper,1/20/23,2023.052055,Romblon_new
+4B-23-03,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,22/01/2023,Canis familiaris,NA,Sugod,San Agustin,this paper,1/22/23,2023.057534,Romblon_new
+4B-23-04,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,31/01/2023,Canis familiaris,NA,Carmen,San Agustin,this paper,1/31/23,2023.082192,Romblon_new
+4B-23-06,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,02/02/2023,Canis familiaris,NA,Concepcion Norte,Santa Maria,this paper,02/02/2023,2023.087671,Romblon_new
+H-23-011Sk_12,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,02/02/2023,Homo sapiens,NA,Concepcion Sur,Santa Maria,this paper,02/02/2023,2023.087671,Romblon_new
+4B-23-12,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,14/02/2023,Canis familiaris,NA,Concepcion Norte,Santa Maria,this paper,2/14/23,2023.120548,Romblon_new
+4B-23-15,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,16/02/2023,Canis familiaris,NA,Poctoy,Odiongan,this paper,2/16/23,2023.126027,Romblon_new
+4B-23-16,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,28/02/2023,Canis familiaris,NA,Dapawan,Odiongan,this paper,2/28/23,2023.158904,Romblon_new
+4B-23-07,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,07/02/2023,Canis familiaris,NA,Concepcion Sur,Santa Maria,this paper,07/02/2023,2023.49863,Romblon_new
+4B-23-11,,Southwestern Tagalog Region,Romblon,2023,Philippines,SEA4,NA,07/02/2023,Canis familiaris,NA,Jun Carlo,San Andres,this paper,07/02/2023,2023.49863,Romblon_new
+4B-23-13,,Southwestern Tagalog Region,Romblon,2024,Philippines,SEA4,NA,09/02/2023,Canis familiaris,NA,Rizal,Odiongan,this paper,09/02/2023,2023.668493,Romblon_new
+R1-21-148,,Ilocos Region,Pangasinan,2022,Philippines,SEA4,NA,10/04/2021,Canis familiaris,NA,Malibong,Urbiztondo,this paper,10/04/2021,2021.756164,Other
+R10-688,,Northern Mindanao,Bukidnon,2021,Philippines,SEA4,NA,02/07/2021,Canis familiaris,NA,NA,Malaybalay,this paper,02/07/2021,2021.10137,Other
+R10-711,,Northern Mindanao,Misamis Oriental,2022,Philippines,SEA4,NA,12/07/2021,Canis familiaris,NA,Balulang,Cagayan de Oro,this paper,12/07/2021,2021.931507,Other
+R10-714,,Northern Mindanao,Misamis Oriental ,2022,Philippines,SEA4,NA,11/07/2021,Canis familiaris,NA,Bonbon,Opol,this paper,11/07/2021,2021.849315,Other
+R10-824,,Northern Mindanao,Misamis Oriental ,2022,Philippines,SEA4,NA,09/09/2021,Canis familiaris,NA,Bulua,Cagayan de Oro,this paper,09/09/2021,2021.687671,Other
+R10-856,,Northern Mindanao,Misamis Oriental,2022,Philippines,SEA4,NA,27/09/2021,Canis familiaris,NA,NA,Manticao,this paper,9/27/21,2021.736986,Other
+R10-907,,Northern Mindanao,Misamis Oriental,2022,Philippines,SEA4,NA,25/10/2021,Canis familiaris,NA,Gango,Libona,this paper,10/25/21,2021.813699,Other
+R10-920,,Northern Mindanao,Bukidnon,2022,Philippines,SEA4,NA,26/10/2021,Canis familiaris,NA,Agusan,Cagayan de Oro,this paper,10/26/21,2021.816438,Other
+R10-989,,Northern Mindanao,Misamis Oriental,2022,Philippines,SEA4,NA,25/11/2021,Canis familiaris,NA,Barangay 1,Gingoog,this paper,11/25/21,2021.89863,Other
+R10-990,,Northern Mindanao,Misamis Oriental,2022,Philippines,SEA4,NA,25/11/2021,Canis familiaris,NA,Agay-Ayan,Gingoog,this paper,11/25/21,2021.89863,Other
+R11-21-61,,Bangsamoro,Misamis Oriental,2022,Philippines,SEA4,NA,11/08/2021,Canis familiaris,NA,NA,Midsayap,this paper,11/08/2021,2021.852055,Other
+R11-21-63,,Davao Region,Cotabato,2021,Philippines,SEA4,NA,04/10/2021,Canis familiaris,NA,NA,Tagum,this paper,04/10/2021,2021.271233,Other
+R11-22-002,,Davao Region,Davao Del Norte,2022,Philippines,SEA4,NA,05/01/2022,Canis familiaris,NA,Talomo,Davao,this paper,05/01/2022,2022.328767,Other
+R2-081,,Cagayan Valley,Cagayan,2021,Philippines,SEA4,NA,31/08/2020,Canis familiaris,NA,Ugac Norte,Tuguegarao,this paper,8/31/20,2020.663934,Other
+R3-731,,Central Luzon,Nueva Ecija,2022,Philippines,SEA4,NA,09/12/2021,Canis familiaris,NA,Sangitan,Cabanatuan,this paper,09/12/2021,2021.69589,Other
+R5-09,,Bicol Region,Albay,2022,Philippines,SEA4,NA,07/02/2022,Felis catus,NA,Bauud,Malilipot,this paper,07/02/2022,2022.49863,Other
+R5-21-115,,Bicol Region,Camarines Norte,2022,Philippines,SEA4,NA,28/09/2021,Canis familiaris,NA,Pob. III,Vinzons,this paper,9/28/21,2021.739726,Other
+R5-21-119,,Bicol Region,Sorsogon,2022,Philippines,SEA4,NA,15/10/2021,Canis familiaris,NA,San Pedro,Irosin,this paper,10/15/21,2021.786301,Other
+R5-21-128,,Bicol Region,Camarines Sur,2022,Philippines,SEA4,NA,09/11/2021,Canis familiaris,NA,Cararayan,Naga,this paper,09/11/2021,2021.693151,Other
+R5-21-132,,Bicol Region,Albay,2022,Philippines,SEA4,NA,15/11/2021,Canis familiaris,NA,Labnig,Malinao,this paper,11/15/21,2021.871233,Other
+R5-21-136,,Bicol Region,Albay,2021,Philippines,SEA4,NA,02/12/2021,Canis familiaris,NA,NA,Libon,this paper,02/12/2021,2021.115068,Other
+R5-21-140,,Bicol Region,Camarines Norte,2022,Philippines,SEA4,NA,10/12/2021,Canis familiaris,NA,Calang Calawan,Vinzons,this paper,10/12/2021,2021.778082,Other
+R5-22-008,,Bicol Region,Albay,2022,Philippines,SEA4,NA,02/02/2022,Canis familiaris,NA,Sto. Cristo,Tabaco,this paper,02/02/2022,2022.087671,Other
+R6-21-4375,,Western Visayas,Iloilo,2021,Philippines,SEA4,NA,01/10/2021,Canis familiaris,NA,Labigan,Sara,this paper,01/10/2021,2021.024658,Other
+R6-21-4511,,Western Visayas,Antique,2022,Philippines,SEA4,NA,08/10/2021,Canis familiaris,NA,San Isidro,Tibiao,this paper,08/10/2021,2021.605479,Other
+R6-21-4600,,Western Visayas,Iloilo,2022,Philippines,SEA4,NA,14/10/2021,Canis familiaris,NA,Jibao-An,Pavia,this paper,10/14/21,2021.783562,Other
+R6-4342,,Western Visayas,Iloilo,2022,Philippines,SEA4,NA,30/09/2021,Bos taurus,NA,Cabanban,Oton,this paper,9/30/21,2021.745205,Other
+R6-4568,,Western Visayas,Guimaras,2022,Philippines,SEA4,NA,13/10/2021,Canis familiaris,NA,Avila,Buenavista,this paper,10/13/21,2021.780822,Other
+R7-21-161,,Central Visayas,Cebu,2022,Philippines,SEA4,NA,18/10/2021,Canis familiaris,NA,Pusok,Lapu lapu,this paper,10/18/21,2021.794521,Other
+R9-010,,Zamboanga Peninsula,Zamboanga Del Sur,2020,Philippines,SEA4,NA,27/01/2020,Felis catus,NA,San Roque,Zamboanga,this paper,1/27/20,2020.071038,Other
+R9-074,,Zamboanga Peninsula,Zamboanga Del Sur,2022,Philippines,SEA4,NA,20/08/2021,Canis familiaris,NA,Cogon,Sagun,this paper,8/20/21,2021.632877,Other
+R9-089,,Zamboanga Peninsula,Zamboanga Sibugay,2022,Philippines,SEA4,NA,07/10/2021,Canis familiaris,NA,Pangi,Ipil,this paper,07/10/2021,2021.520548,Other
+R9-105,,Zamboanga Peninsula,Zamboanga Del Norte,2022,Philippines,SEA4,NA,09/12/2021,Canis familiaris,NA,Lopoc,Labason,this paper,09/12/2021,2021.69589,Other
+RADDL1-16-153,,Ilocos Region ,Pangasinan,2017,Philippines,SEA4,NA,18/07/2016,Canis familiaris,NA,Real,Urbiztondo,this paper,7/18/16,2016.543716,Other
+RADDL1-16-166,,Ilocos Region ,Pangasinan,2017,Philippines,SEA4,NA,09/08/2016,Canis familiaris,NA,West,Pabling,this paper,09/08/2016,2016.685792,Other
+RADDL3-1045,,Central Luzon,Bataan,2016,Philippines,SEA4,MN726863,23/10/2015,Canis familiaris,NA,St. Francis,Limay,this paper,10/23/15,2015.808219,Other
+RADDL3-15-172,,Central Luzon,Nueva Ecija,2016,Philippines,SEA4,MN726859,12/02/2015,Canis familiaris,NA,Cvo,San Jose,this paper,12/02/2015,2015.917808,Other
+RADDL3-16-1008,,Central Luzon,Nueva Ecija,2017,Philippines,SEA4,NA,27/10/2016,Canis familiaris,NA,Pamaldan,Cabanatuan City,this paper,10/27/16,2016.819672,Other
+RADDL3-16-468,,Central Luzon,Pampanga,2016,Philippines,SEA4,NA,01/06/2016,Canis familiaris,NA,Sta Teresita,Angeles,this paper,01/06/2016,2016.013661,Other
+RADDL3-16-521,,Central Luzon,Bulacan,2016,Philippines,SEA4,NA,15/06/2016,Canis familiaris,NA,Bulihan,Malolos,this paper,6/15/16,2016.453552,Other
+RADDL3-16-627,,Central Luzon,Bulacan,2017,Philippines,SEA4,NA,27/07/2016,Canis familiaris,NA,Ligas,Malolos,this paper,7/27/16,2016.568306,Other
+RADDL3-845,,Central Luzon,Pampanga,2015,Philippines,SEA4,MN726864,02/09/2015,Canis familiaris,NA,San Jose,Floridablanca,this paper,02/09/2015,2015.106849,Other
+RADDL5-005,,Bicol Region,Camarines Sur,2015,Philippines,SEA4,MN726877,30/01/2015,Canis familiaris,NA,San Nicolas,Iriga,this paper,1/30/15,2015.079452,Other
+RV/R4B.PHL/2011/TRa-392,,Southwestern Tagalog Region,Romblon,2011,Philippines,SEA4,LC018535,2011,Canis lupus familiaris,NA,NA,"IV-B, Romblon",rabv-glue,01/01/2011,2011,Romblon_old
+RV/R4B.PHL/2011/TRa-394,,Southwestern Tagalog Region,Romblon,2011,Philippines,SEA4,LC018537,2011,Canis lupus familiaris,NA,NA,"IV-B, Romblon",rabv-glue,01/01/2011,2011,Romblon_old
+Z-04-664,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,NA,15/12/2004,Canis familiaris,NA,Lower Bicutan,Taguig,this paper,12/15/04,2004.953552,Other
+Z-05-102,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,NA,21/02/2005,Canis familiaris,NA,NA,Muntinlupa,this paper,2/21/05,2005.139726,Other
+Z-05-191,,National Capital Region,Metropolitan Manila,2006,Philippines,SEA4,NA,10/04/2005,Canis familiaris,NA,Lower Bicutan,Taguig,this paper,10/04/2005,2005.756164,Other
+Z-05-557,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,NA,03/12/2005,Canis familiaris,NA,Rizal,Makati,this paper,03/12/2005,2005.191781,Other
+Z-05-96,,National Capital Region,Metropolitan Manila,2005,Philippines,SEA4,NA,17/02/2005,Canis familiaris,NA,Maywood Sucat,Paranaque,this paper,2/17/05,2005.128767,Other
+Z-06-150,,Calabarzon,Batangas,2006,Philippines,SEA4,NA,24/04/2006,Canis familiaris,NA,Balete,Batangas,this paper,4/24/06,2006.309589,Other
+Z-06-295,,Calabarzon,Batangas,2007,Philippines,SEA4,NA,22/07/2006,Canis familiaris,NA,Lucsuhin,Calatagan,this paper,7/22/06,2006.553425,Other
+Z-06-39,,Calabarzon,Batangas,2006,Philippines,SEA4,NA,26/01/2006,Canis familiaris,NA,Ambulong,Tanauan,this paper,1/26/06,2006.068493,Other
+Z-07-07,,Calabarzon,Cavite,2008,Philippines,SEA4,NA,08/01/2007,Canis familiaris,NA,Molino 6,General Trias,this paper,08/01/2007,2007.580822,Other
+Z-07-22,,Calabarzon,Cavite,2007,Philippines,SEA4,NA,23/01/2007,Canis familiaris,NA,Tierra Nevada,Amadeo,this paper,1/23/07,2007.060274,Other
+Z-07-222,,Calabarzon,Cavite,2007,Philippines,SEA4,NA,30/06/2007,Canis familiaris,NA,Dagatan,General Trias,this paper,6/30/07,2007.493151,Other
+Z-07-351,,National Capital Region,Metropolitan Manila,2008,Philippines,SEA4,NA,25/10/2007,Canis familiaris,NA,NA,Taguig,this paper,10/25/07,2007.813699,Other
+Z-07-366,,Calabarzon,Batangas,2008,Philippines,SEA4,NA,12/11/2007,Canis familiaris,NA,Wawa,Lipa,this paper,12/11/2007,2007.942466,Other
+Z-07-38,,Calabarzon,Cavite,2007,Philippines,SEA4,NA,02/05/2007,Canis familiaris,NA,Timbol,Bacoor,this paper,02/05/2007,2007.09589,Other
+Z-07-387,,Calabarzon,Quezon,2008,Philippines,SEA4,NA,07/12/2007,Canis familiaris,NA,Bagong Liing,San Antonio,this paper,07/12/2007,2007.526027,Other
+Z-07-398,,Calabarzon,Laguna,2008,Philippines,SEA4,NA,19/12/2007,Canis familiaris,NA,Paciano Rizal,Calamba,this paper,12/19/07,2007.964384,Other
+Z-07-403,,Calabarzon,Quezon,2008,Philippines,SEA4,NA,22/12/2007,Canis familiaris,NA,Sampagutia Exit,Lucena,this paper,12/22/07,2007.972603,Other
+Z-07-407,,National Capital Region,Metropolitan Manila,2008,Philippines,SEA4,NA,26/12/2007,Canis familiaris,NA,Southland Talon 1,Las Pinas,this paper,12/26/07,2007.983562,Other
+Z-08-351,,Calabarzon,Cavite,2009,Philippines,SEA4,NA,12/12/2008,Canis familiaris,NA,NA,GMA,this paper,12/12/2008,2008.945355,Other
+Z-08-359,,Calabarzon,Laguna,2009,Philippines,SEA4,NA,25/12/2008,Canis familiaris,NA,San Lucas II,San Pablo,this paper,12/25/08,2008.980874,Other
+Z-09-94,,National Capital Region,Metropolitan Manila,2010,Philippines,SEA4,NA,08/04/2009,Canis familiaris,NA,Brgy 191,Pasay,this paper,08/04/2009,2009.589041,Other
+Z-12-012,,Calabarzon,Batangas,2012,Philippines,SEA4,NA,16/01/2012,Canis familiaris,NA,Sulpoc,Tanauan,this paper,1/16/12,2012.040984,Other
+Z-12-029,,National Capital Region,Metropolitan Manila,2012,Philippines,SEA4,NA,03/02/2012,Canis familiaris,NA,Sss Village,Marikina,this paper,03/02/2012,2012.166667,Other
+Z-12-034,,Calabarzon,Laguna,2012,Philippines,SEA4,NA,06/02/2012,Canis familiaris,NA,Bgy. Santo Anghel,San Pablo,this paper,06/02/2012,2012.418033,Other
+Z-12-060,,Calabarzon,Cavite,2012,Philippines,SEA4,NA,25/02/2012,Canis familiaris,NA,F.De Castro,GMA,this paper,2/25/12,2012.150273,Other
+Z-12-208,,National Capital Region,Metropolitan Manila,2012,Philippines,SEA4,NA,02/10/2012,Canis familiaris,NA,De Paro St.,Caloocan,this paper,02/10/2012,2012.10929,Other
+Z-13-020,,National Capital Region,Metropolitan Manila,2013,Philippines,SEA4,NA,02/02/2013,Canis familiaris,NA,Sucat,Muntinlupa,this paper,02/02/2013,2013.087671,Other
+Z-13-032,,National Capital Region,Metropolitan Manila,2013,Philippines,SEA4,MN726862,14/02/2013,Canis familiaris,NA,Lower Bicutan,Taguig,this paper,2/14/13,2013.120548,Other
+Z-13-036,,National Capital Region,Metropolitan Manila,2013,Philippines,SEA4,NA,25/02/2013,Canis familiaris,NA,Upper Bicutan,Taguig,this paper,2/25/13,2013.150685,Other
+Z-13-037,,Calabarzon,Laguna,2013,Philippines,SEA4,NA,25/02/2013,Canis familiaris,NA,NA,Cavinti,this paper,2/25/13,2013.150685,Other
+Z-13-065,,Calabarzon,Batangas,2013,Philippines,SEA4,NA,04/04/2013,Canis familiaris,NA,Dumuclay North,Batangas,this paper,04/04/2013,2013.254795,Other
+Z-13-066,,Calabarzon,Cavite,2013,Philippines,SEA4,MN726878,05/04/2013,Canis familiaris,NA,Bayan Luma,Imus,this paper,05/04/2013,2013.336986,Other
+Z-13-071,,National Capital Region,Metropolitan Manila,2014,Philippines,SEA4,MN726871,10/04/2013,Canis familiaris,NA,Golden Acres,Las Pinas,this paper,10/04/2013,2013.756164,Other
+Z-13-073,,National Capital Region,Metropolitan Manila,2014,Philippines,SEA4,NA,12/04/2013,Canis familiaris,NA,Bf Homes,Paranaque,this paper,12/04/2013,2013.923288,Other
+Z-13-081,,Calabarzon,Laguna,2013,Philippines,SEA4,NA,25/04/2013,Canis familiaris,NA,Sto. Angel Norte,Sta. Cruz,this paper,4/25/13,2013.312329,Other
+Z-13-086,,Calabarzon,Rizal,2013,Philippines,SEA4,NA,03/05/2013,Canis familiaris,NA,San Carlos,Binangonan,this paper,03/05/2013,2013.172603,Other
+Z-13-089,,Calabarzon,Cavite,2013,Philippines,SEA4,NA,04/05/2013,Canis familiaris,NA,Malainen Luma,Naic,this paper,04/05/2013,2013.257534,Other
+Z-13-094,,Calabarzon,Cavite,2014,Philippines,SEA4,MN726838,10/05/2013,Canis familiaris,NA,Palico II,Imus,this paper,10/05/2013,2013.758904,Other
+Z-13-096,,National Capital Region,Metropolitan Manila,2014,Philippines,SEA4,MN726869,12/05/2013,Felis catus,NA,Bf International,Las Pinas,this paper,12/05/2013,2013.926027,Other
+Z-13-098,,National Capital Region,Metropolitan Manila,2013,Philippines,SEA4,NA,13/05/2013,Canis familiaris,NA,NA,San Juan,this paper,5/13/13,2013.361644,Other
+Z-13-134,,National Capital Region,Metropolitan Manila,2014,Philippines,SEA4,NA,10/06/2013,Canis familiaris,NA,"Sto. Nino Vill.,Tunasan",Muntinlupa,this paper,10/06/2013,2013.761644,Other
+Z-13-135,,Calabarzon,Cavite,2014,Philippines,SEA4,NA,12/06/2013,Canis familiaris,NA,Alulod,Indang,this paper,12/06/2013,2013.928767,Other
+Z-13-161,,Calabarzon,Laguna,2014,Philippines,SEA4,NA,20/07/2013,Canis familiaris,NA,Pansol,Calamba,this paper,7/20/13,2013.547945,Other
+Z-13-171,,Calabarzon,Batangas,2013,Philippines,SEA4,NA,05/08/2013,Canis familiaris,NA,Pinamocan Silangan,Batangas,this paper,05/08/2013,2013.347945,Other
+Z-13-184,,Calabarzon,Batangas,2014,Philippines,SEA4,NA,29/08/2013,Canis familiaris,NA,Tabangaw,Batangas,this paper,8/29/13,2013.657534,Other
+Z-13-204,,Calabarzon,Laguna,2014,Philippines,SEA4,NA,26/09/2013,Canis familiaris,NA,Dayap,Calauan,this paper,9/26/13,2013.734247,Other
+Z-13-234,,Calabarzon,Laguna,2014,Philippines,SEA4,NA,15/11/2013,Canis familiaris,NA,Mayapa,Calamba,this paper,11/15/13,2013.871233,Other
+Z-13-259,,Calabarzon,Cavite,2014,Philippines,SEA4,NA,18/12/2013,Canis familiaris,NA,Pound,Cavite,this paper,12/18/13,2013.961644,Other
+Z-14-023,,Calabarzon,Laguna,2014,Philippines,SEA4,NA,31/01/2014,Canis familiaris,NA,Poblacion I,Sta. Cruz,this paper,1/31/14,2014.082192,Other
+Z-14-033,,Calabarzon,Quezon,2014,Philippines,SEA4,MN726844,07/02/2014,Canis familiaris,NA,"Bagumbayan, Zone 4",Atimonan,this paper,07/02/2014,2014.49863,Other
+Z-14-05,,Calabarzon,Cavite,2014,Philippines,SEA4,NA,05/01/2014,Canis familiaris,NA,Pasong Camachile,General Trias,this paper,05/01/2014,2014.328767,Other
+Z-14-058,,Calabarzon,Rizal,2014,Philippines,SEA4,NA,14/03/2014,Canis familiaris,NA,NA,Taytay,this paper,3/14/14,2014.19726,Other
+Z-14-098,,Calabarzon,Batangas,2014,Philippines,SEA4,NA,29/04/2014,Canis familiaris,NA,Dita,Cuenca,this paper,4/29/14,2014.323288,Other
+Z-14-101,,National Capital Region,Metropolitan Manila,2014,Philippines,SEA4,NA,04/05/2014,Canis familiaris,NA,Upper Bicutan,Taguig,this paper,04/05/2014,2014.257534,Other
+Z-14-106,,Calabarzon,Cavite,2015,Philippines,SEA4,NA,08/05/2014,Felis catus,NA,Sta. Cruz,Cavite,this paper,08/05/2014,2014.591781,Other
+Z-14-126,,National Capital Region,Metropolitan Manila,2014,Philippines,SEA4,NA,31/05/2014,Canis familiaris,NA,Talon 5,Las Pinas,this paper,5/31/14,2014.410959,Other
+Z-14-136,,Calabarzon,Cavite,2015,Philippines,SEA4,MN726865,11/06/2014,Canis familiaris,NA,"Parklane,San Francisco",General Trias,this paper,11/06/2014,2014.846575,Other
+Z-14-142,,Calabarzon,Laguna,2014,Philippines,SEA4,NA,21/06/2014,Canis familiaris,NA,Mercedes Homes 3,Binan,this paper,6/21/14,2014.468493,Other
+Z-14-182,,Central Luzon,Bulacan,2015,Philippines,SEA4,NA,20/08/2014,Canis familiaris,NA,San Francisco,Pulilan,this paper,8/20/14,2014.632877,Other
+Z-14-243,,Calabarzon,Laguna,2015,Philippines,SEA4,NA,13/11/2014,Canis familiaris,NA,Bubukal St.,Sta. Cruz,this paper,11/13/14,2014.865753,Other
+Z-15-001,,Calabarzon,Rizal,2015,Philippines,SEA4,MN726846,01/01/2015,Canis familiaris,NA,Bagumbayan,Pililla,this paper,01/01/2015,2015,Other
+Z-15-009,,National Capital Region,Metropolitan Manila,2015,Philippines,SEA4,NA,16/01/2015,Canis familiaris,NA,South Triangle,Quezon,this paper,1/16/15,2015.041096,Other
+Z-15-163,,Calabarzon,Cavite,2015,Philippines,SEA4,NA,05/09/2015,Canis familiaris,NA,Panapaan 8,Bacoor,this paper,05/09/2015,2015.350685,Other
+Z-16-082,,Calabarzon,Laguna,2016,Philippines,SEA4,MN726868,24/05/2016,Canis familiaris,NA,Caingin,Sta. Rosa,this paper,5/24/16,2016.393443,Other
+Z-16-150,,National Capital Region,Metropolitan Manila,2016,Philippines,SEA4,NA,05/09/2016,Canis familiaris,NA,Putatan,Muntinlupa,this paper,05/09/2016,2016.352459,Other
+Z-16-151,,Calabarzon,Cavite,2016,Philippines,SEA4,NA,05/09/2016,Canis familiaris,NA,NA,Carmona,this paper,05/09/2016,2016.352459,Other
+Z-16-196,,Calabarzon,Cavite,2017,Philippines,SEA4,NA,23/11/2016,Canis familiaris,NA,Sampaloc,Dasmarinas,this paper,11/23/16,2016.893443,Other
+Z-16-209,,Calabarzon,Quezon,2017,Philippines,SEA4,MN726872,14/12/2016,Canis familiaris,NA,Pahinga Sur,Candelaria,this paper,12/14/16,2016.95082,Other
+Z-16-210,,National Capital Region,Metropolitan Manila,2017,Philippines,SEA4,MN726847,16/12/2016,Canis familiaris,NA,Almanza 2,Las Pinas,this paper,12/16/16,2016.956284,Other
+Z-16-211,,Calabarzon,Laguna,2017,Philippines,SEA4,MN726882,19/12/2016,Canis familiaris,NA,Las Villas De Manila,Binan,this paper,12/19/16,2016.964481,Other
+Z-17-046,,Calabarzon,Batangas,2017,Philippines,SEA4,NA,06/03/2017,Canis familiaris,NA,Bgy. San Fernando,Sto. Tomas,this paper,06/03/2017,2017.419178,Other
+Z-17-174,,National Capital Region,Metropolitan Manila,2018,Philippines,SEA4,NA,23/09/2017,Canis familiaris,NA,Poblacion,Muntinlupa,this paper,9/23/17,2017.726027,Other
+Z-17-177,,Calabarzon,Cavite,2018,Philippines,SEA4,NA,25/09/2017,Canis familiaris,NA,Bgy. Navarro,General Trias,this paper,9/25/17,2017.731507,Other
+Z-17-193,,Calabarzon,Quezon,2018,Philippines,SEA4,NA,13/10/2017,Canis familiaris,NA,Binonoan,Infanta,this paper,10/13/17,2017.780822,Other
+Z-17-200,,Calabarzon,Laguna,2018,Philippines,SEA4,NA,31/10/2017,Canis familiaris,NA,Mamatid,Cabuyao,this paper,10/31/17,2017.830137,Other
+Z-17-217,,Calabarzon,Cavite,2018,Philippines,SEA4,NA,16/11/2017,Canis familiaris,NA,Paliko 4,Imus,this paper,11/16/17,2017.873973,Other
+Z-17-221,,Calabarzon,Cavite,2018,Philippines,SEA4,NA,28/11/2017,Canis familiaris,NA,Bgy. Nawasa,Noveleta,this paper,11/28/17,2017.906849,Other
+RV/R4B.PHL/2011/TRa-396,,Southwestern Tagalog Region,Romblon,2011,Philippines,SEA4,LC018538,2011,Canis lupus familiaris,NA,NA,"IV-B, Romblon",rabv-glue,01/01/2011,2011,Romblon_old
+Z-18-001,,Calabarzon,Cavite,2018,Philippines,SEA4,NA,02/01/2018,Felis catus,NA,"Andrea Vill. I, Panapaan Vi",Bacoor,this paper,02/01/2018,2018.084932,Other
+Z-18-114,,Calabarzon,Batangas,2018,Philippines,SEA4,NA,28/05/2018,Canis familiaris,NA,Banay-Banay 1St,San Jose,this paper,5/28/18,2018.40274,Other
+Z-18-159,,Central Luzon,Bulacan,2019,Philippines,SEA4,NA,19/07/2018,Canis familiaris,NA,Sta. Cruz,Guiginto,this paper,7/19/18,2018.545205,Other
+Z-18-224,,National Capital Region,Metropolitan Manila,2019,Philippines,SEA4,NA,28/10/2018,Canis familiaris,NA,Camarin Rd.,Caloocan,this paper,10/28/18,2018.821918,Other
+Z-18-251,,Calabarzon,Laguna,2019,Philippines,SEA4,NA,07/12/2018,Canis familiaris,NA,"Rpa Enterprises, Don Jose",Sta. Rosa,this paper,07/12/2018,2018.526027,Other
+Z-19-029,,Calabarzon,Batangas,2019,Philippines,SEA4,NA,26/02/2019,Canis familiaris,NA,Antipolo Del Sur,Lipa,this paper,2/26/19,2019.153425,Other
+Z-19-123,,Calabarzon,Cavite,2020,Philippines,SEA4,NA,11/08/2019,Canis familiaris,NA,Anabu 2F,Imus,this paper,11/08/2019,2019.852055,Other
+Z-19-136,,Calabarzon,Laguna,2019,Philippines,SEA4,NA,05/09/2019,Canis familiaris,NA,Canlubang,Calamba,this paper,05/09/2019,2019.350685,Other
+Z-19-88,,Calabarzon,Rizal,2019,Philippines,SEA4,NA,31/05/2019,Canis familiaris,NA,San Isidro,Angono,this paper,5/31/19,2019.410959,Other
+Z-20-01,,Calabarzon,Cavite,2020,Philippines,SEA4,NA,03/01/2020,Canis familiaris,NA,"Meadowood Subd.,Panapaan 8",Bacoor,this paper,03/01/2020,2020.163934,Other
+Z-20-110,,Calabarzon,Laguna,2021,Philippines,SEA4,NA,23/10/2020,Canis familiaris,NA,"Pacita Complex 1, San Vicente",San Pedro,this paper,10/23/20,2020.808743,Other
+Z-20-24,,National Capital Region,Metropolitan Manila,2020,Philippines,SEA4,NA,14/02/2020,Canis familiaris,NA,Bayanan,Muntinlupa,this paper,2/14/20,2020.120219,Other
+Z-20-33,,National Capital Region,Metropolitan Manila,2020,Philippines,SEA4,NA,18/02/2020,Canis familiaris,NA,F.B. Harizon Edsa,Pasay,this paper,2/18/20,2020.131148,Other
+Z-20-51,,Calabarzon,Rizal,2020,Philippines,SEA4,NA,02/03/2020,Canis familiaris,NA,Herald Village Subd.,Angono,this paper,02/03/2020,2020.090164,Other
+RV/R4B.PHL/2012/TRa-397,,Southwestern Tagalog Region,Romblon,2012,Philippines,SEA4,LC018539,2012,Canis lupus familiaris,NA,NA,"IV-B, Romblon",rabv-glue,01/01/2012,2012,Romblon_old
+RV/R4B.PHL/2012/TRa-400,,Southwestern Tagalog Region,Romblon,2012,Philippines,SEA4,LC018541,2012,Canis lupus familiaris,NA,NA,"IV-B, Romblon",rabv-glue,01/01/2012,2012,Romblon_old
+RV/R4B.PHL/2012/TRa-402,,Southwestern Tagalog Region,Romblon,2012,Philippines,SEA4,LC018543,2012,Canis lupus familiaris,NA,NA,"IV-B, Romblon",rabv-glue,01/01/2012,2012,Romblon_old
+Z-23-01,,Calabarzon,Laguna,2023,Philippines,SEA4,NA,03/01/2023,Canis familiaris,NA,Balibago,Sta. Rosa,this paper,03/01/2023,2023.161644,Other
+Z-23-01Sa,,Calabarzon,Laguna,2023,Philippines,SEA4,NA,03/01/2023,Canis familiaris,NA,Balibago,Sta. Rosa,this paper,03/01/2023,2023.161644,Other
+Z-98-1061,,Calabarzon,Cavite,1998,Philippines,SEA4,NA,05/08/1998,Canis familiaris,NA,Tejero,General Trias,this paper,05/08/1998,1998.347945,Other
+Z-98-134,,Calabarzon,Cavite,1999,Philippines,SEA4,NA,09/02/1998,Canis familiaris,NA,Sampaloc   Homes,Dasmarinas,this paper,09/02/1998,1998.668493,Other
+Z-98-206,,Calabarzon,Laguna,1998,Philippines,SEA4,NA,02/03/1998,Canis familiaris,NA,Bagongbayan,Sta Cruz,this paper,02/03/1998,1998.090411,Other
+Z-98-285,,Calabarzon,Laguna,1998,Philippines,SEA4,NA,18/03/1998,Canis familiaris,NA,NA,San Pablo,this paper,3/18/98,1998.208219,Other
+Z-98-286,,Calabarzon,Quezon,1998,Philippines,SEA4,NA,19/03/1998,Canis familiaris,NA,Tayuman,Mulanay,this paper,3/19/98,1998.210959,Other
+Z-98-335,,Calabarzon,Laguna,1998,Philippines,SEA4,NA,01/04/1998,Canis familiaris,NA,NA,Nagcarlan,this paper,01/04/1998,1998.008219,Other
+Z-98-433,,Calabarzon,Cavite,1998,Philippines,SEA4,NA,30/04/1998,Canis familiaris,NA,Palamitan,Kawit,this paper,4/30/98,1998.326027,Other
+Z-98-454,,National Capital Region,Metropolitan Manila,1998,Philippines,SEA4,NA,04/05/1998,Canis familiaris,NA,Betterliving Subd,Paranaque,this paper,04/05/1998,1998.257534,Other
+Z-98-515,,National Capital Region,Metropolitan Manila,1998,Philippines,SEA4,NA,20/05/1998,Canis familiaris,NA,Cupang,Muntinlupa,this paper,5/20/98,1998.380822,Other
+Z-98-616,,Central Luzon,Bulacan,1998,Philippines,SEA4,NA,18/06/1998,Canis familiaris,NA,NA,San Miguel,this paper,6/18/98,1998.460274,Other
+Z-98-667,,Calabarzon,Laguna,1998,Philippines,SEA4,NA,29/06/1998,Canis familiaris,NA,Mayapa,Calamba,this paper,6/29/98,1998.490411,Other
+Z-98-712,,Calabarzon,Laguna,1999,Philippines,SEA4,NA,11/07/1998,Canis familiaris,NA,Macantod,Siniloan,this paper,11/07/1998,1998.849315,Other
+Z-98-718,,Calabarzon,Batangas,1999,Philippines,SEA4,NA,13/07/1998,Canis familiaris,NA,Maraykid,San Juan,this paper,7/13/98,1998.528767,Other
+Z-98-780,,Calabarzon,Laguna,1999,Philippines,SEA4,NA,25/07/1998,Canis familiaris,NA,San Miguel,Alaminos,this paper,7/25/98,1998.561644,Other
+Z-98-823,,Calabarzon,Cavite,1998,Philippines,SEA4,NA,05/08/1998,Canis familiaris,NA,Tejero,General Trias,this paper,05/08/1998,1998.347945,Other
+Z-98-838,,National Capital Region,Metropolitan Manila,1999,Philippines,SEA4,NA,09/08/1998,Canis familiaris,NA,Upper Bicutan,Taguig,this paper,09/08/1998,1998.684932,Other
+Z-98-860,,Calabarzon,Quezon,1999,Philippines,SEA4,NA,14/08/1998,Canis familiaris,NA,NA,San Francisco,this paper,8/14/98,1998.616438,Other
