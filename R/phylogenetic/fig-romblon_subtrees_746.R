@@ -28,13 +28,13 @@ all_phl.annot=read.csv("output/phylogenetic/concatenated_alignment/ph_metadata_m
 ### alignments
 all_phl.aln=read.fasta("output/phylogenetic/concatenated_alignment/ph_all_merged_by_id_746.fasta")
 
-# transmission chain info
-#tc=read.csv("output/phylogenetic/transmission_trees/constree_epigen_prunedDT99_simlocs_chainids.csv")
-#tc$lineage_chain=paste0("chain",tc$lineage_chain)
+#transmission chain info
+tc=read.csv("output/phylogenetic/transmission_trees/constree_epigen_prunedDT99_simlocs_chainids.csv")
+tc$lineage_chain=paste0("chain",tc$lineage_chain)
 
-# add tc info to metadata
-#all_phl.annot<- merge(all_phl.annot, tc, by = 'Sample.ID', all.x = TRUE)
-#write.csv(all_phl.annot,"output/phylogenetic/concatenated_alignment/ph_metadata_merged_by_id_581_withTC.csv", row.names = F)
+#add tc info to metadata
+all_phl.annot<- merge(all_phl.annot, tc, by = 'Sample.ID', all.x = TRUE)
+write.csv(all_phl.annot,"output/phylogenetic/concatenated_alignment/ph_metadata_merged_by_id_746_withTC.csv", row.names = F)
 
 # foundation tree plot:  aesthetics, ladderize
 gplot <- ggtree(all_phl.tree, mrsd='2023-03-01',ladderize = TRUE, size=0.1) %<+% all_phl.annot
@@ -43,6 +43,11 @@ gplot
 # highlight romblon seq- new and old
 Romblon.new=which(gplot$data$outbreak=="Romblon_new")
 Romblon.old=which(gplot$data$outbreak=="Romblon_old")
+Mindoro.orien.new=which(gplot$data$outbreak=="Oriental Mindoro_new")
+Mindoro.orien.old=which(gplot$data$outbreak=="Oriental Mindoro")
+Mindoro.occi.new=which(gplot$data$outbreak=="Occidental Mindoro_new")
+Mindoro.occi.old=which(gplot$data$outbreak=="Occidental Mindoro")
+
 ## note that 2 sequences are not present in the tree (were outliers in lsd so removed automatically):
 all_phl.annot$Sample.ID[which(!all_phl.annot$Sample.ID %in% all_phl.tree@phylo$tip.label)]
 
@@ -91,8 +96,8 @@ cluster1$data$ACRdates=format(as.Date(decimal2Date(as.numeric(cluster1$data$date
     guides(fill = FALSE)+
     new_scale_fill()+
     geom_fruit(geom=geom_tile, mapping=aes(fill=Province.y), width=1, offset=0.1)+
-    scale_fill_manual(values=c("purple","pink",alpha("darkred",0.5)),
-                      labels = c("Bulacan","Metropolitan Manila","Romblon"))+
+    scale_fill_manual(values=c("purple","pink",alpha("darkred",0.5),"deeppink"),
+                      labels = c("Bulacan","Metropolitan Manila","Romblon","Batangas"))+
     guides(fill = FALSE)+
      scale_x_continuous(breaks=seq(2000, 2023, 2), minor_breaks=seq(2000, 20))+
   theme(panel.grid.major   = element_line(color="darkgrey", size=.5,linetype="dotted"),
@@ -151,12 +156,12 @@ cluster3.plot=cluster3+
   geom_tiplab(aes(label=id_case), size=2.5)+
   theme_tree2()+
   geom_fruit(geom=geom_tile, mapping=aes(fill=lineage_chain), width=1, offset=0.1)+
-  scale_fill_manual(name="Transmission chain",values="#EBAC23",
-                    labels = '3',na.translate=FALSE )+
+  scale_fill_manual(values=c("#B80058","#EBAC23"),
+                    labels = c('2','3'),na.translate=FALSE )+
   guides(fill = FALSE)+
   new_scale_fill()+
   geom_fruit(geom=geom_tile, mapping=aes(fill=Province.y), width=1, offset=0.1)+
-  scale_fill_manual(values=c("deeppink","blue4","lightsalmon",alpha("darkred",0.5)),
+  scale_fill_manual(values=c("deeppink","sienna3","purple","lightgreen","lavender","blue4","pink","tomato","steelblue1","darkseagreen",alpha("darkred",0.5),"cyan","coral","lightsalmon","gold1",alpha("darkred",0.5),"yellowgreen"),
                     labels = sort(unique(cluster3$data$Province.y)) )+
   guides(fill = FALSE)+
   theme(panel.grid.major   = element_line(color="darkgrey", size=.5,linetype="dotted"),
