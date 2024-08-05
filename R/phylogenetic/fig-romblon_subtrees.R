@@ -98,9 +98,9 @@ cluster1$data$ACRdates=format(as.Date(decimal2Date(as.numeric(cluster1$data$date
         panel.grid.minor   = element_blank(),
         panel.grid.major.y = element_blank(),
         panel.grid.minor.y = element_blank())  +
-    geom_nodelab(aes(subset = node == MRCA(subset_tree1, matching_subtrees[[3]]$tip.label), label=ACRdates) ,size=3,fontface=3, nudge_x = -0.5, nudge_y = 0.5)+
-    geom_nodelab(aes(subset = node == MRCA(subset_tree1, matching_subtrees[[3]]$tip.label)+1, label=ACRdates), size=3,fontface=3, nudge_x = -0.5, nudge_y = 0.5)+
-    geom_nodelab(aes(subset = node == MRCA(subset_tree1, matching_subtrees[[3]]$tip.label)+2, label=ACRdates), size=3,fontface=3, nudge_x = -0.5, nudge_y = 0.5)+
+    geom_nodelab(aes(subset = node == MRCA(subset_tree1, matching_subtrees[[3]]$tip.label), label=ACRdates) ,size=3,fontface=3, nudge_x = -1, nudge_y = 1)+
+    geom_nodelab(aes(subset = node == MRCA(subset_tree1, matching_subtrees[[3]]$tip.label)+1, label=ACRdates), size=3,fontface=3, nudge_x = -1, nudge_y = 1)+
+    geom_nodelab(aes(subset = node == MRCA(subset_tree1, matching_subtrees[[3]]$tip.label)+2, label=ACRdates), size=3,fontface=3,nudge_x = -1, nudge_y = 1)+
     geom_nodepoint(aes(subset = node == MRCA(subset_tree1, matching_subtrees[[3]]$tip.label)+1), col=alpha(alpha("darkred",0.5),0.5), size=3)+
     geom_nodepoint(aes(subset = node == MRCA(subset_tree1, matching_subtrees[[3]]$tip.label)+2), col=alpha("darkred",0.5), size=3)+
     geom_nodepoint(aes(subset = node == MRCA(subset_tree1, matching_subtrees[[3]]$tip.label)), col=alpha("darkred",0.5), size=3)+

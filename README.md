@@ -31,7 +31,7 @@ b) Custom R scipts to curate, clean and deduplicate sequences and metadata
 1-curate_sequence_metadata.R  
 2_clean_sequence_metadata.R  
 3_convert_to_isolateID.R  
-4_dedup_seq_data.R                         
+4_dedup_seq_data.R  
 
 c) Genome sequences added to existing rabv-glue alignment using mafft -add function
 
@@ -75,7 +75,12 @@ pastml -t processed_data/dated_trees/all_wgsrate_lsd_CI.date.nexus -d processed_
 ```
 
 
-### Transmission tree analysis   [80fb1da](https://github.com/mrajeev08/treerabid/commit/80fb1da8391e764e60975414e17e98e06136a62e)), and an adapted bootstrap function in boot_trees_simulate_location.R to generate transmission trees
+### Transmission tree analysis
+2. Epidemiological data is saved as a csv in the data folder and was analysed with scripts in the R folder, specifically we used:
+   - process_outbreak_dat.R for basic epidemiological analysis and description, as well as the files in the R/epi folder
+   - for transmission tree inference:
+      - process_outbreak_dat_for_Romblon_tm_trees.R to process data
+      - run_treerabid.R, the [treerabid](https://github.com/mrajeev08/treerabid/) package (commit [80fb1da](https://github.com/mrajeev08/treerabid/commit/80fb1da8391e764e60975414e17e98e06136a62e)), and an adapted bootstrap function in boot_trees_simulate_location.R to generate transmission trees
       - plot_tm_trees_comparisons.R, plot_tm_trees_epi_gen_sim_loc_pruned.R and helper functions in plot_lineage_ts.R and animate_trees_on_map.R to plot the figures and generate the animation
    - simulate_to_first_case.R for case detection simulations, which uses helper functions defined in simulate_helper_fun.R
 
