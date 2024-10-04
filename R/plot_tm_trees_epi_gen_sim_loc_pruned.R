@@ -127,12 +127,12 @@ CCCCCBBBB
 CCCCCBBBB
 "
 
-fig3 <- epicurve + map_w_cases + wrap_elements(tree_col_by_membership_id_labels) + 
+fig4 <- epicurve + map_w_cases + wrap_elements(tree_col_by_membership_id_labels) + 
   plot_layout(design = layout) + 
   plot_annotation(tag_levels = list("A","B","C")) + 
   theme(plot.tag = element_text(face = "bold", size = 15))
-ggsave(here("output/figures/epi_gen_simulated_locations_prunedDT99/fig3.jpeg"), 
-       fig3, height = 8, width = 12)
+ggsave(here("output/figures/epi_gen_simulated_locations_prunedDT99/fig4.jpeg"), 
+       fig4, height = 8, width = 12)
 
 # ALternative
 tm_trees_main_figure <-
