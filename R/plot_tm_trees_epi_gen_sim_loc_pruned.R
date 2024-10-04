@@ -160,7 +160,7 @@ saveVideo({
                        colour_by = "lineage_chain",
                        bezier_frac = 0.25,
                        bezier_transform = function(x) log(1 / x) * 500)},
-  video.name = here("output/figures/epi_gen_simulated_locations_prunedDT99/tmtree_animation.mp4"),
+  video.name = here("output/figures/epi_gen_simulated_locations_prunedDT99/movieS1_tmtree_animation.mp4"),
   img.name = 'trans_plot', title = 'Reconstructed transmission trees', 
   description = 
     c('Reconstructed transmission trees using lognormal SI and weibull dk'),
