@@ -79,7 +79,7 @@ consensus_plots_ts <-
   plot_annotation(title = "Consensus tree comparison") &
   panel_border(size = 0.1, color = "black")
 
-ggsave(here("output/figures/consensus_tree_check.jpeg"), 
+ggsave(here("output/figures/figS4_consensus_tree_check.jpeg"), 
        consensus_plots_ts, height = 12, width = 24)
 
 # Comparison of three selected scenario trees ----
