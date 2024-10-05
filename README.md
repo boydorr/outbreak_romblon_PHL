@@ -76,13 +76,23 @@ pastml -t processed_data/dated_trees/all_wgsrate_lsd_CI.date.nexus -d processed_
 
 
 ### Transmission tree analysis
-2. Epidemiological data is saved as a csv in the data folder and was analysed with scripts in the R folder, specifically we used:
-   - process_outbreak_dat.R for basic epidemiological analysis and description, as well as the files in the R/epi folder
-   - for transmission tree inference:
-      - process_outbreak_dat_for_Romblon_tm_trees.R to process data
-      - run_treerabid.R, the [treerabid](https://github.com/mrajeev08/treerabid/) package (commit [80fb1da](https://github.com/mrajeev08/treerabid/commit/80fb1da8391e764e60975414e17e98e06136a62e)), and an adapted bootstrap function in boot_trees_simulate_location.R to generate transmission trees
-      - plot_tm_trees_comparisons.R, plot_tm_trees_epi_gen_sim_loc_pruned.R and helper functions in plot_lineage_ts.R and animate_trees_on_map.R to plot the figures and generate the animation
-   - simulate_to_first_case.R for case detection simulations, which uses helper functions defined in simulate_helper_fun.R
+1. Epidemiological data is saved as a csv in the data folder and was analysed with scripts in the R folder, specifically we used:
+   - process_outbreak_dat.R for basic epidemiological analysis and description, as well as the files in the R/epi folder. Function: Pulls outbreak linelist data from google sheet & does initial data cleaning. Outputs: data/raw/dat_*.csv; data/clean/dat_human.csv; data/clean/dat_animal.csv; data/clean/dat_outbreak_all.csv;
+   - process_population_size_data.R has Function: Extracts pop size data and centroid coordinates (UTM) for all 100m2 cells within Romblon province. This Outputs: output/population_sizes/Romblon_pop_by_cell.csv. 
+   - patristic_dist.R and process_genetic_data.R. Function: Generation of patristic distance matrix from phylogenetic tree, cluster analysis, and lineage assignment. Outputs: output/phylogenetic_distances/romblonSeq_24_patristicDist_matrix.txt; output/figures/Hamming_distance_frequencies.jpeg; output/phylogenetic_distances/0.002clust.csv. Run both scripts again in case of new genetic data (a new phylogenetic tree); run process_genetic_data.R again in case just want to change the clustering cut-off.
+
+2. for transmission tree inference:
+      - process_outbreak_dat_for_Romblon_tm_trees.R to process data. Function: Further data processing and filtering of dat_animal.csv, to prepare data for transmission tree reconstruction. Outputs: data/clean/dat_animal_for_Romblon_tm_trees.csv. Run again if: using a different set of cases (lines 41-45 for date filtering); or changing included columns, dates, lineage assignment, or any other data
+      - run_treerabid.R, the [treerabid](https://github.com/mrajeev08/treerabid/) package (commit [80fb1da](https://github.com/mrajeev08/treerabid/commit/80fb1da8391e764e60975414e17e98e06136a62e)), and an adapted bootstrap function in boot_trees_simulate_location.R to generate transmission trees.
+      Function: sets up a table with different scenarios (parameter combinations), and runs treerabid functions (boot_trees, build_consensus_links, build_consensus_tree) over these in parallel, to reconstruct transmission trees. Requires boot_trees_simulate_location.R for an adapted boot_trees version, that simulates case locations within each bootstrap. Outputs: output/tm_trees/trees_all.gz; output/tm_trees/links_consensus_raw.csv; output/tm_trees/links_consensus_consistent.csv; output/tm_trees/scenarios.csv. Run again if changes made to the dataset and want to rerun analyses.
+      - plot_tm_trees_comparisons.R, plot_tm_trees_epi_gen_sim_loc_pruned.R and helper functions in plot_lineage_ts.R and animate_trees_on_map.R to plot the figures and generate the animation. Function: creates comparative plots with trees for different scenarios. Requires plot_lineage_ts.R for plotting. Outputs: output/figures/consensus_tree_check.jpeg, output/figures/consensus_tree_subset.jpeg. Run again if the underlying transmission trees updated and want plots to reflect latest datasets.
+      - plot_tm_trees_epi_gen_sim_loc_pruned.R. Function: creates transmission tree plots [for consensus trees], epicurve, map and animation for a specific scenario (epi + genetic data / simulated locations / pruned by distance and time 0.99). Requires plot_lineage_ts.R for plotting and animate_trees_on_map.R for the animation. Uses simulated case locations from the MCC tree for mapping purposes. Outputs: various plots and animation in output/figures/epi_gen_simulated_locations_prunedDT99. Run again if the underlying transmission trees are updated and want plots to reflect latest datasets/ you want to alter the plots
+
+3. simulate_to_first_case.R for case detection simulations, which uses helper functions defined in simulate_helper_fun.R
+   
+   
+
+
 
  
 
