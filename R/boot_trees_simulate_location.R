@@ -1,11 +1,16 @@
 library(doRNG)
 library(foreach)
 
-#' Adapted version of treerabid::boot_trees() that samples case locations within
-#' given localities, based on population size per 100m2 cell. 
-#' N.B. Unlike the original boot_trees, this function assumes use_known_source 
-#' is FALSE! (conditional calling of build_known_tree() has been removed)
-#'
+#' @title Bootstrapped trees with simulated case locations
+#' @description 
+#' This function was adapted from treerabid::boot_trees() by Carlijn 
+#' Bogaardt on 13 February 2024, in order to incorporate case location sampling
+#' within given localities based on population size. The treerabid packages is 
+#' licensed under the MIT license.
+#' 
+#' Unlike the original boot_trees, this function assumes use_known_source is 
+#' FALSE (i.e. conditional calling of build_known_tree() has been removed).
+#' 
 #' @inheritParams treerabid::build_tree
 #' @param N number of trees to build
 #' @param seed seed to pass to doRNG to make trees reproducible
@@ -20,6 +25,35 @@ library(foreach)
 #' @return a data.table with bootstrapped trees
 #' @importFrom foreach foreach
 #' @importFrom doRNG %dorng%
+#' 
+#' @details 
+#' This function is adapted from the original work in the `treerabid` package, 
+#' licensed under the MIT License.
+#' 
+#' \preformatted{
+#' Copyright (c) 2021 Malavika Rajeev
+#' 
+#' Permission is hereby granted, free of charge, to any person obtaining a copy
+#' of this software and associated documentation files (the "Software"), to deal
+#' in the Software without restriction, including without limitation the rights
+#' to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+#' of the Software, and to permit persons to whom the Software is furnished to do so,
+#' subject to the following conditions:
+#' 
+#' The above copyright notice and this permission notice shall be included in all
+#' copies or substantial portions of the Software.
+#'
+#' THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+#' IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+#' FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+#' AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+#' LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+#' OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+#' SOFTWARE.
+#' }
+#' @author Malavika Rajeev (treerabid package)
+#' @author Carlijn Bogaardt (adapted code only)
+#' 
 boot_trees_simulate_location <- function(id_case,
                        id_biter,
                        locality,

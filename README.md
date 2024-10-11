@@ -90,7 +90,9 @@ pastml -t processed_data/dated_trees/all_wgsrate_lsd_CI.date.nexus -d processed_
 
 3. simulate_to_first_case.R for case detection simulations, which uses helper functions defined in simulate_helper_fun.R
    
-   
+## License
+This repository is licensed under the GPL-2 License. However, it includes code adapted from the `treerabid` R package, which is licensed under the MIT License. For more details, see the `LICENSE` file.
+
 
 
 
