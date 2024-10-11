@@ -82,6 +82,10 @@ consensus_plots_ts <-
 ggsave(here("output/figures/figS4_consensus_tree_check.jpeg"), 
        consensus_plots_ts, height = 12, width = 24)
 
+pdf(here("output/figures/figS4_consensus_tree_check.pdf"), width=24, height=12)     
+consensus_plots_ts
+dev.off()
+
 # Comparison of three selected scenario trees ----
 
 selected_plots <-

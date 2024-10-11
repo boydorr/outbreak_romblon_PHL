@@ -133,6 +133,9 @@ fig4 <- epicurve + map_w_cases + wrap_elements(tree_col_by_membership_id_labels)
   theme(plot.tag = element_text(face = "bold", size = 15))
 ggsave(here("output/figures/epi_gen_simulated_locations_prunedDT99/fig4.jpeg"), 
        fig4, height = 8, width = 12)
+pdf(here("output/figures/epi_gen_simulated_locations_prunedDT99/fig4.pdf"), width=12, height=8)     
+fig4
+dev.off()
 
 # ALternative
 tm_trees_main_figure <-
