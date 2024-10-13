@@ -5,7 +5,7 @@ library(foreach)
 #' @description 
 #' This function was adapted from treerabid::boot_trees() by Carlijn 
 #' Bogaardt on 13 February 2024, in order to incorporate case location sampling
-#' within given localities based on population size. The treerabid packages is 
+#' within given localities based on population size. The treerabid package is 
 #' licensed under the MIT license.
 #' 
 #' Unlike the original boot_trees, this function assumes use_known_source is 

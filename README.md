@@ -93,9 +93,10 @@ pastml -t processed_data/dated_trees/all_wgsrate_lsd_CI.date.nexus -d processed_
 ## License
 This repository is licensed under the GPL-2 License. However, it includes code 
 adapted from the [treerabid](https://github.com/mrajeev08/treerabid) R package
-and from the [boydorr/PembaRabies](https://github.com/boydorr/PembaRabies) and 
-[boydorr/Pemba_rabies](https://github.com/boydorr/Pemba_rabies) repositories, 
-which are licensed under the MIT License. For more details, see the `LICENSE` file.
+and the [boydorr/PembaRabies](https://github.com/boydorr/PembaRabies) 
+repository, which are licensed under the MIT License, as well as code adapted
+from a private repository owned by Kennedy Lushasi, which has been shared with
+permission. For more details, see the `LICENSE` file.
 
 
 
