@@ -3,8 +3,7 @@
 # and a private GitHub repository owned by Kennedy Lushasi. The code was adapted
 # by Carlijn Bogaardt in January 2024. 
 # Sources have been attributed in the function documentation.
-# Code from Kennedy Lushasi was shared with permission. Do not redistribute 
-# without further consent from the owner.
+# Code from Kennedy Lushasi was modified and shared with permission.
 # Code from the boydorr/PembaRabies repository is licensed under the MIT 
 # license, the full text of which is included below:
 #  

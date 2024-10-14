@@ -399,15 +399,13 @@ SOFTWARE.
 
 ## R/plot_lineage_ts.R
 
-The functions in R/plot_lineage_ts.R were adapted from code in the  
-[boydorr/PembaRabies](https://github.com/boydorr/PembaRabies) GitHub repository,
-as well as a private GitHub repository owned by Kennedy Lushasi.
+The function `plot_lin_ts()` was adapted from a private GitHub repository owned
+by Kennedy Lushasi. Permission has been granted to use, modify, and distribute 
+this code without restrictions.
 
-Code from Kennedy Lushasi's repository (the `plot_lin_ts()` function) was shared
-with permission. Do not redistribute without further consent from the owner.
-
-Code from the boydorr/PembaRabies repository (within `plot_epicurve()` and 
-`plot_map_w_lin_cases()`) is licensed under the MIT License. The full text of 
+The functions `plot_epicurve()` and `plot_map_w_lin_cases()` were adapted from 
+code in the [boydorr/PembaRabies](https://github.com/boydorr/PembaRabies) 
+GitHub repository, which is licensed under the MIT License. The full text of 
 the MIT License is included below:
 
 Copyright (c) 2022 Katie Hampson
