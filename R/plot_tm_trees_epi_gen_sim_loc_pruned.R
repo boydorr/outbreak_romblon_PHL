@@ -1,3 +1,35 @@
+# This script contains code adapted from the 
+# [original in the boydorr/PembaRabies GitHub repository](https://github.com/boydorr/PembaRabies/blob/main/6b.trees_main.R)
+# by Carlijn Bogaardt in January 2024.
+# Bits of code that have been copied or directly adapted from the above 
+# repository have been marked with "### Adapted from boydorr/PembaRabies ###"
+# and "### End adaptation from boydorr/PembaRabies ###".
+# The original script is licensed under the MIT license, the full text of which 
+# is included below:
+#  
+#   Copyright (c) 2022 Katie Hampson
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#   
+#   The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+
+### Adapted from boydorr/PembaRabies ###
+
 library(ggplot2)
 library(treerabid)
 library(lubridate)
@@ -26,7 +58,10 @@ case_dates <- data.table(id_case = animal_cases$id,
 links_consensus <- links_consensus[scenario == 12]
 ttrees <- ttrees[scenario == 12]
 mcc_tree <- ttrees[mcc == 1]
-maj_tree <- ttrees[majority == 1]
+maj_tree <- ttrees
+
+### End adaptation from boydorr/PembaRabies ###
+
 
 # output table with membership, lineage_chain and lineage identifiers for each case ----
 links_consensus %>%
@@ -157,6 +192,7 @@ case_data <-
          utm_easting = utm_easting_centroid,
          utm_northing = utm_northing_centroid)
 
+### Adapted from boydorr/PembaRabies ###
 ### make gif with animation and save as a movie (more manageable file size and res than gif/pdf)
 saveVideo({ 
   animate_trees_on_map(links_consensus, case_data, map = Romblon_shp,
@@ -169,3 +205,5 @@ saveVideo({
     c('Reconstructed transmission trees using lognormal SI and weibull dk'),
   interval = 1, nmax = 50, ani.dev = "png", ani.type = "png",
   ani.width = 1500, ani.height = 2000, ani.res = 300)
+
+### End adaptation from boydorr/PembaRabies ###

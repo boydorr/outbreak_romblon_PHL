@@ -1,3 +1,32 @@
+# The functions in this file contain code adapted from original scripts in 
+# [boydorr/PembaRabies](https://github.com/boydorr/PembaRabies/blob/main/6b.trees_main.R)
+# and a private GitHub repository owned by Kennedy Lushasi. The code was adapted
+# by Carlijn Bogaardt in January 2024. 
+# Sources have been attributed in the function documentation.
+# Code from Kennedy Lushasi was modified and shared with permission.
+# Code from the boydorr/PembaRabies repository is licensed under the MIT 
+# license, the full text of which is included below:
+#  
+#   Copyright (c) 2022 Katie Hampson
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#   
+#   The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
 library(treerabid)
 library(data.table)
 library(ggthemes)
@@ -9,6 +38,10 @@ library(igraph)
 library(ggraph)
 
 #' Plot transmission trees on a timeline
+#' 
+#' @description 
+#' This function was adapted from the original plot_lin_ts() in Kennedy Lushasi's
+#' private repository, by Carlijn Bogaardt in January 2024. Used with permission.
 #'
 #' @param links_consensus Output from `treerabid::build_consensus_links()`.
 #' @param case_dates A `data.table` with 2 columns, named `"id_case"` (with case 
@@ -28,6 +61,8 @@ library(ggraph)
 #'
 #' @return A plot with transmission trees, and a timeline as x-axis.
 #' 
+#' @author Kennedy Lushasi (most code)
+#' @author Carlijn Bogaardt (adaptations only)
 plot_lin_ts <- function(links_consensus, case_dates, 
                         colour_by = "lineage_chain",
                         colour_edges = TRUE,
@@ -139,7 +174,13 @@ plot_lin_ts <- function(links_consensus, case_dates,
 }
 
 #' Plot an epicurve (case histogram) coloured by lineage or transmission chain
-#'
+#' 
+#' @description
+#' This function was adapted from code in the 6b.trees_main.R script in the 
+#' [boydorr/PembaRabies](https://github.com/boydorr/PembaRabies/blob/main/6b.trees_main.R)
+#' GitHub repository by Carlijn Bogaardt in January 2024. The boydorr/PembaRabies
+#' repository is licensed under the MIT license.
+#' 
 #' @param links_consensus Output from `treerabid::build_consensus_links()`.
 #' @param case_dates A `data.table` with 2 columns, named `"id_case"` (with case 
 #'   identifiers) and `"symptoms_started"` (with dates in `Date` class).
@@ -151,6 +192,34 @@ plot_lin_ts <- function(links_consensus, case_dates,
 #'   upper-left corner of the figure.
 #'
 #' @return An epicurve (case histogram) plot, with a timeline as x-axis.
+#' 
+#' @details
+#' This function is adapted from the original work in the boydorr/PembaRabies 
+#' repository, licensed under the MIT License.
+#' 
+#' \preformatted{
+#' Copyright (c) 2022 Katie Hampson
+#' 
+#' Permission is hereby granted, free of charge, to any person obtaining a copy
+#' of this software and associated documentation files (the "Software"), to deal
+#' in the Software without restriction, including without limitation the rights
+#' to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+#' of the Software, and to permit persons to whom the Software is furnished to do so,
+#' subject to the following conditions:
+#' 
+#' The above copyright notice and this permission notice shall be included in all
+#' copies or substantial portions of the Software.
+#'
+#' THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+#' IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+#' FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+#' AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+#' LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+#' OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+#' SOFTWARE.
+#' }
+#' @author Katie Hampson (main code)
+#' @author Carlijn Bogaardt (adaptations only)
 
 plot_epicurve <- function(links_consensus, case_dates, 
                           colour_by = "lineage_chain",
@@ -201,6 +270,12 @@ plot_epicurve <- function(links_consensus, case_dates,
 
 #' Plot a map with cases coloured by lineage or transmission chain
 #' 
+#' @description
+#' This function was adapted from code in the 6b.trees_main.R script in the 
+#' [boydorr/PembaRabies](https://github.com/boydorr/PembaRabies/blob/main/6b.trees_main.R)
+#' GitHub repository by Carlijn Bogaardt in January 2024. The boydorr/PembaRabies
+#' repository is licensed under the MIT license.
+#' 
 #' @param links_consensus Output from `treerabid::build_consensus_links()`.
 #' @param case_coords A `data.table` with case coordinates, using the Universal 
 #'   Transverse Mercator coordinate system. This needs to include 3 columns with 
@@ -215,7 +290,34 @@ plot_epicurve <- function(links_consensus, case_dates,
 #'
 #' @return A map of the outbreak area, with cases coloured by lineage or 
 #'   transmission chain.
+#'   
+#' @details
+#' This function is adapted from the original work in the boydorr/PembaRabies 
+#' repository, licensed under the MIT License.
 #' 
+#' \preformatted{
+#' Copyright (c) 2022 Katie Hampson
+#' 
+#' Permission is hereby granted, free of charge, to any person obtaining a copy
+#' of this software and associated documentation files (the "Software"), to deal
+#' in the Software without restriction, including without limitation the rights
+#' to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+#' of the Software, and to permit persons to whom the Software is furnished to do so,
+#' subject to the following conditions:
+#' 
+#' The above copyright notice and this permission notice shall be included in all
+#' copies or substantial portions of the Software.
+#'
+#' THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+#' IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+#' FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+#' AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+#' LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+#' OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+#' SOFTWARE.
+#' }
+#' @author Katie Hampson (main code)
+#' @author Carlijn Bogaardt (adaptations only)
 plot_map_w_lin_cases <- function(links_consensus, case_coords,
                                  map,
                                  colour_by = "lineage_chain",
