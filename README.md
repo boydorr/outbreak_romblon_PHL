@@ -4,7 +4,7 @@ Mirava Yuson*, Criselda T Bautista*, Eleanor M Rees, Carlijn Bogaardt, Van Denn 
 
 *Equal contributions
 
-This repository contains all the code and de-identified data in this study.
+This repository contains all the code and de-identified data in this study: [![DOI](https://zenodo.org/badge/773850823.svg)](https://doi.org/10.5281/zenodo.13933435)
 
 Analyses were undertaken using R version 4.3.0 (2023-04-21).
 Code and analyses take minutes to run. 
