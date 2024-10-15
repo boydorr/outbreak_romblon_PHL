@@ -1,4 +1,4 @@
-# Combining genomics and epidemiology to investigate a zoonotic outbreak: rabies in Romblon Province, Philippines
+# Combining genomics and epidemiology to investigate a zoonotic outbreak of rabies in Romblon Province, Philippines
 Public repository for manuscript by: 
 Mirava Yuson*, Criselda T Bautista*, Eleanor M Rees, Carlijn Bogaardt, Van Denn D Cruz, Rowan Durrant, Anna Formstone, Daria L Manalo, Duane R Manzanilla, Leilanie Nacion, Hannaniah Aloyon, Jude Karlo Bolivar, Jeromir Bondoc, Christina Cobbold, Mikolaj Kundergorski, Efraim Panganiban, Shynie Vee M Telmo, Jobin Maestro, Mary Elizabeth G Miranda, Nai Rui Chng, Kirstyn Brunker*, Katie Hampson*
 
