@@ -96,7 +96,9 @@ adapted from the [treerabid](https://github.com/mrajeev08/treerabid) R package
 and the [boydorr/PembaRabies](https://github.com/boydorr/PembaRabies) 
 repository, which are licensed under the MIT License, as well as code adapted
 from a private repository owned by Kennedy Lushasi, which has been shared with
-permission. For more details, see the `LICENSE` file.
+permission. It also includes a tif file with population density data, cropped
+from a [tif by WorldPop](https://hub.worldpop.org/geodata/summary?id=6316), 
+which is licensed under CC BY 4.0. For more details, see the `LICENSE` file.
 
 
 

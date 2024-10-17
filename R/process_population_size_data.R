@@ -25,6 +25,11 @@ Romblon_shp <- PHL_shp[PHL_shp$NAME_1 == "Romblon",]
 #   crop(PHL_pop_unconstrained, Romblon_shp, here("data/gis/Romblon_ppp_2020.tif"))
 Romblon_pop_unconstrained <- raster(here("data/gis/Romblon_ppp_2020.tif"))
 
+# The above tif file is by WorldPop and is licensed under CC BY 4.0. 
+# For more details, see the `LICENSE` file. 
+# For the full license text, please refer to: https://creativecommons.org/licenses/by/4.0/
+
+
 # Extract population estimates for all 100m x 100m cells in Romblon's barangays
 # (This counts a cell as being in a barangay if its central point is located 
 # within the barangay boundaries)
