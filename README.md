@@ -1,5 +1,5 @@
 # Combining genomics and epidemiology to investigate a zoonotic outbreak of rabies in Romblon Province, Philippines
-Public repository containing all the code and de-identified data for: [![DOI](https://zenodo.org/badge/773850823.svg)](https://doi.org/10.5281/zenodo.13933434) in *Nature communications* 
+Public repository containing all the code and de-identified data for: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13933434.svg)](https://doi.org/10.5281/zenodo.13933434) in *Nature communications* 
 
 Mirava Yuson*, Criselda T Bautista*, Eleanor M Rees, Carlijn Bogaardt, Van Denn D Cruz, Rowan Durrant, Anna Formstone, Daria L Manalo, Duane R Manzanilla, Leilanie Nacion, Hannaniah Aloyon, Jude Karlo Bolivar, Jeromir Bondoc, Christina Cobbold, Mikolaj Kundergorski, Efraim Panganiban, Shynie Vee M Telmo, Jobin Maestro, Mary Elizabeth G Miranda, Nai Rui Chng, Katie Hampson* & Kirstyn Brunker*
 
