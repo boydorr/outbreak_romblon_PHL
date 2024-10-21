@@ -342,6 +342,25 @@ Public License instead of this License.
 
 # Additional Licenses and Copyright Notices
 
+## files starting with "PHL" in data/gis, and maps in figures in output/figures 
+
+The shapefiles and csv files with coordinates in data/gis are adapted from 
+shapefiles with subnational administrative boundaries, obtained from 
+https://data.humdata.org/dataset/cod-ab-phl.
+
+The maps in figures within output/figures (including within subfolder 
+epi_gen_simulated_locations_prunedDT99) use administrative boundaries from the
+above shapefiles.
+
+The sources of these data are the	National Mapping and Resource Information 
+Authority (NAMRIA) and the Philippines Statistics Authority (PSA); OCHA 
+Philippines is a contributor.
+
+These data are licensed under the Creative Commons Attribution for 
+Intergovernmental Organisations (CC BY-IGO).
+
+For the license text please refer to: https://creativecommons.org/licenses/by/3.0/igo/legalcode
+
 ## data/gis/Romblon_ppp_2020.tif
 
 This tif file was cropped from WorldPop's spatial distribution of population in

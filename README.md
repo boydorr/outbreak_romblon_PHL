@@ -98,7 +98,8 @@ repository, which are licensed under the MIT License, as well as code adapted
 from a private repository owned by Kennedy Lushasi, which has been shared with
 permission. It also includes a tif file with population density data, cropped
 from a [tif by WorldPop](https://hub.worldpop.org/geodata/summary?id=6316), 
-which is licensed under CC BY 4.0. For more details, see the `LICENSE` file.
+which is licensed under CC BY 4.0, and administrative area boundary data
+licensed under CC BY 3.0 IGO. For more details, see the `LICENSE` file.
 
 
 
